@@ -18,12 +18,23 @@
 
 > [Grok Bot](https://docs.x.ai/grok-bot/overview) 让具名的 AI 队友拥有一台常开的云电脑。这个仓库不是 Grok Bot 本体，不是安装器，也不是源码——它是**公开 Bot 配置的索引**：你可以先在 `x.ai` 上预览，再一键添加到自己的账号。
 
+## ⚡️ 为什么还要再做一个
+
+Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多数发布之后就再也没复查过链接。这一份的做法不一样：
+
+- **每条分享都真的去抓了，不是假设它还活着。**全部 361 条在 2026-09-01 实测返回 HTTP 400 以下。另有 4 条连续两轮都返回 404 的，单独隔离进 [`retired.json`](retired.json)，而不是继续留在列表里装作没事。
+- **状态码不等于判决。**检查器把结果分成 `alive` / `gone` / `blocked` / `flaky` 四桶，只有 `gone`（404/410）才算 Bot 真的没了——反爬墙或 5xx 说的是网络和宿主的事，不是 Bot 的事。这不是假想：有一条分享在扫描途中返回 500，被旧的「非 200 即死」规则判死，再问一次它返回 200。另有熔断保护：一轮里超过 25% 落进 blocked 或 flaky 就中止，这样 CI 前面挡一个验证页，永远不会被记成 361 个 Bot 全死。详见 [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)。
+- **名字和描述取自分享页本身。**每条都带 `official_summary`，直接读自分享页的 `og:description`。官方页的名字和社区目录记录不一致时，社区名保留在 `aka` 字段里，旧名字依然搜得到。32 条存在差异：27 条只是限定词不同（`Cursor Agent (Local)` 对 `Cursor Agent`），5 条是实质性的——其中一条分享现在指向的，已经是和所有社区目录所写完全不同的另一个 Bot。
+- **每条都说清楚来自哪。**`sources[]` 标明这条是从哪个（些）社区目录合并来的，`origin` 指向最早分享它的那条帖子（361 条里有 348 条）。
+- **默认双语。**361 条全部配有人工核过的中文一句话说明，不是机翻。
+- **先有数据，才有文档。**[`catalog.json`](catalog.json) 是唯一事实来源，两份 README 都由 [`scripts/build_readme.py`](scripts/build_readme.py) 生成。
+
 <a name="section-site"></a>
 
 ## 🌐 用网页版浏览
 
 <p align="center">
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><img src="docs/screenshots/site-chinese.png" alt="awesome-grokbot 网页版中文界面：搜索、分类筛选与目录列表" width="880"></a>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><img src="docs/screenshots/site-chinese.png" alt="awesome-grokbot 网页版中文界面：搜索、分类筛选与目录列表" width="760"></a>
 </p>
 
 <p align="center">
@@ -37,28 +48,6 @@
   <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">🛠️ 编码与交付 <b>43</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">📥 收件箱与日历 <b>21</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh">🔍 研究与简报 <b>53</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh">🤝 客户与销售 <b>22</b></a><br>
   <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">💰 财务与运营 <b>35</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">✍️ 内容与发布 <b>64</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">🏠 个人事务 <b>61</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">🧭 团队与交接 <b>62</b></a>
 </p>
-
-<table>
-  <tr>
-    <td width="64%" valign="top"><a href="https://kydlikebtc.github.io/awesome-grokbot/"><img src="docs/screenshots/site-desktop.png" alt="英文界面" width="100%"></a></td>
-    <td width="36%" valign="top"><a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><img src="docs/screenshots/site-mobile.png" alt="手机上的界面" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><strong>中英双语，逐条对照。</strong>切换 EN／中文会同时换掉 361 条摘要、分类名和按钮文案，语言状态同样写进 URL。</sub></td>
-    <td align="center"><sub><strong>手机上也能用。</strong>分类筛选改为横向滚动，不会占掉四分之一屏幕。</sub></td>
-  </tr>
-</table>
-
-## ⚡️ 为什么还要再做一个
-
-Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多数发布之后就再也没复查过链接。这一份的做法不一样：
-
-- **每条分享都真的去抓了，不是假设它还活着。**全部 361 条在 2026-09-01 实测返回 HTTP 400 以下。另有 4 条连续两轮都返回 404 的，单独隔离进 [`retired.json`](retired.json)，而不是继续留在列表里装作没事。
-- **状态码不等于判决。**检查器把结果分成 `alive` / `gone` / `blocked` / `flaky` 四桶，只有 `gone`（404/410）才算 Bot 真的没了——反爬墙或 5xx 说的是网络和宿主的事，不是 Bot 的事。这不是假想：有一条分享在扫描途中返回 500，被旧的「非 200 即死」规则判死，再问一次它返回 200。另有熔断保护：一轮里超过 25% 落进 blocked 或 flaky 就中止，这样 CI 前面挡一个验证页，永远不会被记成 361 个 Bot 全死。详见 [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)。
-- **名字和描述取自分享页本身。**每条都带 `official_summary`，直接读自分享页的 `og:description`。官方页的名字和社区目录记录不一致时，社区名保留在 `aka` 字段里，旧名字依然搜得到。32 条存在差异：27 条只是限定词不同（`Cursor Agent (Local)` 对 `Cursor Agent`），5 条是实质性的——其中一条分享现在指向的，已经是和所有社区目录所写完全不同的另一个 Bot。
-- **每条都说清楚来自哪。**`sources[]` 标明这条是从哪个（些）社区目录合并来的，`origin` 指向最早分享它的那条帖子（361 条里有 348 条）。
-- **默认双语。**361 条全部配有人工核过的中文一句话说明，不是机翻。
-- **先有数据，才有文档。**[`catalog.json`](catalog.json) 是唯一事实来源，两份 README 都由 [`scripts/build_readme.py`](scripts/build_readme.py) 生成。
 
 ## 📖 快速入口
 

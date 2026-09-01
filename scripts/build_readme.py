@@ -256,64 +256,6 @@ def build_en(cat, retired):
     A("")
 
     # ---- why
-    A('<a name="section-site"></a>')
-    A("")
-    A("## 🌐 Browse it as a site")
-    A("")
-    A('<p align="center">')
-    A(
-        f'  <a href="{SITE_URL}"><img src="docs/screenshots/site-desktop.png" '
-        f'alt="The awesome-grokbot site: search field, eight category filters, and the catalog listing" '
-        'width="880"></a>'
-    )
-    A("</p>")
-    A("")
-    A('<p align="center">')
-    A(
-        f'  <a href="{SITE_URL}"><strong>{SITE_URL.replace("https://", "").rstrip("/")}</strong></a><br>'
-    )
-    A(
-        f"  <sub>Instant search over all {n} rows · eight category filters · EN/中文 · "
-        "shareable filtered URLs · no build step, no tracking, no cookies</sub>"
-    )
-    A("</p>")
-    A("")
-    A(
-        "**Every filter lives in the URL.** These links open a pre-filtered view — and stay shareable:"
-    )
-    A("")
-    A('<p align="center">')
-    links = [
-        f'<a href="{SITE_URL}#cat={key}">{emo} {esc(en).replace(" ", "&nbsp;")} <b>{counts[key]}</b></a>'
-        for key, emo, en, cn, _, _ in CATEGORIES
-    ]
-    for i in range(0, len(links), 4):
-        A("  " + " · ".join(links[i : i + 4]) + ("<br>" if i + 4 < len(links) else ""))
-    A("</p>")
-    A("")
-    A("<table>")
-    A("  <tr>")
-    A(
-        f'    <td width="64%" valign="top"><a href="{SITE_URL}#lang=zh">'
-        '<img src="docs/screenshots/site-chinese.png" alt="The same catalog in Chinese, filtered by a search for email" width="100%"></a></td>'
-    )
-    A(
-        f'    <td width="36%" valign="top"><a href="{SITE_URL}">'
-        '<img src="docs/screenshots/site-mobile.png" alt="The catalog on a phone" width="100%"></a></td>'
-    )
-    A("  </tr>")
-    A("  <tr>")
-    A(
-        '    <td align="center"><sub><strong>Every row is bilingual.</strong> The EN/中文 toggle swaps '
-        f"all {n} summaries, the category labels and the buttons — and rides in the URL too.</sub></td>"
-    )
-    A(
-        '    <td align="center"><sub><strong>Works on a phone.</strong> Filters scroll sideways instead '
-        "of eating a quarter of the screen.</sub></td>"
-    )
-    A("  </tr>")
-    A("</table>")
-    A("")
     A("## ⚡️ Why this list")
     A("")
     A(
@@ -355,6 +297,41 @@ def build_en(cat, retired):
     A("")
 
     # ---- quick links
+    A('<a name="section-site"></a>')
+    A("")
+    A("## 🌐 Browse it as a site")
+    A("")
+    A('<p align="center">')
+    A(
+        f'  <a href="{SITE_URL}"><img src="docs/screenshots/site-desktop.png" '
+        f'alt="The awesome-grokbot site: search field, eight category filters, and the catalog listing" '
+        'width="760"></a>'
+    )
+    A("</p>")
+    A("")
+    A('<p align="center">')
+    A(
+        f'  <a href="{SITE_URL}"><strong>{SITE_URL.replace("https://", "").rstrip("/")}</strong></a><br>'
+    )
+    A(
+        f"  <sub>Instant search over all {n} rows · eight category filters · EN/中文 · "
+        "shareable filtered URLs · no build step, no tracking, no cookies</sub>"
+    )
+    A("</p>")
+    A("")
+    A(
+        "**Every filter lives in the URL.** These links open a pre-filtered view — and stay shareable:"
+    )
+    A("")
+    A('<p align="center">')
+    links = [
+        f'<a href="{SITE_URL}#cat={key}">{emo} {esc(en).replace(" ", "&nbsp;")} <b>{counts[key]}</b></a>'
+        for key, emo, en, cn, _, _ in CATEGORIES
+    ]
+    for i in range(0, len(links), 4):
+        A("  " + " · ".join(links[i : i + 4]) + ("<br>" if i + 4 < len(links) else ""))
+    A("</p>")
+    A("")
     A("## 📖 Quick links")
     A("")
     A("| | |")
@@ -598,63 +575,6 @@ def build_zh(cat, retired):
     )
     A("")
 
-    A('<a name="section-site"></a>')
-    A("")
-    A("## 🌐 用网页版浏览")
-    A("")
-    A('<p align="center">')
-    A(
-        f'  <a href="{SITE_URL}#lang=zh"><img src="docs/screenshots/site-chinese.png" '
-        f'alt="awesome-grokbot 网页版中文界面：搜索、分类筛选与目录列表" width="880"></a>'
-    )
-    A("</p>")
-    A("")
-    A('<p align="center">')
-    A(
-        f'  <a href="{SITE_URL}#lang=zh"><strong>{SITE_URL.replace("https://", "").rstrip("/")}</strong></a><br>'
-    )
-    A(
-        f"  <sub>{n} 条数据即时搜索 · 八个分类筛选 · EN／中文切换 · "
-        "筛选结果可直接分享 · 无构建步骤、无追踪、无 Cookie</sub>"
-    )
-    A("</p>")
-    A("")
-    A(
-        "**所有筛选状态都写在 URL 里。**下面这些链接会直接打开筛选好的视图，而且转发给别人也是同一个画面："
-    )
-    A("")
-    A('<p align="center">')
-    links = [
-        f'<a href="{SITE_URL}#cat={key}&lang=zh">{emo} {cn} <b>{counts[key]}</b></a>'
-        for key, emo, en, cn, _, _ in CATEGORIES
-    ]
-    for i in range(0, len(links), 4):
-        A("  " + " · ".join(links[i : i + 4]) + ("<br>" if i + 4 < len(links) else ""))
-    A("</p>")
-    A("")
-    A("<table>")
-    A("  <tr>")
-    A(
-        f'    <td width="64%" valign="top"><a href="{SITE_URL}">'
-        '<img src="docs/screenshots/site-desktop.png" alt="英文界面" width="100%"></a></td>'
-    )
-    A(
-        f'    <td width="36%" valign="top"><a href="{SITE_URL}#lang=zh">'
-        '<img src="docs/screenshots/site-mobile.png" alt="手机上的界面" width="100%"></a></td>'
-    )
-    A("  </tr>")
-    A("  <tr>")
-    A(
-        '    <td align="center"><sub><strong>中英双语，逐条对照。</strong>切换 EN／中文会同时换掉 '
-        f"{n} 条摘要、分类名和按钮文案，语言状态同样写进 URL。</sub></td>"
-    )
-    A(
-        '    <td align="center"><sub><strong>手机上也能用。</strong>分类筛选改为横向滚动，'
-        "不会占掉四分之一屏幕。</sub></td>"
-    )
-    A("  </tr>")
-    A("</table>")
-    A("")
     A("## ⚡️ 为什么还要再做一个")
     A("")
     A(
@@ -691,6 +611,40 @@ def build_zh(cat, retired):
     )
     A("")
 
+    A('<a name="section-site"></a>')
+    A("")
+    A("## 🌐 用网页版浏览")
+    A("")
+    A('<p align="center">')
+    A(
+        f'  <a href="{SITE_URL}#lang=zh"><img src="docs/screenshots/site-chinese.png" '
+        f'alt="awesome-grokbot 网页版中文界面：搜索、分类筛选与目录列表" width="760"></a>'
+    )
+    A("</p>")
+    A("")
+    A('<p align="center">')
+    A(
+        f'  <a href="{SITE_URL}#lang=zh"><strong>{SITE_URL.replace("https://", "").rstrip("/")}</strong></a><br>'
+    )
+    A(
+        f"  <sub>{n} 条数据即时搜索 · 八个分类筛选 · EN／中文切换 · "
+        "筛选结果可直接分享 · 无构建步骤、无追踪、无 Cookie</sub>"
+    )
+    A("</p>")
+    A("")
+    A(
+        "**所有筛选状态都写在 URL 里。**下面这些链接会直接打开筛选好的视图，而且转发给别人也是同一个画面："
+    )
+    A("")
+    A('<p align="center">')
+    links = [
+        f'<a href="{SITE_URL}#cat={key}&lang=zh">{emo} {cn} <b>{counts[key]}</b></a>'
+        for key, emo, en, cn, _, _ in CATEGORIES
+    ]
+    for i in range(0, len(links), 4):
+        A("  " + " · ".join(links[i : i + 4]) + ("<br>" if i + 4 < len(links) else ""))
+    A("</p>")
+    A("")
     A("## 📖 快速入口")
     A("")
     A("| | |")
