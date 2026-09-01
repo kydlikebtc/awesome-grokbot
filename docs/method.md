@@ -13,8 +13,10 @@ How `catalog.json` was built, what was measured versus assumed, and how to repro
         ▼
   fetch every share page   ← 6 workers, 0.25s pause, 3 retries on network errors
         │
-        ├── HTTP 200  →  enrich with og:title / og:description  →  catalog.json
-        └── 404 / 500 →  retired.json
+        ├── alive    <400          →  enrich with og:title / og:description  →  catalog.json
+        ├── gone     404/410       →  retired.json
+        ├── blocked  bot wall      →  stays in catalog, reported separately
+        └── flaky    5xx / timeout →  stays in catalog, reported separately
         │
         ▼
   human pass               ← category corrections + Chinese summaries
@@ -28,10 +30,10 @@ How `catalog.json` was built, what was measured versus assumed, and how to repro
 | Step                                                                                |  Result |
 | ----------------------------------------------------------------------------------- | ------: |
 | Unique share ids found across the 4 catalogs                                        |     365 |
-| Returned HTTP 200                                                                   | **360** |
-| Returned 404                                                                        |       4 |
-| Returned 500                                                                        |       1 |
-| Rows enriched with first-party `og:` metadata                                       |     360 |
+| Answered under 400 (`alive`)                                                        | **361** |
+| Answered 404, stable across two sweeps (`gone`)                                     |       4 |
+| Answered 500 once, then 200 (`flaky` — kept, see below)                             |       1 |
+| Rows enriched with first-party `og:` metadata                                       |     361 |
 | Rows whose live name differs from what the community catalogs recorded              |      32 |
 | — of those, substantive (a real rename, or a share now pointing at a different bot) |       5 |
 | — of those, qualifier-only (`Cursor Agent (Local)` vs `Cursor Agent`)               |      27 |
@@ -41,6 +43,28 @@ How `catalog.json` was built, what was measured versus assumed, and how to repro
 | Rows whose auto-assigned category was corrected by hand                             |      30 |
 
 Five further strings matched the share-URL pattern in upstream repos but were documentation placeholders (`REPLACE`, `xxxxxxxx`, a fixture id) and were discarded rather than probed.
+
+## Why a status code is not a verdict
+
+The first version of the sweep used `status != 200` to mean "dead". That rule was wrong, and it was wrong in a way the very first run demonstrated: `Receipt Scanner / Expense Tracking` answered 500 during the sweep and was retired. Asked again, it answered 200. It had never stopped existing — the host stumbled for one request and a live bot was dropped from the catalog for it.
+
+The fix is to notice that an HTTP status answers one of two different questions:
+
+- **about the resource** — 404/410: the bot really is not there
+- **about the requester** — 403/429/503 behind a bot wall: we were turned away, which says nothing about the bot
+
+[`scripts/check_links.py`](../scripts/check_links.py) now sorts every result into four buckets, and only one of them is treated as breakage:
+
+| Bucket    | Meaning                                                                                                                                                               | Moved out of the catalog by `--write`? |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------: |
+| `alive`   | answered under 400                                                                                                                                                    |                   no                   |
+| `gone`    | 404/410, or another 4xx with no wall signature                                                                                                                        |                **yes**                 |
+| `blocked` | throttle status with a wall signature, or a non-HTTP bot code (`cf-mitigated: challenge`, `Retry-After`, an interstitial page, a CDN edge with no body, status ≥ 900) |                   no                   |
+| `flaky`   | 5xx, timeout, or no answer after retries                                                                                                                              |                   no                   |
+
+A **circuit breaker** guards the run as a whole: if more than 25% of a sweep comes back `blocked` or `flaky`, the network path is the problem rather than the catalog, so the script reports, refuses to write, and exits 2. The weekly workflow files that as an infrastructure issue with different wording, so a Cloudflare challenge in front of the CI runner can never be mistaken for 361 dead bots.
+
+The bucket rules are borrowed, with thanks, from [`ZeroPointRepo/awesome-grok-bot`](https://github.com/ZeroPointRepo/awesome-grok-bot)'s `check-links.mjs`, which makes the argument better than this paragraph does: reporting a 403 as breakage trains a maintainer to ignore the alarm.
 
 ## Field precedence
 

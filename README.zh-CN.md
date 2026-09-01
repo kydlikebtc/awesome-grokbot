@@ -1,12 +1,12 @@
 <h1 align="center">awesome-grokbot</h1>
 
-<h3 align="center">360 条可一键添加的 Grok Bot 活分享（<code>x.ai/bot</code>）。<br>每条链接都实测过，每条记录都标注了出处。</h3>
+<h3 align="center">361 条可一键添加的 Grok Bot 活分享（<code>x.ai/bot</code>）。<br>每条链接都实测过，每条记录都标注了出处。</h3>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot"><img src="https://img.shields.io/github/stars/kydlikebtc/awesome-grokbot?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot/fork"><img src="https://img.shields.io/github/forks/kydlikebtc/awesome-grokbot?style=flat-square&color=green" alt="Forks"></a>
-  <a href="catalog.json"><img src="https://img.shields.io/badge/%E6%B4%BB%E5%88%86%E4%BA%AB-360-blueviolet?style=flat-square" alt="活分享"></a>
+  <a href="catalog.json"><img src="https://img.shields.io/badge/%E6%B4%BB%E5%88%86%E4%BA%AB-361-blueviolet?style=flat-square" alt="活分享"></a>
   <a href="#section-method"><img src="https://img.shields.io/badge/%E9%93%BE%E6%8E%A5%E5%AE%9E%E6%B5%8B-2026--09--01-success?style=flat-square" alt="链接实测"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE-CC0"><img src="https://img.shields.io/badge/catalog-CC0--1.0-lightgrey?style=flat-square" alt="CC0"></a>
@@ -22,18 +22,19 @@
 
 Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多数发布之后就再也没复查过链接。这一份的做法不一样：
 
-- **每条分享都真的去抓了，不是假设它还活着。**全部 360 条在 2026-09-01 实测返回 HTTP 200。另有 5 条已经失效的，单独隔离进 [`retired.json`](retired.json)，而不是继续留在列表里装作没事。
+- **每条分享都真的去抓了，不是假设它还活着。**全部 361 条在 2026-09-01 实测返回 HTTP 400 以下。另有 4 条连续两轮都返回 404 的，单独隔离进 [`retired.json`](retired.json)，而不是继续留在列表里装作没事。
+- **状态码不等于判决。**检查器把结果分成 `alive` / `gone` / `blocked` / `flaky` 四桶，只有 `gone`（404/410）才算 Bot 真的没了——反爬墙或 5xx 说的是网络和宿主的事，不是 Bot 的事。这不是假想：有一条分享在扫描途中返回 500，被旧的「非 200 即死」规则判死，再问一次它返回 200。另有熔断保护：一轮里超过 25% 落进 blocked 或 flaky 就中止，这样 CI 前面挡一个验证页，永远不会被记成 361 个 Bot 全死。详见 [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)。
 - **名字和描述取自分享页本身。**每条都带 `official_summary`，直接读自分享页的 `og:description`。官方页的名字和社区目录记录不一致时，社区名保留在 `aka` 字段里，旧名字依然搜得到。32 条存在差异：27 条只是限定词不同（`Cursor Agent (Local)` 对 `Cursor Agent`），5 条是实质性的——其中一条分享现在指向的，已经是和所有社区目录所写完全不同的另一个 Bot。
-- **每条都说清楚来自哪。**`sources[]` 标明这条是从哪个（些）社区目录合并来的，`origin` 指向最早分享它的那条帖子（360 条里有 347 条）。
-- **默认双语。**360 条全部配有人工核过的中文一句话说明，不是机翻。
+- **每条都说清楚来自哪。**`sources[]` 标明这条是从哪个（些）社区目录合并来的，`origin` 指向最早分享它的那条帖子（361 条里有 348 条）。
+- **默认双语。**361 条全部配有人工核过的中文一句话说明，不是机翻。
 - **先有数据，才有文档。**[`catalog.json`](catalog.json) 是唯一事实来源，两份 README 都由 [`scripts/build_readme.py`](scripts/build_readme.py) 生成。
 
 ## 📖 快速入口
 
 | | |
 | --- | --- |
-| 📦 [`catalog.json`](catalog.json) | 全部 360 条活条目，通过 schema 校验 |
-| 🪦 [`retired.json`](retired.json) | 5 条已经打不开的分享 |
+| 📦 [`catalog.json`](catalog.json) | 全部 361 条活条目，通过 schema 校验 |
+| 🪦 [`retired.json`](retired.json) | 4 条已经打不开的分享 |
 | 🔐 [导入之前先读](docs/vetting.md) | 安全检查清单。添加任何 Bot 之前请先看 |
 | 🧪 [数据与方法](docs/method.md) | 目录怎么建的，以及如何自己复现 |
 | 🙏 [来源与致谢](docs/sources.md) | 合并了哪些上游目录，各自许可 |
@@ -57,7 +58,7 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 <table>
   <tr>
     <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ 编码与交付</a></strong><br><sub>43 个</sub></p><sub>写代码、审 PR、盯着编码代理干活、把机器照顾好。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 收件箱与日历</a></strong><br><sub>20 个</sub></p><sub>分拣邮件、起草回复、守住日历、把工作日节奏跑起来。</sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 收件箱与日历</a></strong><br><sub>21 个</sub></p><sub>分拣邮件、起草回复、守住日历、把工作日节奏跑起来。</sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 研究与简报</a></strong><br><sub>53 个</sub></p><sub>盯住一个领域、核查说法，最后只给你一份短简报。</sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 客户与销售</a></strong><br><sub>22 个</sub></p><sub>找客户、起草外呼、通话后援、客户跟进到底。</sub></td>
   </tr>
@@ -72,14 +73,14 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 | 分类 | 收录 |
 | --- | ---: |
 | [🛠️ 编码与交付](#cat-coding-shipping) | 43 |
-| [📥 收件箱与日历](#cat-inbox-calendar) | 20 |
+| [📥 收件箱与日历](#cat-inbox-calendar) | 21 |
 | [🔍 研究与简报](#cat-research-briefings) | 53 |
 | [🤝 客户与销售](#cat-customer-sales) | 22 |
 | [💰 财务与运营](#cat-finance-ops) | 35 |
 | [✍️ 内容与发布](#cat-content-publishing) | 64 |
 | [🏠 个人事务](#cat-personal-admin) | 61 |
 | [🧭 团队与交接](#cat-teams-handoffs) | 62 |
-| **合计** | **360** |
+| **合计** | **361** |
 
 <a name="cat-coding-shipping"></a>
 
@@ -137,7 +138,7 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 
 ## 📥 收件箱与日历
 
-*分拣邮件、起草回复、守住日历、把工作日节奏跑起来。* —— 20 个
+*分拣邮件、起草回复、守住日历、把工作日节奏跑起来。* —— 21 个
 
 - [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) — 用创始人语气起草并发送阅读应用的内测邀请。 <sub>作者 [Navya](https://x.com/NavyaM89482) (@NavyaM89482) · [出处](https://x.com/NavyaM89482/status/2093524788761248166)</sub>
 - [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) — 一行消化所有有新动静的 Bot 和群聊。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835123498340611)</sub>
@@ -154,6 +155,7 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 - [MarketBoxScan](https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs) — 写稿人开工前的科技新闻和收件箱简报。 <sub>作者 [techAU](https://x.com/techAU) · [出处](https://x.com/techAU/status/2093498668297101491)</sub>
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — 审计半年 newsletter，只退订你点头的那些。 <sub>作者 [Andrej](https://x.com/scheemunai) · [出处](https://x.com/scheemunai/status/2093398594745254196)</sub>
 - [openrobot](https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R) — 合作接待台，把兴趣收成一封介绍邮件。 <sub>作者 [alhan](https://x.com/noborderhuman) (@noborderhuman) · [出处](https://x.com/noborderhuman/status/2093529993972432967)</sub>
+- [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) — 转发一张收据，它就变成报销表里的一行。 <sub>作者 [Lime](https://x.com/limeunfiltered) (@limeunfiltered) · [出处](https://x.com/limeunfiltered/status/2093899797967278545)</sub>
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) — 接住那些永远写不进日历的小提醒。 <sub>作者 [Damon](https://x.com/damonchen) · [出处](https://x.com/damonchen/status/2093559687354671335)</sub>
 - [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) — 把一次发布收成更新日志条目和一封邮件。 <sub>作者 [Sol](https://x.com/sol_wright7) (@sol_wright7) · [出处](https://x.com/sol_wright7/status/2093809370958098813)</sub>
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) — 用早间议程和夜间预览把一天夹住。 <sub>作者 [Mark](https://x.com/ironted21) · [出处](https://x.com/ironted21/status/2093771512331252046)</sub>
@@ -515,7 +517,7 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 
 ## 🪦 已失效的分享
 
-这 5 条在上游目录里还挂着，但截至 2026-09-01 已经打不开了。列在这里是为了让你在别处遇到时能认出它是死链，不是让你去导入。
+这 4 条在上游目录里还挂着，但截至 2026-09-01 已经打不开了。列在这里是为了让你在别处遇到时能认出它是死链，不是让你去导入。
 
 | Bot | 状态 | 最后出现在 |
 | --- | :---: | --- |
@@ -523,7 +525,6 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 | `Freelance Prospector` | `HTTP 404` | ZeroPointRepo、cs68614-hash、elie222 |
 | `OpenZoo.fun Grok Bot Demo` | `HTTP 404` | cs68614-hash |
 | `Randal` | `HTTP 404` | cs68614-hash |
-| `Receipt Scanner / Expense Tracking` | `HTTP 500` | majiayu000、ZeroPointRepo、elie222 |
 
 <a name="section-method"></a>
 
@@ -534,12 +535,12 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 | 步骤 | 结果 |
 | --- | --- |
 | 四个目录里找到的唯一分享 id | 365 |
-| 2026-09-01 实测返回 HTTP 200 | **360** |
-| 返回 404 / 500 → 进 `retired.json` | 5 |
-| 补齐第一手 `og:` 元数据的条目 | 360 |
+| 2026-09-01 实测返回 HTTP 400 以下 | **361** |
+| 连续两轮返回 404 → 进 `retired.json` | 4 |
+| 补齐第一手 `og:` 元数据的条目 | 361 |
 | 官方页名称与社区目录不一致的条目 | 32（5 条实质性，27 条仅限定词差异）|
-| 能追溯到 2 个以上上游目录的条目 | 334 |
-| 带中文摘要的条目 | 360 / 360 |
+| 能追溯到 2 个以上上游目录的条目 | 335 |
+| 带中文摘要的条目 | 361 / 361 |
 
 你可以自己复现：[`scripts/check_links.py`](scripts/check_links.py) 重新扫一遍所有分享，[`scripts/lint.py`](scripts/lint.py) 按 [`schema/entry.schema.json`](schema/entry.schema.json) 校验。方法说明见 [docs/method.md](docs/method.md)。
 

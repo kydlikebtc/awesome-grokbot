@@ -261,9 +261,17 @@ def build_en(cat, retired):
     )
     A("")
     A(
-        f"- **Every share was fetched, not assumed.** All {n} entries returned HTTP 200 on {checked}. "
-        f"{len(retired['entries'])} shares that went dead are quarantined in [`retired.json`](retired.json) "
-        "instead of being quietly left in the list."
+        f"- **Every share was fetched, not assumed.** All {n} entries answered under HTTP 400 on {checked}. "
+        f"{len(retired['entries'])} shares that returned 404 across two sweeps are quarantined in "
+        "[`retired.json`](retired.json) instead of being quietly left in the list."
+    )
+    A(
+        "- **A status code is not a verdict.** The checker sorts results into `alive` / `gone` / `blocked` / "
+        "`flaky`, and only `gone` (404/410) counts as a dead bot — a bot wall or a 5xx says something about the "
+        "network or the host, not about the bot. This is not theoretical: one share answered 500 mid-sweep, was "
+        "retired by the old `status != 200` rule, and answered 200 the next time it was asked. A circuit breaker "
+        "aborts the run if more than 25% comes back blocked or flaky, so a challenge page in front of CI can "
+        f"never be filed as {n} dead bots. See [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)."
     )
     A(
         "- **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from "
@@ -389,8 +397,8 @@ def build_en(cat, retired):
     A("| Step | Result |")
     A("| --- | --- |")
     A("| Unique share ids found across 4 catalogs | 365 |")
-    A(f"| Returned HTTP 200 on {checked} | **{n}** |")
-    A(f"| Returned 404 / 500 → `retired.json` | {len(retired['entries'])} |")
+    A(f"| Answered under 400 on {checked} | **{n}** |")
+    A(f"| Answered 404 across two sweeps → `retired.json` | {len(retired['entries'])} |")
     A(
         f"| Rows enriched with first-party `og:` metadata | {sum(1 for x in e if x.get('official_summary'))} |"
     )
@@ -533,9 +541,17 @@ def build_zh(cat, retired):
     )
     A("")
     A(
-        f"- **每条分享都真的去抓了，不是假设它还活着。**全部 {n} 条在 {checked} 实测返回 HTTP 200。"
-        f"另有 {len(retired['entries'])} 条已经失效的，单独隔离进 [`retired.json`](retired.json)，"
+        f"- **每条分享都真的去抓了，不是假设它还活着。**全部 {n} 条在 {checked} 实测返回 HTTP 400 以下。"
+        f"另有 {len(retired['entries'])} 条连续两轮都返回 404 的，单独隔离进 [`retired.json`](retired.json)，"
         "而不是继续留在列表里装作没事。"
+    )
+    A(
+        "- **状态码不等于判决。**检查器把结果分成 `alive` / `gone` / `blocked` / `flaky` 四桶，"
+        "只有 `gone`（404/410）才算 Bot 真的没了——反爬墙或 5xx 说的是网络和宿主的事，不是 Bot 的事。"
+        "这不是假想：有一条分享在扫描途中返回 500，被旧的「非 200 即死」规则判死，再问一次它返回 200。"
+        "另有熔断保护：一轮里超过 25% 落进 blocked 或 flaky 就中止，"
+        f"这样 CI 前面挡一个验证页，永远不会被记成 {n} 个 Bot 全死。"
+        "详见 [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)。"
     )
     A(
         "- **名字和描述取自分享页本身。**每条都带 `official_summary`，直接读自分享页的 `og:description`。"
@@ -641,8 +657,8 @@ def build_zh(cat, retired):
     A("| 步骤 | 结果 |")
     A("| --- | --- |")
     A("| 四个目录里找到的唯一分享 id | 365 |")
-    A(f"| {checked} 实测返回 HTTP 200 | **{n}** |")
-    A(f"| 返回 404 / 500 → 进 `retired.json` | {len(retired['entries'])} |")
+    A(f"| {checked} 实测返回 HTTP 400 以下 | **{n}** |")
+    A(f"| 连续两轮返回 404 → 进 `retired.json` | {len(retired['entries'])} |")
     A(
         f"| 补齐第一手 `og:` 元数据的条目 | {sum(1 for x in e if x.get('official_summary'))} |"
     )

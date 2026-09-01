@@ -104,44 +104,6 @@
       "checked": "2026-09-01",
       "link_status": 404,
       "license": "CC0-1.0"
-    },
-    {
-      "slug": "receipt-scanner-expense-tracking",
-      "name": "Receipt Scanner / Expense Tracking",
-      "author": {
-        "name": "limeunfiltered",
-        "url": "https://x.com/limeunfiltered"
-      },
-      "summary": "Forward a receipt and it becomes a row in your expense sheet",
-      "summary_zh": "转发一张收据，它就变成报销表里的一行。",
-      "import": "https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp",
-      "bot_id": "qod4CrNQBlDIMm5wFYVQp",
-      "category": "inbox-calendar",
-      "tags": [
-        "business",
-        "personal",
-        "finance",
-        "email"
-      ],
-      "origin": "https://x.com/limeunfiltered/status/2093899797967278545",
-      "sources": [
-        {
-          "catalog": "majiayu000/awesome-grok-bot",
-          "url": "https://github.com/majiayu000/awesome-grok-bot"
-        },
-        {
-          "catalog": "ZeroPointRepo/GrokBotDev",
-          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-        },
-        {
-          "catalog": "elie222/botdirectory.ai",
-          "url": "https://github.com/elie222/botdirectory.ai"
-        }
-      ],
-      "first_seen": "2026-08-30",
-      "checked": "2026-09-01",
-      "link_status": 500,
-      "license": "CC-BY-4.0"
     }
   ]
 }

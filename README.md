@@ -1,12 +1,12 @@
 <h1 align="center">awesome-grokbot</h1>
 
-<h3 align="center">360 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
+<h3 align="center">361 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot"><img src="https://img.shields.io/github/stars/kydlikebtc/awesome-grokbot?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot/fork"><img src="https://img.shields.io/github/forks/kydlikebtc/awesome-grokbot?style=flat-square&color=green" alt="Forks"></a>
-  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-360-blueviolet?style=flat-square" alt="Live shares"></a>
+  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-361-blueviolet?style=flat-square" alt="Live shares"></a>
   <a href="#section-method"><img src="https://img.shields.io/badge/links%20checked-2026--09--01-success?style=flat-square" alt="Links checked"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE-CC0"><img src="https://img.shields.io/badge/catalog-CC0--1.0-lightgrey?style=flat-square" alt="CC0"></a>
@@ -22,18 +22,19 @@
 
 There are already several Grok Bot lists. They disagree with each other, and most of them never re-check the links they publish. This one is built differently:
 
-- **Every share was fetched, not assumed.** All 360 entries returned HTTP 200 on 2026-09-01. 5 shares that went dead are quarantined in [`retired.json`](retired.json) instead of being quietly left in the list.
+- **Every share was fetched, not assumed.** All 361 entries answered under HTTP 400 on 2026-09-01. 4 shares that returned 404 across two sweeps are quarantined in [`retired.json`](retired.json) instead of being quietly left in the list.
+- **A status code is not a verdict.** The checker sorts results into `alive` / `gone` / `blocked` / `flaky`, and only `gone` (404/410) counts as a dead bot — a bot wall or a 5xx says something about the network or the host, not about the bot. This is not theoretical: one share answered 500 mid-sweep, was retired by the old `status != 200` rule, and answered 200 the next time it was asked. A circuit breaker aborts the run if more than 25% comes back blocked or flaky, so a challenge page in front of CI can never be filed as 361 dead bots. See [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict).
 - **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from the share page's `og:description`. Where the live name differs from what the community catalogs recorded, theirs is kept as `aka` so the row stays searchable. 32 rows differ; 27 are qualifier-only (`Cursor Agent (Local)` vs `Cursor Agent`) and 5 are substantive — one share now points at an entirely different bot than every community catalog still claims.
-- **Every row says where it came from.** `sources[]` names the community catalog(s) the entry was merged from, and `origin` links the post that first shared it (347 of 360 rows).
-- **Bilingual by default.** All 360 rows carry a hand-checked Chinese one-liner, not machine output.
+- **Every row says where it came from.** `sources[]` names the community catalog(s) the entry was merged from, and `origin` links the post that first shared it (348 of 361 rows).
+- **Bilingual by default.** All 361 rows carry a hand-checked Chinese one-liner, not machine output.
 - **Data first, prose second.** [`catalog.json`](catalog.json) is the source of truth; both READMEs are generated from it by [`scripts/build_readme.py`](scripts/build_readme.py).
 
 ## 📖 Quick links
 
 | | |
 | --- | --- |
-| 📦 [`catalog.json`](catalog.json) | All 360 live entries, schema-validated |
-| 🪦 [`retired.json`](retired.json) | 5 shares that stopped resolving |
+| 📦 [`catalog.json`](catalog.json) | All 361 live entries, schema-validated |
+| 🪦 [`retired.json`](retired.json) | 4 shares that stopped resolving |
 | 🔐 [Before you import](docs/vetting.md) | Safety checklist. Read this before adding anything |
 | 🧪 [Data & method](docs/method.md) | How the catalog was built and how to reproduce it |
 | 🙏 [Sources & credits](docs/sources.md) | Upstream catalogs this merges, with licences |
@@ -57,7 +58,7 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 <table>
   <tr>
     <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>43 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 Inbox &amp; calendar</a></strong><br><sub>20 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 Inbox &amp; calendar</a></strong><br><sub>21 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>53 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>22 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub></td>
   </tr>
@@ -72,14 +73,14 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 | Category | Bots |
 | --- | ---: |
 | [🛠️ Coding & shipping](#cat-coding-shipping) | 43 |
-| [📥 Inbox & calendar](#cat-inbox-calendar) | 20 |
+| [📥 Inbox & calendar](#cat-inbox-calendar) | 21 |
 | [🔍 Research & briefings](#cat-research-briefings) | 53 |
 | [🤝 Customer & sales](#cat-customer-sales) | 22 |
 | [💰 Finance & ops](#cat-finance-ops) | 35 |
 | [✍️ Content & publishing](#cat-content-publishing) | 64 |
 | [🏠 Personal admin](#cat-personal-admin) | 61 |
 | [🧭 Teams & handoffs](#cat-teams-handoffs) | 62 |
-| **Total** | **360** |
+| **Total** | **361** |
 
 <a name="cat-coding-shipping"></a>
 
@@ -137,7 +138,7 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 
 ## 📥 Inbox & calendar
 
-*Triage mail, draft replies, defend the calendar, run the weekday rhythm.* — 20 bots
+*Triage mail, draft replies, defend the calendar, run the weekday rhythm.* — 21 bots
 
 - [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) — Drafts and sends founder-voiced beta invites for a reading app. <sub>by [Navya](https://x.com/NavyaM89482) (@NavyaM89482) · [origin](https://x.com/NavyaM89482/status/2093524788761248166)</sub>
 - [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) — A one-line digest of every bot and group chat with something new. <sub>by [Wayne](https://x.com/waynesutton) · [origin](https://x.com/waynesutton/status/2093835123498340611)</sub>
@@ -154,6 +155,7 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 - [MarketBoxScan](https://x.ai/bot/-LYLlgknV3IgZcFEmhcLs) — A pre-work tech news and inbox briefing for writers. <sub>by [techAU](https://x.com/techAU) · [origin](https://x.com/techAU/status/2093498668297101491)</sub>
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — Audits six months of newsletters and unsubscribes only from what you approve. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398594745254196)</sub>
 - [openrobot](https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R) — A collaboration intake desk that turns interest into an intro email. <sub>by [alhan](https://x.com/noborderhuman) (@noborderhuman) · [origin](https://x.com/noborderhuman/status/2093529993972432967)</sub>
+- [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) — Forward a receipt and it becomes a row in your expense sheet. <sub>by [Lime](https://x.com/limeunfiltered) (@limeunfiltered) · [origin](https://x.com/limeunfiltered/status/2093899797967278545)</sub>
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) — Holds the small reminders that never make it onto your calendar. <sub>by [Damon](https://x.com/damonchen) · [origin](https://x.com/damonchen/status/2093559687354671335)</sub>
 - [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) — Turns a finished release into a changelog entry and an email. <sub>by [Sol](https://x.com/sol_wright7) (@sol_wright7) · [origin](https://x.com/sol_wright7/status/2093809370958098813)</sub>
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) — Bookends your day with a morning agenda and a night preview. <sub>by [Mark](https://x.com/ironted21) · [origin](https://x.com/ironted21/status/2093771512331252046)</sub>
@@ -515,7 +517,7 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 
 ## 🪦 Retired shares
 
-These 5 shares appear in upstream catalogs but no longer resolve as of 2026-09-01. They are listed so you can recognise a stale link elsewhere, not so you can import them.
+These 4 shares appear in upstream catalogs but no longer resolve as of 2026-09-01. They are listed so you can recognise a stale link elsewhere, not so you can import them.
 
 | Bot | Status | Last seen in |
 | --- | :---: | --- |
@@ -523,7 +525,6 @@ These 5 shares appear in upstream catalogs but no longer resolve as of 2026-09-0
 | `Freelance Prospector` | `HTTP 404` | ZeroPointRepo, cs68614-hash, elie222 |
 | `OpenZoo.fun Grok Bot Demo` | `HTTP 404` | cs68614-hash |
 | `Randal` | `HTTP 404` | cs68614-hash |
-| `Receipt Scanner / Expense Tracking` | `HTTP 500` | majiayu000, ZeroPointRepo, elie222 |
 
 <a name="section-method"></a>
 
@@ -534,12 +535,12 @@ The catalog is a merge of four community sources plus a first-party verification
 | Step | Result |
 | --- | --- |
 | Unique share ids found across 4 catalogs | 365 |
-| Returned HTTP 200 on 2026-09-01 | **360** |
-| Returned 404 / 500 → `retired.json` | 5 |
-| Rows enriched with first-party `og:` metadata | 360 |
+| Answered under 400 on 2026-09-01 | **361** |
+| Answered 404 across two sweeps → `retired.json` | 4 |
+| Rows enriched with first-party `og:` metadata | 361 |
 | Rows whose live name differs from the community catalogs | 32 (5 substantive, 27 qualifier-only) |
-| Rows attributed to 2+ upstream catalogs | 334 |
-| Rows with a Chinese summary | 360 / 360 |
+| Rows attributed to 2+ upstream catalogs | 335 |
+| Rows with a Chinese summary | 361 / 361 |
 
 Reproduce it yourself with [`scripts/check_links.py`](scripts/check_links.py) (re-sweeps every share) and [`scripts/lint.py`](scripts/lint.py) (validates against [`schema/entry.schema.json`](schema/entry.schema.json)). Method notes: [docs/method.md](docs/method.md).
 

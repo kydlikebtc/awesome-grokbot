@@ -44,30 +44,55 @@ jobs:
           echo "check_links.py exited $status"
           exit 0
 
-      - name: Build report body
-        if: steps.sweep.outputs.exit_code != '0'
+      # exit 1 — some shares are genuinely gone (404/410). This is a data problem.
+      - name: Report dead shares
+        if: steps.sweep.outputs.exit_code == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           {
-            echo "The weekly sweep found share links that no longer return HTTP 200."
+            echo "The weekly sweep found shares in the \`gone\` bucket — the page answered, and said the bot is not there."
             echo
             echo '```'
             cat sweep.txt
             echo '```'
             echo
-            echo "To fix: move the dead rows from \`catalog.json\` to \`retired.json\` with their"
-            echo "real \`link_status\`, run \`python3 scripts/build_readme.py\`, and commit both READMEs."
+            echo "Rows in the \`blocked\` or \`flaky\` buckets, if any, were **left in the catalog on purpose**:"
+            echo "those statuses describe the network path or the host, not the bot."
             echo
-            echo "Or run \`python3 scripts/check_links.py --write\` locally to do the move automatically."
+            echo "To fix: run \`python3 scripts/check_links.py --write\` locally, then"
+            echo "\`python3 scripts/build_readme.py\`, and commit \`catalog.json\`, \`retired.json\` and both READMEs."
           } > report.md
-
-      - name: Open an issue
-        if: steps.sweep.outputs.exit_code != '0'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
           gh issue create \
             --title "link-check: dead shares found in the weekly sweep" \
             --label "entry-problem" \
+            --body-file report.md
+
+      # exit 2 — too much of the sweep came back blocked/flaky to trust any of it.
+      # This is an infrastructure problem and must not be filed as broken data.
+      - name: Report unreachable sweep
+        if: steps.sweep.outputs.exit_code == '2'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "The weekly sweep tripped its circuit breaker: too much of the run came back"
+            echo "\`blocked\` (a bot wall) or \`flaky\` (a 5xx or timeout) to draw any conclusion"
+            echo "about the catalog."
+            echo
+            echo '```'
+            cat sweep.txt
+            echo '```'
+            echo
+            echo "**No catalog rows are implicated.** This usually means x.ai started challenging"
+            echo "the GitHub Actions runner's datacenter IP, or the host had an outage during the run."
+            echo
+            echo "Confirm by re-running \`python3 scripts/check_links.py\` from a residential network"
+            echo "before changing any data."
+          } > report.md
+          gh issue create \
+            --title "link-check: sweep could not reach x.ai (circuit breaker tripped)" \
+            --label "infrastructure" \
             --body-file report.md
 
       - name: Upload sweep log
