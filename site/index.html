@@ -13,6 +13,21 @@
       href="https://kydlikebtc.github.io/awesome-grokbot/"
     />
 
+    <!-- Declared explicitly: without this the browser probes the site root for
+         /favicon.ico, which on a project Pages site is a guaranteed 404. -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="mask-icon" href="favicon.svg" color="#bc4a28" />
+    <meta
+      name="theme-color"
+      content="#f2eee5"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#14130f"
+      media="(prefers-color-scheme: dark)"
+    />
+
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
@@ -917,7 +932,19 @@
           if (active.size) p.set("cat", [...active].join(","));
           if (lang !== "en") p.set("lang", lang);
           const h = p.toString();
-          history.replaceState(null, "", h ? `#${h}` : location.pathname);
+          const next = h ? `#${h}` : location.pathname;
+          // replaceState, not pushState: every keystroke would otherwise become a
+          // history entry and the back button would crawl through the search.
+          if (location.hash !== (h ? `#${h}` : ""))
+            history.replaceState(null, "", next);
+        }
+
+        /** Pull state out of the URL and push it into the whole UI. */
+        function applyURL() {
+          readURL();
+          qEl.value = query;
+          setLang(lang, true);
+          sync();
         }
 
         // ---- rendering ---------------------------------------------------------
@@ -1093,10 +1120,12 @@
         <div class="fact"><b>${DATA.filter((e) => e.origin).length}</b><span>with origin post</span></div>
         <div class="fact warn"><b>${Number(counts.retired) || 0}</b><span>retired, kept visible</span></div>`;
 
-            readURL();
-            qEl.value = query;
-            setLang(lang, true);
-            sync();
+            applyURL();
+
+            // Changing the hash on an already-loaded page does not reload it, so
+            // without this an in-page #q=... link (or the back button) would
+            // update the address bar and leave the list showing something else.
+            window.addEventListener("hashchange", applyURL);
           })
           .catch((err) => {
             stateEl.hidden = false;

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="awesome-grokbot">
+  <!-- Three catalog rows under a live-status dot: what the repo actually is,
+       a checked list. Dark plate so it reads on light and dark tab bars. -->
+  <rect width="64" height="64" rx="13" fill="#1c1a16"/>
+  <rect x="13" y="23" width="27" height="4.5" rx="2.25" fill="#f2eee5"/>
+  <rect x="13" y="33" width="36" height="4.5" rx="2.25" fill="#f2eee5" opacity=".6"/>
+  <rect x="13" y="43" width="21" height="4.5" rx="2.25" fill="#f2eee5" opacity=".34"/>
+  <circle cx="47" cy="19" r="7.5" fill="#bc4a28" stroke="#1c1a16" stroke-width="3.5"/>
+</svg>

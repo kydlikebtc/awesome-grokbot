@@ -18,9 +18,36 @@
 
 > [Grok Bot](https://docs.x.ai/grok-bot/overview) gives named AI teammates their own always-on cloud computer. This repo is not Grok Bot, not an installer, and not source code — it is the index of public bot configurations you can preview on `x.ai` and add to your own account in one click.
 
+<a name="section-site"></a>
+
 ## 🌐 Browse it as a site
 
-**[kydlikebtc.github.io/awesome-grokbot](https://kydlikebtc.github.io/awesome-grokbot/)** — the same 361 rows with instant search across names, descriptions, authors and tags, category filters, and an EN/中文 toggle. Filtered views are shareable: the URL carries your search and filters, so [`#q=inbox&cat=inbox-calendar`](https://kydlikebtc.github.io/awesome-grokbot/#q=inbox&cat=inbox-calendar) opens exactly what you were looking at. Served straight from [`catalog.json`](catalog.json) — no build step, no tracking, no cookies.
+<p align="center">
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/"><img src="docs/screenshots/site-desktop.png" alt="The awesome-grokbot site: search field, eight category filters, and the catalog listing" width="880"></a>
+</p>
+
+<p align="center">
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/"><strong>kydlikebtc.github.io/awesome-grokbot</strong></a><br>
+  <sub>Instant search over all 361 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
+</p>
+
+**Every filter lives in the URL.** These links open a pre-filtered view — and stay shareable:
+
+<p align="center">
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>43</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>21</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>53</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>22</b></a><br>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>35</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>64</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>61</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>62</b></a>
+</p>
+
+<table>
+  <tr>
+    <td width="64%" valign="top"><a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><img src="docs/screenshots/site-chinese.png" alt="The same catalog in Chinese, filtered by a search for email" width="100%"></a></td>
+    <td width="36%" valign="top"><a href="https://kydlikebtc.github.io/awesome-grokbot/"><img src="docs/screenshots/site-mobile.png" alt="The catalog on a phone" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><strong>Every row is bilingual.</strong> The EN/中文 toggle swaps all 361 summaries, the category labels and the buttons — and rides in the URL too.</sub></td>
+    <td align="center"><sub><strong>Works on a phone.</strong> Filters scroll sideways instead of eating a quarter of the screen.</sub></td>
+  </tr>
+</table>
 
 ## ⚡️ Why this list
 
@@ -37,6 +64,7 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 
 | | |
 | --- | --- |
+| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 361 rows in the browser |
 | 📦 [`catalog.json`](catalog.json) | All 361 live entries, schema-validated |
 | 🪦 [`retired.json`](retired.json) | 4 shares that stopped resolving |
 | 🔐 [Before you import](docs/vetting.md) | Safety checklist. Read this before adding anything |
@@ -61,16 +89,16 @@ There are already several Grok Bot lists. They disagree with each other, and mos
 
 <table>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>43 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 Inbox &amp; calendar</a></strong><br><sub>21 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>53 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>22 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>43 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 Inbox &amp; calendar</a></strong><br><sub>21 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>53 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>22 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 Finance &amp; ops</a></strong><br><sub>35 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ Content &amp; publishing</a></strong><br><sub>64 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 Personal admin</a></strong><br><sub>61 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 Teams &amp; handoffs</a></strong><br><sub>62 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 Finance &amp; ops</a></strong><br><sub>35 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ Content &amp; publishing</a></strong><br><sub>64 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 Personal admin</a></strong><br><sub>61 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 Teams &amp; handoffs</a></strong><br><sub>62 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
   </tr>
 </table>
 

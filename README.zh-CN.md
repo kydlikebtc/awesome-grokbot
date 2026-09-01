@@ -18,9 +18,36 @@
 
 > [Grok Bot](https://docs.x.ai/grok-bot/overview) 让具名的 AI 队友拥有一台常开的云电脑。这个仓库不是 Grok Bot 本体，不是安装器，也不是源码——它是**公开 Bot 配置的索引**：你可以先在 `x.ai` 上预览，再一键添加到自己的账号。
 
+<a name="section-site"></a>
+
 ## 🌐 用网页版浏览
 
-**[kydlikebtc.github.io/awesome-grokbot](https://kydlikebtc.github.io/awesome-grokbot/)** —— 同一份 361 条数据，支持按名称、描述、作者、标签即时搜索，按分类筛选，并可在 EN / 中文之间切换。筛选结果可以直接分享：URL 会带上你的搜索词和筛选条件，比如 [`#q=inbox&cat=inbox-calendar`](https://kydlikebtc.github.io/awesome-grokbot/#q=inbox&cat=inbox-calendar) 打开的就是你当时看到的画面。页面直接读取 [`catalog.json`](catalog.json)——无构建步骤、无追踪、无 Cookie。
+<p align="center">
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><img src="docs/screenshots/site-chinese.png" alt="awesome-grokbot 网页版中文界面：搜索、分类筛选与目录列表" width="880"></a>
+</p>
+
+<p align="center">
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><strong>kydlikebtc.github.io/awesome-grokbot</strong></a><br>
+  <sub>361 条数据即时搜索 · 八个分类筛选 · EN／中文切换 · 筛选结果可直接分享 · 无构建步骤、无追踪、无 Cookie</sub>
+</p>
+
+**所有筛选状态都写在 URL 里。**下面这些链接会直接打开筛选好的视图，而且转发给别人也是同一个画面：
+
+<p align="center">
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">🛠️ 编码与交付 <b>43</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">📥 收件箱与日历 <b>21</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh">🔍 研究与简报 <b>53</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh">🤝 客户与销售 <b>22</b></a><br>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">💰 财务与运营 <b>35</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">✍️ 内容与发布 <b>64</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">🏠 个人事务 <b>61</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">🧭 团队与交接 <b>62</b></a>
+</p>
+
+<table>
+  <tr>
+    <td width="64%" valign="top"><a href="https://kydlikebtc.github.io/awesome-grokbot/"><img src="docs/screenshots/site-desktop.png" alt="英文界面" width="100%"></a></td>
+    <td width="36%" valign="top"><a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><img src="docs/screenshots/site-mobile.png" alt="手机上的界面" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><strong>中英双语，逐条对照。</strong>切换 EN／中文会同时换掉 361 条摘要、分类名和按钮文案，语言状态同样写进 URL。</sub></td>
+    <td align="center"><sub><strong>手机上也能用。</strong>分类筛选改为横向滚动，不会占掉四分之一屏幕。</sub></td>
+  </tr>
+</table>
 
 ## ⚡️ 为什么还要再做一个
 
@@ -37,6 +64,7 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 
 | | |
 | --- | --- |
+| 🌐 [**网页版浏览**](https://kydlikebtc.github.io/awesome-grokbot/#lang=zh) | 在浏览器里搜索、筛选全部 361 条 |
 | 📦 [`catalog.json`](catalog.json) | 全部 361 条活条目，通过 schema 校验 |
 | 🪦 [`retired.json`](retired.json) | 4 条已经打不开的分享 |
 | 🔐 [导入之前先读](docs/vetting.md) | 安全检查清单。添加任何 Bot 之前请先看 |
@@ -61,16 +89,16 @@ Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多�
 
 <table>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ 编码与交付</a></strong><br><sub>43 个</sub></p><sub>写代码、审 PR、盯着编码代理干活、把机器照顾好。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 收件箱与日历</a></strong><br><sub>21 个</sub></p><sub>分拣邮件、起草回复、守住日历、把工作日节奏跑起来。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 研究与简报</a></strong><br><sub>53 个</sub></p><sub>盯住一个领域、核查说法，最后只给你一份短简报。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 客户与销售</a></strong><br><sub>22 个</sub></p><sub>找客户、起草外呼、通话后援、客户跟进到底。</sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ 编码与交付</a></strong><br><sub>43 个</sub></p><sub>写代码、审 PR、盯着编码代理干活、把机器照顾好。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 收件箱与日历</a></strong><br><sub>21 个</sub></p><sub>分拣邮件、起草回复、守住日历、把工作日节奏跑起来。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 研究与简报</a></strong><br><sub>53 个</sub></p><sub>盯住一个领域、核查说法，最后只给你一份短简报。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 客户与销售</a></strong><br><sub>22 个</sub></p><sub>找客户、起草外呼、通话后援、客户跟进到底。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh">在网页版筛选 ↗</a></sub></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 财务与运营</a></strong><br><sub>35 个</sub></p><sub>票据、订阅、发票、花费审计，以及各种后台杂务。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ 内容与发布</a></strong><br><sub>64 个</sub></p><sub>起草、编辑、设计、视频，以及把它们发出去的队列。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 个人事务</a></strong><br><sub>61 个</sub></p><sub>买菜、家务后勤、家庭日程、健康和购物。</sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 团队与交接</a></strong><br><sub>62 个</sub></p><sub>管别的 Bot 的 Bot：花名册、委派、预算和交接。</sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 财务与运营</a></strong><br><sub>35 个</sub></p><sub>票据、订阅、发票、花费审计，以及各种后台杂务。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ 内容与发布</a></strong><br><sub>64 个</sub></p><sub>起草、编辑、设计、视频，以及把它们发出去的队列。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 个人事务</a></strong><br><sub>61 个</sub></p><sub>买菜、家务后勤、家庭日程、健康和购物。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 团队与交接</a></strong><br><sub>62 个</sub></p><sub>管别的 Bot 的 Bot：花名册、委派、预算和交接。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">在网页版筛选 ↗</a></sub></td>
   </tr>
 </table>
 
