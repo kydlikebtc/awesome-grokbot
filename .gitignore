@@ -24,3 +24,6 @@ Thumbs.db
 
 # built site artifact (workflow copies catalog.json in at deploy time)
 site/catalog.json
+
+# Local agent/session state, not part of the catalog
+.claude/
