@@ -20,13 +20,13 @@
 
 ## ⚡️ What's different
 
-| | |
-| ---: | --- |
-| **361** | live shares, every link fetched on 2026-09-01 — not copied from another list |
-| **4** | dead links quarantined in [`retired.json`](retired.json), not left rotting in place |
-| **361** | rows with a hand-written Chinese summary |
-| **361** | rows naming the catalog they came from — 348 also link the original post |
-| **32** | rows whose name had drifted from the live page, kept searchable as `aka` |
+<table>
+  <tr><td align="right"><b>361</b></td><td>live shares, every link fetched on 2026-09-01 — not copied from another list</td></tr>
+  <tr><td align="right"><b>4</b></td><td>dead links quarantined in <a href="retired.json"><code>retired.json</code></a>, not left rotting in place</td></tr>
+  <tr><td align="right"><b>361</b></td><td>rows with a hand-written Chinese summary</td></tr>
+  <tr><td align="right"><b>361</b></td><td>rows naming the catalog they came from — 348 also link the original post</td></tr>
+  <tr><td align="right"><b>32</b></td><td>rows whose name had drifted from the live page, kept searchable as <code>aka</code></td></tr>
+</table>
 
 Names and blurbs are read from the live share page, not from another catalog. How the catalog was built, and what it does **not** verify: [docs/method.md](docs/method.md).
 

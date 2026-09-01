@@ -258,21 +258,33 @@ def build_en(cat, retired):
     # ---- why
     A("## ⚡️ What's different")
     A("")
-    A("| | |")
-    A("| ---: | --- |")
+    # Plain <table> rather than a markdown one: a markdown table needs a header
+    # row, and an empty header renders as a stray rule and reads as a blank
+    # column header to a screen reader.
+    A("<table>")
     A(
-        f"| **{n}** | live shares, every link fetched on {checked} — not copied from another list |"
+        f'  <tr><td align="right"><b>{n}</b></td>'
+        f"<td>live shares, every link fetched on {checked} — not copied from another list</td></tr>"
     )
     A(
-        f"| **{len(retired['entries'])}** | dead links quarantined in [`retired.json`](retired.json), not left rotting in place |"
-    )
-    A(f"| **{sum(1 for x in e if x.get('summary_zh'))}** | rows with a hand-written Chinese summary |")
-    A(
-        f"| **{n}** | rows naming the catalog they came from — {sum(1 for x in e if x.get('origin'))} also link the original post |"
+        f'  <tr><td align="right"><b>{len(retired["entries"])}</b></td>'
+        '<td>dead links quarantined in <a href="retired.json"><code>retired.json</code></a>, '
+        "not left rotting in place</td></tr>"
     )
     A(
-        f"| **{sum(1 for x in e if x.get('aka'))}** | rows whose name had drifted from the live page, kept searchable as `aka` |"
+        f'  <tr><td align="right"><b>{sum(1 for x in e if x.get("summary_zh"))}</b></td>'
+        "<td>rows with a hand-written Chinese summary</td></tr>"
     )
+    A(
+        f'  <tr><td align="right"><b>{n}</b></td>'
+        f"<td>rows naming the catalog they came from — {sum(1 for x in e if x.get('origin'))} "
+        "also link the original post</td></tr>"
+    )
+    A(
+        f'  <tr><td align="right"><b>{sum(1 for x in e if x.get("aka"))}</b></td>'
+        "<td>rows whose name had drifted from the live page, kept searchable as <code>aka</code></td></tr>"
+    )
+    A("</table>")
     A("")
     A(
         "Names and blurbs are read from the live share page, not from another catalog. How the catalog was "
@@ -561,19 +573,29 @@ def build_zh(cat, retired):
 
     A("## ⚡️ 有什么不一样")
     A("")
-    A("| | |")
-    A("| ---: | --- |")
-    A(f"| **{n}** | 条活分享，每条链接都在 {checked} 实测过——不是从别的列表抄来的 |")
+    A("<table>")
     A(
-        f"| **{len(retired['entries'])}** | 条死链隔离进 [`retired.json`](retired.json)，没有继续留在列表里烂着 |"
-    )
-    A(f"| **{sum(1 for x in e if x.get('summary_zh'))}** | 条配有人工写的中文摘要，不是机翻 |")
-    A(
-        f"| **{n}** | 条都标明来自哪个社区目录——其中 {sum(1 for x in e if x.get('origin'))} 条还链到最早的原帖 |"
+        f'  <tr><td align="right"><b>{n}</b></td>'
+        f"<td>条活分享，每条链接都在 {checked} 实测过——不是从别的列表抄来的</td></tr>"
     )
     A(
-        f"| **{sum(1 for x in e if x.get('aka'))}** | 条的名字已和官方页对不上，旧名保留在 `aka` 里，依然搜得到 |"
+        f'  <tr><td align="right"><b>{len(retired["entries"])}</b></td>'
+        '<td>条死链隔离进 <a href="retired.json"><code>retired.json</code></a>，'
+        "没有继续留在列表里烂着</td></tr>"
     )
+    A(
+        f'  <tr><td align="right"><b>{sum(1 for x in e if x.get("summary_zh"))}</b></td>'
+        "<td>条配有人工写的中文摘要，不是机翻</td></tr>"
+    )
+    A(
+        f'  <tr><td align="right"><b>{n}</b></td>'
+        f"<td>条都标明来自哪个社区目录——其中 {sum(1 for x in e if x.get('origin'))} 条还链到最早的原帖</td></tr>"
+    )
+    A(
+        f'  <tr><td align="right"><b>{sum(1 for x in e if x.get("aka"))}</b></td>'
+        "<td>条的名字已和官方页对不上，旧名保留在 <code>aka</code> 里，依然搜得到</td></tr>"
+    )
+    A("</table>")
     A("")
     A(
         "名称和描述读自官方分享页本身，而不是别人的目录。目录怎么建的、以及它**没有**核验什么："
