@@ -1,0 +1,146 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/kydlikebtc/awesome-grokbot/schema/entry.schema.json",
+  "title": "awesome-grokbot catalog entry",
+  "description": "One publicly shared Grok Bot. Every entry must be attributable and every share link must be a canonical x.ai share URL.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "name",
+    "summary",
+    "summary_zh",
+    "import",
+    "bot_id",
+    "category",
+    "sources",
+    "license"
+  ],
+  "properties": {
+    "slug": {
+      "description": "Stable kebab-case id, unique within the catalog.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "minLength": 1
+    },
+    "name": {
+      "description": "Bot name as shown on the live share page (og:title), not the community nickname.",
+      "type": "string",
+      "minLength": 1
+    },
+    "aka": {
+      "description": "Former or community name, kept when the live page has since been renamed so old names stay searchable.",
+      "type": "string",
+      "minLength": 1
+    },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "name": {
+          "description": "Display name as shown on the share page.",
+          "type": "string",
+          "minLength": 1
+        },
+        "handle": {
+          "description": "Platform handle, when it differs from the display name.",
+          "type": "string"
+        },
+        "url": {
+          "description": "Author profile URL.",
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "summary": {
+      "description": "One-line English description written for a scannable list.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300
+    },
+    "summary_zh": {
+      "description": "One-line Chinese description. Editorial translation, not machine output.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300
+    },
+    "official_summary": {
+      "description": "Verbatim og:description from the share page. x.ai truncates this at roughly 155 characters.",
+      "type": "string",
+      "minLength": 1
+    },
+    "import": {
+      "description": "Canonical share URL. This is the only link users are told to click.",
+      "type": "string",
+      "pattern": "^https://x\\.ai/bot/[A-Za-z0-9_-]+$"
+    },
+    "bot_id": {
+      "description": "The id segment of the share URL. Doubles as the merge key across catalogs.",
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "coding-shipping",
+        "inbox-calendar",
+        "research-briefings",
+        "customer-sales",
+        "finance-ops",
+        "content-publishing",
+        "personal-admin",
+        "teams-handoffs"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 4,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "integrations": {
+      "description": "Connectors the bot expects. Informational only; a share never copies credentials.",
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "origin": {
+      "description": "The post or page where this bot was first shared publicly.",
+      "type": "string",
+      "format": "uri"
+    },
+    "sources": {
+      "description": "Upstream community catalogs this row was merged from. At least one is required so every row is attributable.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["catalog", "url"],
+        "properties": {
+          "catalog": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "first_seen": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "checked": {
+      "description": "Date the share URL last returned HTTP 200.",
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "link_status": {
+      "description": "HTTP status from the last sweep. Only 200 belongs in catalog.json.",
+      "type": "integer"
+    },
+    "license": {
+      "description": "Licence of this row's metadata, not of the linked bot. Derived from the upstream catalogs in sources[]: CC-BY-4.0 when descriptive text was inherited from a CC BY 4.0 catalog (attribution is the sources[] array itself), otherwise CC0-1.0.",
+      "type": "string",
+      "enum": ["CC0-1.0", "CC-BY-4.0"],
+      "default": "CC0-1.0"
+    }
+  }
+}

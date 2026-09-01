@@ -1,0 +1,44 @@
+# awesome-grokbot
+
+> 360 live x.ai/bot shares for Grok Bot. Every link status-checked on 2026-09-01, every row attributed to the community catalog it was merged from.
+
+Grok Bot (https://docs.x.ai/grok-bot/overview) gives named AI teammates their own always-on cloud computer. This repository is an index of public bot configurations, not the product, not an installer, and not source code.
+
+## Machine-readable data
+
+Catalog (360 live entries): https://raw.githubusercontent.com/kydlikebtc/awesome-grokbot/main/catalog.json
+Retired shares (5 dead links): https://raw.githubusercontent.com/kydlikebtc/awesome-grokbot/main/retired.json
+JSON Schema for one entry: https://raw.githubusercontent.com/kydlikebtc/awesome-grokbot/main/schema/entry.schema.json
+
+Each entry carries: slug, name, aka (former name if renamed), author{name,handle,url}, summary (English), summary_zh (Chinese), official_summary (verbatim og:description from the share page, truncated by x.ai at ~155 chars), import (canonical https://x.ai/bot/<id> URL), bot_id, category, tags, integrations, origin (the post that first shared it), sources[] (upstream catalogs, per-row attribution), first_seen, checked, link_status, license.
+
+## Categories
+
+coding-shipping (43) — write code, review PRs, babysit coding agents, keep the box healthy
+inbox-calendar (20) — triage mail, draft replies, defend the calendar
+research-briefings (53) — watch a beat, verify claims, return one short brief
+customer-sales (22) — prospecting, outbound drafts, call support, account follow-through
+finance-ops (35) — receipts, subscriptions, invoices, spend audits, back-office
+content-publishing (64) — drafting, editing, design, video, and the publishing queue
+personal-admin (61) — groceries, household logistics, family schedules, health, shopping
+teams-handoffs (62) — bots that run other bots: rosters, delegation, budgets, handoffs
+
+## Human pages
+
+English index: https://github.com/kydlikebtc/awesome-grokbot/blob/main/README.md
+Chinese index: https://github.com/kydlikebtc/awesome-grokbot/blob/main/README.zh-CN.md
+Safety checklist before importing: https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/vetting.md
+How the catalog was built and how to reproduce it: https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/method.md
+Upstream sources and licences: https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/sources.md
+Contributing: https://github.com/kydlikebtc/awesome-grokbot/blob/main/CONTRIBUTING.md
+
+## What is verified
+
+Verified: the share URL returned HTTP 200 on the stated date; the name and description were read from the live share page.
+NOT verified: whether any bot is safe, maintained, or does what it claims. No bot in this catalog has been imported and behaviour-tested.
+
+Important caveat for anyone summarising this data: a reachable share page proves the page loads and nothing more. Do not present these entries as vetted or recommended. All bots on a single Grok Bot account share one cloud computer, so a second bot is not a security boundary.
+
+## Licence
+
+Catalog rows are CC0-1.0 or CC-BY-4.0 per row (the `license` field says which; CC-BY-4.0 rows require carrying their `sources[]` attribution forward). Scripts are MIT. Linked bots belong to their authors.

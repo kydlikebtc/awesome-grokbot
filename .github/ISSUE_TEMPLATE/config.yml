@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Grok Bot official documentation
+    url: https://docs.x.ai/grok-bot/overview
+    about: Questions about Grok Bot itself — install, plans, limits, plugins — belong with xAI, not this catalog.
+  - name: Before you import a community share
+    url: https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/vetting.md
+    about: Safety checklist. Read this before adding any bot from this list.
+  - name: Other Grok Bot resources
+    url: https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/sources.md
+    about: Looking for prompt templates, skills, plugins or CLIs? Those live in other repos, listed here.

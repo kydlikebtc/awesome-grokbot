@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sweep artifacts from scripts/check_links.py
+sweep.txt
+report.md
+probe.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+
+# Tooling caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/

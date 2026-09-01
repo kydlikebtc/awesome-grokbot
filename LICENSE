@@ -1,0 +1,40 @@
+awesome-grokbot — licence summary
+=================================
+
+This repository is not uniformly licensed, because its inputs are not.
+
+Scripts (`scripts/`, `schema/`)
+    MIT License — see LICENSE-MIT.
+
+Catalog data (`catalog.json`, `retired.json`)
+    Per-row. Each entry declares its own `license` field:
+
+      CC0-1.0     Derived only from CC0 / MIT upstream catalogs, plus this
+                  repository's own contributions. No conditions.
+                  See LICENSE-CC0.
+
+      CC-BY-4.0   Inherited descriptive text from ZeroPointRepo/GrokBotDev,
+                  whose `content/` is licensed CC BY 4.0. Attribution is
+                  required and is carried by the `sources[]` array on the row
+                  itself. If you reuse these rows, carry that attribution
+                  forward. https://creativecommons.org/licenses/by/4.0/
+
+    Facts in the catalog — a bot's name, its share URL, who shared it, and
+    whether the link resolves — are not copyrightable and no rights are
+    asserted over them.
+
+Contributions original to this repository
+    The Chinese summaries, the hand-corrected categories, the link-status
+    measurements, the schema and the scripts are dedicated to the public
+    domain under CC0-1.0 (data) and MIT (code).
+
+Documentation (`README*.md`, `docs/`)
+    CC0-1.0, except where it quotes or paraphrases an upstream source, which
+    is attributed inline.
+
+The bots themselves
+    Every bot linked from this catalog belongs to its author. This repository
+    links to public share pages and paraphrases what those pages say. It does
+    not host, copy, or redistribute any bot profile, prompt, or configuration.
+
+Full attribution and per-source licence notes: docs/sources.md

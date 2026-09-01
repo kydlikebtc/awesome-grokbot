@@ -1,0 +1,94 @@
+name: Add a bot
+description: Suggest a live x.ai/bot share to add to the catalog
+title: "add: "
+labels: ["new-bot"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only live `https://x.ai/bot/<id>` shares belong in this catalog. Prompt templates, skills, plugins and CLIs are out of scope — see [docs/sources.md](../blob/main/docs/sources.md) for where those live.
+
+        Prefer to send a PR? [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) shows the one JSON object to add.
+
+  - type: input
+    id: share
+    attributes:
+      label: Share link
+      description: Must match https://x.ai/bot/<id> exactly.
+      placeholder: https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: opened
+    attributes:
+      label: Did you open it?
+      options:
+        - label: I opened this link and the share page loads.
+          required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Bot name
+      description: The name shown on the live share page, not a nickname.
+    validations:
+      required: true
+
+  - type: input
+    id: summary
+    attributes:
+      label: One-line description (English)
+      description: What it does, in under 100 characters. Skip words like "powerful" and "AI-powered".
+    validations:
+      required: true
+
+  - type: input
+    id: summary_zh
+    attributes:
+      label: One-line description (Chinese) — optional
+      description: 一句话中文说明。留空也可以，会有人补上。
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Pick the job the bot is hired for, not everything it can do.
+      options:
+        - coding-shipping
+        - inbox-calendar
+        - research-briefings
+        - customer-sales
+        - finance-ops
+        - content-publishing
+        - personal-admin
+        - teams-handoffs
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Who shared it
+      description: Display name and profile link, if you know them.
+      placeholder: LD — https://x.com/zapnocode
+
+  - type: input
+    id: origin
+    attributes:
+      label: Origin post
+      description: The post where it was first shared publicly, if you can find it.
+
+  - type: input
+    id: source
+    attributes:
+      label: Where you found it
+      description: Every row must be attributable. Name the catalog, post, or your own repo.
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything a reader should know before importing
+      description: Especially if it moves money, sends on your behalf, or manages other bots.

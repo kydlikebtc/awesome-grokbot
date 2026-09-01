@@ -1,0 +1,44 @@
+name: Fix or remove an entry
+description: A row is wrong, dead, or should not be listed
+title: "fix: "
+labels: ["entry-problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for dead links, wrong descriptions, misfiled categories, or removal requests.
+
+        **If you authored the bot and want it delisted, no justification is needed** — say so below and it will be removed promptly.
+
+        **If a bot behaved maliciously**, please read [SECURITY.md](../blob/main/SECURITY.md) first. Do not paste credentials or personal data into this issue.
+
+  - type: input
+    id: slug
+    attributes:
+      label: Which entry
+      description: The `slug` from catalog.json, or the share link.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - Link is dead
+        - Name or description is wrong
+        - Wrong category
+        - Attribution is wrong or missing
+        - I am the author and want this removed
+        - The bot behaves differently from its description
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: Details
+      description: For a dead link, the status code you saw. For a wrong description, what it should say.
+    validations:
+      required: true
