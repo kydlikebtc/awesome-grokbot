@@ -37,8 +37,8 @@ How `catalog.json` was built, what was measured versus assumed, and how to repro
 | Rows whose live name differs from what the community catalogs recorded              |      32 |
 | — of those, substantive (a real rename, or a share now pointing at a different bot) |       5 |
 | — of those, qualifier-only (`Cursor Agent (Local)` vs `Cursor Agent`)               |      27 |
-| Rows attributable to 2+ upstream catalogs                                           |     334 |
-| Rows carrying an origin post link                                                   |     347 |
+| Rows attributable to 2+ upstream catalogs                                           |     335 |
+| Rows carrying an origin post link                                                   |     348 |
 | Rows given a hand-written Chinese summary in this repo                              |      93 |
 | Rows whose auto-assigned category was corrected by hand                             |      30 |
 
@@ -95,6 +95,15 @@ python3 scripts/lint.py                    # validate catalog.json against the s
 python3 scripts/check_links.py             # re-sweep every share, report drift, exit 1 if any died
 python3 scripts/check_links.py --write     # also update link_status/checked and move dead rows out
 python3 scripts/build_readme.py            # regenerate both READMEs from catalog.json
+```
+
+The social preview card is data-driven too. [`docs/social-card.html`](social-card.html) reads the same `catalog.json`, so the figures on it cannot drift from the catalog:
+
+```bash
+python3 -m http.server 8000                       # from the repo root
+# open http://127.0.0.1:8000/docs/social-card.html at a 1280x640 viewport,
+# screenshot it to docs/screenshots/social-card.png, then upload that at
+# Settings -> General -> Social preview (GitHub exposes no API for this).
 ```
 
 All three are dependency-free — plain `python3`, no `pip install`. `check_links.py` is read-only unless you pass `--write`.

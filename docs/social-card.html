@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* Social card: 1280x640 (2:1) — the ratio GitHub, X and Slack actually render.
+   Purpose-built rather than a shrunken screenshot: a timeline renders this at
+   roughly 500px wide, where UI text in a screenshot is unreadable but a 118px
+   headline and 60px figures still land. */
+      :root {
+        --paper: #f2eee5;
+        --ink: #1c1a16;
+        --ink-2: #645c4e;
+        --ink-3: #9c9384;
+        --rule: #dcd5c5;
+        --rule-soft: #e8e2d5;
+        --accent: #bc4a28;
+        --live: #4a7c59;
+        --serif: "Instrument Serif", Georgia, serif;
+        --sans: "IBM Plex Sans", sans-serif;
+        --mono: "IBM Plex Mono", monospace;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        width: 1280px;
+        height: 640px;
+        overflow: hidden;
+      }
+
+      .card {
+        width: 1280px;
+        height: 640px;
+        position: relative;
+        background: var(--paper);
+        padding: 70px 80px 64px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-image: repeating-linear-gradient(
+          90deg,
+          transparent 0 calc(1280px / 12 - 1px),
+          var(--rule-soft) calc(1280px / 12 - 1px) calc(1280px / 12)
+        );
+      }
+      .card::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        opacity: 0.5;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.055'/%3E%3C/svg%3E");
+      }
+      .card > * {
+        position: relative;
+        z-index: 1;
+      }
+
+      .eyebrow {
+        font-family: var(--mono);
+        font-size: 19px;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: var(--ink-3);
+        display: flex;
+        align-items: center;
+        gap: 14px;
+      }
+      .dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: var(--live);
+        box-shadow: 0 0 0 6px color-mix(in srgb, var(--live) 16%, transparent);
+      }
+
+      h1 {
+        font-family: var(--serif);
+        font-weight: 400;
+        font-size: 118px;
+        line-height: 0.9;
+        letter-spacing: -0.022em;
+        margin: 24px 0 0;
+      }
+      h1 em {
+        font-style: italic;
+        color: var(--accent);
+      }
+
+      .lede {
+        font-family: var(--sans);
+        font-size: 32px;
+        line-height: 1.36;
+        color: var(--ink-2);
+        margin-top: 24px;
+        max-width: 34ch;
+      }
+      .lede b {
+        color: var(--ink);
+        font-weight: 500;
+      }
+      .lede code {
+        font-family: var(--mono);
+        font-size: 0.92em;
+      }
+
+      /* stats left, url right, on one baseline — no absolute positioning, so they
+   can never collide the way they did when the url was pinned to the corner */
+      .bottom {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        gap: 40px;
+        border-top: 1px solid var(--rule);
+        padding-top: 26px;
+      }
+      .stats {
+        display: flex;
+        gap: 46px;
+      }
+      .stat b {
+        display: block;
+        font-family: var(--serif);
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 1;
+        letter-spacing: -0.01em;
+      }
+      .stat span {
+        display: block;
+        font-family: var(--mono);
+        font-size: 15px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--ink-3);
+        margin-top: 9px;
+        white-space: nowrap;
+      }
+      .stat.warn b {
+        color: var(--accent);
+      }
+
+      .url {
+        font-family: var(--mono);
+        font-size: 20px;
+        color: var(--ink-3);
+        letter-spacing: 0.02em;
+        text-align: right;
+        line-height: 1.5;
+        white-space: nowrap;
+      }
+      .url b {
+        display: block;
+        color: var(--ink);
+        font-weight: 500;
+        font-size: 22px;
+      }
+
+      .mark {
+        position: absolute;
+        top: 70px;
+        right: 80px;
+        width: 78px;
+        height: 78px;
+        z-index: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <div>
+        <p class="eyebrow">
+          <span class="dot"></span>All links checked <span id="checked">—</span>
+        </p>
+        <h1>awesome<em>-</em>grokbot</h1>
+        <p class="lede">
+          <b><span id="n-lede">—</span> live <code>x.ai/bot</code> shares</b> for Grok Bot — every link
+          fetched, every row attributed.
+        </p>
+      </div>
+
+      <div class="bottom">
+        <div class="stats">
+          <div class="stat"><b id="n-live">—</b><span>live</span></div>
+          <div class="stat"><b id="n-zh">—</b><span>bilingual</span></div>
+          <div class="stat"><b id="n-origin">—</b><span>with origin</span></div>
+          <div class="stat warn"><b id="n-retired">—</b><span>retired</span></div>
+        </div>
+        <p class="url">
+          <b>kydlikebtc.github.io/awesome-grokbot</b
+          >github.com/kydlikebtc/awesome-grokbot
+        </p>
+      </div>
+
+      <svg class="mark" viewBox="0 0 64 64">
+        <rect width="64" height="64" rx="13" fill="#1c1a16" />
+        <rect x="13" y="23" width="27" height="4.5" rx="2.25" fill="#f2eee5" />
+        <rect
+          x="13"
+          y="33"
+          width="36"
+          height="4.5"
+          rx="2.25"
+          fill="#f2eee5"
+          opacity=".6"
+        />
+        <rect
+          x="13"
+          y="43"
+          width="21"
+          height="4.5"
+          rx="2.25"
+          fill="#f2eee5"
+          opacity=".34"
+        />
+        <circle
+          cx="47"
+          cy="19"
+          r="7.5"
+          fill="#bc4a28"
+          stroke="#1c1a16"
+          stroke-width="3.5"
+        />
+      </svg>
+    </div>
+
+    <script>
+      // Figures come from catalog.json so this card can never drift from the
+      // data. Regenerate after the catalog changes:
+      //   python3 -m http.server 8000     (from the repo root)
+      //   open http://127.0.0.1:8000/docs/social-card.html
+      //   screenshot the 1280x640 viewport -> docs/screenshots/social-card.png
+      //   upload it at Settings -> General -> Social preview
+      fetch("../catalog.json")
+        .then((r) => r.json())
+        .then((c) => {
+          const e = c.entries;
+          const set = (id, v) => (document.getElementById(id).textContent = v);
+          set("n-live", c.counts.live);
+          set("n-lede", c.counts.live);
+          set("n-zh", e.filter((x) => x.summary_zh).length);
+          set("n-origin", e.filter((x) => x.origin).length);
+          set("n-retired", c.counts.retired);
+          set("checked", c.checked);
+          document.body.dataset.ready = "1";
+        });
+    </script>
+  </body>
+</html>
