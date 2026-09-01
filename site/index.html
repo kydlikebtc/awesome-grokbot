@@ -1,0 +1,1123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>awesome-grokbot — a checked catalog of live Grok Bot shares</title>
+    <meta
+      name="description"
+      content="361 live x.ai/bot shares for Grok Bot. Every link status-checked, every row attributed. Search and filter by category, tag, or author."
+    />
+    <link
+      rel="canonical"
+      href="https://kydlikebtc.github.io/awesome-grokbot/"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="awesome-grokbot — a checked catalog of live Grok Bot shares"
+    />
+    <meta
+      property="og:description"
+      content="361 live x.ai/bot shares. Every link status-checked, every row attributed to where it came from."
+    />
+    <meta
+      property="og:url"
+      content="https://kydlikebtc.github.io/awesome-grokbot/"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;450;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      :root {
+        --paper: #f2eee5;
+        --card: #fbf9f4;
+        --ink: #1c1a16;
+        --ink-2: #645c4e;
+        --ink-3: #9c9384;
+        --rule: #dcd5c5;
+        --rule-soft: #e8e2d5;
+        --accent: #bc4a28;
+        --accent-ink: #8f3419;
+        --accent-wash: #f6e7de;
+        --live: #4a7c59;
+
+        --c-coding: #3a6b91;
+        --c-inbox: #8a6a34;
+        --c-research: #4f7a52;
+        --c-customer: #8d4468;
+        --c-finance: #7a6935;
+        --c-content: #b25c33;
+        --c-personal: #3f7a7a;
+        --c-teams: #65558c;
+
+        --serif: "Instrument Serif", Georgia, serif;
+        --sans: "IBM Plex Sans", -apple-system, sans-serif;
+        --mono: "IBM Plex Mono", ui-monospace, monospace;
+        --wrap: 1180px;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --paper: #14130f;
+          --card: #1c1a15;
+          --ink: #ece6d9;
+          --ink-2: #a9a091;
+          --ink-3: #736b5d;
+          --rule: #302c24;
+          --rule-soft: #262319;
+          --accent: #e4703f;
+          --accent-ink: #f08e5f;
+          --accent-wash: #2a1d15;
+          --live: #7fae87;
+
+          --c-coding: #7aaed6;
+          --c-inbox: #d0a55e;
+          --c-research: #8cc190;
+          --c-customer: #d38ab0;
+          --c-finance: #c4ac62;
+          --c-content: #e89263;
+          --c-personal: #6fbcbc;
+          --c-teams: #a695d6;
+        }
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        font-family: var(--sans);
+        background: var(--paper);
+        color: var(--ink);
+        font-size: 15px;
+        line-height: 1.55;
+        -webkit-font-smoothing: antialiased;
+        padding-bottom: 6rem;
+        position: relative;
+      }
+
+      /* paper grain — keeps the flat fill from reading as a screenshot of a spec */
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: 0;
+        opacity: 0.5;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.055'/%3E%3C/svg%3E");
+      }
+      @media (prefers-color-scheme: dark) {
+        body::before {
+          opacity: 0.28;
+          mix-blend-mode: screen;
+        }
+      }
+
+      .wrap {
+        max-width: var(--wrap);
+        margin: 0 auto;
+        padding: 0 clamp(1rem, 4vw, 2.5rem);
+        position: relative;
+        z-index: 1;
+      }
+
+      /* ---------------------------------------------------------------- header */
+      header {
+        border-bottom: 1px solid var(--rule);
+        padding: clamp(2.5rem, 6vw, 4.5rem) 0 0;
+        background: repeating-linear-gradient(
+          90deg,
+          transparent 0 calc(100% / 12 - 1px),
+          var(--rule-soft) calc(100% / 12 - 1px) calc(100% / 12)
+        );
+      }
+
+      .eyebrow {
+        font-family: var(--mono);
+        font-size: 0.68rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: var(--ink-3);
+        display: flex;
+        gap: 0.9rem;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .eyebrow .dot {
+        width: 5px;
+        height: 5px;
+        border-radius: 50%;
+        background: var(--live);
+        box-shadow: 0 0 0 3px color-mix(in srgb, var(--live) 18%, transparent);
+        animation: pulse 3.4s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.45;
+        }
+      }
+
+      h1 {
+        font-family: var(--serif);
+        font-weight: 400;
+        font-size: clamp(2.7rem, 8vw, 5.6rem);
+        line-height: 0.94;
+        letter-spacing: -0.02em;
+        margin: 1.1rem 0 0;
+      }
+      h1 em {
+        font-style: italic;
+        color: var(--accent);
+      }
+
+      .lede {
+        font-size: clamp(1rem, 2vw, 1.16rem);
+        color: var(--ink-2);
+        max-width: 46ch;
+        margin-top: 1.15rem;
+        line-height: 1.5;
+      }
+      .lede strong {
+        color: var(--ink);
+        font-weight: 500;
+      }
+
+      .facts {
+        display: flex;
+        gap: clamp(1.4rem, 4vw, 3rem);
+        flex-wrap: wrap;
+        margin: 2.2rem 0 0;
+        padding: 1.15rem 0;
+        border-top: 1px solid var(--rule-soft);
+      }
+      .fact {
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+      }
+      .fact b {
+        font-family: var(--serif);
+        font-size: 1.85rem;
+        font-weight: 400;
+        line-height: 1;
+        letter-spacing: -0.01em;
+      }
+      .fact span {
+        font-family: var(--mono);
+        font-size: 0.63rem;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+        color: var(--ink-3);
+      }
+      .fact.warn b {
+        color: var(--accent);
+      }
+
+      .headlinks {
+        display: flex;
+        gap: 1.4rem;
+        flex-wrap: wrap;
+        padding: 0 0 1.6rem;
+        font-size: 0.83rem;
+      }
+      .headlinks a {
+        color: var(--ink-2);
+        text-decoration: none;
+        border-bottom: 1px solid var(--rule);
+        padding-bottom: 1px;
+        transition: 0.16s;
+      }
+      .headlinks a:hover {
+        color: var(--accent);
+        border-color: var(--accent);
+      }
+
+      /* --------------------------------------------------------------- controls */
+      .controls {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        background: color-mix(in srgb, var(--paper) 93%, transparent);
+        backdrop-filter: blur(14px);
+        border-bottom: 1px solid var(--rule);
+        padding: 0.85rem 0;
+      }
+
+      .searchrow {
+        display: flex;
+        gap: 0.7rem;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      .search {
+        flex: 1 1 260px;
+        position: relative;
+        display: flex;
+        align-items: center;
+      }
+      .search svg {
+        position: absolute;
+        left: 0.8rem;
+        width: 15px;
+        height: 15px;
+        stroke: var(--ink-3);
+        fill: none;
+        stroke-width: 1.8;
+        pointer-events: none;
+      }
+      .search input {
+        width: 100%;
+        font-family: var(--sans);
+        font-size: 0.94rem;
+        color: var(--ink);
+        background: var(--card);
+        border: 1px solid var(--rule);
+        border-radius: 2px;
+        padding: 0.62rem 0.8rem 0.62rem 2.3rem;
+        outline: none;
+        transition: 0.16s;
+      }
+      .search input::placeholder {
+        color: var(--ink-3);
+      }
+      .search input:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 3px var(--accent-wash);
+      }
+      .search kbd {
+        position: absolute;
+        right: 0.55rem;
+        font-family: var(--mono);
+        font-size: 0.65rem;
+        color: var(--ink-3);
+        border: 1px solid var(--rule);
+        border-radius: 2px;
+        padding: 0.1rem 0.32rem;
+        background: var(--paper);
+      }
+      .search input:not(:placeholder-shown) ~ kbd {
+        display: none;
+      }
+
+      .langtoggle {
+        display: flex;
+        border: 1px solid var(--rule);
+        border-radius: 2px;
+        overflow: hidden;
+        background: var(--card);
+      }
+      .langtoggle button {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        letter-spacing: 0.06em;
+        padding: 0.58rem 0.72rem;
+        background: none;
+        border: none;
+        color: var(--ink-2);
+        cursor: pointer;
+        transition: 0.14s;
+      }
+      .langtoggle button[aria-pressed="true"] {
+        background: var(--ink);
+        color: var(--paper);
+      }
+
+      .chips {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+        margin-top: 0.7rem;
+        align-items: center;
+      }
+      .chip {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        letter-spacing: 0.02em;
+        padding: 0.33rem 0.6rem;
+        border: 1px solid var(--rule);
+        border-radius: 2px;
+        background: var(--card);
+        color: var(--ink-2);
+        cursor: pointer;
+        transition: 0.14s;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.42rem;
+        white-space: nowrap;
+      }
+      .chip:hover {
+        border-color: var(--ink-3);
+        color: var(--ink);
+      }
+      .chip .swatch {
+        width: 7px;
+        height: 7px;
+        border-radius: 1px;
+        background: var(--cc, var(--ink-3));
+        flex: none;
+      }
+      .chip .n {
+        color: var(--ink-3);
+        font-size: 0.66rem;
+      }
+      .chip[aria-pressed="true"] {
+        background: var(--ink);
+        color: var(--paper);
+        border-color: var(--ink);
+      }
+      .chip[aria-pressed="true"] .n {
+        color: color-mix(in srgb, var(--paper) 62%, transparent);
+      }
+      .chip.clear {
+        border-style: dashed;
+        color: var(--accent);
+        border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+      }
+
+      .countbar {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        color: var(--ink-3);
+        letter-spacing: 0.06em;
+        padding: 0.75rem 0 0.2rem;
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .countbar b {
+        color: var(--ink);
+        font-weight: 500;
+      }
+
+      /* ----------------------------------------------------------------- rows */
+      ol.rows {
+        list-style: none;
+      }
+
+      li.row {
+        display: grid;
+        grid-template-columns: 3.4rem 1fr auto;
+        gap: 0 1rem;
+        padding: 1rem 0 0.95rem;
+        border-bottom: 1px solid var(--rule-soft);
+        align-items: start;
+        animation: rise 0.42s cubic-bezier(0.22, 0.68, 0.36, 1) backwards;
+      }
+      @keyframes rise {
+        from {
+          opacity: 0;
+          transform: translateY(7px);
+        }
+        to {
+          opacity: 1;
+          transform: none;
+        }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        li.row {
+          animation: none;
+        }
+        .eyebrow .dot {
+          animation: none;
+        }
+      }
+
+      li.row:hover {
+        background: linear-gradient(90deg, var(--accent-wash), transparent 62%);
+      }
+
+      .num {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        color: var(--ink-3);
+        padding-top: 0.32rem;
+        font-variant-numeric: tabular-nums;
+        letter-spacing: 0.02em;
+      }
+
+      .body {
+        min-width: 0;
+      }
+
+      .name {
+        font-family: var(--serif);
+        font-size: 1.32rem;
+        line-height: 1.2;
+        font-weight: 400;
+        letter-spacing: -0.005em;
+        display: inline;
+      }
+      .name a {
+        color: var(--ink);
+        text-decoration: none;
+        background-image: linear-gradient(var(--accent), var(--accent));
+        background-size: 0 1px;
+        background-repeat: no-repeat;
+        background-position: 0 100%;
+        transition: background-size 0.22s;
+      }
+      .name a:hover {
+        color: var(--accent-ink);
+        background-size: 100% 1px;
+      }
+      .aka {
+        font-family: var(--mono);
+        font-size: 0.66rem;
+        color: var(--ink-3);
+        margin-left: 0.45rem;
+        white-space: nowrap;
+      }
+
+      .summary {
+        color: var(--ink-2);
+        margin-top: 0.16rem;
+        max-width: 74ch;
+        font-size: 0.93rem;
+      }
+      .summary mark {
+        background: color-mix(in srgb, var(--accent) 22%, transparent);
+        color: inherit;
+        border-radius: 1px;
+        padding: 0 0.08em;
+      }
+
+      .meta {
+        display: flex;
+        gap: 0.55rem;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-top: 0.42rem;
+        font-family: var(--mono);
+        font-size: 0.67rem;
+        color: var(--ink-3);
+      }
+      .meta a {
+        color: var(--ink-3);
+        text-decoration: none;
+        border-bottom: 1px solid var(--rule);
+      }
+      .meta a:hover {
+        color: var(--accent);
+      }
+      .meta .sep {
+        opacity: 0.4;
+      }
+      .cat {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.32rem;
+        color: var(--cc);
+      }
+      .cat::before {
+        content: "";
+        width: 6px;
+        height: 6px;
+        border-radius: 1px;
+        background: var(--cc);
+      }
+      .tag {
+        background: var(--rule-soft);
+        padding: 0.08rem 0.32rem;
+        border-radius: 2px;
+        color: var(--ink-3);
+      }
+
+      details.more {
+        margin-top: 0.4rem;
+      }
+      details.more summary {
+        font-family: var(--mono);
+        font-size: 0.65rem;
+        color: var(--ink-3);
+        cursor: pointer;
+        list-style: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        letter-spacing: 0.05em;
+      }
+      details.more summary::-webkit-details-marker {
+        display: none;
+      }
+      details.more summary::before {
+        content: "+";
+        font-weight: 600;
+      }
+      details.more[open] summary::before {
+        content: "–";
+      }
+      details.more summary:hover {
+        color: var(--accent);
+      }
+      .official {
+        margin-top: 0.4rem;
+        padding: 0.55rem 0.7rem;
+        background: var(--card);
+        border-left: 2px solid var(--rule);
+        font-size: 0.85rem;
+        color: var(--ink-2);
+        max-width: 74ch;
+      }
+      .official q {
+        font-style: italic;
+      }
+      .official .src {
+        display: block;
+        font-family: var(--mono);
+        font-size: 0.62rem;
+        color: var(--ink-3);
+        margin-top: 0.34rem;
+        letter-spacing: 0.04em;
+      }
+
+      .add {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        letter-spacing: 0.03em;
+        white-space: nowrap;
+        padding: 0.42rem 0.68rem;
+        border: 1px solid var(--rule);
+        border-radius: 2px;
+        background: var(--card);
+        color: var(--ink-2);
+        text-decoration: none;
+        transition: 0.15s;
+        display: inline-flex;
+        gap: 0.4rem;
+        align-items: center;
+        margin-top: 0.28rem;
+      }
+      .add:hover {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #fff;
+      }
+      .add .arw {
+        transition: transform 0.18s;
+      }
+      .add:hover .arw {
+        transform: translateX(2px);
+      }
+
+      /* -------------------------------------------------------------- states */
+      .state {
+        padding: 4.5rem 0;
+        text-align: center;
+        color: var(--ink-3);
+      }
+      .state h2 {
+        font-family: var(--serif);
+        font-size: 1.7rem;
+        font-weight: 400;
+        color: var(--ink);
+        margin-bottom: 0.4rem;
+      }
+      .state p {
+        max-width: 44ch;
+        margin: 0 auto;
+        font-size: 0.92rem;
+      }
+      .state button,
+      .state a.btn {
+        display: inline-block;
+        margin-top: 1.1rem;
+        font-family: var(--mono);
+        font-size: 0.72rem;
+        padding: 0.5rem 0.9rem;
+        cursor: pointer;
+        background: var(--ink);
+        color: var(--paper);
+        border: none;
+        border-radius: 2px;
+        text-decoration: none;
+      }
+
+      footer {
+        border-top: 1px solid var(--rule);
+        margin-top: 3rem;
+        padding: 2rem 0;
+        color: var(--ink-3);
+        font-size: 0.83rem;
+      }
+      footer a {
+        color: var(--ink-2);
+      }
+      footer .note {
+        max-width: 62ch;
+        margin-top: 0.6rem;
+        line-height: 1.55;
+      }
+      footer .warn {
+        color: var(--accent-ink);
+        font-weight: 500;
+      }
+
+      @media (max-width: 640px) {
+        li.row {
+          grid-template-columns: 2.2rem 1fr;
+          gap: 0 0.7rem;
+        }
+        .add {
+          grid-column: 2;
+          justify-self: start;
+          margin-top: 0.5rem;
+        }
+        h1 {
+          font-size: clamp(2.2rem, 11vw, 3rem);
+        }
+        .facts {
+          gap: 1.2rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <p class="eyebrow">
+          <span class="dot" aria-hidden="true"></span
+          ><span id="checked">loading catalog…</span>
+        </p>
+        <h1>awesome<em>-</em>grokbot</h1>
+        <p class="lede">
+          A catalog of publicly shared <strong>Grok Bot</strong> teammates.
+          Every share link was fetched and checked, and every row says where it
+          came from.
+        </p>
+
+        <div class="facts" id="facts"></div>
+
+        <nav class="headlinks">
+          <a href="https://github.com/kydlikebtc/awesome-grokbot">Repository</a>
+          <a
+            href="https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/vetting.md"
+            >Before you import</a
+          >
+          <a
+            href="https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/method.md"
+            >Method</a
+          >
+          <a
+            href="https://github.com/kydlikebtc/awesome-grokbot/blob/main/catalog.json"
+            >catalog.json</a
+          >
+          <a href="https://docs.x.ai/grok-bot/overview">What is Grok Bot?</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="controls">
+      <div class="wrap">
+        <div class="searchrow">
+          <label class="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" />
+              <path d="m20 20-3.5-3.5" />
+            </svg>
+            <input
+              id="q"
+              type="search"
+              placeholder="Search names, descriptions, authors, tags…"
+              autocomplete="off"
+              spellcheck="false"
+              aria-label="Search the catalog"
+            />
+            <kbd>/</kbd>
+          </label>
+          <div class="langtoggle" role="group" aria-label="Summary language">
+            <button id="lang-en" aria-pressed="true">EN</button>
+            <button id="lang-zh" aria-pressed="false">中文</button>
+          </div>
+        </div>
+        <div class="chips" id="chips"></div>
+        <div class="countbar">
+          <span id="count">—</span>
+          <span id="hint">Press <b>/</b> to search · <b>Esc</b> to clear</span>
+        </div>
+      </div>
+    </div>
+
+    <main class="wrap">
+      <div id="state" class="state"><p>Loading shares…</p></div>
+      <ol class="rows" id="rows"></ol>
+    </main>
+
+    <footer>
+      <div class="wrap">
+        <p>
+          Catalog data
+          <a
+            href="https://github.com/kydlikebtc/awesome-grokbot/blob/main/LICENSE"
+            >CC0&#8209;1.0 / CC&nbsp;BY&nbsp;4.0 per row</a
+          >
+          · site and scripts MIT · linked bots belong to their authors.
+        </p>
+        <p class="note">
+          <span class="warn"
+            >A green link proves the page loads, nothing more.</span
+          >
+          No bot here has been imported and behaviour-tested. All bots on one
+          Grok Bot account share a single computer, so a second bot is not a
+          security boundary. Read
+          <a
+            href="https://github.com/kydlikebtc/awesome-grokbot/blob/main/docs/vetting.md"
+            >the checklist</a
+          >
+          before importing anything.
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      (() => {
+        "use strict";
+
+        const CATS = [
+          ["coding-shipping", "Coding & shipping", "编码与交付", "--c-coding"],
+          ["inbox-calendar", "Inbox & calendar", "收件箱与日历", "--c-inbox"],
+          [
+            "research-briefings",
+            "Research & briefings",
+            "研究与简报",
+            "--c-research",
+          ],
+          ["customer-sales", "Customer & sales", "客户与销售", "--c-customer"],
+          ["finance-ops", "Finance & ops", "财务与运营", "--c-finance"],
+          [
+            "content-publishing",
+            "Content & publishing",
+            "内容与发布",
+            "--c-content",
+          ],
+          ["personal-admin", "Personal admin", "个人事务", "--c-personal"],
+          ["teams-handoffs", "Teams & handoffs", "团队与交接", "--c-teams"],
+        ];
+        const CAT = Object.fromEntries(
+          CATS.map(([k, en, zh, v]) => [k, { en, zh, v }]),
+        );
+
+        const $ = (s) => document.querySelector(s);
+        const rowsEl = $("#rows"),
+          stateEl = $("#state"),
+          qEl = $("#q"),
+          chipsEl = $("#chips"),
+          countEl = $("#count");
+
+        let DATA = [],
+          active = new Set(),
+          lang = "en",
+          query = "";
+
+        /* --- output encoding -----------------------------------------------------
+     Two separate defences, because they stop different things:
+       esc()     neutralises HTML metacharacters in text and attribute values
+       safeURL() enforces an http(s) allowlist, which esc() cannot do — an
+                 escaped "javascript:..." is still a working javascript: URL
+     catalog.json is trusted today and lint.py already rejects non-http URLs,
+     but this page must not depend on an upstream check to stay safe.
+  ------------------------------------------------------------------------- */
+        const esc = (s) =>
+          String(s ?? "").replace(
+            /[&<>"']/g,
+            (c) =>
+              ({
+                "&": "&amp;",
+                "<": "&lt;",
+                ">": "&gt;",
+                '"': "&quot;",
+                "'": "&#39;",
+              })[c],
+          );
+
+        function safeURL(u) {
+          try {
+            const url = new URL(String(u), location.href);
+            return url.protocol === "https:" || url.protocol === "http:"
+              ? url.href
+              : "";
+          } catch {
+            return "";
+          }
+        }
+        const href = (u) => esc(safeURL(u));
+
+        const rxEscape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+        function highlight(text, q) {
+          const safe = esc(text);
+          if (!q) return safe;
+          const terms = q
+            .split(/\s+/)
+            .filter((t) => t.length > 1)
+            .map(rxEscape);
+          if (!terms.length) return safe;
+          return safe.replace(
+            new RegExp(`(${terms.join("|")})`, "gi"),
+            "<mark>$1</mark>",
+          );
+        }
+
+        // ---- URL state so a filtered view is shareable -------------------------
+        function readURL() {
+          const p = new URLSearchParams(location.hash.slice(1));
+          query = p.get("q") || "";
+          lang = p.get("lang") === "zh" ? "zh" : "en";
+          const c = p.get("cat");
+          active = new Set(c ? c.split(",").filter((k) => CAT[k]) : []);
+        }
+        function writeURL() {
+          const p = new URLSearchParams();
+          if (query) p.set("q", query);
+          if (active.size) p.set("cat", [...active].join(","));
+          if (lang !== "en") p.set("lang", lang);
+          const h = p.toString();
+          history.replaceState(null, "", h ? `#${h}` : location.pathname);
+        }
+
+        // ---- rendering ---------------------------------------------------------
+        function haystack(e) {
+          return [
+            e.name,
+            e.aka,
+            e.summary,
+            e.summary_zh,
+            e.official_summary,
+            e.author?.name,
+            e.author?.handle,
+            ...(e.tags || []),
+            e.category,
+          ]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase();
+        }
+
+        function match(e) {
+          if (active.size && !active.has(e.category)) return false;
+          if (!query) return true;
+          return query
+            .toLowerCase()
+            .split(/\s+/)
+            .filter(Boolean)
+            .every((t) => e._h.includes(t));
+        }
+
+        function rowHTML(e, i) {
+          const c = CAT[e.category] || {};
+          const summary =
+            lang === "zh" && e.summary_zh ? e.summary_zh : e.summary;
+          const a = e.author || {};
+          const aUrl = href(a.url);
+          const who = aUrl
+            ? `<a href="${aUrl}" rel="noopener noreferrer">${esc(a.name || a.handle)}</a>`
+            : esc(a.name || "");
+          const share = href(e.import);
+          const origin = href(e.origin);
+
+          const tags = (e.tags || [])
+            .slice(0, 3)
+            .map((t) => `<span class="tag">${esc(t)}</span>`)
+            .join("");
+
+          const more = e.official_summary
+            ? `
+      <details class="more">
+        <summary>${lang === "zh" ? "官方分享页描述" : "from the share page"}</summary>
+        <div class="official"><q>${esc(e.official_summary)}</q>
+          <span class="src">${
+            lang === "zh"
+              ? "读自分享页 og:description（x.ai 在约 155 字符处截断）"
+              : "read from the share page's og:description — x.ai truncates it near 155 chars"
+          }</span>
+        </div>
+      </details>`
+            : "";
+
+          return `<li class="row" style="animation-delay:${Math.min(i, 24) * 14}ms">
+      <div class="num">${String(i + 1).padStart(3, "0")}</div>
+      <div class="body">
+        <span class="name"><a href="${share}" rel="noopener noreferrer">${highlight(e.name, query)}</a></span>
+        ${e.aka ? `<span class="aka">aka ${esc(e.aka)}</span>` : ""}
+        <p class="summary">${highlight(summary, query)}</p>
+        <p class="meta">
+          <span class="cat" style="--cc:var(${esc(c.v)})">${esc(lang === "zh" ? c.zh : c.en)}</span>
+          ${who ? `<span class="sep">·</span>${who}` : ""}
+          ${tags ? `<span class="sep">·</span>${tags}` : ""}
+          ${origin ? `<span class="sep">·</span><a href="${origin}" rel="noopener noreferrer">${lang === "zh" ? "出处" : "origin"}</a>` : ""}
+        </p>
+        ${more}
+      </div>
+      <a class="add" href="${share}" rel="noopener noreferrer">${lang === "zh" ? "打开分享页" : "Open share"} <span class="arw">→</span></a>
+    </li>`;
+        }
+
+        function render() {
+          const list = DATA.filter(match);
+          rowsEl.innerHTML = list.map(rowHTML).join("");
+
+          countEl.innerHTML =
+            list.length === DATA.length
+              ? `<b>${DATA.length}</b> shares`
+              : `<b>${list.length}</b> of ${DATA.length} shares`;
+
+          stateEl.hidden = list.length > 0;
+          if (!list.length) {
+            const zh = lang === "zh";
+            const q = esc(query);
+            let why;
+            if (query && active.size)
+              why = zh
+                ? `所选分类里没有匹配 <b>${q}</b> 的分享。`
+                : `No share in the selected categories matches <b>${q}</b>.`;
+            else if (query)
+              why = zh
+                ? `没有匹配 <b>${q}</b> 的分享。`
+                : `No share matches <b>${q}</b>.`;
+            else
+              why = zh
+                ? "所选分类下没有分享。"
+                : "No shares in the selected categories.";
+            stateEl.innerHTML =
+              `<h2>${zh ? "没有匹配的结果" : "Nothing matches"}</h2><p>${why}</p>` +
+              `<button id="reset">${zh ? "清除全部筛选" : "Clear filters"}</button>`;
+            $("#reset").onclick = () => {
+              query = "";
+              qEl.value = "";
+              active.clear();
+              sync();
+            };
+          }
+          writeURL();
+        }
+
+        function renderChips() {
+          const counts = {};
+          for (const e of DATA)
+            counts[e.category] = (counts[e.category] || 0) + 1;
+          chipsEl.innerHTML =
+            CATS.map(
+              ([k, en, zh, v]) =>
+                `<button class="chip" data-cat="${esc(k)}" aria-pressed="${active.has(k)}" style="--cc:var(${esc(v)})">
+         <span class="swatch"></span>${esc(lang === "zh" ? zh : en)}<span class="n">${counts[k] || 0}</span>
+       </button>`,
+            ).join("") +
+            (active.size
+              ? `<button class="chip clear" id="clearcats">${lang === "zh" ? "清除筛选" : "clear"} ✕</button>`
+              : "");
+
+          chipsEl.querySelectorAll("[data-cat]").forEach((b) => {
+            b.onclick = () => {
+              const k = b.dataset.cat;
+              active.has(k) ? active.delete(k) : active.add(k);
+              sync();
+            };
+          });
+          const cc = $("#clearcats");
+          if (cc)
+            cc.onclick = () => {
+              active.clear();
+              sync();
+            };
+        }
+
+        function sync() {
+          renderChips();
+          render();
+        }
+
+        // ---- boot --------------------------------------------------------------
+        fetch("catalog.json")
+          .then((r) => {
+            if (!r.ok) throw new Error(`HTTP ${r.status}`);
+            return r.json();
+          })
+          .then((cat) => {
+            DATA = Array.isArray(cat.entries) ? cat.entries : [];
+            DATA.forEach((e) => {
+              e._h = haystack(e);
+            });
+
+            const counts = cat.counts || {};
+            $("#checked").textContent =
+              `${Number(counts.live) || DATA.length} live shares · all links checked ${String(cat.checked || "")}`;
+
+            $("#facts").innerHTML = `
+        <div class="fact"><b>${Number(counts.live) || DATA.length}</b><span>live shares</span></div>
+        <div class="fact"><b>${DATA.filter((e) => e.summary_zh).length}</b><span>bilingual rows</span></div>
+        <div class="fact"><b>${DATA.filter((e) => e.origin).length}</b><span>with origin post</span></div>
+        <div class="fact warn"><b>${Number(counts.retired) || 0}</b><span>retired, kept visible</span></div>`;
+
+            readURL();
+            qEl.value = query;
+            setLang(lang, true);
+            sync();
+          })
+          .catch((err) => {
+            stateEl.hidden = false;
+            stateEl.innerHTML = `<h2>Could not load the catalog</h2>
+        <p>${esc(err.message)}. The data is still readable directly on GitHub.</p>
+        <a class="btn" href="https://github.com/kydlikebtc/awesome-grokbot/blob/main/catalog.json">Open catalog.json</a>`;
+          });
+
+        // ---- interaction -------------------------------------------------------
+        let t;
+        qEl.addEventListener("input", () => {
+          clearTimeout(t);
+          t = setTimeout(() => {
+            query = qEl.value.trim();
+            render();
+          }, 110);
+        });
+
+        function setLang(l, quiet) {
+          lang = l;
+          $("#lang-en").setAttribute("aria-pressed", String(l === "en"));
+          $("#lang-zh").setAttribute("aria-pressed", String(l === "zh"));
+          qEl.placeholder =
+            l === "zh"
+              ? "搜索名称、描述、作者、标签…"
+              : "Search names, descriptions, authors, tags…";
+          $("#hint").innerHTML =
+            l === "zh"
+              ? "按 <b>/</b> 搜索 · <b>Esc</b> 清空"
+              : "Press <b>/</b> to search · <b>Esc</b> to clear";
+          if (!quiet) sync();
+        }
+        $("#lang-en").onclick = () => setLang("en");
+        $("#lang-zh").onclick = () => setLang("zh");
+
+        document.addEventListener("keydown", (e) => {
+          if (e.key === "/" && document.activeElement !== qEl) {
+            e.preventDefault();
+            qEl.focus();
+          }
+          if (e.key === "Escape" && document.activeElement === qEl) {
+            qEl.value = "";
+            query = "";
+            qEl.blur();
+            render();
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>

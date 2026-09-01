@@ -18,6 +18,10 @@
 
 > [Grok Bot](https://docs.x.ai/grok-bot/overview) gives named AI teammates their own always-on cloud computer. This repo is not Grok Bot, not an installer, and not source code — it is the index of public bot configurations you can preview on `x.ai` and add to your own account in one click.
 
+## 🌐 Browse it as a site
+
+**[kydlikebtc.github.io/awesome-grokbot](https://kydlikebtc.github.io/awesome-grokbot/)** — the same 361 rows with instant search across names, descriptions, authors and tags, category filters, and an EN/中文 toggle. Filtered views are shareable: the URL carries your search and filters, so [`#q=inbox&cat=inbox-calendar`](https://kydlikebtc.github.io/awesome-grokbot/#q=inbox&cat=inbox-calendar) opens exactly what you were looking at. Served straight from [`catalog.json`](catalog.json) — no build step, no tracking, no cookies.
+
 ## ⚡️ Why this list
 
 There are already several Grok Bot lists. They disagree with each other, and most of them never re-check the links they publish. This one is built differently:

@@ -1,0 +1,61 @@
+name: pages
+
+# Publishes site/ to GitHub Pages, with catalog.json copied in at build time so
+# the data lives in exactly one place in the repo.
+#
+# Injection review: no `github.event.*` value is referenced anywhere in this
+# workflow, so no attacker-controlled string can reach a `run:` block. The one
+# expression used, steps.deployment.outputs.page_url, is emitted by the
+# deploy-pages action itself and is consumed by `environment.url`, not by a shell.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "catalog.json"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish rather than cancelling it mid-publish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble the site
+        run: |
+          cp catalog.json site/catalog.json
+          # Pages serves the artifact as-is; .nojekyll stops Jekyll touching it.
+          touch site/.nojekyll
+          echo "site contents:"
+          ls -la site/
+
+      - name: Sanity-check the copied catalog
+        run: python3 scripts/check_site_data.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

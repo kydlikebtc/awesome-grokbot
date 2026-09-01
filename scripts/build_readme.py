@@ -17,6 +17,7 @@ from collections import Counter
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO_SLUG = "kydlikebtc/awesome-grokbot"
 REPO_URL = f"https://github.com/{REPO_SLUG}"
+SITE_URL = "https://kydlikebtc.github.io/awesome-grokbot/"
 
 # emoji, English label, Chinese label, English blurb, Chinese blurb
 CATEGORIES = [
@@ -253,6 +254,16 @@ def build_en(cat, retired):
     A("")
 
     # ---- why
+    A("## 🌐 Browse it as a site")
+    A("")
+    A(
+        f"**[{SITE_URL.replace('https://', '').rstrip('/')}]({SITE_URL})** — the same {n} rows with instant "
+        "search across names, descriptions, authors and tags, category filters, and an EN/中文 toggle. "
+        "Filtered views are shareable: the URL carries your search and filters, so "
+        f"[`#q=inbox&cat=inbox-calendar`]({SITE_URL}#q=inbox&cat=inbox-calendar) opens exactly what you were "
+        "looking at. Served straight from [`catalog.json`](catalog.json) — no build step, no tracking, no cookies."
+    )
+    A("")
     A("## ⚡️ Why this list")
     A("")
     A(
@@ -398,7 +409,9 @@ def build_en(cat, retired):
     A("| --- | --- |")
     A("| Unique share ids found across 4 catalogs | 365 |")
     A(f"| Answered under 400 on {checked} | **{n}** |")
-    A(f"| Answered 404 across two sweeps → `retired.json` | {len(retired['entries'])} |")
+    A(
+        f"| Answered 404 across two sweeps → `retired.json` | {len(retired['entries'])} |"
+    )
     A(
         f"| Rows enriched with first-party `og:` metadata | {sum(1 for x in e if x.get('official_summary'))} |"
     )
@@ -534,6 +547,16 @@ def build_zh(cat, retired):
     )
     A("")
 
+    A("## 🌐 用网页版浏览")
+    A("")
+    A(
+        f"**[{SITE_URL.replace('https://', '').rstrip('/')}]({SITE_URL})** —— 同一份 {n} 条数据，"
+        "支持按名称、描述、作者、标签即时搜索，按分类筛选，并可在 EN / 中文之间切换。"
+        "筛选结果可以直接分享：URL 会带上你的搜索词和筛选条件，"
+        f"比如 [`#q=inbox&cat=inbox-calendar`]({SITE_URL}#q=inbox&cat=inbox-calendar) 打开的就是你当时看到的画面。"
+        "页面直接读取 [`catalog.json`](catalog.json)——无构建步骤、无追踪、无 Cookie。"
+    )
+    A("")
     A("## ⚡️ 为什么还要再做一个")
     A("")
     A(

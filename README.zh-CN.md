@@ -18,6 +18,10 @@
 
 > [Grok Bot](https://docs.x.ai/grok-bot/overview) 让具名的 AI 队友拥有一台常开的云电脑。这个仓库不是 Grok Bot 本体，不是安装器，也不是源码——它是**公开 Bot 配置的索引**：你可以先在 `x.ai` 上预览，再一键添加到自己的账号。
 
+## 🌐 用网页版浏览
+
+**[kydlikebtc.github.io/awesome-grokbot](https://kydlikebtc.github.io/awesome-grokbot/)** —— 同一份 361 条数据，支持按名称、描述、作者、标签即时搜索，按分类筛选，并可在 EN / 中文之间切换。筛选结果可以直接分享：URL 会带上你的搜索词和筛选条件，比如 [`#q=inbox&cat=inbox-calendar`](https://kydlikebtc.github.io/awesome-grokbot/#q=inbox&cat=inbox-calendar) 打开的就是你当时看到的画面。页面直接读取 [`catalog.json`](catalog.json)——无构建步骤、无追踪、无 Cookie。
+
 ## ⚡️ 为什么还要再做一个
 
 Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多数发布之后就再也没复查过链接。这一份的做法不一样：

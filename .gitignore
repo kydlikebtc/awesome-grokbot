@@ -21,3 +21,6 @@ Thumbs.db
 .ruff_cache/
 .mypy_cache/
 .pytest_cache/
+
+# built site artifact (workflow copies catalog.json in at deploy time)
+site/catalog.json
