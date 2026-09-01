@@ -52,7 +52,7 @@
 
 ## 📖 快速入口
 
-| | |
+| 去哪 | 干什么 |
 | --- | --- |
 | 🌐 [**网页版浏览**](https://kydlikebtc.github.io/awesome-grokbot/#lang=zh) | 在浏览器里搜索、筛选全部 361 条 |
 | 📦 [`catalog.json`](catalog.json) | 全部 361 条活条目，通过 schema 校验 |

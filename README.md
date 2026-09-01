@@ -52,7 +52,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 📖 Quick links
 
-| | |
+| Go to | For |
 | --- | --- |
 | 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 361 rows in the browser |
 | 📦 [`catalog.json`](catalog.json) | All 361 live entries, schema-validated |
