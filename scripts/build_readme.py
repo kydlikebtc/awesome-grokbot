@@ -256,43 +256,27 @@ def build_en(cat, retired):
     A("")
 
     # ---- why
-    A("## ⚡️ Why this list")
+    A("## ⚡️ What's different")
+    A("")
+    A("| | |")
+    A("| ---: | --- |")
+    A(
+        f"| **{n}** | live shares, every link fetched on {checked} — not copied from another list |"
+    )
+    A(
+        f"| **{len(retired['entries'])}** | dead links quarantined in [`retired.json`](retired.json), not left rotting in place |"
+    )
+    A(f"| **{sum(1 for x in e if x.get('summary_zh'))}** | rows with a hand-written Chinese summary |")
+    A(
+        f"| **{n}** | rows naming the catalog they came from — {sum(1 for x in e if x.get('origin'))} also link the original post |"
+    )
+    A(
+        f"| **{sum(1 for x in e if x.get('aka'))}** | rows whose name had drifted from the live page, kept searchable as `aka` |"
+    )
     A("")
     A(
-        f"There are already several Grok Bot lists. They disagree with each other, and most of them never "
-        f"re-check the links they publish. This one is built differently:"
-    )
-    A("")
-    A(
-        f"- **Every share was fetched, not assumed.** All {n} entries answered under HTTP 400 on {checked}. "
-        f"{len(retired['entries'])} shares that returned 404 across two sweeps are quarantined in "
-        "[`retired.json`](retired.json) instead of being quietly left in the list."
-    )
-    A(
-        "- **A status code is not a verdict.** The checker sorts results into `alive` / `gone` / `blocked` / "
-        "`flaky`, and only `gone` (404/410) counts as a dead bot — a bot wall or a 5xx says something about the "
-        "network or the host, not about the bot. This is not theoretical: one share answered 500 mid-sweep, was "
-        "retired by the old `status != 200` rule, and answered 200 the next time it was asked. A circuit breaker "
-        "aborts the run if more than 25% comes back blocked or flaky, so a challenge page in front of CI can "
-        f"never be filed as {n} dead bots. See [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)."
-    )
-    A(
-        "- **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from "
-        "the share page's `og:description`. Where the live name differs from what the community catalogs recorded, "
-        "theirs is kept as `aka` so the row stays searchable. 32 rows differ; 27 are qualifier-only "
-        "(`Cursor Agent (Local)` vs `Cursor Agent`) and 5 are substantive — one share now points at an entirely "
-        "different bot than every community catalog still claims."
-    )
-    A(
-        f"- **Every row says where it came from.** `sources[]` names the community catalog(s) the entry was "
-        f"merged from, and `origin` links the post that first shared it ({sum(1 for x in e if x.get('origin'))} of {n} rows)."
-    )
-    A(
-        f"- **Bilingual by default.** All {n} rows carry a hand-checked Chinese one-liner, not machine output."
-    )
-    A(
-        "- **Data first, prose second.** [`catalog.json`](catalog.json) is the source of truth; both READMEs are "
-        "generated from it by [`scripts/build_readme.py`](scripts/build_readme.py)."
+        "Names and blurbs are read from the live share page, not from another catalog. How the catalog was "
+        "built, and what it does **not** verify: [docs/method.md](docs/method.md)."
     )
     A("")
 
@@ -575,39 +559,25 @@ def build_zh(cat, retired):
     )
     A("")
 
-    A("## ⚡️ 为什么还要再做一个")
+    A("## ⚡️ 有什么不一样")
+    A("")
+    A("| | |")
+    A("| ---: | --- |")
+    A(f"| **{n}** | 条活分享，每条链接都在 {checked} 实测过——不是从别的列表抄来的 |")
+    A(
+        f"| **{len(retired['entries'])}** | 条死链隔离进 [`retired.json`](retired.json)，没有继续留在列表里烂着 |"
+    )
+    A(f"| **{sum(1 for x in e if x.get('summary_zh'))}** | 条配有人工写的中文摘要，不是机翻 |")
+    A(
+        f"| **{n}** | 条都标明来自哪个社区目录——其中 {sum(1 for x in e if x.get('origin'))} 条还链到最早的原帖 |"
+    )
+    A(
+        f"| **{sum(1 for x in e if x.get('aka'))}** | 条的名字已和官方页对不上，旧名保留在 `aka` 里，依然搜得到 |"
+    )
     A("")
     A(
-        "Grok Bot 的列表已经有好几个了。它们互相对不上，而且大多数发布之后就再也没复查过链接。这一份的做法不一样："
-    )
-    A("")
-    A(
-        f"- **每条分享都真的去抓了，不是假设它还活着。**全部 {n} 条在 {checked} 实测返回 HTTP 400 以下。"
-        f"另有 {len(retired['entries'])} 条连续两轮都返回 404 的，单独隔离进 [`retired.json`](retired.json)，"
-        "而不是继续留在列表里装作没事。"
-    )
-    A(
-        "- **状态码不等于判决。**检查器把结果分成 `alive` / `gone` / `blocked` / `flaky` 四桶，"
-        "只有 `gone`（404/410）才算 Bot 真的没了——反爬墙或 5xx 说的是网络和宿主的事，不是 Bot 的事。"
-        "这不是假想：有一条分享在扫描途中返回 500，被旧的「非 200 即死」规则判死，再问一次它返回 200。"
-        "另有熔断保护：一轮里超过 25% 落进 blocked 或 flaky 就中止，"
-        f"这样 CI 前面挡一个验证页，永远不会被记成 {n} 个 Bot 全死。"
-        "详见 [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict)。"
-    )
-    A(
-        "- **名字和描述取自分享页本身。**每条都带 `official_summary`，直接读自分享页的 `og:description`。"
-        "官方页的名字和社区目录记录不一致时，社区名保留在 `aka` 字段里，旧名字依然搜得到。"
-        "32 条存在差异：27 条只是限定词不同（`Cursor Agent (Local)` 对 `Cursor Agent`），"
-        "5 条是实质性的——其中一条分享现在指向的，已经是和所有社区目录所写完全不同的另一个 Bot。"
-    )
-    A(
-        f"- **每条都说清楚来自哪。**`sources[]` 标明这条是从哪个（些）社区目录合并来的，"
-        f"`origin` 指向最早分享它的那条帖子（{n} 条里有 {sum(1 for x in e if x.get('origin'))} 条）。"
-    )
-    A(f"- **默认双语。**{n} 条全部配有人工核过的中文一句话说明，不是机翻。")
-    A(
-        "- **先有数据，才有文档。**[`catalog.json`](catalog.json) 是唯一事实来源，"
-        "两份 README 都由 [`scripts/build_readme.py`](scripts/build_readme.py) 生成。"
+        "名称和描述读自官方分享页本身，而不是别人的目录。目录怎么建的、以及它**没有**核验什么："
+        "[docs/method.md](docs/method.md)。"
     )
     A("")
 

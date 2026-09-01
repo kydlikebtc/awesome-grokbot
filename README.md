@@ -18,16 +18,17 @@
 
 > [Grok Bot](https://docs.x.ai/grok-bot/overview) gives named AI teammates their own always-on cloud computer. This repo is not Grok Bot, not an installer, and not source code — it is the index of public bot configurations you can preview on `x.ai` and add to your own account in one click.
 
-## ⚡️ Why this list
+## ⚡️ What's different
 
-There are already several Grok Bot lists. They disagree with each other, and most of them never re-check the links they publish. This one is built differently:
+| | |
+| ---: | --- |
+| **361** | live shares, every link fetched on 2026-09-01 — not copied from another list |
+| **4** | dead links quarantined in [`retired.json`](retired.json), not left rotting in place |
+| **361** | rows with a hand-written Chinese summary |
+| **361** | rows naming the catalog they came from — 348 also link the original post |
+| **32** | rows whose name had drifted from the live page, kept searchable as `aka` |
 
-- **Every share was fetched, not assumed.** All 361 entries answered under HTTP 400 on 2026-09-01. 4 shares that returned 404 across two sweeps are quarantined in [`retired.json`](retired.json) instead of being quietly left in the list.
-- **A status code is not a verdict.** The checker sorts results into `alive` / `gone` / `blocked` / `flaky`, and only `gone` (404/410) counts as a dead bot — a bot wall or a 5xx says something about the network or the host, not about the bot. This is not theoretical: one share answered 500 mid-sweep, was retired by the old `status != 200` rule, and answered 200 the next time it was asked. A circuit breaker aborts the run if more than 25% comes back blocked or flaky, so a challenge page in front of CI can never be filed as 361 dead bots. See [docs/method.md](docs/method.md#why-a-status-code-is-not-a-verdict).
-- **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from the share page's `og:description`. Where the live name differs from what the community catalogs recorded, theirs is kept as `aka` so the row stays searchable. 32 rows differ; 27 are qualifier-only (`Cursor Agent (Local)` vs `Cursor Agent`) and 5 are substantive — one share now points at an entirely different bot than every community catalog still claims.
-- **Every row says where it came from.** `sources[]` names the community catalog(s) the entry was merged from, and `origin` links the post that first shared it (348 of 361 rows).
-- **Bilingual by default.** All 361 rows carry a hand-checked Chinese one-liner, not machine output.
-- **Data first, prose second.** [`catalog.json`](catalog.json) is the source of truth; both READMEs are generated from it by [`scripts/build_readme.py`](scripts/build_readme.py).
+Names and blurbs are read from the live share page, not from another catalog. How the catalog was built, and what it does **not** verify: [docs/method.md](docs/method.md).
 
 <a name="section-site"></a>
 
