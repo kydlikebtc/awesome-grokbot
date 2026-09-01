@@ -23,7 +23,7 @@
 There are already several Grok Bot lists. They disagree with each other, and most of them never re-check the links they publish. This one is built differently:
 
 - **Every share was fetched, not assumed.** All 360 entries returned HTTP 200 on 2026-09-01. 5 shares that went dead are quarantined in [`retired.json`](retired.json) instead of being quietly left in the list.
-- **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from the share page's `og:description`. Where the author renamed a bot, the old community name is kept as `aka` so the row is still searchable — 32 rows had drifted.
+- **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from the share page's `og:description`. Where the live name differs from what the community catalogs recorded, theirs is kept as `aka` so the row stays searchable. 32 rows differ; 27 are qualifier-only (`Cursor Agent (Local)` vs `Cursor Agent`) and 5 are substantive — one share now points at an entirely different bot than every community catalog still claims.
 - **Every row says where it came from.** `sources[]` names the community catalog(s) the entry was merged from, and `origin` links the post that first shared it (347 of 360 rows).
 - **Bilingual by default.** All 360 rows carry a hand-checked Chinese one-liner, not machine output.
 - **Data first, prose second.** [`catalog.json`](catalog.json) is the source of truth; both READMEs are generated from it by [`scripts/build_readme.py`](scripts/build_readme.py).
@@ -537,7 +537,7 @@ The catalog is a merge of four community sources plus a first-party verification
 | Returned HTTP 200 on 2026-09-01 | **360** |
 | Returned 404 / 500 → `retired.json` | 5 |
 | Rows enriched with first-party `og:` metadata | 360 |
-| Rows where the live page had been renamed | 32 |
+| Rows whose live name differs from the community catalogs | 32 (5 substantive, 27 qualifier-only) |
 | Rows attributed to 2+ upstream catalogs | 334 |
 | Rows with a Chinese summary | 360 / 360 |
 

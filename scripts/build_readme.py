@@ -267,8 +267,10 @@ def build_en(cat, retired):
     )
     A(
         "- **Names and blurbs come from the live page.** Each row carries `official_summary`, read straight from "
-        "the share page's `og:description`. Where the author renamed a bot, the old community name is kept as "
-        "`aka` so the row is still searchable — 32 rows had drifted."
+        "the share page's `og:description`. Where the live name differs from what the community catalogs recorded, "
+        "theirs is kept as `aka` so the row stays searchable. 32 rows differ; 27 are qualifier-only "
+        "(`Cursor Agent (Local)` vs `Cursor Agent`) and 5 are substantive — one share now points at an entirely "
+        "different bot than every community catalog still claims."
     )
     A(
         f"- **Every row says where it came from.** `sources[]` names the community catalog(s) the entry was "
@@ -393,7 +395,7 @@ def build_en(cat, retired):
         f"| Rows enriched with first-party `og:` metadata | {sum(1 for x in e if x.get('official_summary'))} |"
     )
     A(
-        f"| Rows where the live page had been renamed | {sum(1 for x in e if x.get('aka'))} |"
+        f"| Rows whose live name differs from the community catalogs | {sum(1 for x in e if x.get('aka'))} (5 substantive, 27 qualifier-only) |"
     )
     A(
         f"| Rows attributed to 2+ upstream catalogs | {sum(1 for x in e if len(x.get('sources', [])) > 1)} |"
@@ -537,7 +539,9 @@ def build_zh(cat, retired):
     )
     A(
         "- **名字和描述取自分享页本身。**每条都带 `official_summary`，直接读自分享页的 `og:description`。"
-        "如果作者改过名，社区旧称保留在 `aka` 字段里，这样旧名字依然搜得到——有 32 条已经发生了改名。"
+        "官方页的名字和社区目录记录不一致时，社区名保留在 `aka` 字段里，旧名字依然搜得到。"
+        "32 条存在差异：27 条只是限定词不同（`Cursor Agent (Local)` 对 `Cursor Agent`），"
+        "5 条是实质性的——其中一条分享现在指向的，已经是和所有社区目录所写完全不同的另一个 Bot。"
     )
     A(
         f"- **每条都说清楚来自哪。**`sources[]` 标明这条是从哪个（些）社区目录合并来的，"
@@ -642,7 +646,9 @@ def build_zh(cat, retired):
     A(
         f"| 补齐第一手 `og:` 元数据的条目 | {sum(1 for x in e if x.get('official_summary'))} |"
     )
-    A(f"| 分享页已被作者改名的条目 | {sum(1 for x in e if x.get('aka'))} |")
+    A(
+        f"| 官方页名称与社区目录不一致的条目 | {sum(1 for x in e if x.get('aka'))}（5 条实质性，27 条仅限定词差异）|"
+    )
     A(
         f"| 能追溯到 2 个以上上游目录的条目 | {sum(1 for x in e if len(x.get('sources', [])) > 1)} |"
     )

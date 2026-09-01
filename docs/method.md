@@ -25,18 +25,20 @@ How `catalog.json` was built, what was measured versus assumed, and how to repro
 
 ## Numbers from the 2026-09-01 sweep
 
-| Step                                                                              |  Result |
-| --------------------------------------------------------------------------------- | ------: |
-| Unique share ids found across the 4 catalogs                                      |     365 |
-| Returned HTTP 200                                                                 | **360** |
-| Returned 404                                                                      |       4 |
-| Returned 500                                                                      |       1 |
-| Rows enriched with first-party `og:` metadata                                     |     360 |
-| Rows where the live page had been renamed since the community catalog recorded it |      32 |
-| Rows attributable to 2+ upstream catalogs                                         |     334 |
-| Rows carrying an origin post link                                                 |     347 |
-| Rows given a hand-written Chinese summary in this repo                            |      93 |
-| Rows whose auto-assigned category was corrected by hand                           |      30 |
+| Step                                                                                |  Result |
+| ----------------------------------------------------------------------------------- | ------: |
+| Unique share ids found across the 4 catalogs                                        |     365 |
+| Returned HTTP 200                                                                   | **360** |
+| Returned 404                                                                        |       4 |
+| Returned 500                                                                        |       1 |
+| Rows enriched with first-party `og:` metadata                                       |     360 |
+| Rows whose live name differs from what the community catalogs recorded              |      32 |
+| — of those, substantive (a real rename, or a share now pointing at a different bot) |       5 |
+| — of those, qualifier-only (`Cursor Agent (Local)` vs `Cursor Agent`)               |      27 |
+| Rows attributable to 2+ upstream catalogs                                           |     334 |
+| Rows carrying an origin post link                                                   |     347 |
+| Rows given a hand-written Chinese summary in this repo                              |      93 |
+| Rows whose auto-assigned category was corrected by hand                             |      30 |
 
 Five further strings matched the share-URL pattern in upstream repos but were documentation placeholders (`REPLACE`, `xxxxxxxx`, a fixture id) and were discarded rather than probed.
 
@@ -44,17 +46,17 @@ Five further strings matched the share-URL pattern in upstream repos but were do
 
 When two sources disagree, this is the order the merge applies. The reasoning matters more than the order:
 
-| Field                   | Wins                       | Why                                                                                                                                            |
-| ----------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `name`                  | Live share page `og:title` | Community catalogs go stale. 32 bots had been renamed by their authors; using the live name means the row matches what you see when you click. |
-| `aka`                   | Community name             | Keeping the old name makes the row findable by people who only know the old one.                                                               |
-| `author.name`           | Live page display name     | What the author chose to show publicly.                                                                                                        |
-| `author.handle` / `url` | Community catalog          | The live page shows a display name; the handle and profile link come from the catalogs that recorded the original post.                        |
-| `summary`               | Community one-liner        | Curated for scanning — median 66 characters. Right length for a list.                                                                          |
-| `official_summary`      | `og:description`, verbatim | Authoritative, but x.ai truncates it at ~155 characters, so it is stored alongside rather than instead of `summary`.                           |
-| `summary_zh`            | This repo                  | Editorial translation. 267 rows inherited from `majiayu000/awesome-grok-bot`; the remaining 93 were written here.                              |
-| `category`              | This repo                  | See below.                                                                                                                                     |
-| `link_status`           | Measured                   | Never inherited from an upstream catalog.                                                                                                      |
+| Field                   | Wins                       | Why                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `name`                  | Live share page `og:title` | Community catalogs go stale. 32 rows disagree with the live page — mostly dropped qualifiers, but 5 substantively, including one share that now points at an entirely different bot. Using the live name means the row matches what you see when you click. The community name survives in `aka`, and in 27 of the 32 cases it is arguably the more descriptive of the two. |
+| `aka`                   | Community name             | Keeping the old name makes the row findable by people who only know the old one.                                                                                                                                                                                                                                                                                            |
+| `author.name`           | Live page display name     | What the author chose to show publicly.                                                                                                                                                                                                                                                                                                                                     |
+| `author.handle` / `url` | Community catalog          | The live page shows a display name; the handle and profile link come from the catalogs that recorded the original post.                                                                                                                                                                                                                                                     |
+| `summary`               | Community one-liner        | Curated for scanning — median 66 characters. Right length for a list.                                                                                                                                                                                                                                                                                                       |
+| `official_summary`      | `og:description`, verbatim | Authoritative, but x.ai truncates it at ~155 characters, so it is stored alongside rather than instead of `summary`.                                                                                                                                                                                                                                                        |
+| `summary_zh`            | This repo                  | Editorial translation. 267 rows inherited from `majiayu000/awesome-grok-bot`; the remaining 93 were written here.                                                                                                                                                                                                                                                           |
+| `category`              | This repo                  | See below.                                                                                                                                                                                                                                                                                                                                                                  |
+| `link_status`           | Measured                   | Never inherited from an upstream catalog.                                                                                                                                                                                                                                                                                                                                   |
 
 ## Categories
 
