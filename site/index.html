@@ -672,6 +672,33 @@
       }
 
       @media (max-width: 640px) {
+        /* The sticky bar cost ~190px on a 375px screen — a quarter of the
+           viewport, gone the whole time you scroll. Two fixes: keep the search
+           field and the language toggle on one line (flex-basis 260px was
+           forcing a wrap), and scroll the chips sideways instead of wrapping
+           them onto five rows. */
+        .search {
+          flex: 1 1 auto;
+          min-width: 0;
+        }
+        .chips {
+          flex-wrap: nowrap;
+          overflow-x: auto;
+          scrollbar-width: none;
+          -webkit-overflow-scrolling: touch;
+          padding-bottom: 0.15rem;
+          margin-right: calc(-1 * clamp(1rem, 4vw, 2.5rem));
+          padding-right: clamp(1rem, 4vw, 2.5rem);
+        }
+        .chips::-webkit-scrollbar {
+          display: none;
+        }
+        .countbar {
+          padding-top: 0.55rem;
+        }
+        #hint {
+          display: none;
+        }
         li.row {
           grid-template-columns: 2.2rem 1fr;
           gap: 0 0.7rem;
