@@ -641,11 +641,11 @@ Full attribution and licence notes: [docs/sources.md](docs/sources.md).
 
 ## 📈 Star history
 
-<a href="https://www.star-history.com/?type=date&repos=kydlikebtc%2Fawesome-grokbot">
+<a href="https://www.star-history.com/?repos=kydlikebtc%2Fawesome-grokbot&type=date&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q" />
   </picture>
 </a>
 

@@ -22,8 +22,8 @@ SITE_URL = "https://kydlikebtc.github.io/awesome-grokbot/"
 # star-history "sealed" token: bound to this repo and intended to be embedded in
 # a public README, which is why it lives in the source rather than a secret.
 STAR_TOKEN = (
-    "2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII"
-    "-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ"
+    "BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5u"
+    "M0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q"
 )
 
 # emoji, English label, Chinese label, English blurb, Chinese blurb
@@ -162,7 +162,10 @@ def star_history_block():
     tail = f"legend=top-left&sealed_token={STAR_TOKEN}"
     dark = f"{base}&theme=dark&{tail}"
     light = f"{base}&{tail}"
-    href = f"https://www.star-history.com/?type=date&repos={REPO_SLUG.replace('/', '%2F')}"
+    href = (
+        "https://www.star-history.com/?repos="
+        f"{REPO_SLUG.replace('/', '%2F')}&type=date&legend=top-left"
+    )
     return "\n".join(
         [
             f'<a href="{href}">',
