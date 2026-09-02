@@ -390,6 +390,9 @@ def build_en(cat, retired):
         "| 🧪 [Data & method](docs/method.md) | How the catalog was built and how to reproduce it |"
     )
     A(
+        "| 🤖 [Scout routine](docs/routine.md) | A Grok Bot routine that finds new shares on X, first-hand |"
+    )
+    A(
         "| 🙏 [Sources & credits](docs/sources.md) | Upstream catalogs this merges, with licences |"
     )
     A("| 🤝 [Contributing](CONTRIBUTING.md) | Add a bot in one JSON object |")
@@ -704,6 +707,7 @@ def build_zh(cat, retired):
     )
     A("| 🔐 [导入之前先读](docs/vetting.md) | 安全检查清单。添加任何 Bot 之前请先看 |")
     A("| 🧪 [数据与方法](docs/method.md) | 目录怎么建的，以及如何自己复现 |")
+    A("| 🤖 [侦察 Routine](docs/routine.md) | 一个 Grok Bot 例行任务，直接从 X 一手发现新分享 |")
     A("| 🙏 [来源与致谢](docs/sources.md) | 合并了哪些上游目录，各自许可 |")
     A("| 🤝 [参与贡献](CONTRIBUTING.md) | 加一个 Bot 只需要写一个 JSON 对象 |")
     A("")

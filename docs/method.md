@@ -109,6 +109,12 @@ What the sync will not do:
 | Circuit breaker aborts the whole run | A bot wall in front of the CI runner cannot retire the catalog |
 | `lint.py` must pass before the commit | A schema-invalid row never reaches `main` |
 
+### Scouting X directly
+
+The workflow follows four community catalogs — but those catalogs are themselves scraped from X, so following them means always arriving second. [`docs/routine.md`](routine.md) is a Grok Bot routine that goes to the source: it searches X daily for shares posted in the last 24 hours, verifies each one loads, and files a GitHub issue with rows already shaped like `catalog.json`.
+
+It is deliberately not part of CI. GitHub Actions has no X access, and the judgement calls involved — picking a category, writing a natural Chinese line — are what a model is for and a rule is not. The routine also only ever opens an issue; it never writes to the repository.
+
 ### Chinese on new rows
 
 Where an upstream row already carries a Chinese one-liner, that is used as-is — `majiayu000/awesome-grok-bot` writes them by hand, and a human line beats a fresh translation. Only the remainder is machine-translated, and those rows are marked `zh_machine: true`.

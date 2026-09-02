@@ -60,6 +60,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 | 🪦 [`retired.json`](retired.json) | 4 shares that stopped resolving |
 | 🔐 [Before you import](docs/vetting.md) | Safety checklist. Read this before adding anything |
 | 🧪 [Data & method](docs/method.md) | How the catalog was built and how to reproduce it |
+| 🤖 [Scout routine](docs/routine.md) | A Grok Bot routine that finds new shares on X, first-hand |
 | 🙏 [Sources & credits](docs/sources.md) | Upstream catalogs this merges, with licences |
 | 🤝 [Contributing](CONTRIBUTING.md) | Add a bot in one JSON object |
 
