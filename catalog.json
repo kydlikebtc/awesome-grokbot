@@ -7,17 +7,17 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 405,
+    "live": 409,
     "retired": 4,
     "by_category": {
-      "coding-shipping": 49,
+      "coding-shipping": 50,
       "inbox-calendar": 21,
-      "research-briefings": 64,
+      "research-briefings": 65,
       "customer-sales": 26,
       "finance-ops": 38,
       "content-publishing": 68,
       "personal-admin": 69,
-      "teams-handoffs": 70
+      "teams-handoffs": 72
     }
   },
   "entries": [
@@ -389,6 +389,41 @@
         }
       ],
       "first_seen": "2026-08-31",
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "code-red",
+      "name": "Code Red",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "A rehearsed emergency stop for systems you own, gated behind your own confirmation",
+      "summary_zh": "只停你自己的系统，先演练再确认的紧急急停开关。",
+      "official_summary": "Kill-switch for your own stack. Six keywords. Dry-run the numbered list, then type CODE RED WORD N. Owner confirm only. Not a weapon against anyone...",
+      "import": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+      "bot_id": "4y3jlvwxFNqcP76eJgpuD",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "ops",
+        "engineering",
+        "automation"
+      ],
+      "origin": "https://x.com/SuddenlyJon/status/2094970870871585096",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-02",
       "checked": "2026-09-02",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -1420,7 +1455,7 @@
       },
       "summary": "A Monday tune-up for every routine across your fleet of bots",
       "summary_zh": "每周一把舰队里每条例行任务都调一遍。",
-      "official_summary": "A Monday-morning optimizer that scans every bot's routines and proposes schedule fixes, including how many runs you save each week if you apply them. On...",
+      "official_summary": "A routines optimizer that scans every bot with no exceptions and proposes careful schedule fixes by default (weekday bounds, coarser drips). On first...",
       "import": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
       "bot_id": "o4gWkNGmffEaVtOhaEsA7",
       "category": "coding-shipping",
@@ -3043,43 +3078,6 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "jester",
-      "name": "Memelord",
-      "author": {
-        "name": "Jason",
-        "handle": "memelord",
-        "url": "https://x.com/memelord"
-      },
-      "summary": "Spins up image and video memes on request",
-      "summary_zh": "按要求做出图片和视频梗。",
-      "official_summary": "Makes image and video memes from a prompt using the Memelord API. For anyone who wants captioned stills and clips without hunting a template by hand.",
-      "import": "https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f",
-      "bot_id": "9MGTLhR6dzLrr6AWd8U1f",
-      "category": "content-publishing",
-      "tags": [
-        "creator",
-        "content",
-        "video",
-        "social-media"
-      ],
-      "origin": "https://x.com/memelord/status/2093490807600763217",
-      "sources": [
-        {
-          "catalog": "majiayu000/awesome-grok-bot",
-          "url": "https://github.com/majiayu000/awesome-grok-bot"
-        },
-        {
-          "catalog": "ZeroPointRepo/GrokBotDev",
-          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-        }
-      ],
-      "first_seen": "2026-08-29",
-      "checked": "2026-09-02",
-      "link_status": 200,
-      "license": "CC-BY-4.0",
-      "aka": "Jester"
-    },
-    {
       "slug": "jobs",
       "name": "jobs",
       "author": {
@@ -3391,6 +3389,43 @@
       "checked": "2026-09-02",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "jester",
+      "name": "Memelord",
+      "author": {
+        "name": "Jason",
+        "handle": "memelord",
+        "url": "https://x.com/memelord"
+      },
+      "summary": "Spins up image and video memes on request",
+      "summary_zh": "按要求做出图片和视频梗。",
+      "official_summary": "Makes image and video memes from a prompt using the Memelord API. For anyone who wants captioned stills and clips without hunting a template by hand.",
+      "import": "https://x.ai/bot/9MGTLhR6dzLrr6AWd8U1f",
+      "bot_id": "9MGTLhR6dzLrr6AWd8U1f",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "content",
+        "video",
+        "social-media"
+      ],
+      "origin": "https://x.com/memelord/status/2093490807600763217",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-08-29",
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC-BY-4.0",
+      "aka": "Jester"
     },
     {
       "slug": "minerador-de-conteudo",
@@ -4564,43 +4599,6 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "club-sponsor-bot",
-      "name": "Headliner",
-      "author": {
-        "name": "Navya",
-        "handle": "NavyaM89482",
-        "url": "https://x.com/NavyaM89482"
-      },
-      "summary": "Runs sponsor, recruiter and speaker outreach for a student club",
-      "summary_zh": "替学生社团跑赞助、招聘和讲者邀约。",
-      "official_summary": "An outreach agent for ambitious organizations: student clubs, nonprofits, startups, and similar. It lands sponsors, partners, and speakers. New users...",
-      "import": "https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA",
-      "bot_id": "thQfSs8ZqbzB1w2cAmSzA",
-      "category": "customer-sales",
-      "tags": [
-        "student",
-        "sales",
-        "growth",
-        "recruiting"
-      ],
-      "origin": "https://x.com/NavyaM89482/status/2093524788761248166",
-      "sources": [
-        {
-          "catalog": "majiayu000/awesome-grok-bot",
-          "url": "https://github.com/majiayu000/awesome-grok-bot"
-        },
-        {
-          "catalog": "ZeroPointRepo/GrokBotDev",
-          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-        }
-      ],
-      "first_seen": "2026-08-29",
-      "checked": "2026-09-02",
-      "link_status": 200,
-      "license": "CC-BY-4.0",
-      "aka": "Club Sponsor Bot"
-    },
-    {
       "slug": "contra-job-scraper",
       "name": "Contra Job Scraper",
       "author": {
@@ -4760,6 +4758,43 @@
       "checked": "2026-09-02",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "club-sponsor-bot",
+      "name": "Headliner",
+      "author": {
+        "name": "Navya",
+        "handle": "NavyaM89482",
+        "url": "https://x.com/NavyaM89482"
+      },
+      "summary": "Runs sponsor, recruiter and speaker outreach for a student club",
+      "summary_zh": "替学生社团跑赞助、招聘和讲者邀约。",
+      "official_summary": "An outreach agent for ambitious organizations: student clubs, nonprofits, startups, and similar. It lands sponsors, partners, and speakers. New users...",
+      "import": "https://x.ai/bot/thQfSs8ZqbzB1w2cAmSzA",
+      "bot_id": "thQfSs8ZqbzB1w2cAmSzA",
+      "category": "customer-sales",
+      "tags": [
+        "student",
+        "sales",
+        "growth",
+        "recruiting"
+      ],
+      "origin": "https://x.com/NavyaM89482/status/2093524788761248166",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-08-29",
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC-BY-4.0",
+      "aka": "Club Sponsor Bot"
     },
     {
       "slug": "hermes-sdr",
@@ -6438,7 +6473,7 @@
       },
       "summary": "Reads financial paperwork into a spreadsheet and drafts a cited memo",
       "summary_zh": "把财务文件读进电子表格，再起草一份带引用的备忘录。",
-      "official_summary": "SecureLend OCR via MCP: file in, JSON and Excel out. Registers its own M2M client at https://agents.securelend.ai/oauth/m2m/register and calls...",
+      "official_summary": "Turns uploaded invoices and financial statements into structured JSON and Excel. Native-text PDFs skip cloud vision; scans are classified then extracted.",
       "import": "https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV",
       "bot_id": "Q2xW8BIDffTjbDVXZYZhV",
       "category": "finance-ops",
@@ -10803,6 +10838,41 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "dead-man-s-bot",
+      "name": "Dead Man's Bot",
+      "author": {
+        "name": "Knock",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "A contingency trigger that fires only when you stop checking in",
+      "summary_zh": "只有你漏打卡时才会触发的预案开关，载荷由你事先装好。",
+      "official_summary": "Dead-man's switch you load yourself. Pick a clock and a payload. Miss a ping, only that loadout fires. The bot explains how to ARM. It does not start a...",
+      "import": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+      "bot_id": "XCaz2bKzsJ4J1DmkaYyc4",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "ops",
+        "automation",
+        "monitoring"
+      ],
+      "origin": "https://x.com/SuddenlyJon/status/2094981472566288703",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-02",
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
       "slug": "doing-gap",
       "name": "Doing Gap",
       "author": {
@@ -13313,35 +13383,6 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "jarvis-andrew",
-      "name": "Writer",
-      "aka": "Jarvis",
-      "author": {
-        "name": "Andrew"
-      },
-      "summary": "A chief of agents for a solo founder. Routes work, keeps house rules, and only interrupts for judgment, money, or a blocked teammate.",
-      "summary_zh": "给独立创始人当总调度。把活分给专长 Bot，守家规，只在判断、花钱或队友卡住时打断你。",
-      "official_summary": "Drafts posts, emails, and short copy in your voice. Short and direct. Never sends without your yes.",
-      "import": "https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN",
-      "bot_id": "N92u9t1nHlL_gtgk2nAeN",
-      "category": "teams-handoffs",
-      "tags": [
-        "chief",
-        "routing",
-        "founder"
-      ],
-      "origin": "https://github.com/andrewkittridge/grokory",
-      "sources": [
-        {
-          "catalog": "majiayu000/awesome-grok-bot",
-          "url": "https://github.com/majiayu000/awesome-grok-bot"
-        }
-      ],
-      "checked": "2026-09-02",
-      "link_status": 200,
-      "license": "CC0-1.0"
-    },
-    {
       "slug": "chief-of-staff-aryaman",
       "name": "Chief of Staff",
       "aka": "Chief of Staff (Aryaman)",
@@ -13472,6 +13513,41 @@
         }
       ],
       "first_seen": "2026-08-29",
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "chief-of-staff-joseph",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Joseph",
+        "url": "https://x.com/BTC_Yogi"
+      },
+      "summary": "A single coordinator that routes work to a small, deliberately lean bot bench",
+      "summary_zh": "一个总协调，把活分给一小张精简的 Bot 工作台。",
+      "official_summary": "One entry point for your agent team. It routes work, keeps the roster small, and never sends, spends, or deletes without your yes.",
+      "import": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+      "bot_id": "5hqR_5PVUy7WMbNaXPJ8s",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "ops",
+        "productivity",
+        "agent-team"
+      ],
+      "origin": "https://x.com/BTC_Yogi/status/2094947816028381534",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-02",
       "checked": "2026-09-02",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -14502,6 +14578,41 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "memento",
+      "name": "Memento",
+      "author": {
+        "name": "Mahesh",
+        "url": "https://x.com/MaheshtheDev"
+      },
+      "summary": "Lasting recall for Grok Bot, backed by an external memory store",
+      "summary_zh": "给 Grok Bot 加持久记忆，存在外部记忆库里。",
+      "official_summary": "Second-brain coworker for Grok Bot, powered by SuperMemory. Searches and saves context so you don't re-explain, and never invents a memory.",
+      "import": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+      "bot_id": "_xZZE41svJdcq2w6ZWJan",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "knowledge-base",
+        "productivity",
+        "meta-bot"
+      ],
+      "origin": "https://x.com/MaheshtheDev/status/2094947237373890593",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-02",
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
       "slug": "mercury",
       "name": "Mercury",
       "author": {
@@ -15380,6 +15491,35 @@
       "checked": "2026-09-02",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "jarvis-andrew",
+      "name": "Writer",
+      "aka": "Jarvis",
+      "author": {
+        "name": "Andrew"
+      },
+      "summary": "A chief of agents for a solo founder. Routes work, keeps house rules, and only interrupts for judgment, money, or a blocked teammate.",
+      "summary_zh": "给独立创始人当总调度。把活分给专长 Bot，守家规，只在判断、花钱或队友卡住时打断你。",
+      "official_summary": "Drafts posts, emails, and short copy in your voice. Short and direct. Never sends without your yes.",
+      "import": "https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN",
+      "bot_id": "N92u9t1nHlL_gtgk2nAeN",
+      "category": "teams-handoffs",
+      "tags": [
+        "chief",
+        "routing",
+        "founder"
+      ],
+      "origin": "https://github.com/andrewkittridge/grokory",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "checked": "2026-09-02",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "zeus",
