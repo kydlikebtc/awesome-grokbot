@@ -267,53 +267,86 @@ def main():
         return 2
 
     if args.write:
-        if not gone:
-            print("\nnothing to move")
-        else:
-            stamp = args.date or time.strftime("%Y-%m-%d")
-            gone_slugs = {r["slug"] for r in gone}
-            retired = json.load(
-                open(os.path.join(ROOT, "retired.json"), encoding="utf-8")
-            )
-            keep, moved = [], []
-            for e in entries:
-                r = results.get(e["slug"])
-                if e["slug"] in gone_slugs:
-                    e["link_status"] = r["status"]
-                    e["checked"] = stamp
-                    moved.append(e)
-                    continue
-                if r and r["bucket"] == "alive":
-                    e["checked"] = stamp
-                    e["link_status"] = 200
-                keep.append(e)
+        stamp = args.date or time.strftime("%Y-%m-%d")
 
-            catalog["entries"] = keep
-            catalog["checked"] = stamp
-            catalog["generated"] = stamp
-            counts = Counter(e["category"] for e in keep)
-            catalog["counts"]["live"] = len(keep)
-            catalog["counts"]["by_category"] = {
-                k: counts.get(k, 0) for k in catalog["counts"]["by_category"]
-            }
+        # Sync names and blurbs from the live page. Without this the catalog
+        # slowly drifts away from what a reader sees when they click, which is
+        # the one thing it promises not to do. Three rows had been renamed in
+        # the day after the first build alone.
+        applied = 0
+        for e in entries:
+            r = results.get(e["slug"])
+            if not r or r["bucket"] != "alive":
+                continue
+            if r.get("og_title"):
+                m = re.match(r"^(.*?)\s+by\s+([^,]+)$", r["og_title"])
+                live = (m.group(1) if m else r["og_title"]).strip()
+                if live and live.lower() != e["name"].lower():
+                    # aka keeps the *earliest* known name, so a row stays
+                    # findable by whatever people first called it.
+                    e.setdefault("aka", e["name"])
+                    e["name"] = live
+                    applied += 1
+                # renamed back to what aka records -> the alias is noise now
+                if e.get("aka") and e["aka"].lower() == e["name"].lower():
+                    e.pop("aka")
+            if r.get("og_description") and r["og_description"] != e.get(
+                "official_summary"
+            ):
+                e["official_summary"] = r["og_description"]
+        if applied:
+            print(f"\napplied {applied} rename(s) from the live pages")
+
+        # Partition once, whether or not anything is gone. An earlier version
+        # nested this under `if not gone`, which meant a real dead link was
+        # never actually moved — the one case the branch exists for.
+        gone_slugs = {r["slug"] for r in gone}
+        retired = json.load(open(os.path.join(ROOT, "retired.json"), encoding="utf-8"))
+        keep, moved = [], []
+        for e in entries:
+            r = results.get(e["slug"])
+            if e["slug"] in gone_slugs:
+                e["link_status"] = r["status"]
+                e["checked"] = stamp
+                moved.append(e)
+                continue
+            if r and r["bucket"] == "alive":
+                e["checked"] = stamp
+                e["link_status"] = 200
+            keep.append(e)
+
+        catalog["entries"] = keep
+        catalog["checked"] = stamp
+        catalog["generated"] = stamp
+        counts = Counter(e["category"] for e in keep)
+        catalog["counts"]["live"] = len(keep)
+        catalog["counts"]["by_category"] = {
+            k: counts.get(k, 0) for k in catalog["counts"]["by_category"]
+        }
+
+        if moved:
             retired["entries"].extend(moved)
             retired["checked"] = stamp
             catalog["counts"]["retired"] = len(retired["entries"])
-
-            json.dump(
-                catalog,
-                open(os.path.join(ROOT, "catalog.json"), "w", encoding="utf-8"),
-                ensure_ascii=False,
-                indent=2,
-            )
             json.dump(
                 retired,
                 open(os.path.join(ROOT, "retired.json"), "w", encoding="utf-8"),
                 ensure_ascii=False,
                 indent=2,
             )
+
+        json.dump(
+            catalog,
+            open(os.path.join(ROOT, "catalog.json"), "w", encoding="utf-8"),
+            ensure_ascii=False,
+            indent=2,
+        )
+        if moved:
             print(f"\nmoved {len(moved)} row(s) to retired.json; {len(keep)} live")
-            print("now run: python3 scripts/build_readme.py")
+        else:
+            print(f"wrote catalog.json ({len(keep)} live, checked {stamp})")
+        print("now run: python3 scripts/build_readme.py")
+
         if blocked or flaky:
             print(
                 f"left {len(blocked) + len(flaky)} blocked/flaky row(s) in the catalog on purpose — "

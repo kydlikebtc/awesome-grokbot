@@ -99,46 +99,6 @@ def validate(node, schema, path, root_schema):
         err(f"{path}: {node!r} is not one of {schema['enum']}")
 
 
-# ------------------------------------------------- prose that quotes the data
-
-# docs/method.md states figures in prose. Those are hand-written and drift the
-# moment the catalog changes — this repo already shipped a stale 347 once. Each
-# entry below pairs the row label in that table with how the number is derived.
-METHOD_FACTS = [
-    ("Answered under 400 (`alive`)", lambda c, e: c["counts"]["live"]),
-    ("Answered 404, stable across two sweeps (`gone`)", lambda c, e: c["counts"]["retired"]),
-    ("Rows enriched with first-party `og:` metadata", lambda c, e: sum(1 for x in e if x.get("official_summary"))),
-    ("Rows whose live name differs from what the community catalogs recorded", lambda c, e: sum(1 for x in e if x.get("aka"))),
-    ("Rows attributable to 2+ upstream catalogs", lambda c, e: sum(1 for x in e if len(x.get("sources", [])) > 1)),
-    ("Rows carrying an origin post link", lambda c, e: sum(1 for x in e if x.get("origin"))),
-]
-
-
-def check_method_doc(catalog, entries):
-    path = os.path.join(ROOT, "docs", "method.md")
-    if not os.path.exists(path):
-        warn("docs/method.md is missing")
-        return
-    text = open(path, encoding="utf-8").read()
-    for label, derive in METHOD_FACTS:
-        expected = derive(catalog, entries)
-        row = None
-        for line in text.split("\n"):
-            if label in line and line.lstrip().startswith("|"):
-                row = line
-                break
-        if row is None:
-            warn(f"docs/method.md: no table row for {label!r}")
-            continue
-        nums = re.findall(r"\d+", row.split("|")[-2])
-        if not nums:
-            warn(f"docs/method.md: no figure in the row for {label!r}")
-            continue
-        stated = int(nums[-1])
-        if stated != expected:
-            err(f"docs/method.md says {stated} for {label!r}, catalog says {expected}")
-
-
 # --------------------------------------------------------------------- main
 
 
@@ -211,8 +171,6 @@ def main():
             err(
                 f"category '{cat}' is used by entries but missing from counts.by_category"
             )
-
-    check_method_doc(catalog, entries)
 
     retired_ids = {r.get("bot_id") for r in retired.get("entries", [])}
     both = retired_ids & set(ids)

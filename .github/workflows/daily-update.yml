@@ -1,0 +1,126 @@
+name: daily-update
+
+# Keeps the catalog current without a human in the loop:
+#   1. re-check every share already listed, retiring only the ones that are gone
+#   2. pull in shares the upstream catalogs have gained since yesterday
+#   3. regenerate both READMEs, validate, and commit
+#
+# Injection review: no `github.event.*` value is referenced anywhere in this
+# workflow, so no attacker-controlled string can reach a `run:` block. The two
+# expressions used are `secrets.ANTHROPIC_API_KEY`, consumed through `env:`
+# rather than interpolated into a command, and `steps.refresh.outputs.code`,
+# which is written by a script in this repo. The commit subject comes from
+# scripts/counts.py via a shell variable, quoted at the point of use.
+#
+# Safety rails, all enforced by the scripts rather than by this file:
+#   - check_links.py trips a circuit breaker if >25% of the sweep comes back
+#     blocked/flaky, writes nothing, and exits 2 — a bot wall in front of the
+#     runner can never retire the whole catalog
+#   - only 404/410 counts as gone; 5xx and challenge pages leave rows in place
+#   - sync_upstream.py adds at most MAX_NEW rows per run, and only ids that
+#     answer under HTTP 400 on the live share page
+#   - lint.py must pass before anything is committed
+
+on:
+  schedule:
+    # 05:17 UTC daily — off the hour, where the runner queue is shortest
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Snapshot counts before
+        run: python3 scripts/counts.py --json > /tmp/before.json
+
+      - name: Re-check the shares already listed
+        id: refresh
+        run: |
+          set +e
+          python3 scripts/check_links.py --write | tee /tmp/sweep.txt
+          status=${PIPESTATUS[0]}
+          echo "code=$status" >> "$GITHUB_OUTPUT"
+          echo "check_links.py exited $status"
+          exit 0
+
+      - name: Abort if the sweep could not reach x.ai
+        if: steps.refresh.outputs.code == '2'
+        run: |
+          echo "::error::Circuit breaker tripped — too much of the sweep came back blocked or flaky."
+          echo "Nothing was written. This is an infrastructure problem, not a catalog problem."
+          tail -30 /tmp/sweep.txt
+          exit 1
+
+      - name: Pull in new shares from the upstream catalogs
+        if: steps.refresh.outputs.code != '2'
+        env:
+          # Optional. Without it, rows that would need a translated summary are
+          # skipped for the day; rows carrying upstream Chinese still land.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/sync_upstream.py --write
+
+      - name: Regenerate the READMEs
+        if: steps.refresh.outputs.code != '2'
+        run: python3 scripts/build_readme.py
+
+      - name: Validate before committing
+        if: steps.refresh.outputs.code != '2'
+        run: |
+          python3 scripts/lint.py
+          python3 scripts/check_canonical.py
+
+      - name: Commit and push if anything changed
+        if: steps.refresh.outputs.code != '2'
+        run: |
+          if git diff --quiet -- catalog.json retired.json README.md README.zh-CN.md; then
+            echo "no changes today"
+            exit 0
+          fi
+          DELTA="$(python3 scripts/counts.py --since /tmp/before.json)"
+          if [ -z "$DELTA" ]; then
+            DELTA="refreshed link status"
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json retired.json README.md README.zh-CN.md
+          git commit -m "chore(daily): ${DELTA}" -m "Automated by .github/workflows/daily-update.yml"
+          git push
+          echo "pushed: ${DELTA}"
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Daily update"
+            echo
+            python3 scripts/counts.py
+            echo
+            echo "### Sweep"
+            echo '```'
+            head -20 /tmp/sweep.txt 2>/dev/null || echo "(no sweep output)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload sweep log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-sweep
+          path: /tmp/sweep.txt
+          retention-days: 14
+          if-no-files-found: ignore
