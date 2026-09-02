@@ -591,7 +591,13 @@
 
 ## 📈 Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kydlikebtc/awesome-grokbot&type=Date)](https://star-history.com/#kydlikebtc/awesome-grokbot&Date)
+<a href="https://www.star-history.com/?type=date&repos=kydlikebtc%2Fawesome-grokbot">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ" />
+  </picture>
+</a>
 
 ## 📜 开源协议
 

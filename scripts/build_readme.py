@@ -19,6 +19,13 @@ REPO_SLUG = "kydlikebtc/awesome-grokbot"
 REPO_URL = f"https://github.com/{REPO_SLUG}"
 SITE_URL = "https://kydlikebtc.github.io/awesome-grokbot/"
 
+# star-history "sealed" token: bound to this repo and intended to be embedded in
+# a public README, which is why it lives in the source rather than a secret.
+STAR_TOKEN = (
+    "2bvtQJ9nBhpUljHfsWUKiL7cYnfMFUZWdmUAF31WBQs9NZ_WcnnZibII"
+    "-ywzrST58mOLFnzCprMopBmN_7KxMpTTk2OEnd-0r9b7SJ4iiHW1SNKjtTkBQQ"
+)
+
 # emoji, English label, Chinese label, English blurb, Chinese blurb
 CATEGORIES = [
     (
@@ -142,6 +149,31 @@ def esc(s):
 def shield(text):
     """shields.io treats '-' as a field separator; '--' renders a literal dash."""
     return text.replace("-", "--").replace(" ", "%20")
+
+
+
+def star_history_block():
+    """<picture> so the chart follows the reader's light/dark preference.
+
+    A plain <img> would burn one theme into the page; GitHub honours the
+    prefers-color-scheme sources and swaps the chart with the site theme.
+    """
+    base = f"https://api.star-history.com/chart?repos={REPO_SLUG}&type=date"
+    tail = f"legend=top-left&sealed_token={STAR_TOKEN}"
+    dark = f"{base}&theme=dark&{tail}"
+    light = f"{base}&{tail}"
+    href = f"https://www.star-history.com/?type=date&repos={REPO_SLUG.replace('/', '%2F')}"
+    return "\n".join(
+        [
+            f'<a href="{href}">',
+            "  <picture>",
+            f'    <source media="(prefers-color-scheme: dark)" srcset="{dark}" />',
+            f'    <source media="(prefers-color-scheme: light)" srcset="{light}" />',
+            f'    <img alt="Star History Chart" src="{light}" />',
+            "  </picture>",
+            "</a>",
+        ]
+    )
 
 
 def author_md(e):
@@ -501,10 +533,7 @@ def build_en(cat, retired):
 
     A("## 📈 Star history")
     A("")
-    A(
-        f"[![Star History Chart](https://api.star-history.com/svg?repos={REPO_SLUG}&type=Date)]"
-        f"(https://star-history.com/#{REPO_SLUG}&Date)"
-    )
+    A(star_history_block())
     A("")
 
     A("## 📜 Licence")
@@ -780,10 +809,7 @@ def build_zh(cat, retired):
 
     A("## 📈 Star 趋势")
     A("")
-    A(
-        f"[![Star History Chart](https://api.star-history.com/svg?repos={REPO_SLUG}&type=Date)]"
-        f"(https://star-history.com/#{REPO_SLUG}&Date)"
-    )
+    A(star_history_block())
     A("")
 
     A("## 📜 开源协议")
