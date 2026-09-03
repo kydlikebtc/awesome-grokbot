@@ -1,13 +1,13 @@
 <h1 align="center">awesome-grokbot</h1>
 
-<h3 align="center">409 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
+<h3 align="center">440 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot"><img src="https://img.shields.io/github/stars/kydlikebtc/awesome-grokbot?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot/fork"><img src="https://img.shields.io/github/forks/kydlikebtc/awesome-grokbot?style=flat-square&color=green" alt="Forks"></a>
-  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-409-blueviolet?style=flat-square" alt="Live shares"></a>
-  <a href="#section-method"><img src="https://img.shields.io/badge/links%20checked-2026--09--02-success?style=flat-square" alt="Links checked"></a>
+  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-440-blueviolet?style=flat-square" alt="Live shares"></a>
+  <a href="#section-method"><img src="https://img.shields.io/badge/links%20checked-2026--09--03-success?style=flat-square" alt="Links checked"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE-CC0"><img src="https://img.shields.io/badge/catalog-CC0--1.0-lightgrey?style=flat-square" alt="CC0"></a>
 </p>
@@ -21,11 +21,11 @@
 ## ⚡️ What's different
 
 <table>
-  <tr><td align="right"><b>409</b></td><td>live shares, every link fetched on 2026-09-02 — not copied from another list</td></tr>
+  <tr><td align="right"><b>440</b></td><td>live shares, every link fetched on 2026-09-03 — not copied from another list</td></tr>
   <tr><td align="right"><b>daily</b></td><td>re-checked and synced against four upstream catalogs by <a href=".github/workflows/daily-update.yml">a scheduled job</a>, not a one-off scrape</td></tr>
   <tr><td align="right"><b>4</b></td><td>dead links quarantined in <a href="retired.json"><code>retired.json</code></a>, not left rotting in place</td></tr>
-  <tr><td align="right"><b>409</b></td><td>rows with a hand-written Chinese summary</td></tr>
-  <tr><td align="right"><b>409</b></td><td>rows naming the catalog they came from — 395 also link the original post</td></tr>
+  <tr><td align="right"><b>440</b></td><td>rows with a hand-written Chinese summary</td></tr>
+  <tr><td align="right"><b>440</b></td><td>rows naming the catalog they came from — 416 also link the original post</td></tr>
   <tr><td align="right"><b>34</b></td><td>rows whose name had drifted from the live page, kept searchable as <code>aka</code></td></tr>
 </table>
 
@@ -41,22 +41,22 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 <p align="center">
   <a href="https://kydlikebtc.github.io/awesome-grokbot/"><strong>kydlikebtc.github.io/awesome-grokbot</strong></a><br>
-  <sub>Instant search over all 409 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
+  <sub>Instant search over all 440 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
 </p>
 
 **Every filter lives in the URL.** These links open a pre-filtered view — and stay shareable:
 
 <p align="center">
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>50</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>21</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>65</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>26</b></a><br>
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>38</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>68</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>69</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>72</b></a>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>55</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>21</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>68</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>27</b></a><br>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>39</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>69</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>85</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>76</b></a>
 </p>
 
 ## 📖 Quick links
 
 | Go to | For |
 | --- | --- |
-| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 409 rows in the browser |
-| 📦 [`catalog.json`](catalog.json) | All 409 live entries, schema-validated |
+| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 440 rows in the browser |
+| 📦 [`catalog.json`](catalog.json) | All 440 live entries, schema-validated |
 | 🪦 [`retired.json`](retired.json) | 4 shares that stopped resolving |
 | 🔐 [Before you import](docs/vetting.md) | Safety checklist. Read this before adding anything |
 | 🧪 [Data & method](docs/method.md) | How the catalog was built and how to reproduce it |
@@ -81,53 +81,58 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 <table>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>50 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>55 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 Inbox &amp; calendar</a></strong><br><sub>21 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>65 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>26 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>68 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>27 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 Finance &amp; ops</a></strong><br><sub>38 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ Content &amp; publishing</a></strong><br><sub>68 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 Personal admin</a></strong><br><sub>69 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 Teams &amp; handoffs</a></strong><br><sub>72 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 Finance &amp; ops</a></strong><br><sub>39 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ Content &amp; publishing</a></strong><br><sub>69 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 Personal admin</a></strong><br><sub>85 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 Teams &amp; handoffs</a></strong><br><sub>76 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
   </tr>
 </table>
 
 | Category | Bots |
 | --- | ---: |
-| [🛠️ Coding & shipping](#cat-coding-shipping) | 50 |
+| [🛠️ Coding & shipping](#cat-coding-shipping) | 55 |
 | [📥 Inbox & calendar](#cat-inbox-calendar) | 21 |
-| [🔍 Research & briefings](#cat-research-briefings) | 65 |
-| [🤝 Customer & sales](#cat-customer-sales) | 26 |
-| [💰 Finance & ops](#cat-finance-ops) | 38 |
-| [✍️ Content & publishing](#cat-content-publishing) | 68 |
-| [🏠 Personal admin](#cat-personal-admin) | 69 |
-| [🧭 Teams & handoffs](#cat-teams-handoffs) | 72 |
-| **Total** | **409** |
+| [🔍 Research & briefings](#cat-research-briefings) | 68 |
+| [🤝 Customer & sales](#cat-customer-sales) | 27 |
+| [💰 Finance & ops](#cat-finance-ops) | 39 |
+| [✍️ Content & publishing](#cat-content-publishing) | 69 |
+| [🏠 Personal admin](#cat-personal-admin) | 85 |
+| [🧭 Teams & handoffs](#cat-teams-handoffs) | 76 |
+| **Total** | **440** |
 
 <a name="cat-coding-shipping"></a>
 
 ## 🛠️ Coding & shipping
 
-*Write code, review PRs, babysit coding agents, keep the box healthy.* — 50 bots
+*Write code, review PRs, babysit coding agents, keep the box healthy.* — 55 bots
 
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) — Keeps a local coding agent iterating until your acceptance test passes. <sub>by [dancingteeth](https://x.com/dancingteeth) · [origin](https://x.com/dancingteeth/status/2093868415542845628)</sub>
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) — A janitor for multi-bot workspaces that stops cruft piling up. <sub>by [Chip](https://x.com/chiplay) · [origin](https://x.com/chiplay/status/2093502053037293650)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — Keeps every AI coding tool on your machines up to date. <sub>by [Alan](https://x.com/gheeunit) · [origin](https://x.com/gheeunit/status/2093427364973695253)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — Experiments its way to a method for undocumented problems. <sub>by [Aman](https://x.com/2onism) · [origin](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — Describe an app in one sentence and get a running build back. <sub>by [Wayne](https://x.com/waynesutton) · [origin](https://x.com/waynesutton/status/2093835122231722366)</sub>
+- [Baut](https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx) — A copilot for shipping Grok.me games and making cash-honest product calls. <sub>by [𝕏](https://x.com/XAmandaMoore) (@XAmandaMoore)</sub>
 - [BeTree](https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w) — Turns a plan spread across several bots into one live graph. <sub>by [Nicolas](https://x.com/NicoChauvin74) · [origin](https://x.com/NicoChauvin74/status/2093778235054031136)</sub>
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) — Answers on-chain questions by querying The Graph's subgraphs directly. <sub>by [Derek](https://x.com/data_nexus) (@data_nexus) · [origin](https://x.com/data_nexus/status/2094265024227192946)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that runs. <sub>by Marcus · [origin](https://github.com/doanbactam/awesome-grok-bots)</sub>
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — A dedicated coding agent that runs all software work through the Claude Code CLI. <sub>by [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. <sub>by [Farzad](https://x.com/farzyness) (@farzyness) · [origin](https://x.com/farzyness/status/2094240859243913669)</sub>
 - [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) — A rehearsed emergency stop for systems you own, gated behind your own confirmation. <sub>by [Knock](https://x.com/SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2094970870871585096)</sub>
+- [Code Team Spawn](https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3) — Sits idle until you need a coding team, then interviews and spawns a hidden five-person crew. <sub>by [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
+- [Code Team Spawn](https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X) — Updated spawn that interviews, then stands up a Conductor plus a hidden five-person coding crew. <sub>by [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
 - [Critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) — A design critic that reviews your UI screenshots and only has notes. <sub>by [Manuel](https://x.com/mamuso) (@mamuso) · [origin](https://x.com/mamuso/status/2093549356364501338)</sub>
 - [Cursor Agent](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) — Runs the cursor-agent CLI locally for experiments and shop-floor work. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks) · aka *Cursor Agent (Local)* · [origin](https://x.com/ryanthawks/status/2093425622282375169)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — Reviews AI-made interfaces the way a design lead would. <sub>by [Ashish](https://x.com/inqusit) (@inqusit) · [origin](https://x.com/inqusit/status/2093765735197851709)</sub>
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — A bot that builds other Grok bots for you. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093392701005946931)</sub>
+- [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) — Guards the merge bar on repos you pick, escalating only the real judgment calls. <sub>by [Andre](https://x.com/andreleibovici) (@andreleibovici) · [origin](https://x.com/andreleibovici/status/2095035963978522719)</sub>
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — When something breaks it shows you what changed just before. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383146599301252)</sub>
+- [Fable 5.1 Oracle](https://x.ai/bot/tLSg4HxepSclMqbZUTRnX) — Thinks the build through and checks the work, but never writes the code itself. <sub>by [Matt](https://x.com/bossriceshark) (@bossriceshark) · [origin](https://x.com/bossriceshark/status/2095151692706967931)</sub>
 - [Feedback](https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU) — Turns a bug you have already confirmed into a clean report, filed with the right team. <sub>by [NYTEMODE](https://x.com/nytemodeonly) (@nytemodeonly) · [origin](https://x.com/nytemodeonly/status/2094225527984820492)</sub>
 - [Flowsery](https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k) — Turns session recordings into a ranked list of things to fix. <sub>by [Taras](https://x.com/tarasshyn) (@tarasshyn) · [origin](https://x.com/tarasshyn/status/2093730218145976437)</sub>
 - [Forge](https://x.ai/bot/uF_uodOFUz9mdv6XDWE70) — One keyword in, a production-ready Grok Bot recipe out. <sub>by [Robert](https://x.com/rryssf) (@rryssf) · aka *Forge (Template Foundry)* · [origin](https://x.com/rryssf/status/2093423943243747773)</sub>
@@ -199,7 +204,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🔍 Research & briefings
 
-*Watch a beat, verify claims, and hand back one short brief.* — 65 bots
+*Watch a beat, verify claims, and hand back one short brief.* — 68 bots
 
 - [2nd Brain](https://x.ai/bot/c4fYduVVic2YtbcjXquD0) — Distils everything you read into a linked wiki that answers your questions. <sub>by [Thierry](https://x.com/LeTerryBZH) (@LeTerryBZH) · [origin](https://x.com/LeTerryBZH/status/2094616823803314592)</sub>
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) — Sweeps papers, code, lectures and forums into one reading stack. <sub>by [Alen](https://x.com/beamnxw) · [origin](https://x.com/beamnxw/status/2093456831481885041)</sub>
@@ -216,6 +221,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [data science](https://x.ai/bot/Bu2sEQqu0hEjpbzN_07D3) — Owns analytics queries, spreadsheet pulls and metric definitions. <sub>by [Emily](https://x.com/egavrilenko11) (@egavrilenko11) · aka *Data Science (Querie)* · [origin](https://x.com/egavrilenko11/status/2093409119302791170)</sub>
 - [Dead Man's Bot](https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4) — A contingency trigger that fires only when you stop checking in. <sub>by [Knock](https://x.com/SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2094981472566288703)</sub>
 - [Doing Gap](https://x.ai/bot/9WPtKWMppOYW9wwGPwOaE) — Counts what you have watched against what you have shipped, then makes you build. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2094103726764273916)</sub>
+- [dosebot](https://x.ai/bot/2euxntVrddHyA3c2hyxiZ) — Tells you whether a business idea is a nice-to-have or a genuine ache. <sub>by [Rinas](https://x.com/onerinas) (@onerinas) · [origin](https://x.com/onerinas/status/2095221346578186249)</sub>
 - [Errol](https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ) — Drills a children's catechism twice a day for family worship. <sub>by [Zach](https://x.com/zachmllr) (@zachmllr) · [origin](https://x.com/zachmllr/status/2094270994777030966)</sub>
 - [Ethan](https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE) — A research desk with five specialist skills that fact-checks its own findings. <sub>by [JUMPERZ](https://x.com/jumperz) · [origin](https://x.com/jumperz/status/2093407073815929223)</sub>
 - [Family WordPress helpdesk](https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b) — A help desk for the relative who runs the family WordPress site. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093583573915963624)</sub>
@@ -234,6 +240,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Lumos](https://x.ai/bot/SwTxLoOaIwDqTSvhTIhrK) — Technical educator using the Feynman technique with examples and daily-life analogies. <sub>by [Md](https://x.com/mdafanulh) (@mdafanulh) · [origin](https://x.com/mdafanulh)</sub>
 - [Lurk](https://x.ai/bot/12Gbp1lPVsfTVAHPXKd3B) — Mines Reddit for exact quotes and files a pain-point pack. <sub>by [Sanket](https://x.com/tinkerersanky) (@tinkerersanky) · aka *Lurk (Reddit Researcher)* · [origin](https://x.com/tinkerersanky/status/2093398451958489561)</sub>
 - [Maskoff](https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP) — Screens the stranger who just slid into your DMs and tells you whether to trust them. <sub>by [GreenbarSystems](https://x.com/RyanGBsystems) (@RyanGBsystems) · [origin](https://x.com/RyanGBsystems/status/2094897077335802276)</sub>
+- [My Krishna](https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG) — A Bhagavad Gita companion that answers in Krishna's own voice. <sub>by [AKSHAY](https://x.com/AKSHAYBHOPANI) (@AKSHAYBHOPANI) · [origin](https://x.com/AKSHAYBHOPANI/status/2095049479506538710)</sub>
 - [Neuroscience](https://x.ai/bot/l_MfrDAGFed5t2A9Wrzqz) — A neuroscience and brain-computer-interface specialist. <sub>by [Eugene](https://x.com/monomyth) (@monomyth) · [origin](https://x.com/monomyth/status/2093485744405065866)</sub>
 - [News Scout](https://x.ai/bot/9Mo5saoPQYIp45IgzMT7P) — A weekday morning news digest in your own timezone. <sub>by [Eleni](https://x.com/byeleni) · [origin](https://x.com/byeleni/status/2093388385763119459)</sub>
 - [Off-Balance Atlas](https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb) — Writes source-linked deep dives on tech, ML and security. <sub>by [Adem](https://x.com/AdemVessell) (@AdemVessell) · [origin](https://x.com/AdemVessell/status/2093511313158983798)</sub>
@@ -265,6 +272,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) — Learns what you pay attention to from your own posts, then watches that beat. <sub>by [Daniel](https://x.com/daniel_mac8) · [origin](https://x.com/daniel_mac8/status/2093401980987425103)</sub>
 - [YC Podcast Notes](https://x.ai/bot/0y-dcpVFqFkjibKs2M48D) — Hourly watch on Y Combinator's podcasts with founder-useful notes. <sub>by [Sumer](https://x.com/buuxbt) (@buuxbt) · [origin](https://x.com/buuxbt/status/2093483175729361069)</sub>
 - [Youtube分析官](https://x.ai/bot/Ja29gpInav-alRhXhzyNL) — Ranks the best YouTube videos on a topic and writes the brief. <sub>by [Mado](https://x.com/madogiwacowork) · [origin](https://x.com/madogiwacowork/status/2093685473411805533)</sub>
+- [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) — Reads big macro events for what they do to rates, the dollar, gold, crypto and equities. <sub>by [Michael](https://x.com/Fund_Monkey) (@Fund_Monkey) · [origin](https://x.com/Fund_Monkey/status/2095172991223234844)</sub>
 - [最值得关注的Grok Bot 推文？](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) — A twice-daily Chinese-language sweep of top Grok Bot accounts. <sub>by [Mai](https://x.com/MaiYangAI) (@MaiYangAI) · [origin](https://x.com/MaiYangAI/status/2094583123392761968)</sub>
 
 <sub><a href="#section-categories">↑ back to categories</a></sub>
@@ -273,11 +281,12 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🤝 Customer & sales
 
-*Prospecting, outbound drafts, call support, and account follow-through.* — 26 bots
+*Prospecting, outbound drafts, call support, and account follow-through.* — 27 bots
 
 - [ADM account bot](https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN) — A weekly account plan for keeping and growing customers. <sub>by [Scott](https://x.com/scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2093727476405170365)</sub>
 - [AE deal bot](https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe) — Grades your open opportunities against MEDDPICC and names the next move to make. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2094802082750673227)</sub>
 - [Contra Job Scraper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) — Checks Contra's freelance feed every 6 hours and emails only on change. <sub>by [Srujal](https://x.com/techking_007) (@techking_007) · [origin](https://x.com/techking_007/status/2093415230932177139)</sub>
+- [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) — Builds the post-call slide deck straight out of the transcript. <sub>by [Pavan](https://x.com/pavravi) (@pavravi) · [origin](https://x.com/pavravi/status/2095194505876316378)</sub>
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Builds the deck after a customer call, from what was actually said. <sub>by [Krista](https://x.com/kristaletz) · [origin](https://x.com/kristaletz/status/2093494509682217308)</sub>
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) — Carries the admin around enterprise deals so you can sell. <sub>by [Sultanov](https://x.com/thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — Negotiates a deal, renewal or quote for the best realistic terms. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093382733019939198)</sub>
@@ -308,12 +317,13 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 💰 Finance & ops
 
-*Receipts, subscriptions, invoices, spend audits, and back-office chores.* — 38 bots
+*Receipts, subscriptions, invoices, spend audits, and back-office chores.* — 39 bots
 
 - [AIUsageBot](https://x.ai/bot/2atUDeldi9vF1R_ySRgCo) — Tracks how much of each AI subscription you have actually used. <sub>by [Brian](https://x.com/BrianDEvans) · [origin](https://x.com/BrianDEvans/status/2093386518375346484)</sub>
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — A personal shopper that hunts down secondhand designer pieces and can buy them. <sub>by [Jediah](https://x.com/jediahkatz) (@jediahkatz) · aka *Blair (Personal Shopper)* · [origin](https://x.com/jediahkatz/status/2093391579964694670)</sub>
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) — Zero ETH BOTCOIN mining rig onboarding miner. <sub>by [BOTCOIN](https://x.com/MineBotcoin) (@MineBotcoin)</sub>
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) — Digs through your email and bills for refunds and credits you never chased. <sub>by [Liam](https://x.com/liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383127162925558)</sub>
+- [Convert X Money to Karma](https://x.ai/bot/iCn7r691OdtaB_o8MtHx_) — Converts money, tokens, and engagement into karmic accounting with a ten percent watermark up the royalty chain. <sub>by [Rob](https://x.com/ludiofelix) (@ludiofelix)</sub>
 - [Copay Compass](https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD) — Chases down help with the price of a cancer prescription and preps the paperwork. <sub>by [Marc](https://x.com/MSaintjour) (@MSaintjour) · [origin](https://x.com/MSaintjour/status/2094802093622133104)</sub>
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) — Turns one health question into a three-minute brief. <sub>by [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [origin](https://x.com/GuleidAmina/status/2093386135452152155)</sub>
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) — Tells you which card to use for a purchase to maximise points and perks. <sub>by [Trevin](https://x.com/trevin) · [origin](https://x.com/trevin/status/2093390512925610067)</sub>
@@ -355,7 +365,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## ✍️ Content & publishing
 
-*Drafting, editing, design, video, and the queue that ships it.* — 68 bots
+*Drafting, editing, design, video, and the queue that ships it.* — 69 bots
 
 - [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) — Turns one scene idea into a wide panorama sliced into four swipeable panels. <sub>by [Knock](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2094179990782759104)</sub>
 - [AdaptlyPost](https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR) — One bot that writes, queues and posts to nine social networks. <sub>by [Taras](https://x.com/tarasshyn) · [origin](https://x.com/tarasshyn/status/2093726077906493508)</sub>
@@ -391,6 +401,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [koala](https://x.ai/bot/55VuCAFXxFDHyaGPU3Bxt) — A launch assistant for a developer product's go-to-market push. <sub>by [Lauren](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093522645501551014)</sub>
 - [Learn](https://x.ai/bot/s5JszATSty0w-uDTw_NzK) — Builds first-principles lessons and renders them as animated explainers. <sub>by [Jeffrey](https://x.com/JeffreyLind) (@JeffreyLind) · aka *Learn (Math & ML Video Teacher)* · [origin](https://x.com/JeffreyLind/status/2093407660657775081)</sub>
 - [Lennybot](https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc) — Answers product and growth questions from Lenny Rachitsky's own archive. <sub>by [Lenny](https://x.com/lennysan) (@lennysan) · [origin](https://x.com/lennysan/status/2093428147194847238)</sub>
+- [Likeness](https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD) — Locks a named person or animal from photos or a clip so later stills and clips still look like them. <sub>by [Knock](https://x.com/SuddenlyJon)</sub>
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — Plans each YouTube upload as one promise the video has to keep. <sub>by [Gabriel](https://x.com/gabe_onchain) (@gabe_onchain) · [origin](https://x.com/gabe_onchain/status/2094082997750284769)</sub>
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — An open-ended creative companion for art, worlds, poems and films. <sub>by [Lucy](https://x.com/princess414141) (@princess414141) · aka *Lucy (creative companion)* · [origin](https://x.com/princess414141/status/2093428767947456999)</sub>
 - [Marketing Bot](https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB) — A CMO bot that turns your product into the marketing around it. <sub>by [Ihor](https://x.com/tymarsha) (@tymarsha) · aka *Marketing Bot (CMO)* · [origin](https://x.com/tymarsha/status/2093448136396095754)</sub>
@@ -432,29 +443,35 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🏠 Personal admin
 
-*Groceries, household logistics, family schedules, health, and shopping.* — 69 bots
+*Groceries, household logistics, family schedules, health, and shopping.* — 85 bots
 
 - [Action Loop](https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM) — For anyone who ships once and then stalls, waiting to feel ready. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2094103820687303057)</sub>
 - [Adler](https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT) — A decisions mentor grounded in Adlerian psychology. <sub>by [pardha](https://x.com/pardzz_) (@pardzz_) · [origin](https://x.com/pardzz_/status/2093708336025698586)</sub>
 - [Alexis’ Grail Scout](https://x.ai/bot/2asdeMXYDwlPREURnfCxn) — Hunts top-grade sealed retro cartridges across the big auction houses. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093899347406831738)</sub>
 - [Appointment Finder](https://x.ai/bot/75K-dB4m30goo_PamA9nM) — Finds the best appointment slot so you never phone around again. <sub>by [Liam](https://x.com/liam_fallen) · [origin](https://x.com/liam_fallen/status/2093635774079971693)</sub>
 - [Austin Parent](https://x.ai/bot/7yCzCeGQTMD6oNKSPcFqj) — A household chief of staff for families raising kids in Austin. <sub>by [Chad](https://x.com/ChadWittman) (@ChadWittman) · [origin](https://x.com/ChadWittman/status/2094168314842935637)</sub>
+- [Babel - live translator](https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4) — Drops short English translations into the chat while an international call is still running. <sub>by [Kunal](https://x.com/kunalsells) (@kunalsells) · [origin](https://x.com/kunalsells/status/2095267534110900400)</sub>
 - [Be Happier](https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG) — Suggests three concrete things each week that would make you happier. <sub>by [Lenny](https://x.com/lennysan) · [origin](https://x.com/lennysan/status/2093428147194847238)</sub>
 - [ButterBot](https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ) — Passes butter after each message. <sub>by [Gabriele](https://x.com/GabrieleMonni) (@GabrieleMonni)</sub>
 - [Canvas](https://x.ai/bot/YihRBqrXaDwRdjN79Uofl) — Pulls your university units and deadlines out of Canvas. <sub>by [Dakkshin](https://x.com/daxperera) · [origin](https://x.com/daxperera/status/2093488563388330458)</sub>
+- [Charge Maestro](https://x.ai/bot/29uyQjSrZ3dTb4Ctf7S3w) — Sets EV charge amps from leftover solar so the Powerwall still fills before peak. <sub>by [Justin](https://x.com/JOwens254) (@JOwens254)</sub>
 - [Chef](https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J) — Plans the week's meals, builds the list and orders the groceries. <sub>by [dogenorway](https://x.com/DogecoinNorway) · [origin](https://x.com/DogecoinNorway/status/2093396816087990331)</sub>
 - [Chicken Joe](https://x.ai/bot/7f5AjmpjZkmTIsSybedYS) — Scans NorCal surf reports and cams each morning and tells you where to go. <sub>by [Parker](https://x.com/parker__conrad) · [origin](https://x.com/parker__conrad/status/2093408518816899425)</sub>
 - [Chief](https://x.ai/bot/PIr44vmOtvynPX5Iym5Hx) — A quiet daily check-in that keeps you to one habit at a time. <sub>by [Raf](https://x.com/rafdotworks) (@rafdotworks) · [origin](https://x.com/rafdotworks/status/2094791003760730132)</sub>
 - [Chief Health](https://x.ai/bot/6MHDA-LzErngNoRBaktLZ) — A daily check-in that keeps a training week on track when a session slips. <sub>by [AJAC](https://x.com/AJA_Cortes) (@AJA_Cortes) · [origin](https://x.com/AJA_Cortes/status/2094144047073907019)</sub>
+- [coffee companion](https://x.ai/bot/SqO-_5207iInz0iDSAFVW) — Works out how to brew each new bag and keeps the log in Notion. <sub>by [Andy](https://x.com/andymadrick) (@andymadrick) · [origin](https://x.com/andymadrick/status/2095287853450399859)</sub>
 - [Convert Flat PDF to Fillable Form](https://x.ai/bot/7_kjCPFrySCloHK-QS-hu) — Turns scanned and flat PDFs into fillable forms. Connect Instafill.ai after install. <sub>by Oleksandr · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
 - [Deal Hunting](https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf) — Landed-cost shopping that compares real prices including shipping and tax. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093399328836440571)</sub>
 - [Disney Ride Strategist](https://x.ai/bot/izE8-5f78ykATd43I5ROC) — Builds a day-by-day Walt Disney World plan around the rides you want. <sub>by [Matt](https://x.com/matthopkins_) (@matthopkins_) · [origin](https://x.com/matthopkins_/status/2093442356313833740)</sub>
 - [DJ](https://x.ai/bot/PpGGgAaeRWkC4Poi29gLw) — Controls Spotify. Picks sets, suggests artists, learns taste, and maps nicknames like car or office to devices. <sub>by [Trevin](https://x.com/trevin) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Dr Web LP](https://x.ai/bot/xM153pKfXPLWagLi_O1vR) — Give it a picture of a web page and it builds that page in HTML and CSS. <sub>by [Will](https://x.com/old_pgmrs_will) (@old_pgmrs_will) · [origin](https://x.com/old_pgmrs_will/status/2095140627252125835)</sub>
 - [EG4 Monitor](https://x.ai/bot/9rxPP70OSzuTtTaOrzeqz) — Tracks a home EG4 solar and battery system and raises faults early. <sub>by [Terry](https://x.com/look4terry) · [origin](https://x.com/look4terry/status/2093839716370309156)</sub>
 - [Fantasy GM](https://x.ai/bot/vmQChAUGO26cUDqdSqYlH) — Answers roster and matchup questions through the assistant you already talk to. <sub>by [Tyler](https://x.com/TylerNishida) (@TylerNishida) · [origin](https://x.com/TylerNishida/status/2094446128771342374)</sub>
+- [Farm](https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa) — Sends the heavy coding work off to its own machine and brings back just the result. <sub>by [Miguel](https://x.com/mpieras) (@mpieras) · [origin](https://x.com/mpieras/status/2095120187389263968)</sub>
 - [Flora](https://x.ai/bot/HC7kphHSxDzb639YlmI6O) — Tracks every houseplant you own and nudges you before one goes thirsty. <sub>by [Rich](https://x.com/RichSilver) (@RichSilver) · [origin](https://x.com/RichSilver/status/2094267086591680962)</sub>
 - [Grocery Cart Planner](https://x.ai/bot/Y7LbP6p5EBFjfdTp69cKr) — Plans an Instacart grocery cart from meal ideas, recipes, and staples, respecting diet, brands, stores, and budget. <sub>by [Elie](https://x.com/mvanhorn) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
 - [Grokart](https://x.ai/bot/uhGYPStIOzvxNm8oWh3sG) — Describe a purchase and get a shortlist plus a checkout link. <sub>by [Luiz](https://x.com/lamorim_net) (@lamorim_net) · [origin](https://x.com/lamorim_net/status/2094079296705090017)</sub>
+- [Grokleros](https://x.ai/bot/vsCDaIn2Od_BkfWp0Vehm) — A 24/7 Kleros V2 juror that reads evidence pixels-first and votes via AgentKit. <sub>by [jaybuidl](https://x.com/JayBuidl)</sub>
 - [Gus Fring](https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k) — Sits between finished work and the customer, and gives it a straight verdict. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2094782521095463198)</sub>
 - [Gym Bod](https://x.ai/bot/3mtiwFoZcEMq59w-49DMS) — Claims your spot in busy gym classes as registration opens. <sub>by [peter](https://x.com/DrPB) · [origin](https://x.com/DrPB/status/2093815967360991485)</sub>
 - [Home Front](https://x.ai/bot/eREHCFAQlq8jS3P6bnNSL) — Keeps a veteran household on top of VA claims, visits and earned perks. <sub>by [Diego](https://x.com/Diego_F_Aguirre) (@Diego_F_Aguirre) · [origin](https://x.com/Diego_F_Aguirre/status/2094203554504319211)</sub>
@@ -466,11 +483,16 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [It's Britney](https://x.ai/bot/pNLwpHs8rmtMzAkUi-Zu2) — Sends random Britney Spears internet dance clips, timed to significant hours of the day. <sub>by [Hiten](https://x.com/hnshah) (@hnshah)</sub>
 - [Job interview hunter](https://x.ai/bot/B_8a8ApckqZFiJwWRBf5u) — Drafts tailored applications and referral notes on a weekday cadence. <sub>by [Josh](https://x.com/joshkim) · [origin](https://x.com/joshkim/status/2093585412384244060)</sub>
 - [KeyWire: Would You Rather: Collector](https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU) — A tap-first Would You Rather collector game from KeyWire.io. Pokemon, comics, and MTG lanes. Game only, not financial advice. <sub>by [VonDoom](https://x.com/CryptoVonDoom) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Know Enemy](https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz) — Keeps a running read on the rivals you name, drawn only from what is already public. <sub>by [Ankur](https://x.com/SaaSocalypse) (@SaaSocalypse) · [origin](https://x.com/SaaSocalypse/status/2095145997613887825)</sub>
+- [Know Yourself](https://x.ai/bot/mD27QOhXb_plMRSbsvMOv) — Turns your own company records into one answer everyone can quote. <sub>by [Ankur](https://x.com/SaaSocalypse) (@SaaSocalypse) · [origin](https://x.com/SaaSocalypse/status/2095145997613887825)</sub>
 - [Lazy Tom](https://x.ai/bot/YD0mAEdVZeEanyWTuY_vb) — A dry, low-effort assistant that does the smallest useful thing and then stops. Short replies, no extra tasks, no coding. <sub>by duyet · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
 - [Librarian](https://x.ai/bot/suKVjDAR-hSr_PTBxgdRw) — Photograph your bookshelves and get a browsable personal library site. <sub>by [Shane](https://x.com/ShaneMac) (@ShaneMac) · [origin](https://x.com/ShaneMac/status/2094582528203997514)</sub>
+- [Lite Intel Fetch](https://x.ai/bot/FQRA5tERWsasaQGIZmBl_) — Fetches an unpaid buy_intel_pack HTTP 402 on Base and returns the JSON for agents that can pay x402. <sub>by [Randall](https://x.com/RandyWhitePDX) (@RandyWhitePDX)</sub>
 - [Local Deals](https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo) — Daily local marketplace deals that it will negotiate for you. <sub>by [Brandon](https://x.com/brandon_galang) · [origin](https://x.com/brandon_galang/status/2093402021789593873)</sub>
+- [Medical Bill Review](https://x.ai/bot/M9c2tC_-mwY8XNTmSbkUY) — Screens an itemized medical bill against published protections and drafts the dispute letter for you to send. <sub>by [Marc](https://x.com/MSaintjour) (@MSaintjour)</sub>
 - [Melissa](https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE) — A fitness and nutrition coach built around Type 1 diabetes constraints. <sub>by [Tobias](https://x.com/tpgoebel) · [origin](https://x.com/tpgoebel/status/2093409295291310106)</sub>
 - [Morpheus](https://x.ai/bot/uv4r3mNUgymF11q0N3L7F) — Give it options you are stuck between and it picks one and defends the choice. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383122465288695)</sub>
+- [multiBot](https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD) — Spawns CLI-delegated teammates via CreateAgent so Grok only orchestrates and the CLI does the deep work. <sub>by [med](https://github.com/simo255) (@simo255) · [origin](https://github.com/simo255/multiBot)</sub>
 - [Mystery Snack Agent](https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP) — A surprise dessert at your door every Friday at seven. <sub>by [Nayli](https://x.com/nayli_ai) (@nayli_ai) · [origin](https://x.com/nayli_ai/status/2093474108457537959)</sub>
 - [Negotiator](https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu) — Coaches you through a negotiation before you walk into it. <sub>by [Dani](https://x.com/danizhu) (@danizhu) · [origin](https://x.com/danizhu/status/2093604446098047488)</sub>
 - [NYC Parent](https://x.ai/bot/DiNI489Qte5ryNvZjOROb) — Runs the school-and-activities logistics of raising kids in New York. <sub>by [Dennison](https://x.com/DennisonBertram) (@DennisonBertram) · [origin](https://x.com/DennisonBertram/status/2094150767338832025)</sub>
@@ -480,6 +502,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Patch](https://x.ai/bot/mZM210IvFxqswc9eaLjQa) — Seasonal lawn and border care matched to your British plot. <sub>by [Benn](https://x.com/benngarnish) (@benngarnish) · [origin](https://x.com/benngarnish/status/2094068114929393746)</sub>
 - [Pika Bot](https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL) — Watches the Pokemon Center US store for new drops. <sub>by [Joe](https://x.com/CardCaptain) (@CardCaptain) · [origin](https://x.com/CardCaptain/status/2093493396510068900)</sub>
 - [Porter](https://x.ai/bot/cl7kIRbcIuP6jj2Zt8z5K) — Lifts your whole line-up of bots across to another app or account. <sub>by [Daryl](https://x.com/darylbleach) (@darylbleach) · [origin](https://x.com/darylbleach/status/2094747777343324629)</sub>
+- [Price Error Agent](https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L) — Spots pricing mistakes at Australian retailers and on flights out of Australia. <sub>by [Yoda](https://x.com/yoda_FDE) (@yoda_FDE) · [origin](https://x.com/yoda_FDE/status/2095261094076207107)</sub>
 - [Product Lead](https://x.ai/bot/KHEDSnSW1R74FH9kmghlA) — Turns product evidence into a ship, iterate, hold, or stop memo. <sub>by Prathit</sub>
 - [Redact](https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-) — Files your removal requests with the data brokers so you need not pay a service. <sub>by [Olen](https://x.com/PyRo1121) (@PyRo1121) · [origin](https://x.com/PyRo1121/status/2094897839331549594)</sub>
 - [Review This](https://x.ai/bot/g4hvAEhebCPzqwsdPBGu4) — Name a product and get a straight buy, skip, or pick-this-instead verdict. <sub>by [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway) · [origin](https://x.com/DogecoinNorway/status/2094042874283471230)</sub>
@@ -491,7 +514,9 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [stank](https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi) — A deadpan reminder to go take a shower. <sub>by [Lauren](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093517486117499387)</sub>
 - [Susan Miller](https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu) — Daily horoscopes pulled from Susan Miller on Astrology Zone, as a short morning brief for sun and rising signs. <sub>by [Inkwell](https://x.com/cybrgalaxy) (@cybrgalaxy)</sub>
 - [Sylvia Style](https://x.ai/bot/uVBVr5NSR6VirgJrgikIl) — A personal stylist that shops live pieces and builds you a lookbook. <sub>by [Claire](https://x.com/clairevo) (@clairevo) · [origin](https://x.com/clairevo/status/2093497798717260229)</sub>
+- [Table Money](https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM) — Chases down invoices and refunds you never closed out, then drafts the follow-up without sending. <sub>by [Andrew](https://x.com/Andrew51786) (@Andrew51786) · [origin](https://x.com/Andrew51786/status/2095176422767599794)</sub>
 - [TeacherBot](https://x.ai/bot/xmVe2HI3P-jQLk_s6Ng6W) — Homeschool teacher for one child: writes and administers the yearly plan after SchoolAdminBot admits that student. <sub>by [Tanner](https://x.com/DeanoRousselle) (@DeanoRousselle)</sub>
+- [Tesla Bot](https://x.ai/bot/l4EozO2deoaWFB8hOGwTY) — Runs your Tesla from a chat window once the two are paired. <sub>by [Matt](https://x.com/mvanhorn) (@mvanhorn) · [origin](https://x.com/mvanhorn/status/2095297598450274524)</sub>
 - [Teslascope](https://x.ai/bot/brwSBnhe7jg20IBJS0TVK) — Ask plain questions about your Tesla's trips, charging and status. <sub>by [Tyler](https://x.com/teslascope) (@teslascope) · [origin](https://x.com/teslascope/status/2093904429762433255)</sub>
 - [TeslrBot](https://x.ai/bot/_S9OOSBgXixedyANQSYjQ) — Run your Tesla's charging, climate, locks and navigation from a chat. <sub>by [HeresMyEth](https://x.com/HeresMyEth) · [origin](https://x.com/HeresMyEth/status/2093448648944496995)</sub>
 - [The Accountant](https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX) — Finds the bots in your fleet quietly draining your token budget. <sub>by [Ben](https://x.com/brstorrie) (@brstorrie) · [origin](https://x.com/brstorrie/status/2094654945488252959)</sub>
@@ -499,10 +524,12 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Travel And Event Agency](https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh) — Finds live flight and event tickets and compares real fares. <sub>by [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway) · aka *Travel & Event Agency* · [origin](https://x.com/DogecoinNorway/status/2093419031407845671)</sub>
 - [Tutor](https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0) — Any subject, taught in small lessons anchored to one everyday picture. <sub>by [Anand](https://x.com/anandVragav) (@anandVragav) · [origin](https://x.com/anandVragav/status/2093622965053059198)</sub>
 - [Vinted Seller](https://x.ai/bot/nqMcywYF0Bg35egak7dSh) — Turns a pile of wardrobe photos into finished Vinted listings. <sub>by [Valerio](https://x.com/trytocatchme98) (@trytocatchme98) · [origin](https://x.com/trytocatchme98/status/2093760516875333635)</sub>
+- [Wall Street](https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm) — Keeps a make-believe trading book with a running profit and loss log, never sending a real order. <sub>by [Austin](https://x.com/CoonInvestments) (@CoonInvestments) · [origin](https://x.com/CoonInvestments/status/2095299431499182089)</sub>
 - [Watch Later Deck](https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9) — Splits a bloated YouTube Watch Later list into four swipeable decks. <sub>by [Jordan](https://x.com/jordanwcjackson) (@jordanwcjackson) · [origin](https://x.com/jordanwcjackson/status/2094246245199995176)</sub>
 - [Wedding Photo Hunter](https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK) — Collects every wedding photo and video into one folder. <sub>by [Alex](https://x.com/ajt) (@ajt) · [origin](https://x.com/ajt/status/2093421988580675775)</sub>
 - [Wholefoods](https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU) — Plans the week's groceries around whatever Whole Foods has marked down. <sub>by [Dennison](https://x.com/DennisonBertram) (@DennisonBertram) · [origin](https://x.com/DennisonBertram/status/2094150768550945000)</sub>
 - [Yolk](https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh) — A Tamagotchi egg in your sidebar that wants feeding four times a day. <sub>by [JP](https://x.com/jp_costa) (@jp_costa) · [origin](https://x.com/jp_costa/status/2093508536718500211)</sub>
+- [Zettelkasten](https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c) — A slip-box partner for an Obsidian vault that files atomic notes only after you say yes. <sub>by [Pete](https://x.com/pohlipit) (@pohlipit)</sub>
 
 <sub><a href="#section-categories">↑ back to categories</a></sub>
 
@@ -510,7 +537,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🧭 Teams & handoffs
 
-*Bots that run other bots: rosters, delegation, budgets, and handoffs.* — 72 bots
+*Bots that run other bots: rosters, delegation, budgets, and handoffs.* — 76 bots
 
 - [AI PM OS](https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj) — A product-management operating system packaged as one reusable setup. <sub>by [George](https://x.com/nurijanian) (@nurijanian) · [origin](https://x.com/nurijanian/status/2093716302884147646)</sub>
 - [AIオーケストレーション担当](https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk) — A Japanese-language commander that distributes work to specialists. <sub>by [Masaki](https://x.com/mei_999_) (@めい) · [origin](https://x.com/mei_999_/status/2093423565676954067)</sub>
@@ -526,6 +553,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [CEO](https://x.ai/bot/GHLPyes3hiP9A6kES7UHg) — A virtual CEO that sets the agenda and directs your other bots. <sub>by [Ashish](https://x.com/inqusit) (@inqusit) · [origin](https://x.com/inqusit/status/2093510161524810062)</sub>
 - [Chieeeeefy](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) — Chief of staff for a field engineer, calendar and work inbox first. <sub>by [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · aka *Chieeeeefy (Chief of Staff)* · [origin](https://x.com/naoufal_elh/status/2093393130447921346)</sub>
 - [Chief](https://x.ai/bot/JugVUSPe_wSZg-in69owM) — A pure router that assigns one owner per job and otherwise stays out of the way. <sub>by [nyk](https://x.com/nykdotdev) (@nykdotdev) · aka *Chief (Router)* · [origin](https://x.com/nykdotdev/status/2093395691452457171)</sub>
+- [Chief of Agents](https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN) — A chief of agents for a solo founder. Routes work, keeps house rules, and only interrupts for judgment, money, or a blocked teammate. <sub>by Andrew · aka *Jarvis* · [origin](https://github.com/andrewkittridge/grokory)</sub>
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF) — Low-noise chief of staff across desk, Slack, inbox and calendar. <sub>by [Aryaman](https://x.com/aryamankhawow) (@aryamankhawow) · aka *Chief of Staff (Aryaman)* · [origin](https://x.com/aryamankhawow/status/2093385343928033312)</sub>
 - [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — A single-desk chief of staff that runs your day and your company at once. <sub>by [Avid](https://x.com/Av1dlive) (@Av1dlive) · aka *Chief of Staff (Avid)* · [origin](https://x.com/Av1dlive/status/2093389300490752106)</sub>
 - [Chief of Staff](https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz) — Routes work across six bots and only wakes you for decisions. <sub>by [Игорь](https://x.com/iamigorekk) (@iamigorekk) · aka *chief of staff (igor)* · [origin](https://x.com/iamigorekk/status/2093546304081162412)</sub>
@@ -533,11 +561,13 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — Writes up what actually happened in your shop each day. <sub>by [Rich](https://x.com/RichSilver) · [origin](https://x.com/RichSilver/status/2093409237451903032)</sub>
 - [Construction office manager](https://x.ai/bot/Uytjr0oAalw0OuzCLdWPd) — A back-office manager for one growing construction company. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093579076623876386)</sub>
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) — Stops your browser-driven bots from stalling at login walls. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2094457258025631943)</sub>
+- [Cost Optimizer](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) — Finds the less expensive route to the same result across your agent stack. <sub>by [Stephen](https://x.com/MadeItHappenX) (@MadeItHappenX) · [origin](https://x.com/MadeItHappenX/status/2095072492700455159)</sub>
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) — A morning shortlist of backend roles you can apply to in one click, ranked against your CV. <sub>by [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [origin](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
 - [den](https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx) — Sits between a parent and the rest of the family's bots. <sub>by [Lauren](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093528015900930387)</sub>
 - [Developer](https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3) — Farms coding work out to build labs and mirrors every task on a Linear board. <sub>by [Matej](https://x.com/m_check1B) (@m_check1B) · [origin](https://x.com/m_check1B/status/2094337521123508268)</sub>
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) — Sits down for one focused hour of LinkedIn applications and never repeats a listing. <sub>by [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [origin](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — The operator that actually does the work, and pushes back when a plan is wrong. <sub>by [Uzi](https://x.com/UziObi) · [origin](https://x.com/UziObi/status/2093401597048975758)</sub>
+- [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) — Reads your company's website and staffs you a leadership bench of bots. <sub>by [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · [origin](https://x.com/naoufal_elh/status/2095292060731396277)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — Interviews you about a new venture and writes the operating files. <sub>by [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [origin](https://x.com/gtOSnz/status/2093633012722512228)</sub>
 - [freebots.lol](https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4) — Enrols your bot in a public mesh with its own key and page. <sub>by [Daniel](https://x.com/Daniel_Farinax) (@Daniel_Farinax) · [origin](https://x.com/Daniel_Farinax/status/2093592700587331679)</sub>
 - [Funhouse](https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5) — Restyles the Grok Bot app itself with themes, pets and overlays. <sub>by [Adem](https://x.com/AdemVessell) (@AdemVessell) · [origin](https://x.com/AdemVessell/status/2093869927753224689)</sub>
@@ -559,6 +589,8 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — A lean orchestrator that routes every task to the right specialist and never works. <sub>by [Farzad](https://x.com/farzyness) · [origin](https://x.com/farzyness/status/2093384064363377099)</sub>
 - [Memento](https://x.ai/bot/_xZZE41svJdcq2w6ZWJan) — Lasting recall for Grok Bot, backed by an external memory store. <sub>by [Mahesh](https://x.com/MaheshtheDev) · [origin](https://x.com/MaheshtheDev/status/2094947237373890593)</sub>
 - [Mercury](https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L) — A standing tech lead that holds the system picture and delegates the coding out. <sub>by [Mujeeb](https://x.com/chiefjeeb) (@chiefjeeb) · [origin](https://x.com/chiefjeeb/status/2094223658151502326)</sub>
+- [Meta Grok](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — A weekday roundup of the five Grok bots people are actually talking about. <sub>by [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
+- [Nomad](https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3) — Keeps a running register of your agents so the stack is never locked in. <sub>by [Pedro](https://x.com/PedroAnibarro) (@PedroAnibarro) · [origin](https://x.com/PedroAnibarro/status/2095095116142666116)</sub>
 - [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — Keeps a shared multi-bot workspace organized, git-backed, and portable, including layout conventions and cleanup. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron)</sub>
 - [Poteto-style Chief of Staff](https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5) — Runs your bench of bots lean: few timers, short specialists, coding sent elsewhere. <sub>by [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [origin](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
 - [Product Ops](https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv) — Turns a freeze list into a weekly ship checklist for the team. <sub>by [Ashish](https://x.com/inqusit) · [origin](https://x.com/inqusit/status/2093513553613656106)</sub>
@@ -581,7 +613,6 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Witness](https://x.ai/bot/p_0KTQ41WwupGeD-iShbK) — Keeps a record of why you made each important decision. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383141901709505)</sub>
 - [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) — The work-side counterpart to Life, one door for professional tasks. <sub>by [Tyler](https://x.com/TylerNishida) · [origin](https://x.com/TylerNishida/status/2093426221732532457)</sub>
 - [Workshop Facilitator](https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH) — Chairs a working session and refuses to close it while any question lacks an owner. <sub>by [Paul](https://x.com/OTNworld) (@OTNworld) · [origin](https://x.com/OTNworld/status/2094033417646006646)</sub>
-- [Writer](https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN) — A chief of agents for a solo founder. Routes work, keeps house rules, and only interrupts for judgment, money, or a blocked teammate. <sub>by Andrew · aka *Jarvis* · [origin](https://github.com/andrewkittridge/grokory)</sub>
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) — A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. <sub>by [Majd](https://x.com/MajdKaid) (@MajdKaid)</sub>
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — Interview-style onboarding that assembles your first bot roster. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2094547674766929996)</sub>
 
@@ -589,7 +620,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🪦 Retired shares
 
-These 4 shares appear in upstream catalogs but no longer resolve as of 2026-09-02. They are listed so you can recognise a stale link elsewhere, not so you can import them.
+These 4 shares appear in upstream catalogs but no longer resolve as of 2026-09-03. They are listed so you can recognise a stale link elsewhere, not so you can import them.
 
 | Bot | Status | Last seen in |
 | --- | :---: | --- |
@@ -607,12 +638,12 @@ The catalog is a merge of four community sources plus a first-party verification
 | Step | Result |
 | --- | --- |
 | Unique share ids found across 4 catalogs | 365 |
-| Answered under 400 on 2026-09-02 | **409** |
+| Answered under 400 on 2026-09-03 | **440** |
 | Answered 404 across two sweeps → `retired.json` | 4 |
-| Rows enriched with first-party `og:` metadata | 409 |
+| Rows enriched with first-party `og:` metadata | 440 |
 | Rows whose live name differs from the community catalogs | 34 (5 substantive, 27 qualifier-only) |
-| Rows attributed to 2+ upstream catalogs | 382 |
-| Rows with a Chinese summary | 409 / 409 |
+| Rows attributed to 2+ upstream catalogs | 412 |
+| Rows with a Chinese summary | 440 / 440 |
 
 Reproduce it yourself with [`scripts/check_links.py`](scripts/check_links.py) (re-sweeps every share) and [`scripts/lint.py`](scripts/lint.py) (validates against [`schema/entry.schema.json`](schema/entry.schema.json)). Method notes: [docs/method.md](docs/method.md).
 
@@ -643,9 +674,9 @@ Full attribution and licence notes: [docs/sources.md](docs/sources.md).
 
 <a href="https://www.star-history.com/?repos=kydlikebtc%2Fawesome-grokbot&type=date&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-09-03" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-09-03" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-09-03" />
   </picture>
 </a>
 

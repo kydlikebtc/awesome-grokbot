@@ -152,14 +152,21 @@ def shield(text):
 
 
 
-def star_history_block():
+def star_history_block(checked):
     """<picture> so the chart follows the reader's light/dark preference.
 
     A plain <img> would burn one theme into the page; GitHub honours the
     prefers-color-scheme sources and swaps the chart with the site theme.
+
+    `checked` rides along as a query param. star-history sends
+    Cache-Control: max-age=86400, so GitHub's camo proxy (and browsers) hold a
+    chart for a day. On a repo that went 0 -> 169 stars in two days that lag
+    was visible as a chart stuck at 50. The READMEs are regenerated daily, so a
+    param that changes with the sweep date gives camo a new URL each day and
+    the chart can never be more than one build behind.
     """
     base = f"https://api.star-history.com/chart?repos={REPO_SLUG}&type=date"
-    tail = f"legend=top-left&sealed_token={STAR_TOKEN}"
+    tail = f"legend=top-left&sealed_token={STAR_TOKEN}&v={checked}"
     dark = f"{base}&theme=dark&{tail}"
     light = f"{base}&{tail}"
     href = (
@@ -553,7 +560,7 @@ def build_en(cat, retired):
 
     A("## 📈 Star history")
     A("")
-    A(star_history_block())
+    A(star_history_block(checked))
     A("")
 
     A("## 📜 Licence")
@@ -843,7 +850,7 @@ def build_zh(cat, retired):
 
     A("## 📈 Star 趋势")
     A("")
-    A(star_history_block())
+    A(star_history_block(checked))
     A("")
 
     A("## 📜 开源协议")
