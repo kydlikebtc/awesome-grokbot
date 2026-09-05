@@ -1,23 +1,23 @@
 {
   "name": "awesome-grokbot",
   "description": "Live x.ai/bot shares for Grok Bot, every link status-checked and every row attributed.",
-  "generated": "2026-09-04",
-  "checked": "2026-09-04",
+  "generated": "2026-09-05",
+  "checked": "2026-09-05",
   "source": "https://github.com/kydlikebtc/awesome-grokbot",
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 485,
+    "live": 532,
     "retired": 4,
     "by_category": {
-      "coding-shipping": 57,
-      "inbox-calendar": 22,
-      "research-briefings": 78,
-      "customer-sales": 31,
+      "coding-shipping": 58,
+      "inbox-calendar": 25,
+      "research-briefings": 88,
+      "customer-sales": 34,
       "finance-ops": 40,
-      "content-publishing": 73,
-      "personal-admin": 104,
-      "teams-handoffs": 80
+      "content-publishing": 78,
+      "personal-admin": 121,
+      "teams-handoffs": 88
     }
   },
   "entries": [
@@ -55,7 +55,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -92,7 +92,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -140,7 +140,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -177,7 +177,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -218,7 +218,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -252,7 +252,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -293,7 +293,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -329,7 +329,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -362,9 +362,48 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "changelog-stand-down",
+      "name": "Changelog Stand-down",
+      "author": {
+        "name": "Andrea",
+        "handle": "acolombiadev",
+        "url": "https://x.com/acolombiadev"
+      },
+      "summary": "Every Monday, a plain summary of what the team shipped",
+      "summary_zh": "每周一用白话汇总团队这周真正上线了什么。",
+      "official_summary": "Pings you every Monday with what shipped. Needs a repo, a destination, and your attention. Will not stop caring about your changelog.",
+      "import": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+      "bot_id": "T27nv3vIy89yKldqELWbn",
+      "category": "coding-shipping",
+      "tags": [
+        "changelog",
+        "engineering",
+        "scheduled"
+      ],
+      "origin": "https://x.com/acolombiadev/status/2096015833449349211",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "claude-code",
@@ -387,7 +426,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -423,7 +462,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -436,7 +475,7 @@
       },
       "summary": "A rehearsed emergency stop for systems you own, gated behind your own confirmation",
       "summary_zh": "只停你自己的系统，先演练再确认的紧急急停开关。",
-      "official_summary": "Kill-switch for your own stack. Six keywords. Dry-run the numbered list, then type CODE RED WORD N. Owner confirm only. Not a weapon against anyone...",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Code Red. Title: Two keys. Then dark. You are a kill-switch conductor for the OWNER of the...",
       "import": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
       "bot_id": "4y3jlvwxFNqcP76eJgpuD",
       "category": "coding-shipping",
@@ -458,7 +497,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -492,7 +531,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -526,7 +565,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -566,7 +605,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -607,7 +646,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -647,7 +686,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -688,7 +727,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -722,7 +761,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -762,7 +801,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -806,7 +845,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -845,7 +884,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -881,7 +920,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -917,7 +956,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -962,7 +1001,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1002,7 +1041,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1043,7 +1082,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1080,7 +1119,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1125,7 +1164,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1161,7 +1200,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1197,7 +1236,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1233,7 +1272,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1269,7 +1308,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1310,7 +1349,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1346,7 +1385,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1379,7 +1418,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1423,7 +1462,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1467,7 +1506,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1502,7 +1541,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1536,7 +1575,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1570,7 +1609,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1611,7 +1650,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1655,7 +1694,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1691,7 +1730,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1724,7 +1763,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1768,7 +1807,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1811,7 +1850,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1847,7 +1886,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1883,7 +1922,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1916,7 +1955,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1952,7 +1991,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1988,7 +2027,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2028,7 +2067,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2064,7 +2103,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2098,7 +2137,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2141,7 +2180,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2189,7 +2228,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2203,7 +2242,7 @@
       },
       "summary": "Turns one scene idea into a wide panorama sliced into four swipeable panels",
       "summary_zh": "把一个场景创意铺成宽幅全景，再切成四张可滑动的分格。",
-      "official_summary": "Paints one ultra-wide 16:9 scene and splits it into four full-bleed vertical swipe panes. Rapper voice.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are 4 Panez. Title: Don't stop at pane one. You talk like a rapper. 2 Chainz energy: confident,...",
       "import": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
       "bot_id": "91R37-rUOh9sS1tZkIF9d",
       "category": "content-publishing",
@@ -2225,7 +2264,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2258,7 +2297,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2291,7 +2330,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2330,7 +2369,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2371,7 +2410,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2407,7 +2446,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2449,7 +2488,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2485,7 +2524,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2529,7 +2568,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2570,7 +2609,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2606,7 +2645,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2648,7 +2687,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2685,7 +2724,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2721,7 +2760,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2757,7 +2796,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2792,7 +2831,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2828,7 +2867,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2864,7 +2903,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2900,7 +2939,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2936,7 +2975,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2972,7 +3011,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3016,7 +3055,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3052,7 +3091,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3088,7 +3127,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3131,7 +3170,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3155,7 +3194,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -3196,7 +3235,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3232,7 +3271,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3275,7 +3314,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3320,7 +3359,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3361,7 +3400,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3397,9 +3436,43 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "klo",
+      "name": "KLO",
+      "author": {
+        "name": "Oren",
+        "handle": "orenmeetsworld",
+        "url": "https://x.com/orenmeetsworld"
+      },
+      "summary": "TikTok creative strategy from organic videos, comments, and ideas",
+      "summary_zh": "从大量自然播放 TikTok 里抽情绪评论和选题方向。",
+      "official_summary": "Name a product and get a TikTok creative-strategy email: 100 organic (non-partner) videos, sentiment, popular-comment insights, and video ideas.",
+      "import": "https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z",
+      "bot_id": "yW-Q1yis7-VCNKbeJ6g6Z",
+      "category": "content-publishing",
+      "tags": [
+        "tiktok",
+        "creator",
+        "strategy"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "koala",
@@ -3433,7 +3506,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3474,7 +3547,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3518,7 +3591,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3531,7 +3604,7 @@
       },
       "summary": "Locks a named person or animal from photos or a clip so later stills and clips still look like them",
       "summary_zh": "用照片或片段锁住某个具体的人或动物，后面生成的图和视频还像他们。",
-      "official_summary": "A name goes with a face. Drop photos, a folder, a clip, or a picture URL, name the person or animal, then Imagine stills and clips keep looking like...",
+      "official_summary": "You are Likeness. Title: A name for a face. by @SuddenlyJon · github.com/Pitchfork-and-Torch You file a person or an animal under a name, then you...",
       "import": "https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD",
       "bot_id": "-h0DhS9ty87dr0UGXLjDD",
       "category": "content-publishing",
@@ -3551,7 +3624,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -3587,7 +3660,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3632,7 +3705,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3673,9 +3746,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "medium-writer",
+      "name": "Medium Writer",
+      "author": {
+        "name": "Vijay",
+        "handle": "ixdesigner",
+        "url": "https://x.com/ixdesigner"
+      },
+      "summary": "Drafts practitioner stories ready for Medium from a source",
+      "summary_zh": "按来源起草适合 Medium 的实操故事稿。",
+      "official_summary": "Medium Writer. Drafts practitioner stories ready for Medium — clear structure, grounded in the source. Not a light proofread.",
+      "import": "https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o",
+      "bot_id": "QdafnX9w3E0G7vqZsvs0o",
+      "category": "content-publishing",
+      "tags": [
+        "writing",
+        "medium",
+        "content"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "meme-king",
@@ -3707,7 +3814,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -3743,7 +3850,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Jester"
@@ -3781,7 +3888,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3825,9 +3932,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "openseo",
+      "name": "OpenSEO",
+      "author": {
+        "name": "Graham",
+        "handle": "BlissNomad",
+        "url": "https://x.com/BlissNomad"
+      },
+      "summary": "SEO specialist for keywords, audits, local SEO, and content briefs",
+      "summary_zh": "做关键词、竞品、站点审计、本地 SEO 和内容简报。",
+      "official_summary": "SEO specialist powered by OpenSEO: keyword research, competitive analysis, site audits, local SEO, and content briefs. One job at a time, then stop and...",
+      "import": "https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU",
+      "bot_id": "8yZv2AeUvBcOFoFRVZfhU",
+      "category": "content-publishing",
+      "tags": [
+        "seo",
+        "marketing",
+        "content"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "paddy",
@@ -3861,7 +4002,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3897,7 +4038,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3937,7 +4078,46 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "ratio",
+      "name": "Ratio",
+      "author": {
+        "name": "Don",
+        "handle": "DonBonStovi",
+        "url": "https://x.com/DonBonStovi"
+      },
+      "summary": "Finds the line in your post that will get quoted back at you",
+      "summary_zh": "发出前挑出会被截图反击的那一句，并给更稳的改法。",
+      "official_summary": "You are RATIO. You are a pre-flight desk for public language. Your job is to forecast how a draft post, reply, quote-tweet, thread, bio, landing-page...",
+      "import": "https://x.ai/bot/q66LYouguOxJ0VclM2whr",
+      "bot_id": "q66LYouguOxJ0VclM2whr",
+      "category": "content-publishing",
+      "tags": [
+        "social-media",
+        "content",
+        "decision-support"
+      ],
+      "origin": "https://x.com/DonBonStovi/status/2096011766962774522",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3978,7 +4158,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4018,7 +4198,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4054,7 +4234,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4099,7 +4279,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4139,7 +4319,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4180,7 +4360,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4219,7 +4399,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4260,7 +4440,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4301,7 +4481,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4341,7 +4521,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4377,7 +4557,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4402,7 +4582,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4443,7 +4623,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4482,7 +4662,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4518,7 +4698,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4554,7 +4734,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4588,7 +4768,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4623,7 +4803,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4660,7 +4840,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4696,7 +4876,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4732,7 +4912,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4771,7 +4951,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4811,7 +4991,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4836,7 +5016,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4869,7 +5049,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4910,7 +5090,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4955,9 +5135,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "unnamed-oflb",
+      "name": "讲解视频调度台",
+      "author": {
+        "name": "独孤",
+        "handle": "dugujun12",
+        "url": "https://x.com/dugujun12"
+      },
+      "summary": "Schedules voice demo, PPT, avatar, and 1080p lecture video delivery",
+      "summary_zh": "调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。",
+      "official_summary": "讲解视频四件套调度台：你丢语音 demo、PPT、可选虚拟形象和带翻页文案，它调度配音与成片，交付字幕对齐的 1080p。适合口播切片与产品介绍。",
+      "import": "https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA",
+      "bot_id": "OFLbKRObiwj-tH6BTVsMA",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "lecture",
+        "production"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "adm-account-bot",
@@ -4988,7 +5202,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5027,13 +5241,13 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
     {
       "slug": "contra-job-scraper",
-      "name": "Contra Job Scraper",
+      "name": "Contra Job Sniper",
       "author": {
         "name": "Srujal",
         "handle": "techking_007",
@@ -5041,7 +5255,7 @@
       },
       "summary": "Checks Contra's freelance feed every 6 hours and emails only on change",
       "summary_zh": "每六小时扫一次 Contra 接案流，有变才发邮件。",
-      "official_summary": "Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks old leads, and emails an HTML digest only when something new or...",
+      "official_summary": "Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks open leads, and emails an HTML digest only when something new or...",
       "import": "https://x.ai/bot/__sNWxlx-8H08UluQuOeo",
       "bot_id": "__sNWxlx-8H08UluQuOeo",
       "category": "customer-sales",
@@ -5067,9 +5281,44 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
-      "license": "CC-BY-4.0"
+      "license": "CC-BY-4.0",
+      "aka": "Contra Job Scraper"
+    },
+    {
+      "slug": "dan-lanning",
+      "name": "Dan Lanning",
+      "author": {
+        "name": "Jenna",
+        "handle": "jennananpei",
+        "url": "https://x.com/jennananpei"
+      },
+      "summary": "Pitch and delivery coach for high-stakes calls from real transcripts",
+      "summary_zh": "用真实通话稿练伙伴关系与高风险发现通话的表达。",
+      "official_summary": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls. Reviews real call transcripts and returns sharp, evidence-based...",
+      "import": "https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS",
+      "bot_id": "1xyC1R0zvv2vKTQHLzYWS",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "coaching",
+        "calls"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "deck-guy",
@@ -5106,7 +5355,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5147,7 +5396,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5186,7 +5435,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5220,7 +5469,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5253,7 +5502,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5300,7 +5549,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5336,10 +5585,44 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Club Sponsor Bot"
+    },
+    {
+      "slug": "herbet",
+      "name": "Herbet",
+      "author": {
+        "name": "Derek",
+        "handle": "derek_all_gusto",
+        "url": "https://x.com/derek_all_gusto"
+      },
+      "summary": "HubSpot how-to for Solutions Partners: which object and which click",
+      "summary_zh": "给 Solutions Partner 讲 HubSpot 该点哪个对象和设置。",
+      "official_summary": "HubSpot how-to expert for Solutions Partner work. Answers which object, setting, and click; defaults to the client portal (not the agency CRM); prefers...",
+      "import": "https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd",
+      "bot_id": "zFDmYYQKE8dUS9Z8r2LAd",
+      "category": "customer-sales",
+      "tags": [
+        "hubspot",
+        "howto",
+        "sales"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "hermes-sdr",
@@ -5362,7 +5645,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5398,7 +5681,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5434,7 +5717,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5475,7 +5758,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5511,7 +5794,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5547,7 +5830,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5588,7 +5871,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5625,7 +5908,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5659,7 +5942,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5700,7 +5983,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5737,7 +6020,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5782,7 +6065,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5829,7 +6112,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5870,7 +6153,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5906,7 +6189,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5950,7 +6233,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5989,7 +6272,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6026,7 +6309,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6058,7 +6341,46 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "spacexai-bug-reporter",
+      "name": "spacexai-bug-reporter",
+      "author": {
+        "name": "Fine_Computer_4451",
+        "handle": "Fine_4451",
+        "url": "https://x.com/Fine_4451"
+      },
+      "summary": "Writes the bug report you paste into the right support form",
+      "summary_zh": "按渠道整理故障报告，写好后由你贴进正确的支持表单。",
+      "official_summary": "Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official Report an issue, billing, API, and X Help Center paths. Does not file tickets.",
+      "import": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+      "bot_id": "g_xmlbEvupO0b1Emk9ohZ",
+      "category": "customer-sales",
+      "tags": [
+        "bugs",
+        "support",
+        "productivity"
+      ],
+      "origin": "https://x.com/Fine_4451/status/2096010664636506121",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6102,7 +6424,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6135,7 +6457,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6176,7 +6498,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6230,7 +6552,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6255,7 +6577,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6296,7 +6618,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6330,7 +6652,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6369,7 +6691,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6413,7 +6735,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6452,7 +6774,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6497,7 +6819,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6531,7 +6853,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6576,7 +6898,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6621,7 +6943,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6654,7 +6976,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6695,7 +7017,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6735,7 +7057,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6775,7 +7097,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6809,7 +7131,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6856,7 +7178,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6889,7 +7211,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6925,7 +7247,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6966,7 +7288,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6999,7 +7321,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7035,7 +7357,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7075,7 +7397,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7111,7 +7433,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7147,7 +7469,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7191,7 +7513,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7227,7 +7549,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7263,7 +7585,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7308,7 +7630,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7344,7 +7666,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7383,7 +7705,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7418,7 +7740,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7454,7 +7776,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7480,7 +7802,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7524,7 +7846,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7558,7 +7880,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7599,7 +7921,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7639,7 +7961,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7675,7 +7997,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7711,7 +8033,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7752,7 +8074,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7793,7 +8115,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7834,7 +8156,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7871,7 +8193,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7914,7 +8236,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7950,7 +8272,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7991,7 +8313,50 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "inbox-to-asana",
+      "name": "Inbox to Asana",
+      "author": {
+        "name": "Wayne",
+        "handle": "wikiwayne",
+        "url": "https://x.com/wikiwayne"
+      },
+      "summary": "Reads work Gmail and files the real work as Asana tasks",
+      "summary_zh": "读公司邮箱，把真要干的事写进 Asana，不动你的发件箱。",
+      "official_summary": "Turns a company Gmail inbox into Asana My Tasks. KEEP / FOLLOW-UP / SKIP triage, due dates, and reminders. Does not send mail.",
+      "import": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+      "bot_id": "Ka18PTTKUNtDDPg0HpYva",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "asana",
+        "automation"
+      ],
+      "origin": "https://x.com/wikiwayne/status/2095991720060014888",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        },
+        {
+          "catalog": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8024,7 +8389,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8065,9 +8430,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "jobby",
+      "name": "Jobby",
+      "author": {
+        "name": "Vijay",
+        "handle": "ixdesigner",
+        "url": "https://x.com/ixdesigner"
+      },
+      "summary": "Watches job listings for chosen roles and emails only new matches",
+      "summary_zh": "盯选定岗位和地区的招聘，只邮件推送新匹配。",
+      "official_summary": "Jobs finder for your area. Watches listings for the roles you choose in a region you pick, and emails only new matches that fit your rules.",
+      "import": "https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE",
+      "bot_id": "DYg0r1xvzy_xxPeRGHcHE",
+      "category": "inbox-calendar",
+      "tags": [
+        "jobs",
+        "monitoring",
+        "email"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "loom",
@@ -8098,7 +8497,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8138,7 +8537,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8173,7 +8572,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8217,7 +8616,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8253,7 +8652,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8293,7 +8692,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8329,7 +8728,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8369,7 +8768,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8403,7 +8802,41 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "teslaway",
+      "name": "teslaway",
+      "author": {
+        "name": "Vijay",
+        "handle": "ixdesigner",
+        "url": "https://x.com/ixdesigner"
+      },
+      "summary": "Finds used Teslas near a ZIP and emails a short matching list",
+      "summary_zh": "按邮编找附近二手特斯拉，并邮件发来短名单。",
+      "official_summary": "Finds used Teslas near a postal/ZIP code in any country, then emails a short list of matching listings. For anyone hunting a Model 3, Y, X, or S without...",
+      "import": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+      "bot_id": "HoG3J3B0g4fjKr54aA5tP",
+      "category": "inbox-calendar",
+      "tags": [
+        "tesla",
+        "shopping",
+        "email"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8440,7 +8873,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8484,7 +8917,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8520,7 +8953,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8556,7 +8989,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8592,7 +9025,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8632,7 +9065,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8666,7 +9099,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8698,9 +9131,82 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "asc-skill",
+      "name": "ASC Skill",
+      "author": {
+        "name": "Phillip",
+        "handle": "Phil_Holland",
+        "url": "https://x.com/Phil_Holland"
+      },
+      "summary": "Walks an iOS release through App Store Connect step by step",
+      "summary_zh": "一步步带着走完 App Store Connect 的 iOS 上架流程。",
+      "official_summary": "Teaches App Store Connect in plain words: connect a key once, check TestFlight, draft listing copy, framed marketing screenshots you approve, and a...",
+      "import": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+      "bot_id": "1kQ8p3TAKx2FgvYXir2Ta",
+      "category": "personal-admin",
+      "tags": [
+        "ios",
+        "app-store",
+        "release"
+      ],
+      "origin": "https://x.com/Phil_Holland/status/2095703454089990347",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "astra-oracle",
+      "name": "Astra Oracle",
+      "author": {
+        "name": "Matt",
+        "handle": "bossriceshark",
+        "url": "https://x.com/bossriceshark"
+      },
+      "summary": "Astra plan and review packets via Codex CLI; does not implement",
+      "summary_zh": "经 Codex CLI 产出可粘贴的 PLAN 和 REVIEW，自己不写代码。",
+      "official_summary": "GPT-6 Astra plan/review seat via Codex CLI. Produces paste-ready PLAN and REVIEW packets for your Cursor cloud agent in poteto-mode. Does not implement.",
+      "import": "https://x.ai/bot/JocbRv3IMTJ5LmjX_qXvZ",
+      "bot_id": "JocbRv3IMTJ5LmjX_qXvZ",
+      "category": "personal-admin",
+      "tags": [
+        "planning",
+        "review",
+        "cli"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "austin-parent",
@@ -8734,7 +9240,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8773,7 +9279,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8818,7 +9324,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8843,7 +9349,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8856,7 +9362,7 @@
       },
       "summary": "Writes a four-heading Grokumentary and waits for a human yes before any quarantine",
       "summary_zh": "写出四段式 Grokumentary，隔离前要你先点头。",
-      "official_summary": "Four-heading Grokumentary. Human yes before quarantine. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Buzzkill. Title: Grokumentary and Bottycall. You are part of Bottyguard — SEAL Team 7....",
       "import": "https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh",
       "bot_id": "F1spQY8tmP2KCqnyuAbJh",
       "category": "personal-admin",
@@ -8876,7 +9382,41 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "campushire",
+      "name": "CampusHire",
+      "author": {
+        "name": "Gin",
+        "handle": "kale243222",
+        "url": "https://x.com/kale243222"
+      },
+      "summary": "Campus and intern job scout that matches JDs and drafts applications",
+      "summary_zh": "给 CS 学生盯校招实习，对照简历匹配 JD 并起草申请。",
+      "official_summary": "校招 Scout：帮 CS 同学找实习/校招/新毕业生岗位，匹配 JD 与简历，起草投递文案，维护申请流水线。",
+      "import": "https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q",
+      "bot_id": "pH5o2mSNpN7tJm_Jurj9Q",
+      "category": "personal-admin",
+      "tags": [
+        "jobs",
+        "campus",
+        "applications"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8916,7 +9456,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8955,7 +9495,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8989,7 +9529,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9030,7 +9570,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9071,7 +9611,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9110,7 +9650,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9146,7 +9686,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9185,7 +9725,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9225,7 +9765,80 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "court",
+      "name": "Court",
+      "author": {
+        "name": "Don",
+        "handle": "DonBonStovi",
+        "url": "https://x.com/DonBonStovi"
+      },
+      "summary": "Reads a stuck group chat and says what it actually decided",
+      "summary_zh": "把卡住的群聊读回去，点明其实已经定了什么。",
+      "official_summary": "You dump the thread. Court names the decision, the person being ignored, the one message that closes it, and whether you should stay out. It never...",
+      "import": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
+      "bot_id": "mA4Ik2mIduPANDqFVmVMX",
+      "category": "personal-admin",
+      "tags": [
+        "decision-support",
+        "chat",
+        "productivity"
+      ],
+      "origin": "https://x.com/DonBonStovi/status/2096023951407485055",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cpa",
+      "name": "CPA助手",
+      "author": {
+        "name": "Ba",
+        "handle": "licoycn",
+        "url": "https://x.com/licoycn"
+      },
+      "summary": "Deploys CLIProxyAPI on the cloud computer with a Cloudflare tunnel",
+      "summary_zh": "在云电脑部署并养护 CLIProxyAPI，带 Cloudflare 隧道保活。",
+      "official_summary": "在云电脑上部署与维护 CLIProxyAPI：安装升级、Cloudflare 正式隧道、公网保活，以及日常功能维护。",
+      "import": "https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA",
+      "bot_id": "hrfWPhRRr-DEMCKEF-WyA",
+      "category": "personal-admin",
+      "tags": [
+        "cli",
+        "proxy",
+        "ops"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9266,7 +9879,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9305,7 +9918,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9339,7 +9952,41 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "devin",
+      "name": "Devin",
+      "author": {
+        "name": "Nazeeh",
+        "handle": "naz3eh",
+        "url": "https://x.com/naz3eh"
+      },
+      "summary": "Hands coding work to Devin through remote MCP sessions and follow-ups",
+      "summary_zh": "经远程 MCP 把编码活交给 Devin，可查进度和追问。",
+      "official_summary": "Hands coding work to Devin through your own remote MCP deploy. Create sessions, check progress, and send follow-ups from chat.",
+      "import": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
+      "bot_id": "RwNXRkVfIUpxKV6jeXRsR",
+      "category": "personal-admin",
+      "tags": [
+        "devin",
+        "mcp",
+        "coding"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9379,7 +10026,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9413,7 +10060,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9452,7 +10099,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9493,7 +10140,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9529,7 +10176,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9543,7 +10190,7 @@
       },
       "summary": "Fantasy football GM for draft, trades, and roster that does not arrive knowing a league",
       "summary_zh": "幻想橄榄球总经理，管选秀交易和阵容，来时并不认识你的联赛。",
-      "official_summary": "Fantasy football GM for draft, trades, and roster. Does not arrive knowing a league.",
+      "official_summary": "Fantasy IC for live drafts, trades, and roster moves. Runs Yahoo and Sleeper host picks with Football Guys Draft Dominator as the ranking board.",
       "import": "https://x.ai/bot/uszqxwGlAmEQ_38nEcT5A",
       "bot_id": "uszqxwGlAmEQ_38nEcT5A",
       "category": "personal-admin",
@@ -9563,7 +10210,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9602,7 +10249,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9638,7 +10285,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9679,7 +10326,41 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "grok-apps",
+      "name": "Grok Apps",
+      "author": {
+        "name": "Mark",
+        "handle": "Toy_Maestro",
+        "url": "https://x.com/Toy_Maestro"
+      },
+      "summary": "Finds free desktop software, installs it, and can demo with a short loop",
+      "summary_zh": "在云电脑上找免费桌面软件并安装，还能录一小段演示。",
+      "official_summary": "Finds free desktop software for what you want to do, installs it on its computer, and can demo the apps with a short recorded loop.",
+      "import": "https://x.ai/bot/7SzHEz6S0G4PVP3yIUcpE",
+      "bot_id": "7SzHEz6S0G4PVP3yIUcpE",
+      "category": "personal-admin",
+      "tags": [
+        "software",
+        "install",
+        "demo"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9711,7 +10392,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9744,7 +10425,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9757,7 +10438,7 @@
       },
       "summary": "Turns Wormsign into two intent graphs that chase motive, not vibe",
       "summary_zh": "把 Wormsign 收成两张意图图，追动机不追氛围。",
-      "official_summary": "Turns Wormsign into two intent graphs. Motive, not vibe. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Grokologist. Title: Two intent graphs. You are part of Bottyguard — SEAL Team 7. You are...",
       "import": "https://x.ai/bot/8vdHXq66kVvVlbACd-IDL",
       "bot_id": "8vdHXq66kVvVlbACd-IDL",
       "category": "personal-admin",
@@ -9777,7 +10458,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9816,7 +10497,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9853,9 +10534,43 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "hermes-bridge",
+      "name": "Hermes Bridge",
+      "author": {
+        "name": "Fate",
+        "handle": "alltheputs",
+        "url": "https://x.com/alltheputs"
+      },
+      "summary": "Bridge to Hermes Agent for talk or delegate, with install coaching",
+      "summary_zh": "对接 Hermes Agent 可聊可委派，并辅导安装与 API。",
+      "official_summary": "Bridge to your Hermes Agent so you can talk, collaborate, and delegate — including coaching Hermes install and API setup when needed.",
+      "import": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
+      "bot_id": "EFC0e7EDDAC32LxnNyJzP",
+      "category": "personal-admin",
+      "tags": [
+        "hermes",
+        "bridge",
+        "mcp"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "home-front",
@@ -9889,7 +10604,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9931,7 +10646,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9967,7 +10682,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10004,7 +10719,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10045,9 +10760,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "human-browser",
+      "name": "Human browser",
+      "author": {
+        "name": "Denys",
+        "handle": "Pakhaliuk",
+        "url": "https://x.com/Pakhaliuk"
+      },
+      "summary": "Browses captcha-sensitive sites sequentially and stops on captcha",
+      "summary_zh": "像人一样顺序浏览易触发验证码的站，遇验证码就停。",
+      "official_summary": "Browses any captcha-sensitive site like a person: one sequential session, natural mouse and scroll, variable dwell, no bursts. Stops on captcha....",
+      "import": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
+      "bot_id": "hPX3NYTSIW6t3POJuas_m",
+      "category": "personal-admin",
+      "tags": [
+        "browser",
+        "captcha",
+        "automation"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "interview-prep",
@@ -10089,7 +10838,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10114,7 +10863,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10148,7 +10897,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10182,7 +10931,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10215,7 +10964,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10253,7 +11002,41 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "kimi",
+      "name": "Kimi",
+      "author": {
+        "name": "Oren",
+        "handle": "orenmeetsworld",
+        "url": "https://x.com/orenmeetsworld"
+      },
+      "summary": "Turns business podcasts and YouTube into short no-fluff cheat sheets",
+      "summary_zh": "把商业播客和 YouTube 收成短小不注水的速查单。",
+      "official_summary": "Turns business podcasts and YouTube episodes into short, no-fluff cheat sheets of advice you can actually run. Drop a link and get Core idea → Do this →...",
+      "import": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
+      "bot_id": "oBK8ft9f4D723aXeZJuCm",
+      "category": "personal-admin",
+      "tags": [
+        "podcast",
+        "youtube",
+        "notes"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10287,7 +11070,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10326,7 +11109,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10365,7 +11148,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10397,7 +11180,41 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "letsmove-agent",
+      "name": "LetsMove Agent",
+      "author": {
+        "name": "Vijay",
+        "handle": "ixdesigner",
+        "url": "https://x.com/ixdesigner"
+      },
+      "summary": "Agrees countries and preferences, then finds matching listings",
+      "summary_zh": "先对齐国家片区偏好，再帮你找对口的房源。",
+      "official_summary": "A real-estate search assistant. Agrees countries, areas, and home preferences at first setup, then finds matching listings and emails quiet digests on...",
+      "import": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
+      "bot_id": "4T3OhOtwYn4L3j_TpOaRL",
+      "category": "personal-admin",
+      "tags": [
+        "real-estate",
+        "search",
+        "life"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10436,7 +11253,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10470,7 +11287,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10507,7 +11324,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10541,7 +11358,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10580,7 +11397,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10614,7 +11431,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10655,9 +11472,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "mission-control",
+      "name": "Mission Control",
+      "author": {
+        "name": "Scott",
+        "handle": "scottxmetcalf",
+        "url": "https://x.com/scottxmetcalf"
+      },
+      "summary": "Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet",
+      "summary_zh": "维护本机 Chrome 新标签看板，汇总舰队日程决策和状态。",
+      "official_summary": "Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet. After install it walks you through a required one-time Chrome Load unpacked...",
+      "import": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
+      "bot_id": "GGnJOdH3hv321H2QES9UE",
+      "category": "personal-admin",
+      "tags": [
+        "dashboard",
+        "fleet",
+        "ops"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "morpheus",
@@ -10699,7 +11550,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10730,7 +11581,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10764,7 +11615,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10804,7 +11655,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10840,7 +11691,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10876,9 +11727,43 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "omni-grok-bot",
+      "name": "OMNI Grok-Bot",
+      "author": {
+        "name": "Tim",
+        "handle": "omni_puzzler",
+        "url": "https://x.com/omni_puzzler"
+      },
+      "summary": "Companion door for One Mission work with a hard privacy wall",
+      "summary_zh": "One Mission 向的陪伴入口，工具不当王座并守隐私墙。",
+      "official_summary": "Morally aligned companion door for One Mission work. Tool not throne. One front door, strip-not-add, privacy wall: the bot gets the question, never the...",
+      "import": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
+      "bot_id": "HAIGA0nUYgv85CtV5SMWa",
+      "category": "personal-admin",
+      "tags": [
+        "companion",
+        "privacy",
+        "wellbeing"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "onboarding-coach",
@@ -10912,7 +11797,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10951,7 +11836,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10995,7 +11880,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11027,7 +11912,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11059,7 +11944,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11095,7 +11980,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11134,7 +12019,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11173,7 +12058,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11200,7 +12085,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11240,7 +12125,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11272,7 +12157,46 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "robauto-website-growth-agent",
+      "name": "Robauto Website Growth Agent",
+      "author": {
+        "name": "Robauto",
+        "handle": "RobautoAI",
+        "url": "https://x.com/RobautoAI"
+      },
+      "summary": "Gets a brand site ready for the machines that will shop on it",
+      "summary_zh": "按机器可读标准给品牌站打分，并一次只推一小步改法。",
+      "official_summary": "Helps brands make their site legible, usable, and payable by AI agents — scan, one paste-ready fix a day, re-scan until 100.",
+      "import": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+      "bot_id": "7k0TLQBu4hPI5oE3ywRHU",
+      "category": "personal-admin",
+      "tags": [
+        "seo",
+        "growth",
+        "automation"
+      ],
+      "origin": "https://x.com/RobautoAI/status/2095990098278113670",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11297,7 +12221,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11334,7 +12258,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11373,7 +12297,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11399,7 +12323,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11431,7 +12355,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11467,7 +12391,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11492,7 +12416,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11505,7 +12429,7 @@
       },
       "summary": "Sealed family sketches and detection ideas, never a runnable malware sample",
       "summary_zh": "密封的家族草图和检测思路，从不给可运行样本。",
-      "official_summary": "Sealed family sketches. Detection ideas. Never a runnable sample. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Find me: https://bots.jonbailey.xyz You are Sworm. Title: Sealed family sketches. You are part of...",
       "import": "https://x.ai/bot/l0J0Nj95_yVOlFZIHB1Y_",
       "bot_id": "l0J0Nj95_yVOlFZIHB1Y_",
       "category": "personal-admin",
@@ -11525,7 +12449,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11561,7 +12485,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11575,7 +12499,7 @@
       },
       "summary": "Clears the abandoned tabs out of a shared cloud browser",
       "summary_zh": "清掉共享云浏览器里废弃的标签页。",
-      "official_summary": "A Grok Bot that inventories the shared cloud browser and closes only obvious leftover junk. Conservative dry-run first, owner keep-list, reports to a...",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Job: Keep the shared Grok Bot browser lean. All Bots on this account share one cloud computer and one...",
       "import": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
       "bot_id": "XOYBYmHQrUT_Ux88SS409",
       "category": "personal-admin",
@@ -11600,7 +12524,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11639,7 +12563,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11664,7 +12588,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11707,7 +12631,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11747,7 +12671,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11790,7 +12714,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11829,7 +12753,46 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "the-bitcoin-layer",
+      "name": "The Bitcoin Layer",
+      "author": {
+        "name": "Thomas",
+        "handle": "Tferriere",
+        "url": "https://x.com/Tferriere"
+      },
+      "summary": "Alerts only when The Bitcoin Layer Pulse indicator turns",
+      "summary_zh": "只在 The Bitcoin Layer 的 Pulse 指标拐头时提醒你。",
+      "official_summary": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English...",
+      "import": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+      "bot_id": "LS2cnDAX30vNkWNb1Rv_7",
+      "category": "personal-admin",
+      "tags": [
+        "crypto",
+        "liquidity",
+        "alerts"
+      ],
+      "origin": "https://x.com/Tferriere/status/2095770015723393337",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11863,9 +12826,48 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "token",
+      "name": "Token",
+      "author": {
+        "name": "Solomon",
+        "handle": "jsk333",
+        "url": "https://x.com/jsk333"
+      },
+      "summary": "Puts a spending limit on every bot in your fleet",
+      "summary_zh": "给舰队里每个 Bot 设用量上限，盯住哪只在烧钱。",
+      "official_summary": "Cuts Grok Bot and Cursor token spend across a multi-bot fleet with persona budgets, quiet reporting, and lean skills. For owners drowning in ack spam...",
+      "import": "https://x.ai/bot/2Nk6nQTahTex1e5gHS_LU",
+      "bot_id": "2Nk6nQTahTex1e5gHS_LU",
+      "category": "personal-admin",
+      "tags": [
+        "tokens",
+        "ops",
+        "saving-money"
+      ],
+      "origin": "https://x.com/jsk333/status/2096004080309039288",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "token-cop",
@@ -11897,7 +12899,40 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "token-maxxing",
+      "name": "Token Maxxing",
+      "author": {
+        "name": "iggynore",
+        "url": "https://x.com/iggynore"
+      },
+      "summary": "Routes builds so Grok Bot limits last across Bot, Build, and Cursor",
+      "summary_zh": "分配构建路径，让 Bot、Build 和 Cursor 额度别先被掏空。",
+      "official_summary": "Routes builds so Grok Bot limits don’t die first. Makes a default 20/30/50 vest between Bot, Build and Cursor limits. Nudges enrolled builders with...",
+      "import": "https://x.ai/bot/f6srhE3vkMevccaw8DLPf",
+      "bot_id": "f6srhE3vkMevccaw8DLPf",
+      "category": "personal-admin",
+      "tags": [
+        "tokens",
+        "limits",
+        "ops"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11936,7 +12971,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11981,7 +13016,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12017,7 +13052,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12030,7 +13065,7 @@
       },
       "summary": "Logs or it did not happen; static maps only, never runs the file",
       "summary_zh": "没日志就算没发生，只出静态图，从不跑文件。",
-      "official_summary": "Logs or it did not happen. Static maps. Never runs the file. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Find me: bots.jonbailey.xyz You are Twinwright. Title: Scanctuary twins. You are part of Bottyguard —...",
       "import": "https://x.ai/bot/Hvli5amrlprtDS2KuFRBP",
       "bot_id": "Hvli5amrlprtDS2KuFRBP",
       "category": "personal-admin",
@@ -12050,7 +13085,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12090,7 +13125,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12129,7 +13164,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12165,7 +13200,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12205,7 +13240,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12241,7 +13276,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12277,7 +13312,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12311,7 +13346,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12350,7 +13385,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12391,7 +13426,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12431,7 +13466,46 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "arnold",
+      "name": "Arnold",
+      "author": {
+        "name": "Kelsey",
+        "handle": "Kelseyshuo",
+        "url": "https://x.com/Kelseyshuo"
+      },
+      "summary": "Watches Cursor usage cost and nudges agents onto cheaper models",
+      "summary_zh": "盯着 Cursor 用量花钱，该省时把 agent 换成更便宜的模型。",
+      "official_summary": "Friendly accountant for Cursor token and spend usage. Watches for runaway processes and duplicate work eating tokens, steers other agents’ model choices...",
+      "import": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+      "bot_id": "ymoMdfvzdErOrclxCOaC_",
+      "category": "research-briefings",
+      "tags": [
+        "cost",
+        "cursor",
+        "monitoring"
+      ],
+      "origin": "https://x.com/Kelseyshuo/status/2095701119355834859",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12470,7 +13544,46 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "better-call-claude",
+      "name": "Better Call Claude",
+      "author": {
+        "name": "Robauto",
+        "handle": "freelegalforall",
+        "url": "https://x.com/freelegalforall"
+      },
+      "summary": "Free help working out what a legal problem actually is",
+      "summary_zh": "免费帮你把法律问题归类定位，只做导读不做代理。",
+      "official_summary": "Free open-source legal guide. Helps people navigate legal issues worldwide with bettercallclaude.org resources and daily research — guidance, not formal...",
+      "import": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+      "bot_id": "f7I5mP0uJf9brGIuK0ETo",
+      "category": "research-briefings",
+      "tags": [
+        "legal",
+        "research",
+        "decision-support"
+      ],
+      "origin": "https://x.com/freelegalforall/status/2095994776625819949",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12483,7 +13596,7 @@
       },
       "summary": "Inspects a Grok bot's share link before you let it into your account",
       "summary_zh": "在你把别人的 Grok Bot 加进账号前，先检查那条分享链接。",
-      "official_summary": "Box Inspector peeks under a Grok Bot share link and dumps everything the template says inside — persona, skills, routines, memories, plugins — then a...",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Box Inspector. Title: Peek under the curtain. You are the gate for Grok Bot templates. A...",
       "import": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
       "bot_id": "q7GLbLhMZDpJXBGuuci1J",
       "category": "research-briefings",
@@ -12507,7 +13620,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12543,7 +13656,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12579,7 +13692,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12620,7 +13733,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12656,7 +13769,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12692,7 +13805,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12739,7 +13852,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12773,7 +13886,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12814,7 +13927,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12827,7 +13940,7 @@
       },
       "summary": "A contingency trigger that fires only when you stop checking in",
       "summary_zh": "只有你漏打卡时才会触发的预案开关，载荷由你事先装好。",
-      "official_summary": "Dead-man's switch you load yourself. Pick a clock and a payload. Miss a ping, only that loadout fires. The bot explains how to ARM. It does not start a...",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Dead-man's switch you load yourself. Pick a clock and a payload. Miss a ping, only that loadout fires....",
       "import": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
       "bot_id": "XCaz2bKzsJ4J1DmkaYyc4",
       "category": "research-briefings",
@@ -12849,7 +13962,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12885,7 +13998,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12924,9 +14037,43 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "early-stage-funding-scout",
+      "name": "Early-Stage Funding Scout",
+      "author": {
+        "name": "Nahuel",
+        "handle": "neslyio",
+        "url": "https://x.com/neslyio"
+      },
+      "summary": "Finds accelerators and pre-seed VCs for founders and pings apply windows",
+      "summary_zh": "帮创始人找加速器和种子轮，并提醒申请窗口。",
+      "official_summary": "Proactively finds early-stage capital for early-stage founders: short accelerators and pre-seed VCs. Creates a Notion board, asks preferred location...",
+      "import": "https://x.ai/bot/1AFXHf0OtQ-J4-eP5wgC5",
+      "bot_id": "1AFXHf0OtQ-J4-eP5wgC5",
+      "category": "research-briefings",
+      "tags": [
+        "fundraising",
+        "startup",
+        "monitoring"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "errol",
@@ -12960,7 +14107,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12993,7 +14140,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13029,7 +14176,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13065,7 +14212,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13109,7 +14256,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13145,7 +14292,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13189,7 +14336,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13226,7 +14373,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13267,7 +14414,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13306,7 +14453,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13350,7 +14497,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13386,7 +14533,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13422,7 +14569,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13458,7 +14605,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13498,7 +14645,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13542,7 +14689,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13578,7 +14725,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13623,7 +14770,46 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "markets-brief-scout",
+      "name": "Markets Brief Scout",
+      "author": {
+        "name": "SpheraVox",
+        "handle": "GainGlintGaz",
+        "url": "https://x.com/GainGlintGaz"
+      },
+      "summary": "Weekday market cards with sources, plus draft posts you approve",
+      "summary_zh": "工作日整理带出处的行情卡片，并起草待你拍板的帖子。",
+      "official_summary": "Weekday morning markets brief for investors and creators: dense sourced ticker cards, human X/Facebook drafts, and private leans—draft-only, never...",
+      "import": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+      "bot_id": "exSOooSSp0Pc4W_K9DQ4T",
+      "category": "research-briefings",
+      "tags": [
+        "finance",
+        "research",
+        "scheduled"
+      ],
+      "origin": "https://x.com/GainGlintGaz/status/2095969760475275664",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13663,7 +14849,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13676,7 +14862,7 @@
       },
       "summary": "Can pause anyone, including Bottyguard, while hunting injection and leash breaks",
       "summary_zh": "能暂停任何人包括 Bottyguard，专查注入和脱缰。",
-      "official_summary": "Can pause anyone, including Bottyguard. Hunts injection and leash breaks. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Mirror. Title: Meta-immune. Required. You are part of Bottyguard — SEAL Team 7. You are...",
       "import": "https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb",
       "bot_id": "6XwjJ_W0mX_ybK4ts_Ngb",
       "category": "research-briefings",
@@ -13696,9 +14882,48 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "mr-dufrain",
+      "name": "Mr. Dufrain",
+      "author": {
+        "name": "Wagmoo",
+        "handle": "zilarwitch",
+        "url": "https://x.com/zilarwitch"
+      },
+      "summary": "Keeps the household books and warns you before a payment lands",
+      "summary_zh": "盯个人账本进出，在扣款落地前提醒你挪钱。",
+      "official_summary": "Personal accountant bot. Tracks money, tax, and cash flow, watches bills so nothing bounces, and works a payday debt-kill plan so you keep more of what...",
+      "import": "https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5",
+      "bot_id": "aBkdS0Duc24Hz7MvNm7W5",
+      "category": "research-briefings",
+      "tags": [
+        "finance",
+        "personal",
+        "monitoring"
+      ],
+      "origin": "https://x.com/zilarwitch/status/2095992717805547980",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "my-krishna",
@@ -13735,7 +14960,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13775,7 +15000,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13816,7 +15041,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13852,7 +15077,46 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "online-identity-bot",
+      "name": "Online Identity Bot",
+      "author": {
+        "name": "Greg",
+        "handle": "gkamstra",
+        "url": "https://x.com/gkamstra"
+      },
+      "summary": "Daily search-engine check for what is newly public about you",
+      "summary_zh": "每天查一遍搜索引擎里新冒出来的你的公开信息。",
+      "official_summary": "Daily search-and-log bot for personal online presence. Finds new public listings across search engines, categorizes them, and reports counts to a...",
+      "import": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+      "bot_id": "4VEl6mp1QrsvvjTFR-qE_",
+      "category": "research-briefings",
+      "tags": [
+        "privacy",
+        "monitoring",
+        "personal"
+      ],
+      "origin": "https://x.com/gkamstra/status/2095837272687964512",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13891,7 +15155,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13931,7 +15195,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13970,7 +15234,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14014,7 +15278,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14050,7 +15314,46 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "preach",
+      "name": "Preach",
+      "author": {
+        "name": "XO",
+        "handle": "Ortix008",
+        "url": "https://x.com/Ortix008"
+      },
+      "summary": "One passage of scripture and a short encouragement, daily",
+      "summary_zh": "每天一段经文加几句稳的鼓励，不当课程只做习惯。",
+      "official_summary": "A calm pastor bot that shares one real Bible verse and a short word of encouragement each day. For personal growth, mental health, and strength — not...",
+      "import": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
+      "bot_id": "ZFj_cKTrMTytrCKM9DFHk",
+      "category": "research-briefings",
+      "tags": [
+        "wellbeing",
+        "scheduled",
+        "learning"
+      ],
+      "origin": "https://x.com/Ortix008/status/2095988445147496955",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14089,7 +15392,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14128,7 +15431,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14168,7 +15471,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14204,7 +15507,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14237,7 +15540,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14281,7 +15584,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14325,9 +15628,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "research-desk",
+      "name": "Research Desk",
+      "author": {
+        "name": "D",
+        "handle": "justsomeguy741",
+        "url": "https://x.com/justsomeguy741"
+      },
+      "summary": "Propose-only research desk with sourced drafts for human approval",
+      "summary_zh": "只起草带出处的研究结论供你批准，付款端永不写入。",
+      "official_summary": "Goal → pay (or free) → draft sourced findings → you approve or discard → warehouse SQL. Agents propose; humans judge; payment never writes.",
+      "import": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
+      "bot_id": "99i8BzpcF-FsOKxTQxZRM",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "approval",
+        "sources"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "research-runner",
@@ -14361,7 +15698,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14397,7 +15734,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14433,7 +15770,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14470,7 +15807,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14510,7 +15847,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14546,7 +15883,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14590,7 +15927,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14630,7 +15967,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14674,7 +16011,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14710,7 +16047,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14746,7 +16083,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14785,7 +16122,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14826,7 +16163,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14840,7 +16177,7 @@
       },
       "summary": "Watches your weekly model spend and warns you well before the allowance runs out",
       "summary_zh": "盯着每周模型花销，额度见底前提早喊你。",
-      "official_summary": "Tracks Cursor Models, Other Models, and Grok Bot weekly usage from the Cursor spending dashboard. Warns at 25, 50, 75, and 90 percent. Each owner must...",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Tracks Cursor Models, Other Models, and Grok Bot weekly usage from the Cursor spending dashboard....",
       "import": "https://x.ai/bot/zdnVIfLkNmRwZqqogojuc",
       "bot_id": "zdnVIfLkNmRwZqqogojuc",
       "category": "research-briefings",
@@ -14866,9 +16203,49 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "grok-bot",
+      "name": "Top Grok Bot tweets",
+      "author": {
+        "name": "Mai",
+        "handle": "MaiYangAI",
+        "url": "https://x.com/MaiYangAI"
+      },
+      "summary": "A twice-daily Chinese-language sweep of top Grok Bot accounts",
+      "summary_zh": "每天两次用中文扫一遍值得看的 Grok Bot 账号动态。",
+      "official_summary": "Curates high-quality, high-traffic original posts from a public list of 21 Grok Bot explorers. Weekday morning & evening scans; numbered, quality-first;...",
+      "import": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+      "bot_id": "lFDR77qKaT3Iglzv9pUac",
+      "category": "research-briefings",
+      "tags": [
+        "grok-bot",
+        "briefing",
+        "social"
+      ],
+      "origin": "https://x.com/MaiYangAI/status/2094583123392761968",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-02",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0",
+      "aka": "最值得关注的Grok Bot 推文？"
     },
     {
       "slug": "travel-agent",
@@ -14902,7 +16279,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14938,7 +16315,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14977,9 +16354,42 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "vigil",
+      "name": "Vigil",
+      "author": {
+        "name": "AdventureNLearn",
+        "url": "https://x.com/AdventureNLearn"
+      },
+      "summary": "Sweep Desk lead: paste a lure for a field brief, never builds attacks",
+      "summary_zh": "Sweep Desk 主位，贴诱饵或记录出简报，绝不组攻击。",
+      "official_summary": "Lead of the Sweep Desk. Paste a lure or transcript for a field brief — does not build attacks. One template stands up the full Sweep Desk and the meme...",
+      "import": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
+      "bot_id": "SJYRJy2TnPB_NNqtnaJTJ",
+      "category": "research-briefings",
+      "tags": [
+        "security",
+        "briefing",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "voice-of-the-people",
@@ -15011,7 +16421,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15024,7 +16434,7 @@
       },
       "summary": "Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7",
       "summary_zh": "Wormsign 监视器，不下判决，属于 Bottyguard SEAL Team 7。",
-      "official_summary": "Opens Wormsign. Pointers only. No verdicts. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Watchbot. Title: Wormsign. No verdicts. You are part of Bottyguard — SEAL Team 7. You are...",
       "import": "https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck",
       "bot_id": "D2M2qOWDB0AKe2k_jG7Ck",
       "category": "research-briefings",
@@ -15044,7 +16454,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15080,7 +16490,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15121,7 +16531,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15161,7 +16571,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15194,7 +16604,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15228,9 +16638,48 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "unnamed-z7xu",
+      "name": "下载专家",
+      "author": {
+        "name": "kin",
+        "handle": "KinGao476942",
+        "url": "https://x.com/KinGao476942"
+      },
+      "summary": "Turns long videos and podcasts into searchable Chinese transcripts",
+      "summary_zh": "把长视频和播客转成能搜可读的中文文稿，顺手捞公开论文。",
+      "official_summary": "把 YouTube、B 站、播客转成可读中文稿，并下载公开的学术论文和技术报告 PDF。转写需要自己在阿里云百炼拿一把 API Key，打开后会按官方文档引导。",
+      "import": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+      "bot_id": "z7xup0Ax1SBl2K84PELqF",
+      "category": "research-briefings",
+      "tags": [
+        "transcript",
+        "research",
+        "chinese"
+      ],
+      "origin": "https://x.com/KinGao476942/status/2095774247805472910",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "unnamed",
@@ -15267,46 +16716,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
-      "link_status": 200,
-      "license": "CC-BY-4.0"
-    },
-    {
-      "slug": "grok-bot",
-      "name": "最值得关注的Grok Bot 推文？",
-      "author": {
-        "name": "Mai",
-        "handle": "MaiYangAI",
-        "url": "https://x.com/MaiYangAI"
-      },
-      "summary": "A twice-daily Chinese-language sweep of top Grok Bot accounts",
-      "summary_zh": "每天两次用中文扫一遍值得看的 Grok Bot 账号动态。",
-      "official_summary": "按公开的 21 个 Grok Bot 探索者名单，只交高质量高流量原帖。工作日早晚各扫一轮，带序号、质量优先排序，达标才交。中文，不发帖。",
-      "import": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
-      "bot_id": "lFDR77qKaT3Iglzv9pUac",
-      "category": "research-briefings",
-      "tags": [
-        "grok-bot",
-        "briefing",
-        "social"
-      ],
-      "origin": "https://x.com/MaiYangAI/status/2094583123392761968",
-      "sources": [
-        {
-          "catalog": "majiayu000/awesome-grok-bot",
-          "url": "https://github.com/majiayu000/awesome-grok-bot"
-        },
-        {
-          "catalog": "cs68614-hash/awesome-grokbot-templates",
-          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-        },
-        {
-          "catalog": "ZeroPointRepo/GrokBotDev",
-          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-        }
-      ],
-      "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15346,7 +16756,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15384,7 +16794,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15428,7 +16838,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15467,7 +16877,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15511,7 +16921,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15544,7 +16954,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15580,7 +16990,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15610,7 +17020,7 @@
           "url": "https://github.com/majiayu000/awesome-grok-bot"
         }
       ],
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15623,7 +17033,7 @@
       },
       "summary": "Squad lead for the Bottyguard SEAL Team 7 security bots",
       "summary_zh": "Bottyguard SEAL Team 7 安全小队的队长。",
-      "official_summary": "Lead of SEAL Team 7. Paste a lure or transcript. It assigns the squad and assembles the Grokumentary. It does not detonate. By @SuddenlyJon.",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Find me: @SuddenlyJon · github.com/Pitchfork-and-Torch You are Bottyguard. Title: Lead of SEAL Team...",
       "import": "https://x.ai/bot/PFI2o0ZcruL6vjjHAm5cF",
       "bot_id": "PFI2o0ZcruL6vjjHAm5cF",
       "category": "teams-handoffs",
@@ -15643,7 +17053,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15679,7 +17089,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15715,7 +17125,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15751,7 +17161,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15787,7 +17197,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15832,7 +17242,46 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "chief-q6ow",
+      "name": "Chief",
+      "author": {
+        "name": "Tyler",
+        "handle": "MitchTiler",
+        "url": "https://x.com/MitchTiler"
+      },
+      "summary": "Front desk in front of a bench of specialist bots",
+      "summary_zh": "一个前台对接整队专员 bot，用书面简报交接。",
+      "official_summary": "Front-door chief of staff. Mission Contracts, SoR files, AgentMail. Day-one fat specialists: Notetaker, Email, Writing, Scheduler, Contrarian, Calendar,...",
+      "import": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+      "bot_id": "Q6Owq4QjKJeSyo4FJ8hZW",
+      "category": "teams-handoffs",
+      "tags": [
+        "agent-team",
+        "ops",
+        "chief-of-staff"
+      ],
+      "origin": "https://x.com/MitchTiler/status/2095711121193996674",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15861,7 +17310,7 @@
           "url": "https://github.com/majiayu000/awesome-grok-bot"
         }
       ],
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15906,7 +17355,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15951,7 +17400,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15996,7 +17445,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16031,7 +17480,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16072,9 +17521,77 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cleaner",
+      "name": "Cleaner",
+      "author": {
+        "name": "Seth",
+        "handle": "sethsaler",
+        "url": "https://x.com/sethsaler"
+      },
+      "summary": "Wipes Grok Bot chat histories on request and weekly; memory stays",
+      "summary_zh": "按需和每周清聊天记录，档案记忆和例行任务都保留。",
+      "official_summary": "Wipes Grok Bot chat histories on request and on a weekly schedule — messages and blobs only; profile, memory, and routines stay.",
+      "import": "https://x.ai/bot/OMPT37PUKmoL8MY11oDLP",
+      "bot_id": "OMPT37PUKmoL8MY11oDLP",
+      "category": "teams-handoffs",
+      "tags": [
+        "meta-bot",
+        "cleanup",
+        "privacy"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "colliebot",
+      "name": "Colliebot",
+      "author": {
+        "name": "Charls",
+        "handle": "charlswfeelings",
+        "url": "https://x.com/charlswfeelings"
+      },
+      "summary": "Sheepdog for fleets: audits drift and proposes tighter descriptions",
+      "summary_zh": "给舰队当牧羊犬，审计跑偏并提议更紧的描述等你批。",
+      "official_summary": "A sheepdog for Grok Bot fleets. Audits other bots for drift, slop, and scope creep, proposes tighter descriptions, and never applies a change until you...",
+      "import": "https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD",
+      "bot_id": "UKQArSeY_eDxd26k_ZdoD",
+      "category": "teams-handoffs",
+      "tags": [
+        "fleet",
+        "audit",
+        "meta-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "construction-office-manager",
@@ -16108,7 +17625,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16144,7 +17661,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16184,7 +17701,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16224,7 +17741,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16260,7 +17777,46 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "desk-producer",
+      "name": "Desk Producer",
+      "author": {
+        "name": "Alex",
+        "handle": "DOGE_2013",
+        "url": "https://x.com/DOGE_2013"
+      },
+      "summary": "Runs the production desk on a film so the paperwork keeps up",
+      "summary_zh": "当制片调度台，让场记和交付跟得上拍摄进度。",
+      "official_summary": "Runs a film desk: staffs seats, files the work, and brings you last-save packets.",
+      "import": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
+      "bot_id": "RBjaMq7S6scnB-ECoCVVs",
+      "category": "teams-handoffs",
+      "tags": [
+        "creator",
+        "ops",
+        "agent-team"
+      ],
+      "origin": "https://x.com/DOGE_2013/status/2096003407781810202",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16296,7 +17852,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16336,7 +17892,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16377,7 +17933,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16411,7 +17967,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -16450,7 +18006,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16486,7 +18042,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16522,7 +18078,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16562,7 +18118,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16606,7 +18162,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16642,7 +18198,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16679,7 +18235,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16723,7 +18279,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16755,7 +18311,85 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "grokbot-optimizer",
+      "name": "GrokBot Optimizer",
+      "author": {
+        "name": "Robert",
+        "handle": "rjdhardesty",
+        "url": "https://x.com/rjdhardesty"
+      },
+      "summary": "Audits your bot fleet against written rules and flags overlap",
+      "summary_zh": "对照你写的规则审计整队 bot，标出重叠和跑偏。",
+      "official_summary": "Watches a multi-bot Grok org for drift and waste. Inventories roster, contracts, and routines against doctrine, then drafts RFCs only — never applies...",
+      "import": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+      "bot_id": "b7m5siCKd6baaWkPihOGa",
+      "category": "teams-handoffs",
+      "tags": [
+        "meta-bot",
+        "ops",
+        "fleet"
+      ],
+      "origin": "https://x.com/rjdhardesty/status/2095764915919458768",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "join-a-startup-bot",
+      "name": "Join a Startup Bot",
+      "author": {
+        "name": "Ben",
+        "handle": "deysourav7091",
+        "url": "https://x.com/deysourav7091"
+      },
+      "summary": "Daily handful of early-stage jobs the big boards miss",
+      "summary_zh": "每天送来几条大板子上看不到的早期岗位。",
+      "official_summary": "A bot for people who want to join breakout startups. 3–10 daily recommendations for you from under-the-radar sources and deeper help (outreach,...",
+      "import": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+      "bot_id": "XJCoBm6z7qjAnt9ScG8i7",
+      "category": "teams-handoffs",
+      "tags": [
+        "jobs",
+        "startup",
+        "recruiting"
+      ],
+      "origin": "https://x.com/deysourav7091/status/2095719866691133940",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16791,7 +18425,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16832,7 +18466,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16876,7 +18510,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16912,7 +18546,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16937,7 +18571,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -16977,7 +18611,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17014,7 +18648,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17049,7 +18683,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17089,7 +18723,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17129,7 +18763,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17169,7 +18803,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17204,7 +18838,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17240,7 +18874,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17280,7 +18914,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17316,7 +18950,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17341,7 +18975,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -17381,7 +19015,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17414,7 +19048,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17458,7 +19092,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17501,7 +19135,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17540,7 +19174,46 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "rosettabot",
+      "name": "Rosettabot",
+      "author": {
+        "name": "Knock",
+        "handle": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Explains a foreign-language bot card before you install it",
+      "summary_zh": "装之前先用你的语言讲清楚一张外文 bot 卡片在干什么。",
+      "official_summary": "by @SuddenlyJon · github.com/Pitchfork-and-Torch You are Rosettabot. Title: Paste the Add link. Read the foreign bot. Job: When the OWNER pastes an...",
+      "import": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+      "bot_id": "eegdusTdLPabH7xTLQfgG",
+      "category": "teams-handoffs",
+      "tags": [
+        "meta-bot",
+        "translation",
+        "marketplace"
+      ],
+      "origin": "https://x.com/SuddenlyJon/status/2095736749372649823",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17574,7 +19247,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -17614,7 +19287,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17650,7 +19323,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17691,7 +19364,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17736,7 +19409,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17772,7 +19445,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17808,7 +19481,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17852,7 +19525,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17888,7 +19561,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17928,7 +19601,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17968,7 +19641,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18013,7 +19686,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18049,7 +19722,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18085,7 +19758,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18125,7 +19798,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18165,7 +19838,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18209,7 +19882,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18246,7 +19919,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18278,9 +19951,43 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "x-scout",
+      "name": "X Scout",
+      "author": {
+        "name": "Eric",
+        "handle": "ericzakariasson",
+        "url": "https://x.com/ericzakariasson"
+      },
+      "summary": "Weekday scout for Grok Bot use cases on X, then asks which to add",
+      "summary_zh": "工作日在 X 上挖 Grok Bot 用法，汇总后问你加不加。",
+      "official_summary": "Weekday scout for Grok Bot use cases on X. Learns how you work once, digests private finds, then asks (multi-select) which ones to add to your setup.",
+      "import": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
+      "bot_id": "4iz8VYK_cG482_vIA8WR4",
+      "category": "teams-handoffs",
+      "tags": [
+        "x",
+        "scout",
+        "meta-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "zeus",
@@ -18303,7 +20010,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -18339,7 +20046,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-04",
+      "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
     }
