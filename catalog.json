@@ -7,17 +7,17 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 532,
-    "retired": 4,
+    "live": 533,
+    "retired": 5,
     "by_category": {
       "coding-shipping": 58,
       "inbox-calendar": 25,
       "research-briefings": 88,
       "customer-sales": 34,
       "finance-ops": 40,
-      "content-publishing": 78,
-      "personal-admin": 121,
-      "teams-handoffs": 88
+      "content-publishing": 79,
+      "personal-admin": 122,
+      "teams-handoffs": 87
     }
   },
   "entries": [
@@ -3932,6 +3932,41 @@
         }
       ],
       "first_seen": "2026-08-28",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "music-video-release",
+      "name": "Music Video Release",
+      "author": {
+        "name": "Joseph",
+        "handle": "OmgawdMadeit",
+        "url": "https://x.com/OmgawdMadeit"
+      },
+      "summary": "Turns a track and lyrics into a timed shot list and prompt board",
+      "summary_zh": "把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。",
+      "official_summary": "Plans a full-length music video from assets you provide: brief, shot list, Imagine prompts, stitch plan, and a release checklist. Drafts only — never...",
+      "import": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+      "bot_id": "vagsUEIt5s7lexKnSes2H",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "creator",
+        "content"
+      ],
+      "origin": "https://x.com/OmgawdMadeit/status/2096127964668629458",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
       "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -10285,6 +10320,41 @@
         }
       ],
       "first_seen": "2026-08-31",
+      "checked": "2026-09-05",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "grant-packet-assembler",
+      "name": "Grant Packet Assembler",
+      "author": {
+        "name": "Joseph",
+        "handle": "OmgawdMadeit",
+        "url": "https://x.com/OmgawdMadeit"
+      },
+      "summary": "Builds Georgia grant packets for a compliance read; drafts only, you submit",
+      "summary_zh": "按佐治亚州项目要求起草合规申报包，只写稿不提交。",
+      "official_summary": "Builds SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, SBDC, DOBE, and PASS. Drafts only — you approve before anything is sent...",
+      "import": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+      "bot_id": "kbP2DWs6cKSWqeRtQhIef",
+      "category": "personal-admin",
+      "tags": [
+        "grants",
+        "compliance",
+        "business"
+      ],
+      "origin": "https://x.com/OmgawdMadeit/status/2096127964668629458",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-05",
       "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -18737,7 +18807,7 @@
       },
       "summary": "Invents new bots for you, with a tight brief and every job filed where it belongs",
       "summary_zh": "按紧的 brief 给你发明新 Bot，并把每份活归到该去的位置。",
-      "official_summary": "Grok Bot inventor for people who run a fleet of agents. Writes compact souls, files jobs into skills vs routines vs memory, and waits on side effects.",
+      "official_summary": "Grease-stained Blackfinger of the digital wasteland. I strip Grok for parts and weld them onto whatever mission you throw at me. Job one: invent...",
       "import": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
       "bot_id": "pTe8gpPc_5SuwKkEszn18",
       "category": "teams-handoffs",
@@ -19141,7 +19211,7 @@
     },
     {
       "slug": "rogue-bot-hunter",
-      "name": "Rogue Bot Hunter",
+      "name": "Rogue AI Hunter",
       "author": {
         "name": "Thierry",
         "handle": "LeTerryBZH",
@@ -19149,7 +19219,7 @@
       },
       "summary": "Keeps watch over the fleet of bots you already run",
       "summary_zh": "盯着你已经在跑的那支 Bot 舰队。",
-      "official_summary": "Police for rogue bots: cut the bill, hunt the copies, occupy the niche. Defensive only. Weekly fleet recap, a hunt when a new bot appears, and it asks...",
+      "official_summary": "Police for rogue AIs on your bots: cut the bill, hunt the copies, occupy the niche. Defensive only. Weekly fleet recap, and a hunt when a new bot appears.",
       "import": "https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1",
       "bot_id": "DNpS1nqrBzmQ5vsx1IHn1",
       "category": "teams-handoffs",
@@ -19176,7 +19246,8 @@
       "first_seen": "2026-09-04",
       "checked": "2026-09-05",
       "link_status": 200,
-      "license": "CC-BY-4.0"
+      "license": "CC-BY-4.0",
+      "aka": "Rogue Bot Hunter"
     },
     {
       "slug": "rosettabot",
@@ -19409,42 +19480,6 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-05",
-      "link_status": 200,
-      "license": "CC-BY-4.0"
-    },
-    {
-      "slug": "steve-j",
-      "name": "Steve J",
-      "author": {
-        "name": "Ahura",
-        "handle": "AhuraDeus",
-        "url": "https://x.com/AhuraDeus"
-      },
-      "summary": "A demanding boss for the rest of your bot roster",
-      "summary_zh": "给你其余那些 Bot 当一个不好糊弄的老板。",
-      "official_summary": "Quality-bar CEO for a personal Grok Bot roster. Reviews other bots against their job cards, sends back unfinished work, and runs a weekday sweep that...",
-      "import": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
-      "bot_id": "cuEYUcYmz-497oKWVfWX2",
-      "category": "teams-handoffs",
-      "tags": [
-        "developer",
-        "personal",
-        "meta-bot",
-        "scheduled"
-      ],
-      "origin": "https://x.com/AhuraDeus/status/2094468731934003649",
-      "sources": [
-        {
-          "catalog": "ZeroPointRepo/GrokBotDev",
-          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
-        },
-        {
-          "catalog": "cs68614-hash/awesome-grokbot-templates",
-          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-        }
-      ],
-      "first_seen": "2026-08-31",
       "checked": "2026-09-05",
       "link_status": 200,
       "license": "CC-BY-4.0"

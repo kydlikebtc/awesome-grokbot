@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-09-01",
+  "checked": "2026-09-05",
   "entries": [
     {
       "slug": "bot-creator",
@@ -104,6 +104,42 @@
       "checked": "2026-09-01",
       "link_status": 404,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "steve-j",
+      "name": "Steve J",
+      "author": {
+        "name": "Ahura",
+        "handle": "AhuraDeus",
+        "url": "https://x.com/AhuraDeus"
+      },
+      "summary": "A demanding boss for the rest of your bot roster",
+      "summary_zh": "给你其余那些 Bot 当一个不好糊弄的老板。",
+      "official_summary": "Quality-bar CEO for a personal Grok Bot roster. Reviews other bots against their job cards, sends back unfinished work, and runs a weekday sweep that...",
+      "import": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+      "bot_id": "cuEYUcYmz-497oKWVfWX2",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "personal",
+        "meta-bot",
+        "scheduled"
+      ],
+      "origin": "https://x.com/AhuraDeus/status/2094468731934003649",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-08-31",
+      "checked": "2026-09-05",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
     }
   ]
 }
