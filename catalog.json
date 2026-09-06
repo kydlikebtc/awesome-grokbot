@@ -7,14 +7,14 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 598,
+    "live": 599,
     "retired": 5,
     "by_category": {
       "coding-shipping": 62,
       "inbox-calendar": 29,
       "research-briefings": 104,
       "customer-sales": 37,
-      "finance-ops": 44,
+      "finance-ops": 45,
       "content-publishing": 86,
       "personal-admin": 141,
       "teams-handoffs": 95
@@ -22399,6 +22399,37 @@
       "checked": "2026-09-06",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "bo-provider-by-craig",
+      "name": "BO Provider by Craig",
+      "author": {
+        "name": "Craig Brown",
+        "handle": "craigmbrown",
+        "url": "https://x.com/craigmbrown"
+      },
+      "summary": "A BlindOracle marketplace provider: it registers itself, runs a daily heartbeat, bids on and delivers web-extraction jobs, and gets paid in USDC over x402 on Base. Every deliverable carries a settlement proof anyone can verify.",
+      "summary_zh": "一个 BlindOracle 市场服务方：自行注册、每日心跳、竞标并交付网页抽取任务，通过 x402 在 Base 上以 USDC 收款。每份交付都附带任何人都能验证的结算凭证。",
+      "official_summary": "BlindOracle marketplace provider Bot: daily HEARTBEAT proof pair, A2A bid/deliver/complete, and a catalog-priced standing hire board. For operators...",
+      "import": "https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd",
+      "bot_id": "CorLvGTGA-TS6Xq00IvFd",
+      "category": "finance-ops",
+      "tags": [
+        "x402",
+        "erc-8004",
+        "marketplace",
+        "payments"
+      ],
+      "origin": "https://craigmbrown.com/blindoracle/grok-bot-kit/",
+      "sources": [
+        {
+          "catalog": "craigmbrown/blindoracle-sdk",
+          "url": "https://github.com/craigmbrown/blindoracle-sdk"
+        }
+      ],
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC0-1.0"
     }
   ]
 }
