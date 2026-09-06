@@ -7,17 +7,17 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 592,
+    "live": 598,
     "retired": 5,
     "by_category": {
-      "coding-shipping": 61,
+      "coding-shipping": 62,
       "inbox-calendar": 29,
-      "research-briefings": 102,
-      "customer-sales": 36,
+      "research-briefings": 104,
+      "customer-sales": 37,
       "finance-ops": 44,
-      "content-publishing": 85,
+      "content-publishing": 86,
       "personal-admin": 141,
-      "teams-handoffs": 94
+      "teams-handoffs": 95
     }
   },
   "entries": [
@@ -1385,6 +1385,38 @@
         }
       ],
       "first_seen": "2026-08-29",
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "interaction-designer",
+      "name": "Interaction Designer",
+      "author": {
+        "name": "UCDOps",
+        "handle": "ucdco",
+        "url": "https://x.com/ucdco"
+      },
+      "summary": "Designs the flow and every screen state before the visuals",
+      "summary_zh": "先把流程和每个页面状态定下来，再谈视觉。",
+      "official_summary": "DDaT Interaction designer for how people use services — overall flow and individual elements. NN/g craft for flows, states, and microinteractions. Uses...",
+      "import": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+      "bot_id": "fWnNa6cA-nPjehIsaUZI1",
+      "category": "coding-shipping",
+      "tags": [
+        "design",
+        "business",
+        "research",
+        "engineering"
+      ],
+      "origin": "https://x.com/ucdco/status/2096525660311208204",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
       "checked": "2026-09-06",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -2898,6 +2930,38 @@
         }
       ],
       "first_seen": "2026-08-29",
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "content-writer",
+      "name": "Content Writer",
+      "author": {
+        "name": "UCDOps",
+        "handle": "ucdco",
+        "url": "https://x.com/ucdco"
+      },
+      "summary": "Writes the interface words that get a task finished",
+      "summary_zh": "写界面上那些真正决定用户能不能把事办完的字。",
+      "official_summary": "DDaT Content designer / GDS plain English / NN/g UX writing. Owns the words people use to finish a task — content models, labels, microcopy, errors, and...",
+      "import": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+      "bot_id": "oAJ5mSjoFixBxMFbv9Olr",
+      "category": "content-publishing",
+      "tags": [
+        "design",
+        "content",
+        "business",
+        "productivity"
+      ],
+      "origin": "https://x.com/ucdco/status/2096507904601796821",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
       "checked": "2026-09-06",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -5600,6 +5664,38 @@
         }
       ],
       "first_seen": "2026-09-02",
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "call-desk",
+      "name": "Call Desk",
+      "author": {
+        "name": "Dr",
+        "handle": "dave_dlt",
+        "url": "https://x.com/dave_dlt"
+      },
+      "summary": "Makes the phone calls you keep putting off",
+      "summary_zh": "那些你一直拖着不想打的电话，它替你打。",
+      "official_summary": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio....",
+      "import": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+      "bot_id": "zqWxv4Mn6DqmMZkD16_zl",
+      "category": "customer-sales",
+      "tags": [
+        "personal",
+        "automation",
+        "productivity",
+        "support"
+      ],
+      "origin": "https://x.com/dave_dlt/status/2096518852909600839",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
       "checked": "2026-09-06",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -14819,6 +14915,38 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "ai-master",
+      "name": "AI Master",
+      "author": {
+        "name": "Leonardo",
+        "handle": "leoclark",
+        "url": "https://x.com/leoclark"
+      },
+      "summary": "Asks four rival AI models at once and merges what comes back",
+      "summary_zh": "同时问四个 AI 模型，再把回答合成一份。",
+      "official_summary": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don’t have to copy-paste across four...",
+      "import": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+      "bot_id": "L6q8qCzomu2lTs9mu_r1X",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "research",
+        "productivity",
+        "automation"
+      ],
+      "origin": "https://x.com/leoclark/status/2096554844593222029",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
       "slug": "ai-resource-sift",
       "name": "AI Resource Sift",
       "author": {
@@ -18255,6 +18383,38 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "user-researcher",
+      "name": "User Researcher",
+      "author": {
+        "name": "UCDOps",
+        "handle": "ucdco",
+        "url": "https://x.com/ucdco"
+      },
+      "summary": "A user-research partner that ties every finding back to evidence",
+      "summary_zh": "用户研究搭档，每个结论都能回溯到证据。",
+      "official_summary": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics/consent, inclusive recruitment, interviews...",
+      "import": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+      "bot_id": "zX-pWWtNY6reickF2J6Lm",
+      "category": "research-briefings",
+      "tags": [
+        "design",
+        "research",
+        "business",
+        "decision-support"
+      ],
+      "origin": "https://x.com/ucdco/status/2096488998508089367",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
       "slug": "vigil",
       "name": "Vigil",
       "author": {
@@ -18967,6 +19127,38 @@
       "checked": "2026-09-06",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "botops-u00b7-chief-of-staff",
+      "name": "BotOps · Chief of Staff",
+      "author": {
+        "name": "Matthew",
+        "handle": "mtt",
+        "url": "https://x.com/mtt"
+      },
+      "summary": "One front door for a whole fleet of working bots",
+      "summary_zh": "整支 Bot 舰队只留一个对话入口，活儿在里面自己往下派。",
+      "official_summary": "Chief of Staff for a BotOps fleet: you talk only here; work routes CoS → L2 → L3 with Notion as source of record.",
+      "import": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+      "bot_id": "aNNg3UZFH19vK0KPuyoUW",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "ops",
+        "meta-bot",
+        "agent-team"
+      ],
+      "origin": "https://x.com/mtt/status/2096496177550409931",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
+      "checked": "2026-09-06",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "botsi-archivist",

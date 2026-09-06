@@ -20,6 +20,13 @@ What it will and will not do:
   * Without ANTHROPIC_API_KEY the rows that would need translating are skipped
     for that run; rows carrying upstream Chinese still go in. English is never
     written into a `summary_zh`.
+  * Those skipped rows are not lost. Export them, write the Chinese by hand,
+    and feed the file back — they go in unflagged, because a line a person
+    wrote is not machine output:
+
+        python3 scripts/sync_upstream.py --pending-out /tmp/pending.json
+        # fill in each summary_zh
+        python3 scripts/sync_upstream.py --pending-in /tmp/pending.json --write
   * MAX_NEW per run caps the blast radius if an upstream ever publishes garbage.
 
     python3 scripts/sync_upstream.py --dry-run     # report only
@@ -394,6 +401,19 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="report only (default)")
     ap.add_argument("--limit", type=int, default=MAX_NEW)
     ap.add_argument("--date", default=None)
+    ap.add_argument(
+        "--pending-out",
+        metavar="FILE",
+        help="write rows that still need a Chinese summary to FILE, as JSON, "
+        "instead of dropping them. Fill in summary_zh by hand, then feed it "
+        "back with --pending-in.",
+    )
+    ap.add_argument(
+        "--pending-in",
+        metavar="FILE",
+        help="a --pending-out file with summary_zh filled in. Those rows are "
+        "added as hand-written (no zh_machine flag).",
+    )
     args = ap.parse_args()
 
     catalog = json.load(open(os.path.join(ROOT, "catalog.json"), encoding="utf-8"))
@@ -426,6 +446,16 @@ def main():
     # writes them), so a missing key only costs the rows that actually need
     # translating — it is not a reason to abort the whole run.
     api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+
+    # Chinese supplied by hand via --pending-in outranks every other source:
+    # it is the whole point of filling the file in.
+    handwritten = {}
+    if args.pending_in:
+        for row in json.load(open(args.pending_in, encoding="utf-8")):
+            zh = (row.get("summary_zh") or "").strip()
+            if zh and not zh.startswith("TODO"):
+                handwritten[row["bot_id"]] = zh
+        print(f"loaded {len(handwritten)} hand-written Chinese line(s) from {args.pending_in}")
 
     # verify each candidate against the live page before it earns a row
     print(f"\nprobing {len(new_ids)} candidate share pages...", file=sys.stderr)
@@ -506,9 +536,12 @@ def main():
         if up.get("origin"):
             rec["origin"] = up["origin"]
 
-        # An upstream Chinese line (majiayu000 writes them) beats a fresh
-        # translation, and is not machine output.
-        if up.get("summary_zh"):
+        # Precedence: a line I wrote by hand, then the upstream's own
+        # hand-written line, then a translation. Neither of the first two is
+        # machine output, so neither gets the zh_machine flag.
+        if bid in handwritten:
+            rec["summary_zh"] = handwritten[bid]
+        elif up.get("summary_zh"):
             rec["summary_zh"] = up["summary_zh"]
         else:
             blurbs.append(summary)
@@ -528,9 +561,9 @@ def main():
                     rec["zh_machine"] = True
     elif blurbs:
         print(
-            f"\nANTHROPIC_API_KEY is not set — {len(blurbs)} row(s) needing a translated\n"
-            "summary will be skipped this run rather than shipped with English in the\n"
-            "Chinese README. Rows that arrived with an upstream Chinese line are unaffected.",
+            f"\nANTHROPIC_API_KEY is not set — {len(blurbs)} row(s) still need a Chinese\n"
+            "summary. They are skipped rather than shipped with English in the Chinese\n"
+            "README. Rows that arrived with an upstream Chinese line are unaffected.",
             file=sys.stderr,
         )
         for rec in drafts:
@@ -540,13 +573,38 @@ def main():
             rec.pop("_needs_zh", None)
 
     ready = [r for r in drafts if r.get("summary_zh")]
-    skipped = len(drafts) - len(ready)
+    pending = [r for r in drafts if not r.get("summary_zh")]
+    skipped = len(pending)
+
+    if args.pending_out and pending:
+        # Everything a human needs to write the line, and nothing else: the
+        # English summary to translate from, and the official blurb for context.
+        out = [
+            {
+                "bot_id": r["bot_id"],
+                "name": r["name"],
+                "category": r["category"],
+                "import": r["import"],
+                "summary": r["summary"],
+                "official_summary": r.get("official_summary", ""),
+                "summary_zh": "TODO",
+            }
+            for r in pending
+        ]
+        json.dump(out, open(args.pending_out, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        print(f"\nwrote {len(out)} row(s) needing Chinese to {args.pending_out}")
+        print("fill in each summary_zh, then re-run with --pending-in <that file> --write")
     print(
         f"\nready to add: {len(ready)}"
         + (f" | skipped, no Chinese: {skipped}" if skipped else "")
     )
     for r in ready[:15]:
-        tag = "zh:machine" if r.get("zh_machine") else "zh:upstream"
+        if r.get("zh_machine"):
+            tag = "zh:machine"
+        elif r["bot_id"] in handwritten:
+            tag = "zh:hand"
+        else:
+            tag = "zh:upstream"
         print(f"  + [{r['category']:19}] {r['name'][:40]:42} {tag}")
     if len(ready) > 15:
         print(f"  ... and {len(ready) - 15} more")

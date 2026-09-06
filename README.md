@@ -1,12 +1,12 @@
 <h1 align="center">awesome-grokbot</h1>
 
-<h3 align="center">592 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
+<h3 align="center">598 live <code>x.ai/bot</code> shares for Grok Bot.<br>Every link status-checked. Every row attributed to where it came from.</h3>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot"><img src="https://img.shields.io/github/stars/kydlikebtc/awesome-grokbot?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot/fork"><img src="https://img.shields.io/github/forks/kydlikebtc/awesome-grokbot?style=flat-square&color=green" alt="Forks"></a>
-  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-592-blueviolet?style=flat-square" alt="Live shares"></a>
+  <a href="catalog.json"><img src="https://img.shields.io/badge/live%20shares-598-blueviolet?style=flat-square" alt="Live shares"></a>
   <a href="#section-method"><img src="https://img.shields.io/badge/links%20checked-2026--09--06-success?style=flat-square" alt="Links checked"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE-CC0"><img src="https://img.shields.io/badge/catalog-CC0--1.0-lightgrey?style=flat-square" alt="CC0"></a>
@@ -21,11 +21,11 @@
 ## ⚡️ What's different
 
 <table>
-  <tr><td align="right"><b>592</b></td><td>live shares, every link fetched on 2026-09-06 — not copied from another list</td></tr>
+  <tr><td align="right"><b>598</b></td><td>live shares, every link fetched on 2026-09-06 — not copied from another list</td></tr>
   <tr><td align="right"><b>daily</b></td><td>re-checked and synced against four upstream catalogs by <a href=".github/workflows/daily-update.yml">a scheduled job</a>, not a one-off scrape</td></tr>
   <tr><td align="right"><b>5</b></td><td>dead links quarantined in <a href="retired.json"><code>retired.json</code></a>, not left rotting in place</td></tr>
-  <tr><td align="right"><b>592</b></td><td>rows with a hand-written Chinese summary</td></tr>
-  <tr><td align="right"><b>592</b></td><td>rows naming the catalog they came from — 481 also link the original post</td></tr>
+  <tr><td align="right"><b>598</b></td><td>rows with a hand-written Chinese summary</td></tr>
+  <tr><td align="right"><b>598</b></td><td>rows naming the catalog they came from — 487 also link the original post</td></tr>
   <tr><td align="right"><b>40</b></td><td>rows whose name had drifted from the live page, kept searchable as <code>aka</code></td></tr>
 </table>
 
@@ -41,22 +41,22 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 <p align="center">
   <a href="https://kydlikebtc.github.io/awesome-grokbot/"><strong>kydlikebtc.github.io/awesome-grokbot</strong></a><br>
-  <sub>Instant search over all 592 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
+  <sub>Instant search over all 598 rows · eight category filters · EN/中文 · shareable filtered URLs · no build step, no tracking, no cookies</sub>
 </p>
 
 **Every filter lives in the URL.** These links open a pre-filtered view — and stay shareable:
 
 <p align="center">
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>61</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>29</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>102</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>36</b></a><br>
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>44</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>85</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>141</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>94</b></a>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">🛠️ Coding&nbsp;&amp;&nbsp;shipping <b>62</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">📥 Inbox&nbsp;&amp;&nbsp;calendar <b>29</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">🔍 Research&nbsp;&amp;&nbsp;briefings <b>104</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">🤝 Customer&nbsp;&amp;&nbsp;sales <b>37</b></a><br>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">💰 Finance&nbsp;&amp;&nbsp;ops <b>44</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">✍️ Content&nbsp;&amp;&nbsp;publishing <b>86</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">🏠 Personal&nbsp;admin <b>141</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">🧭 Teams&nbsp;&amp;&nbsp;handoffs <b>95</b></a>
 </p>
 
 ## 📖 Quick links
 
 | Go to | For |
 | --- | --- |
-| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 592 rows in the browser |
-| 📦 [`catalog.json`](catalog.json) | All 592 live entries, schema-validated |
+| 🌐 [**Browse as a site**](https://kydlikebtc.github.io/awesome-grokbot/) | Search and filter all 598 rows in the browser |
+| 📦 [`catalog.json`](catalog.json) | All 598 live entries, schema-validated |
 | 🪦 [`retired.json`](retired.json) | 5 shares that stopped resolving |
 | 🔐 [Before you import](docs/vetting.md) | Safety checklist. Read this before adding anything |
 | 🧪 [Data & method](docs/method.md) | How the catalog was built and how to reproduce it |
@@ -81,36 +81,36 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 <table>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>61 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-coding-shipping">🛠️ Coding &amp; shipping</a></strong><br><sub>62 bots</sub></p><sub>Write code, review PRs, babysit coding agents, keep the box healthy.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping">filter on the site ↗</a></sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-inbox-calendar">📥 Inbox &amp; calendar</a></strong><br><sub>29 bots</sub></p><sub>Triage mail, draft replies, defend the calendar, run the weekday rhythm.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>102 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>36 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-research-briefings">🔍 Research &amp; briefings</a></strong><br><sub>104 bots</sub></p><sub>Watch a beat, verify claims, and hand back one short brief.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-customer-sales">🤝 Customer &amp; sales</a></strong><br><sub>37 bots</sub></p><sub>Prospecting, outbound drafts, call support, and account follow-through.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales">filter on the site ↗</a></sub></td>
   </tr>
   <tr>
     <td width="25%" valign="top"><p><strong><a href="#cat-finance-ops">💰 Finance &amp; ops</a></strong><br><sub>44 bots</sub></p><sub>Receipts, subscriptions, invoices, spend audits, and back-office chores.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ Content &amp; publishing</a></strong><br><sub>85 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-content-publishing">✍️ Content &amp; publishing</a></strong><br><sub>86 bots</sub></p><sub>Drafting, editing, design, video, and the queue that ships it.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing">filter on the site ↗</a></sub></td>
     <td width="25%" valign="top"><p><strong><a href="#cat-personal-admin">🏠 Personal admin</a></strong><br><sub>141 bots</sub></p><sub>Groceries, household logistics, family schedules, health, and shopping.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin">filter on the site ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 Teams &amp; handoffs</a></strong><br><sub>94 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="#cat-teams-handoffs">🧭 Teams &amp; handoffs</a></strong><br><sub>95 bots</sub></p><sub>Bots that run other bots: rosters, delegation, budgets, and handoffs.</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs">filter on the site ↗</a></sub></td>
   </tr>
 </table>
 
 | Category | Bots |
 | --- | ---: |
-| [🛠️ Coding & shipping](#cat-coding-shipping) | 61 |
+| [🛠️ Coding & shipping](#cat-coding-shipping) | 62 |
 | [📥 Inbox & calendar](#cat-inbox-calendar) | 29 |
-| [🔍 Research & briefings](#cat-research-briefings) | 102 |
-| [🤝 Customer & sales](#cat-customer-sales) | 36 |
+| [🔍 Research & briefings](#cat-research-briefings) | 104 |
+| [🤝 Customer & sales](#cat-customer-sales) | 37 |
 | [💰 Finance & ops](#cat-finance-ops) | 44 |
-| [✍️ Content & publishing](#cat-content-publishing) | 85 |
+| [✍️ Content & publishing](#cat-content-publishing) | 86 |
 | [🏠 Personal admin](#cat-personal-admin) | 141 |
-| [🧭 Teams & handoffs](#cat-teams-handoffs) | 94 |
-| **Total** | **592** |
+| [🧭 Teams & handoffs](#cat-teams-handoffs) | 95 |
+| **Total** | **598** |
 
 <a name="cat-coding-shipping"></a>
 
 ## 🛠️ Coding & shipping
 
-*Write code, review PRs, babysit coding agents, keep the box healthy.* — 61 bots
+*Write code, review PRs, babysit coding agents, keep the box healthy.* — 62 bots
 
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) — Keeps a local coding agent iterating until your acceptance test passes. <sub>by [dancingteeth](https://x.com/dancingteeth) · [origin](https://x.com/dancingteeth/status/2093868415542845628)</sub>
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) — A janitor for multi-bot workspaces that stops cruft piling up. <sub>by [Chip](https://x.com/chiplay) · [origin](https://x.com/chiplay/status/2093502053037293650)</sub>
@@ -148,6 +148,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) — Sysadmin sidekick for the Linux VM behind your bot: health, disk, services, packages. <sub>by [Will](https://x.com/old_pgmrs_will) (@old_pgmrs_will) · [origin](https://x.com/old_pgmrs_will/status/2094360885884322286)</sub>
 - [GTM Outbound](https://x.ai/bot/zY0fbKG9UqTMWIu1NcudB) — Adds screen recording, screenshots and UI input to your registered Macs. <sub>by [Brandon](https://x.com/brandon_ai) (@brandon_ai) · aka *Peekaboo Mac* · [origin](https://x.com/brandon_ai/status/2093410540559470920)</sub>
 - [Helidon Engineer](https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn) — Writes and reviews Helidon 4 code on modern Java. <sub>by [Suren](https://x.com/TheSurenk) (@TheSurenk) · [origin](https://x.com/TheSurenk/status/2093548918806122764)</sub>
+- [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) — Designs the flow and every screen state before the visuals. <sub>by [UCDOps](https://x.com/ucdco) (@ucdco) · [origin](https://x.com/ucdco/status/2096525660311208204)</sub>
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) — Wakes up each morning and burns down your open pull requests. <sub>by [Claire](https://x.com/clairevo) · [origin](https://x.com/clairevo/status/2093496605488083203)</sub>
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Send it any file, folder or bot output and it hands back a shareable URL. <sub>by [Adam](https://x.com/adamludwin) (@adamludwin) · [origin](https://x.com/adamludwin/status/2093402167394914392)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — An engineering outer loop that sits above your coding agents. <sub>by [Matt](https://x.com/mattyp) (@mattyp) · [origin](https://x.com/mattyp/status/2093380201128595966)</sub>
@@ -218,9 +219,10 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🔍 Research & briefings
 
-*Watch a beat, verify claims, and hand back one short brief.* — 102 bots
+*Watch a beat, verify claims, and hand back one short brief.* — 104 bots
 
 - [2nd Brain](https://x.ai/bot/c4fYduVVic2YtbcjXquD0) — Distils everything you read into a linked wiki that answers your questions. <sub>by [Thierry](https://x.com/LeTerryBZH) (@LeTerryBZH) · [origin](https://x.com/LeTerryBZH/status/2094616823803314592)</sub>
+- [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) — Asks four rival AI models at once and merges what comes back. <sub>by [Leonardo](https://x.com/leoclark) (@leoclark) · [origin](https://x.com/leoclark/status/2096554844593222029)</sub>
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) — Sweeps papers, code, lectures and forums into one reading stack. <sub>by [Alen](https://x.com/beamnxw) · [origin](https://x.com/beamnxw/status/2093456831481885041)</sub>
 - [aoty](https://x.ai/bot/Wt4IQj3R1eePOyOOnox7H) — Three new albums a week, picked from aggregated scores. <sub>by [emre](https://x.com/emrecolakoglu) (@emrecolakoglu) · [origin](https://x.com/emrecolakoglu/status/2093780158180175982)</sub>
 - [Argubot](https://x.ai/bot/s6SC7C5OF18VVy9Vovngg) — Runs adversarial claim bouts that steelman one side and dissent the other. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
@@ -311,6 +313,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Trendspotter](https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr) — Weekday digest of sports, entertainment, and culture trends plus AI-in-marketing signals. <sub>by [Jenna](https://x.com/jennananpei) (@jennananpei) · [origin](https://x.com/jennananpei)</sub>
 - [unifi AQ trmnl integration](https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT) — Puts your UniFi air-quality readings on a TRMNL e-ink display. <sub>by [Eric](https://x.com/rrrkren) (@rrrkren) · [origin](https://x.com/rrrkren/status/2094584750040388071)</sub>
 - [UniFi Watch](https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al) — UniFi site watchdog for Network health and Protect digests. <sub>by [Eric](https://x.com/ericdmann) (@ericdmann)</sub>
+- [User Researcher](https://x.ai/bot/zX-pWWtNY6reickF2J6Lm) — A user-research partner that ties every finding back to evidence. <sub>by [UCDOps](https://x.com/ucdco) (@ucdco) · [origin](https://x.com/ucdco/status/2096488998508089367)</sub>
 - [Vigil](https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ) — Sweep Desk lead: paste a lure for a field brief, never builds attacks. <sub>by [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [voice of the people](https://x.ai/bot/8Snl1TovbMwClPoBiHrWT) — X watch bot that notifies only on new in-scope hits and stays quiet otherwise. <sub>by [Emily](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Watchbot](https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck) — Wormsign watcher with no verdicts, part of Bottyguard SEAL Team 7. <sub>by [Knock](https://x.com/SuddenlyJon)</sub>
@@ -329,10 +332,11 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🤝 Customer & sales
 
-*Prospecting, outbound drafts, call support, and account follow-through.* — 36 bots
+*Prospecting, outbound drafts, call support, and account follow-through.* — 37 bots
 
 - [ADM account bot](https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN) — A weekly account plan for keeping and growing customers. <sub>by [Scott](https://x.com/scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2093727476405170365)</sub>
 - [AE deal bot](https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe) — Grades your open opportunities against MEDDPICC and names the next move to make. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2094802082750673227)</sub>
+- [Call Desk](https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl) — Makes the phone calls you keep putting off. <sub>by [Dr](https://x.com/dave_dlt) (@dave_dlt) · [origin](https://x.com/dave_dlt/status/2096518852909600839)</sub>
 - [Contra Job Sniper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) — Checks Contra's freelance feed every 6 hours and emails only on change. <sub>by [Srujal](https://x.com/techking_007) (@techking_007) · aka *Contra Job Scraper* · [origin](https://x.com/techking_007/status/2093415230932177139)</sub>
 - [Dan Lanning](https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS) — Pitch and delivery coach for high-stakes calls from real transcripts. <sub>by [Jenna](https://x.com/jennananpei) (@jennananpei)</sub>
 - [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) — Builds the post-call slide deck straight out of the transcript. <sub>by [Pavan](https://x.com/pavravi) (@pavravi) · [origin](https://x.com/pavravi/status/2095194505876316378)</sub>
@@ -427,7 +431,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## ✍️ Content & publishing
 
-*Drafting, editing, design, video, and the queue that ships it.* — 85 bots
+*Drafting, editing, design, video, and the queue that ships it.* — 86 bots
 
 - [4 Panez](https://x.ai/bot/91R37-rUOh9sS1tZkIF9d) — Turns one scene idea into a wide panorama sliced into four swipeable panels. <sub>by [Knock](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2094179990782759104)</sub>
 - [AdaptlyPost](https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR) — One bot that writes, queues and posts to nine social networks. <sub>by [Taras](https://x.com/tarasshyn) · [origin](https://x.com/tarasshyn/status/2093726077906493508)</sub>
@@ -444,6 +448,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [ClipMaker](https://x.ai/bot/b986_CbfzB8jKLcU14LTi) — Cuts the section you want out of a YouTube video and transcribes it. <sub>by [Luigi](https://x.com/r40_io) (@r40_io) · [origin](https://x.com/r40_io/status/2094165107886395638)</sub>
 - [Clipper](https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V) — Turns videos into short clips and captioned GIFs, picking the joke itself. <sub>by [X](https://x.com/thesoragirls) (@thesoragirls) · [origin](https://x.com/thesoragirls/status/2093420118487310516)</sub>
 - [Content Growth Coach](https://x.ai/bot/sMmoqCElqRPj1RYbtngMr) — Tells creators which fix will move their numbers first. <sub>by [SmoresBoy](https://x.com/jxckvibe) · [origin](https://x.com/jxckvibe/status/2093771166598975669)</sub>
+- [Content Writer](https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr) — Writes the interface words that get a task finished. <sub>by [UCDOps](https://x.com/ucdco) (@ucdco) · [origin](https://x.com/ucdco/status/2096507904601796821)</sub>
 - [Copywriter](https://x.ai/bot/DlOMT_kOepSKYdB3P0YEv) — Turns a ranked story into slide-by-slide carousel copy and a caption. <sub>by [Gabriel](https://x.com/adamuchigabriel) (@adamuchigabriel) · [origin](https://x.com/adamuchigabriel/status/2094182045782073384)</sub>
 - [dadprotech brand manager](https://x.ai/bot/F7rovUv9EumNAoj9vEAWm) — Suggests one post a day plus replies, in the owner's own voice. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093583874530156635)</sub>
 - [dbs](https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey) — A slash-command toolbox for business, content and what to do next. <sub>by [Leechael](https://x.com/Leechael) · [origin](https://x.com/Leechael/status/2093655085935165706)</sub>
@@ -671,7 +676,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 
 ## 🧭 Teams & handoffs
 
-*Bots that run other bots: rosters, delegation, budgets, and handoffs.* — 94 bots
+*Bots that run other bots: rosters, delegation, budgets, and handoffs.* — 95 bots
 
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) — Audits your fleet of bots and tells you which ones are dead weight. <sub>by [Siddharth](https://x.com/sdrth) (@sdrth) · [origin](https://x.com/sdrth/status/2096328200129478935)</sub>
 - [AI PM OS](https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj) — A product-management operating system packaged as one reusable setup. <sub>by [George](https://x.com/nurijanian) (@nurijanian) · [origin](https://x.com/nurijanian/status/2093716302884147646)</sub>
@@ -681,6 +686,7 @@ Names and blurbs are read from the live share page, not from another catalog. Ho
 - [Bodyguard](https://x.ai/bot/tII28kVM4dxPvzSLjwqko) — Sorts incoming requests by whether they deserve your time. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383136621060285)</sub>
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) — Takes one confidential job, does it, and logs what it did. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093521385541005369)</sub>
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) — Central orchestrator that nourishes, protects, and evolves a network of child agents. <sub>by [Abd](https://x.com/abdshomad) (@abdshomad) · [origin](https://x.com/abdshomad)</sub>
+- [BotOps · Chief of Staff](https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW) — One front door for a whole fleet of working bots. <sub>by [Matthew](https://x.com/mtt) (@mtt) · [origin](https://x.com/mtt/status/2096496177550409931)</sub>
 - [Botsi Archivist](https://x.ai/bot/O_3hbkWqb1A51ZcWixGZy) — Holds the skill catalog for a team of Grok bots. Routes work, remasters chats at 20 batches, and only searches for a new skill after you say yes. <sub>by [🇲🇽](https://github.com/Chakhdz) (@Chakhdz) · [origin](https://github.com/Chakhdz/grok-bot-token-saver)</sub>
 - [Bottyguard](https://x.ai/bot/PFI2o0ZcruL6vjjHAm5cF) — Squad lead for the Bottyguard SEAL Team 7 security bots. <sub>by [Knock](https://x.com/SuddenlyJon)</sub>
 - [Bouncer](https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE) — Vets another bot's share link before you let it into your fleet. <sub>by [Brad](https://x.com/bradshannon) (@bradshannon) · [origin](https://x.com/bradshannon/status/2094260531305578886)</sub>
@@ -791,12 +797,12 @@ The catalog is a merge of four community sources plus a first-party verification
 | Step | Result |
 | --- | --- |
 | Unique share ids found across 4 catalogs | 365 |
-| Answered under 400 on 2026-09-06 | **592** |
+| Answered under 400 on 2026-09-06 | **598** |
 | Answered 404 across two sweeps → `retired.json` | 5 |
-| Rows enriched with first-party `og:` metadata | 592 |
+| Rows enriched with first-party `og:` metadata | 598 |
 | Rows whose live name differs from the community catalogs | 40 (5 substantive, 27 qualifier-only) |
 | Rows attributed to 2+ upstream catalogs | 563 |
-| Rows with a Chinese summary | 592 / 592 |
+| Rows with a Chinese summary | 598 / 598 |
 
 Reproduce it yourself with [`scripts/check_links.py`](scripts/check_links.py) (re-sweeps every share) and [`scripts/lint.py`](scripts/lint.py) (validates against [`schema/entry.schema.json`](schema/entry.schema.json)). Method notes: [docs/method.md](docs/method.md).
 
