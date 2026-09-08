@@ -1,23 +1,23 @@
 {
   "name": "awesome-grokbot",
   "description": "Live x.ai/bot shares for Grok Bot, every link status-checked and every row attributed.",
-  "generated": "2026-09-07",
-  "checked": "2026-09-07",
+  "generated": "2026-09-08",
+  "checked": "2026-09-08",
   "source": "https://github.com/kydlikebtc/awesome-grokbot",
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 624,
+    "live": 635,
     "retired": 5,
     "by_category": {
-      "coding-shipping": 64,
+      "coding-shipping": 66,
       "inbox-calendar": 30,
-      "research-briefings": 110,
+      "research-briefings": 111,
       "customer-sales": 37,
-      "finance-ops": 45,
-      "content-publishing": 91,
+      "finance-ops": 47,
+      "content-publishing": 94,
       "personal-admin": 149,
-      "teams-handoffs": 98
+      "teams-handoffs": 101
     }
   },
   "entries": [
@@ -55,7 +55,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -92,7 +92,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -140,7 +140,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -177,7 +177,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -218,7 +218,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -252,7 +252,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -293,7 +293,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -329,7 +329,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -362,7 +362,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -401,7 +401,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -426,7 +426,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -462,7 +462,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -497,7 +497,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -531,7 +531,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -565,7 +565,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -599,7 +599,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -639,7 +639,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -680,7 +680,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -720,7 +720,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -761,7 +761,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -795,7 +795,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -835,7 +835,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -879,7 +879,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -918,7 +918,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -954,7 +954,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -990,7 +990,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1035,7 +1035,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1075,7 +1075,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1116,7 +1116,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1153,7 +1153,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1198,7 +1198,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1234,7 +1234,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1270,7 +1270,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1306,7 +1306,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1342,7 +1342,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1383,7 +1383,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1419,7 +1419,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1451,7 +1451,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1490,7 +1490,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1523,7 +1523,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1567,7 +1567,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1611,7 +1611,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1644,7 +1644,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1678,7 +1678,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1713,7 +1713,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1747,7 +1747,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1781,7 +1781,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1822,7 +1822,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1866,7 +1866,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1902,7 +1902,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -1935,7 +1935,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -1979,7 +1979,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2022,7 +2022,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2058,7 +2058,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2094,7 +2094,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2127,7 +2127,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2161,7 +2161,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2197,7 +2197,38 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "stack-sentinel",
+      "name": "Stack Sentinel",
+      "author": {
+        "name": "sat0xshi",
+        "url": "https://x.com/sat0xshi"
+      },
+      "summary": "Pings you the moment a provider your build depends on admits a problem",
+      "summary_zh": "你依赖的服务商一承认出问题，第一时间通知你。",
+      "official_summary": "Watches official AI and developer-stack status pages and pings only when something changes. Covers OpenAI, Anthropic, Google AI, xAI, GitHub,...",
+      "import": "https://x.ai/bot/osZS1pAzdIESMk33WNir0",
+      "bot_id": "osZS1pAzdIESMk33WNir0",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "ops",
+        "engineering",
+        "monitoring"
+      ],
+      "origin": "https://x.com/sat0xshi/status/2096802965676016066",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2233,7 +2264,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2273,7 +2304,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2309,7 +2340,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2343,7 +2374,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2386,7 +2417,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2434,7 +2465,38 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "whatsapp-bot",
+      "name": "WhatsApp-Bot",
+      "author": {
+        "name": "Alexandre",
+        "handle": "alexhawat",
+        "url": "https://x.com/alexhawat"
+      },
+      "summary": "Turns repeat WhatsApp Web chores into scripts you can replay",
+      "summary_zh": "把 WhatsApp Web 上重复的活录成能回放的脚本。",
+      "official_summary": "Automates WhatsApp Web for a linked account: QR once in Grok Bot Chrome, export auth, then capture→script→replay per named task. Prefer HTTP replay;...",
+      "import": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+      "bot_id": "t-Axu4DmT9x2DEPa1eNW1",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "automation",
+        "productivity",
+        "on-demand"
+      ],
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2470,7 +2532,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2503,7 +2565,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2536,7 +2598,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2575,7 +2637,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2614,7 +2676,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2655,7 +2717,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2689,7 +2751,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2723,7 +2785,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2759,7 +2821,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -2801,7 +2863,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2837,7 +2899,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2881,7 +2943,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2922,7 +2984,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -2958,7 +3020,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3000,7 +3062,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3037,7 +3099,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3069,7 +3131,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3105,7 +3167,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3141,7 +3203,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3176,7 +3238,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3212,7 +3274,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3248,7 +3310,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3284,7 +3346,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3320,7 +3382,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3356,7 +3418,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3390,7 +3452,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -3434,7 +3496,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3470,7 +3532,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3506,7 +3568,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3549,7 +3611,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3573,7 +3635,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -3614,7 +3676,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3650,7 +3712,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3693,7 +3755,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3727,7 +3789,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3772,7 +3834,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3813,7 +3875,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3849,7 +3911,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -3883,7 +3945,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -3960,7 +4022,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4004,7 +4066,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4037,7 +4099,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4073,7 +4135,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4118,7 +4180,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4157,7 +4219,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4198,7 +4260,39 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-06",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "marketplace-bot",
+      "name": "Marketplace Bot",
+      "author": {
+        "name": "Strategic",
+        "handle": "mentalmodality",
+        "url": "https://x.com/mentalmodality"
+      },
+      "summary": "Prices, writes and posts your second-hand listings across three selling apps",
+      "summary_zh": "二手闲置定价、写文案、发到三个平台。",
+      "official_summary": "Resale listing bot for Facebook Marketplace, Poshmark, and Depop. Researches comps, drafts short listing copy from photos, posts after approval, tracks...",
+      "import": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+      "bot_id": "9ptyasfHm8ehbIDsLizs-",
+      "category": "content-publishing",
+      "tags": [
+        "personal",
+        "business",
+        "shopping",
+        "content"
+      ],
+      "origin": "https://x.com/mentalmodality/status/2096802892602654744",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4232,7 +4326,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4266,7 +4360,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4302,7 +4396,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Jester"
@@ -4340,7 +4434,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4384,7 +4478,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4419,7 +4513,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4453,7 +4547,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4487,7 +4581,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -4523,7 +4617,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4559,7 +4653,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4597,7 +4691,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4637,7 +4731,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4676,7 +4770,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4717,7 +4811,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4757,7 +4851,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4793,7 +4887,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4838,7 +4932,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4878,7 +4972,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4919,7 +5013,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4958,7 +5052,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -4999,7 +5093,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5040,7 +5134,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5080,7 +5174,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5116,7 +5210,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5141,7 +5235,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5182,7 +5276,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5221,7 +5315,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5257,13 +5351,13 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
     {
       "slug": "ucd-bot",
-      "name": "UCD Bot",
+      "name": "UCD Lead",
       "author": {
         "name": "UCDOps",
         "handle": "ucdco",
@@ -5271,7 +5365,7 @@
       },
       "summary": "A user-centred design teammate that runs a service from discovery to live",
       "summary_zh": "以用户为中心的设计队友，从发现做到上线。",
-      "official_summary": "AI teammate for User Centred Design. Evidence-led pipeline from research synthesis to testable prototype, with human approval at every stage.",
+      "official_summary": "UCD pipeline lead. Orchestrates discovery to live across ten specialist teammates — research, planning, UX, interaction, UI, content, BA, product,...",
       "import": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
       "bot_id": "An0FCP00zUniB7QdfedQX",
       "category": "content-publishing",
@@ -5296,9 +5390,10 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
-      "license": "CC-BY-4.0"
+      "license": "CC-BY-4.0",
+      "aka": "UCD Bot"
     },
     {
       "slug": "universal-video-downloader",
@@ -5332,7 +5427,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5366,7 +5461,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5401,7 +5496,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5438,7 +5533,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5474,7 +5569,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5510,7 +5605,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5549,7 +5644,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5589,7 +5684,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5614,7 +5709,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5647,7 +5742,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5688,7 +5783,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5733,7 +5828,39 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "u4ea7-u54c1-u63a8-u5e7f-u4ea4-u7a3f-u5458",
+      "name": "产品推广交稿员",
+      "author": {
+        "name": "yunhui",
+        "handle": "zheng_yunh2429",
+        "url": "https://x.com/zheng_yunh2429"
+      },
+      "summary": "Hands you ready-to-post promo copy for your product on a fixed rhythm",
+      "summary_zh": "按固定节奏把产品推广文案写好，交给你直接发。",
+      "official_summary": "按点写好社交媒体推广文案交给你复制发布。去AI味、书面完整像聊天，并根据阅读量持续改角度。",
+      "import": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+      "bot_id": "k_7pPRlHeZc2cku1zvVqr",
+      "category": "content-publishing",
+      "tags": [
+        "marketer",
+        "creator",
+        "social-media",
+        "content"
+      ],
+      "origin": "https://x.com/zheng_yunh2429/status/2096884390324572470",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5767,9 +5894,41 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "uac74-ucd95-uc20f-ud3fc-ub9c8-uc2a4-ud130",
+      "name": "건축 숏폼 마스터",
+      "author": {
+        "name": "꼬마",
+        "handle": "BBBang9900",
+        "url": "https://x.com/BBBang9900"
+      },
+      "summary": "Turns a building or bridge idea into a finished vertical explainer video",
+      "summary_zh": "一个建筑或桥梁的原理，做成竖屏科普短视频。",
+      "official_summary": "건축·토목 원리 설명용 YouTube Shorts를 혼자 만드는 봇. 대본·Imagine 컷·더빙·먹스까지 결과만 납품한다.",
+      "import": "https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR",
+      "bot_id": "u3Jg9IbWLHl5m9NdHWOIR",
+      "category": "content-publishing",
+      "tags": [
+        "creator",
+        "youtube",
+        "video",
+        "content"
+      ],
+      "origin": "https://x.com/BBBang9900/status/2096823218162266141",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "unnamed-kohl",
@@ -5801,7 +5960,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -5840,7 +5999,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5873,7 +6032,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5912,7 +6071,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5944,7 +6103,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -5984,7 +6143,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Contra Job Scraper"
@@ -6019,7 +6178,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6058,7 +6217,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6099,7 +6258,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6138,7 +6297,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6172,7 +6331,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6205,7 +6364,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6252,7 +6411,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6288,7 +6447,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Club Sponsor Bot"
@@ -6323,7 +6482,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0",
       "aka": "Herbet"
@@ -6349,7 +6508,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6385,7 +6544,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6421,7 +6580,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6462,7 +6621,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6498,7 +6657,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6534,7 +6693,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6575,7 +6734,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6612,7 +6771,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6646,7 +6805,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6687,7 +6846,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6724,7 +6883,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6769,7 +6928,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6803,7 +6962,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -6850,7 +7009,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6891,7 +7050,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6927,7 +7086,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -6971,7 +7130,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7010,7 +7169,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7049,7 +7208,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7086,7 +7245,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7118,7 +7277,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7157,7 +7316,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7201,7 +7360,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7234,7 +7393,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7275,7 +7434,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7329,7 +7488,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7354,7 +7513,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7395,7 +7554,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7429,7 +7588,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7468,7 +7627,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7512,7 +7671,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7551,7 +7710,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7596,7 +7755,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7630,7 +7789,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7675,7 +7834,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7720,7 +7879,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7753,7 +7912,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7792,7 +7951,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7833,7 +7992,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7873,7 +8032,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7913,7 +8072,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -7947,7 +8106,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -7981,7 +8140,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8015,7 +8174,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8062,7 +8221,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8095,7 +8254,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8131,7 +8290,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8172,7 +8331,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8205,7 +8364,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8241,7 +8400,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8281,7 +8440,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8317,7 +8476,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8353,7 +8512,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8397,7 +8556,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8433,7 +8592,39 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "social-ops-bot",
+      "name": "Social Ops Bot",
+      "author": {
+        "name": "JC",
+        "handle": "JoshuaRCook",
+        "url": "https://x.com/JoshuaRCook"
+      },
+      "summary": "Sorts the dead weight out of your X follows without hitting real people",
+      "summary_zh": "清掉 X 关注里的僵尸号和垃圾号，不误伤真人。",
+      "official_summary": "Clean a personal X account (inactive → spam), protect verified humans, queue misaligned actives for your review, and tag keepers into audience segments....",
+      "import": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+      "bot_id": "A5g9s0QB5zZtaOWZPoawT",
+      "category": "finance-ops",
+      "tags": [
+        "personal",
+        "creator",
+        "social-media",
+        "automation"
+      ],
+      "origin": "https://x.com/JoshuaRCook/status/2096915469462593638",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8469,7 +8660,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8514,7 +8705,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8550,7 +8741,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8589,7 +8780,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8624,7 +8815,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8663,7 +8854,33 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "the-cleaner",
+      "name": "The Cleaner",
+      "author": {
+        "name": "GreenbarSystems",
+        "handle": "RyanGBsystems",
+        "url": "https://x.com/RyanGBsystems"
+      },
+      "summary": "Audits a multi-bot fleet for overlap and leftovers, then reports",
+      "summary_zh": "多 Bot 团队的独立审计员，查角色、指令、记忆和例行任务里的重叠与残留。",
+      "official_summary": "Independent fleet auditor for multi-bot teams. Reviews each bot's role, task, instructions, memory, and routines, flags leftovers and overlap, and hands...",
+      "import": "https://x.ai/bot/Sbu_rKH30FD10OdRYo2UH",
+      "bot_id": "Sbu_rKH30FD10OdRYo2UH",
+      "category": "finance-ops",
+      "origin": "https://x.com/RyanGBsystems/status/2097107246815777185",
+      "sources": [
+        {
+          "catalog": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8699,7 +8916,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8725,7 +8942,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8769,7 +8986,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8803,7 +9020,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -8844,7 +9061,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8884,7 +9101,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8920,7 +9137,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8958,7 +9175,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -8994,7 +9211,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9037,7 +9254,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Inbox to Asana"
@@ -9079,7 +9296,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9118,7 +9335,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9159,7 +9376,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9200,7 +9417,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9237,7 +9454,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9271,7 +9488,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9314,7 +9531,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9353,7 +9570,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9389,7 +9606,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9430,7 +9647,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-06",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9463,7 +9680,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9504,7 +9721,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9538,7 +9755,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9571,7 +9788,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9611,7 +9828,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9646,7 +9863,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9681,7 +9898,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9725,7 +9942,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9761,7 +9978,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9801,7 +10018,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9837,7 +10054,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9877,7 +10094,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -9911,7 +10128,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9945,7 +10162,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -9982,7 +10199,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10026,7 +10243,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10060,7 +10277,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10096,7 +10313,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10132,7 +10349,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10171,7 +10388,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10207,7 +10424,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10247,7 +10464,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10281,7 +10498,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10313,7 +10530,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10352,7 +10569,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10386,7 +10603,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10422,7 +10639,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10456,7 +10673,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10495,7 +10712,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10540,7 +10757,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10574,7 +10791,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0",
       "aka": "LRT Kelana Jaya Line"
@@ -10600,7 +10817,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10633,7 +10850,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10667,7 +10884,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10707,7 +10924,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10746,7 +10963,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10780,7 +10997,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10821,7 +11038,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10855,7 +11072,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -10896,7 +11113,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10935,7 +11152,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -10971,7 +11188,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11010,7 +11227,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11050,7 +11267,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11089,7 +11306,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11123,7 +11340,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11157,7 +11374,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11191,7 +11408,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11232,7 +11449,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11271,7 +11488,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11305,7 +11522,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11339,7 +11556,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11373,7 +11590,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11413,7 +11630,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11447,7 +11664,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11486,7 +11703,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11527,7 +11744,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11563,7 +11780,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11597,7 +11814,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11636,7 +11853,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11672,7 +11889,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11711,7 +11928,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11745,7 +11962,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11780,7 +11997,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11821,7 +12038,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11855,7 +12072,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11887,7 +12104,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -11920,7 +12137,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11953,7 +12170,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -11992,7 +12209,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12029,7 +12246,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12063,7 +12280,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12097,7 +12314,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12133,7 +12350,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12175,7 +12392,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12211,7 +12428,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12248,7 +12465,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12289,7 +12506,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12323,7 +12540,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12357,7 +12574,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12391,7 +12608,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12435,7 +12652,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12460,7 +12677,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12494,7 +12711,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12528,7 +12745,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12561,7 +12778,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12600,7 +12817,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12638,7 +12855,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12672,7 +12889,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12706,7 +12923,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12745,7 +12962,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12784,7 +13001,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12816,7 +13033,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12850,7 +13067,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12889,7 +13106,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12923,7 +13140,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -12960,7 +13177,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -12999,7 +13216,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13033,7 +13250,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13074,7 +13291,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13108,7 +13325,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13152,7 +13369,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13183,7 +13400,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13217,7 +13434,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13251,7 +13468,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13291,7 +13508,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13327,7 +13544,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13363,7 +13580,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13377,7 +13594,7 @@
       },
       "summary": "Companion door for One Mission work with a hard privacy wall",
       "summary_zh": "One Mission 向的陪伴入口，工具不当王座并守隐私墙。",
-      "official_summary": "Moral companion OMNI Grok-Bot v1.0.3-octave: PAINE + 13 values, Mirror mind-meld (DNA · octave · thrice-seven), album-pay, transcript sync, n-gonal...",
+      "official_summary": "Moral companion v1.0.3-octave — God in sound. Lord first, then Mission, then a servant door: Mirror · PAINE · album-pay · transcript sync. Tool not...",
       "import": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
       "bot_id": "HAIGA0nUYgv85CtV5SMWa",
       "category": "personal-admin",
@@ -13397,7 +13614,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13433,7 +13650,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13472,7 +13689,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13516,7 +13733,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13548,7 +13765,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13580,7 +13797,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13614,7 +13831,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13653,7 +13870,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13689,7 +13906,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13728,7 +13945,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13767,7 +13984,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13794,7 +14011,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13825,7 +14042,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13865,7 +14082,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13897,7 +14114,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13936,7 +14153,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -13970,7 +14187,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -13995,7 +14212,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14032,7 +14249,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14071,7 +14288,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14097,7 +14314,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14136,7 +14353,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14168,7 +14385,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14204,7 +14421,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14229,7 +14446,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14268,7 +14485,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14301,7 +14518,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14337,7 +14554,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14376,7 +14593,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14415,7 +14632,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14449,7 +14666,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14474,7 +14691,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14517,7 +14734,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14551,7 +14768,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14585,7 +14802,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14625,7 +14842,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14668,7 +14885,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14707,7 +14924,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14746,7 +14963,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14780,7 +14997,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14819,7 +15036,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14853,7 +15070,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14886,7 +15103,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -14925,7 +15142,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -14970,7 +15187,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15006,7 +15223,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15039,7 +15256,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15073,7 +15290,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15113,7 +15330,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15152,7 +15369,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15191,7 +15408,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15227,7 +15444,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15267,7 +15484,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15303,7 +15520,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15337,7 +15554,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15373,7 +15590,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15407,7 +15624,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15441,7 +15658,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15475,7 +15692,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15514,7 +15731,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15546,7 +15763,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15587,7 +15804,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15627,7 +15844,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15661,7 +15878,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15700,7 +15917,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15734,7 +15951,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -15773,7 +15990,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15812,7 +16029,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15849,7 +16066,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15888,7 +16105,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15924,7 +16141,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -15960,7 +16177,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16001,7 +16218,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16037,7 +16254,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16073,7 +16290,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16120,7 +16337,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16154,7 +16371,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -16195,7 +16412,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16230,7 +16447,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16266,7 +16483,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16305,7 +16522,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16344,7 +16561,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16378,7 +16595,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -16414,7 +16631,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16447,7 +16664,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16483,7 +16700,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16519,7 +16736,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16563,7 +16780,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16599,7 +16816,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16634,7 +16851,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16668,7 +16885,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -16712,7 +16929,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16749,7 +16966,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16788,7 +17005,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16829,7 +17046,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16868,7 +17085,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16912,7 +17129,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -16948,7 +17165,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -16984,7 +17201,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17020,7 +17237,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17060,7 +17277,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17094,7 +17311,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -17138,44 +17355,9 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
-    },
-    {
-      "slug": "research-desk",
-      "name": "Ledger Research Desk",
-      "author": {
-        "name": "D",
-        "handle": "justsomeguy741",
-        "url": "https://x.com/justsomeguy741"
-      },
-      "summary": "Propose-only research desk with sourced drafts for human approval",
-      "summary_zh": "只起草带出处的研究结论供你批准，付款端永不写入。",
-      "official_summary": "Goal → propose sourced findings as cards → you approve or discard → warehouse SQL export. Each install gets its own local Ledger graph via MCP. Agents...",
-      "import": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
-      "bot_id": "99i8BzpcF-FsOKxTQxZRM",
-      "category": "research-briefings",
-      "tags": [
-        "research",
-        "approval",
-        "sources"
-      ],
-      "sources": [
-        {
-          "catalog": "majiayu000/awesome-grok-bot",
-          "url": "https://github.com/majiayu000/awesome-grok-bot"
-        },
-        {
-          "catalog": "cs68614-hash/awesome-grokbot-templates",
-          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
-        }
-      ],
-      "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
-      "link_status": 200,
-      "license": "CC0-1.0",
-      "aka": "Research Desk"
     },
     {
       "slug": "lot-ghost",
@@ -17212,7 +17394,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17248,7 +17430,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -17293,7 +17475,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17332,7 +17514,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17372,7 +17554,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17405,7 +17587,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -17444,7 +17626,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17483,7 +17665,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17523,7 +17705,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17564,7 +17746,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17600,7 +17782,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17639,7 +17821,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17678,7 +17860,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17718,7 +17900,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17757,7 +17939,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17796,7 +17978,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17840,7 +18022,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17876,7 +18058,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17915,7 +18097,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17954,7 +18136,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -17993,7 +18175,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18033,7 +18215,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18071,7 +18253,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18107,7 +18289,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18140,7 +18322,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18174,7 +18356,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18218,7 +18400,39 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "recent-bookmarks-search-bot",
+      "name": "Recent Bookmarks Search Bot",
+      "author": {
+        "name": "Sriram",
+        "handle": "srinatar",
+        "url": "https://x.com/srinatar"
+      },
+      "summary": "Makes the posts you saved on X searchable in a plain sortable table",
+      "summary_zh": "把你在 X 上收藏的帖子变成可搜、可排序的表格。",
+      "official_summary": "Search and sort your recent X bookmarks in a local table viewer. Connect X, pull the newest 100, open details, and load more when you have API credits.",
+      "import": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+      "bot_id": "wUWBNyr-Y0BJwAKAT-I_J",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "social-media",
+        "productivity",
+        "research"
+      ],
+      "origin": "https://x.com/srinatar/status/2096867178347991290",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18262,9 +18476,43 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "research-desk",
+      "name": "Research Desk",
+      "author": {
+        "name": "D",
+        "handle": "justsomeguy741",
+        "url": "https://x.com/justsomeguy741"
+      },
+      "summary": "Propose-only research desk with sourced drafts for human approval",
+      "summary_zh": "只起草带出处的研究结论供你批准，付款端永不写入。",
+      "official_summary": "Goal → sourced findings as proposals → you approve or discard → warehouse SQL. Agents propose; humans judge; nothing silent-writes. Local context graph...",
+      "import": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
+      "bot_id": "99i8BzpcF-FsOKxTQxZRM",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "approval",
+        "sources"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-05",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "research-runner",
@@ -18298,7 +18546,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18332,7 +18580,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -18368,7 +18616,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18404,7 +18652,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18441,7 +18689,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18481,7 +18729,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18517,7 +18765,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18551,7 +18799,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -18595,7 +18843,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18635,7 +18883,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18679,7 +18927,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18715,7 +18963,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18751,7 +18999,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18785,7 +19033,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -18824,7 +19072,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18865,7 +19113,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -18878,7 +19126,7 @@
       },
       "summary": "Watchlist alerts on filings and company news, no trading advice",
       "summary_zh": "盯股票和加密货币公告与新闻，不给交易建议。",
-      "official_summary": "ONLY job: keep this user's stock and crypto ticker watchlist, and alert them when company or project news hits those names. Anti-jobs: never trade or...",
+      "official_summary": "Watchlist for stocks. Alerts on filings and company news — quiet when nothing’s new. No trading advice.",
       "import": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
       "bot_id": "OA53XZkeW0g0HZEOim6iV",
       "category": "research-briefings",
@@ -18898,7 +19146,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -18932,7 +19180,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -18972,7 +19220,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19011,7 +19259,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "最值得关注的Grok Bot 推文？"
@@ -19048,7 +19296,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19084,7 +19332,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19123,7 +19371,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19157,7 +19405,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19191,7 +19439,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19223,7 +19471,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19256,7 +19504,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19290,7 +19538,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19323,7 +19571,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19359,7 +19607,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19400,7 +19648,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19439,7 +19687,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19479,7 +19727,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19512,7 +19760,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19546,7 +19794,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19585,7 +19833,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19624,7 +19872,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19663,7 +19911,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19703,7 +19951,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19741,7 +19989,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19785,7 +20033,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19824,7 +20072,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19868,7 +20116,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19901,7 +20149,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -19935,7 +20183,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -19971,7 +20219,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -20003,7 +20251,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20033,7 +20281,7 @@
           "url": "https://github.com/majiayu000/awesome-grok-bot"
         }
       ],
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -20066,7 +20314,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -20102,7 +20350,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20138,7 +20386,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20174,7 +20422,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20208,9 +20456,41 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "career-scout",
+      "name": "Career Scout",
+      "author": {
+        "name": "Hojjat",
+        "handle": "jakesh_jakesh",
+        "url": "https://x.com/jakesh_jakesh"
+      },
+      "summary": "Reads your CV, then ranks openings by how closely they really fit",
+      "summary_zh": "读完你的简历，按真实匹配度给岗位排序。",
+      "official_summary": "A field-agnostic job-search co-pilot. Builds a profile from your CV, scores postings, and returns a ranked shortlist — no spray-and-pray.",
+      "import": "https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz",
+      "bot_id": "P_0bcl1HrKuL8E1bfmJjz",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "recruiting",
+        "research",
+        "decision-support"
+      ],
+      "origin": "https://x.com/jakesh_jakesh/status/2096823313591156952",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "ceo",
@@ -20244,7 +20524,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20289,7 +20569,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20328,7 +20608,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20357,7 +20637,7 @@
           "url": "https://github.com/majiayu000/awesome-grok-bot"
         }
       ],
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -20402,7 +20682,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20447,7 +20727,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20492,7 +20772,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20527,7 +20807,39 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "chief-of-staff-travis-vanlife",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Daily",
+        "handle": "TravisHein21740",
+        "url": "https://x.com/TravisHein21740"
+      },
+      "summary": "Directs your other bots, and briefs you on any town you plan to sleep in",
+      "summary_zh": "调度你其它的 Bot，顺带把你今晚要过夜的城市摸清楚。",
+      "official_summary": "Coordinates your other bots and delivers full vanlife city briefings when you name a place — overnight rules, government, LE, events, faces, culture,...",
+      "import": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+      "bot_id": "TPVT39k9ILCz7QYzRja2B",
+      "category": "teams-handoffs",
+      "tags": [
+        "personal",
+        "travel",
+        "research",
+        "automation"
+      ],
+      "origin": "https://x.com/TravisHein21740/status/2096927727861297570",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20568,7 +20880,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20602,7 +20914,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -20636,7 +20948,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -20672,7 +20984,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20708,7 +21020,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20748,7 +21060,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20787,7 +21099,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20827,7 +21139,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20863,7 +21175,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20902,7 +21214,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20938,7 +21250,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -20977,7 +21289,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21011,7 +21323,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -21051,7 +21363,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21092,7 +21404,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21126,7 +21438,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -21165,7 +21477,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21201,7 +21513,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21237,7 +21549,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21277,7 +21589,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21321,7 +21633,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21357,7 +21669,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21394,7 +21706,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21438,7 +21750,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21470,7 +21782,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21509,7 +21821,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21548,7 +21860,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21584,7 +21896,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21625,7 +21937,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21669,7 +21981,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21705,7 +22017,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21719,7 +22031,7 @@
       },
       "summary": "A coding coordinator for builders: cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof.",
       "summary_zh": "给开发者的编码协调员：云代理写码，每个活派一个新代理。",
-      "official_summary": "A coding coordinator for builders. Cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof.",
+      "official_summary": "Coding coordinator in the poteto/pstack style: local coordinator, Cursor cloud agents do the jobs. Cairn facts in every launch, verification swarm after...",
       "import": "https://x.ai/bot/PsJeduueXjha7521lhTSc",
       "bot_id": "PsJeduueXjha7521lhTSc",
       "category": "teams-handoffs",
@@ -21730,7 +22042,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -21770,7 +22082,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21807,7 +22119,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21842,7 +22154,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21882,7 +22194,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21922,7 +22234,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21962,7 +22274,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -21997,7 +22309,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22033,7 +22345,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22073,7 +22385,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22109,7 +22421,7 @@
         }
       ],
       "first_seen": "2026-09-03",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22134,7 +22446,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -22174,7 +22486,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22213,7 +22525,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22246,7 +22558,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22290,7 +22602,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22333,7 +22645,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22372,7 +22684,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "Rogue Bot Hunter"
@@ -22412,7 +22724,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22446,7 +22758,7 @@
         }
       ],
       "first_seen": "2026-09-04",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -22480,7 +22792,7 @@
         }
       ],
       "first_seen": "2026-09-06",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -22520,7 +22832,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22556,7 +22868,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22597,7 +22909,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22642,7 +22954,39 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "stellar-cartography",
+      "name": "Stellar Cartography",
+      "author": {
+        "name": "Wil",
+        "handle": "schweitzer_wil",
+        "url": "https://x.com/schweitzer_wil"
+      },
+      "summary": "Draws spacecraft and ships, then forces a second pair of eyes before release",
+      "summary_zh": "画航天器和船舶图，发布前强制过一轮双人复核。",
+      "official_summary": "PRT-checked graphic editor for space hardware and ocean vessels, with a built-in four-eyes drawing preflight QC gate before anything posts. For...",
+      "import": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+      "bot_id": "9Vr7JFrTz5PeW4bmFco2i",
+      "category": "teams-handoffs",
+      "tags": [
+        "creator",
+        "business",
+        "design",
+        "content"
+      ],
+      "origin": "https://x.com/schweitzer_wil/status/2096794136200311213",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-08",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22678,7 +23022,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22722,7 +23066,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22761,7 +23105,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22797,7 +23141,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22836,7 +23180,7 @@
         }
       ],
       "first_seen": "2026-09-07",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22876,7 +23220,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22916,7 +23260,7 @@
         }
       ],
       "first_seen": "2026-09-02",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22961,7 +23305,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -22997,7 +23341,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23033,7 +23377,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23073,7 +23417,7 @@
         }
       ],
       "first_seen": "2026-08-29",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23113,7 +23457,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23157,7 +23501,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23194,7 +23538,7 @@
         }
       ],
       "first_seen": "2026-08-28",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23226,7 +23570,7 @@
         }
       ],
       "first_seen": "2026-08-30",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
@@ -23260,7 +23604,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -23285,7 +23629,7 @@
         }
       ],
       "first_seen": "2026-09-01",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -23321,7 +23665,7 @@
         }
       ],
       "first_seen": "2026-08-31",
-      "checked": "2026-09-07",
+      "checked": "2026-09-08",
       "link_status": 200,
       "license": "CC-BY-4.0"
     }

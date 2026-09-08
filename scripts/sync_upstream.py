@@ -449,13 +449,22 @@ def main():
 
     # Chinese supplied by hand via --pending-in outranks every other source:
     # it is the whole point of filling the file in.
-    handwritten = {}
+    handwritten, summary_fix = {}, {}
     if args.pending_in:
         for row in json.load(open(args.pending_in, encoding="utf-8")):
+            bid = row["bot_id"]
             zh = (row.get("summary_zh") or "").strip()
             if zh and not zh.startswith("TODO"):
-                handwritten[row["bot_id"]] = zh
-        print(f"loaded {len(handwritten)} hand-written Chinese line(s) from {args.pending_in}")
+                handwritten[bid] = zh
+            # Editing `summary` in the same file is allowed and often needed:
+            # when an upstream has no tagline the sync falls back to the share
+            # page's og:description, which is a paragraph, not a list line.
+            en = (row.get("summary") or "").strip()
+            if en:
+                summary_fix[bid] = re.sub(r"\s+", " ", en)
+        print(
+            f"loaded {len(handwritten)} hand-written Chinese line(s) from {args.pending_in}"
+        )
 
     # verify each candidate against the live page before it earns a row
     print(f"\nprobing {len(new_ids)} candidate share pages...", file=sys.stderr)
@@ -487,7 +496,12 @@ def main():
     for bid in ordered:
         up = upstream[bid]
         live = alive[bid]
-        summary = (up.get("summary") or live.get("official_summary") or "").strip()
+        summary = (
+            summary_fix.get(bid)
+            or up.get("summary")
+            or live.get("official_summary")
+            or ""
+        ).strip()
         summary = re.sub(r"\s+", " ", summary)
         if len(summary) > 300:
             summary = summary[:297].rsplit(" ", 1)[0] + "..."
