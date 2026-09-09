@@ -14512,7 +14512,7 @@
       },
       "summary": "Rates French 2027 presidential candidates on five weighted qualities",
       "summary_zh": "按五项加权标准给法国 2027 总统候选人打分。",
-      "official_summary": "Rates French 2027 presidential candidates on five weighted qualities, runs a daily X civic watch, and lets you pick what a Lattice wiki agent ingests.",
+      "official_summary": "Rates French 2027 candidates on five qualities from its own Lattice, using a voter AboutMe lens, and compiles only the lots you pick.",
       "import": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
       "bot_id": "CHmLGnQyx6r8lkb3U8k9x",
       "category": "personal-admin",
@@ -17694,7 +17694,7 @@
       },
       "summary": "Distils everything you read into a linked wiki that answers your questions",
       "summary_zh": "把你读过的东西收成可问答的链接维基。",
-      "official_summary": "Compiles a Karpathy Lattice wiki: raw in, short pages out. Asks yes/no and names who sent data before ingest. Scores written in full (no OF). Morning...",
+      "official_summary": "Compiles a Karpathy Lattice wiki: raw in, short pages out. Asks yes/no and names who sent data before ingest. Morning brief in French, always with a...",
       "import": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
       "bot_id": "c4fYduVVic2YtbcjXquD0",
       "category": "research-briefings",
@@ -23006,7 +23006,7 @@
         }
       ],
       "first_seen": "2026-09-05",
-      "checked": "2026-09-08",
+      "checked": "2026-09-09",
       "link_status": 200,
       "license": "CC-BY-4.0"
     },
