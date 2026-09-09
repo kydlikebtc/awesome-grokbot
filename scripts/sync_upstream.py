@@ -510,7 +510,15 @@ def main():
 
         slug = slugify(up.get("name") or live["name"])
         if slug in known_slugs:
-            slug = f"{slug}-{bid[:4].lower()}"
+            # bot ids may contain '_' and '-', which the slug pattern forbids,
+            # so strip to alphanumerics before using one as a disambiguator.
+            # A raw bid[:4] produced 'dr-eggbot-_jod' and failed the schema.
+            suffix = re.sub(r"[^a-z0-9]", "", bid.lower())[:4] or "dup"
+            slug = f"{slug}-{suffix}"
+            n = 2
+            while slug in known_slugs:      # still colliding: number it
+                slug = f"{slugify(up.get('name') or live['name'])}-{suffix}-{n}"
+                n += 1
         known_slugs.add(slug)
 
         author = {}
