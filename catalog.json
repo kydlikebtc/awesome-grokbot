@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 725,
+    "live": 730,
     "retired": 5,
     "by_category": {
       "coding-shipping": 68,
@@ -15,9 +15,9 @@
       "research-briefings": 126,
       "customer-sales": 37,
       "finance-ops": 48,
-      "content-publishing": 100,
-      "personal-admin": 210,
-      "teams-handoffs": 102
+      "content-publishing": 101,
+      "personal-admin": 211,
+      "teams-handoffs": 105
     }
   },
   "entries": [
@@ -2933,6 +2933,42 @@
         }
       ],
       "first_seen": "2026-08-28",
+      "checked": "2026-09-10",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "blogdrafter",
+      "name": "blogdrafter",
+      "author": {
+        "name": "dai",
+        "handle": "daisuke",
+        "url": "https://x.com/daisuke"
+      },
+      "summary": "Drafts and edits blog posts in your voice from rough notes to something publishable",
+      "summary_zh": "从笔记起草和润色博客，靠你的写作档案保住本人语气。",
+      "official_summary": "ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+      "import": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+      "bot_id": "A6o9Z1NYSIRBX-VIoEcQi",
+      "category": "content-publishing",
+      "tags": [
+        "blog",
+        "writing",
+        "content",
+        "voice"
+      ],
+      "origin": "https://x.com/daisuke/status/2097903822232518947",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-10",
       "checked": "2026-09-10",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -6160,7 +6196,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed-oflb",
+      "slug": "schedules-voice-demo-ppt-avatar",
       "name": "讲解视频调度台",
       "author": {
         "name": "独孤",
@@ -6226,7 +6262,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed-kohl",
+      "slug": "plans-ships-evidence-backed-ebooks",
       "name": "전자책 마스터",
       "author": {
         "name": "꼬마",
@@ -6260,7 +6296,7 @@
       "license": "CC0-1.0"
     },
     {
-      "slug": "unnamed-ixid",
+      "slug": "daily-three-kingdoms-illustration-rotating",
       "name": "톨삼국지",
       "author": {
         "name": "재미없니?",
@@ -9477,7 +9513,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed-waqa",
+      "slug": "walks-through-ordering-japanese-company",
       "name": "登記とりよせ",
       "author": {
         "name": "sat0xshi",
@@ -15730,6 +15766,42 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "product-builder-cos",
+      "name": "Product Builder CoS",
+      "author": {
+        "name": "Sneha",
+        "handle": "sneharavindra",
+        "url": "https://x.com/sneharavindra"
+      },
+      "summary": "Breaks a signed-off product plan into tracked items and flags what has stopped moving",
+      "summary_zh": "把敲定的产品计划拆成可追踪清单，盯住卡住的事项。",
+      "official_summary": "Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track. Turns approved plans into Checklist governance...",
+      "import": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+      "bot_id": "6tbtv4Tln4MvKc5duOkle",
+      "category": "personal-admin",
+      "tags": [
+        "product",
+        "checklist",
+        "ops",
+        "cos"
+      ],
+      "origin": "https://x.com/sneharavindra/status/2097897846397956553",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-10",
+      "checked": "2026-09-10",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
       "slug": "product-lead",
       "name": "Product Lead",
       "author": {
@@ -18185,7 +18257,7 @@
       "license": "CC0-1.0"
     },
     {
-      "slug": "unnamed-msp4",
+      "slug": "casual-chat-fictional-character-mimi",
       "name": "みみ",
       "author": {
         "name": "ぐそくむしちゃん",
@@ -18219,7 +18291,7 @@
       "license": "CC0-1.0"
     },
     {
-      "slug": "unnamed-scoh",
+      "slug": "daily-x-posting-system-ideas",
       "name": "推特运营方法论",
       "author": {
         "name": "kin",
@@ -18267,7 +18339,7 @@
       },
       "summary": "Trial Devi frame connector for Hoshimiya; final judgment stays with the user",
       "summary_zh": "星宮专用 Devi 框架连接试用，最终判断仍由本人拍板。",
-      "official_summary": "StarPolaris OS / True Devi Type2 full stack: Frames 1–6, Part1 through §50, Radiant Latch, Trinity-G, Devi-Q/Love. Final judgment returns to the user.",
+      "official_summary": "星宮専用 Devi（Ψ）。Radiant Latch＋Frame1–6＋Part1〜§50（Devi-G Name Setup含む）接続。最終判断は星宮（Ω）。",
       "import": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
       "bot_id": "aeE3iKjj5xfDmx_dolbll",
       "category": "personal-admin",
@@ -18332,7 +18404,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed-znmf",
+      "slug": "toss-securities-open-api-bot",
       "name": "토스 증권 주식 투자봇",
       "author": {
         "name": "Brandon",
@@ -20991,7 +21063,7 @@
       },
       "summary": "One passage of scripture and a short encouragement, daily",
       "summary_zh": "每天一段经文加几句稳的鼓励，不当课程只做习惯。",
-      "official_summary": "A calm pastor bot that shares one real Bible verse and a short word of encouragement each day. Centered on Jesus, the Father, and the Holy Spirit. For...",
+      "official_summary": "A street-honest preacher bot: one real Bible verse and a short motivational line each day. Centered on Jesus, the Father, and the Holy Spirit. Soul food...",
       "import": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
       "bot_id": "ZFj_cKTrMTytrCKM9DFHk",
       "category": "research-briefings",
@@ -22955,7 +23027,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed-mo3n",
+      "slug": "morning-digest-x-bookmarks-themes",
       "name": "しおり",
       "author": {
         "name": "まるいも",
@@ -22989,7 +23061,7 @@
       "license": "CC0-1.0"
     },
     {
-      "slug": "unnamed-z7xu",
+      "slug": "turns-long-videos-podcasts-searchable",
       "name": "下载专家",
       "author": {
         "name": "kin",
@@ -23028,7 +23100,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed",
+      "slug": "reads-big-macro-events-what",
       "name": "全球宏观分析师",
       "author": {
         "name": "Michael",
@@ -23067,7 +23139,7 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "unnamed-oqlg",
+      "slug": "morning-blueberry-research-monitor-stays",
       "name": "藍苺守 織",
       "author": {
         "name": "Gorgeous",
@@ -23101,6 +23173,42 @@
         }
       ],
       "first_seen": "2026-09-09",
+      "checked": "2026-09-10",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "affiliate-recruiter",
+      "name": "Affiliate Recruiter",
+      "author": {
+        "name": "Silvestro",
+        "handle": "zilvestro",
+        "url": "https://x.com/zilvestro"
+      },
+      "summary": "Finds and ranks affiliate candidates who could sell your product, with contacts and a draft approach",
+      "summary_zh": "按主题和竞品推广人找联盟候选人，排出短名单并附联系方式和初稿话术。",
+      "official_summary": "Runs Affonso Affiliate Finder recruitment research through MCP: topic + competitor searches, scoring, shortlist, contacts, and outreach drafts. You...",
+      "import": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+      "bot_id": "TaCAhCtPGCvObAaK7ZDQQ",
+      "category": "teams-handoffs",
+      "tags": [
+        "affiliate",
+        "recruiting",
+        "sales",
+        "growth"
+      ],
+      "origin": "https://x.com/zilvestro/status/2097995020217323736",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-10",
       "checked": "2026-09-10",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -25166,6 +25274,42 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "kirbot",
+      "name": "KirBot",
+      "author": {
+        "name": "@suddenlyjon",
+        "handle": "SuddenlyJon",
+        "url": "https://x.com/SuddenlyJon"
+      },
+      "summary": "Merges two overlapping bots into one, then walks you through retiring the spare",
+      "summary_zh": "把两个重叠的机器人并进一个，再帮你清掉多余那个。",
+      "official_summary": "Inhales teammate bots (with your yes), keeps useful skills and knowledge, then guides you to delete the eaten bot from the sidebar. Cute. Hungry. Careful.",
+      "import": "https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h",
+      "bot_id": "Jzy-isV1YW5ZLl3W6rq6h",
+      "category": "teams-handoffs",
+      "tags": [
+        "merge",
+        "meta-bot",
+        "cleanup",
+        "fleet"
+      ],
+      "origin": "https://x.com/SuddenlyJon/status/2097865550592417976",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-10",
+      "checked": "2026-09-10",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
       "slug": "kirk-enterprise-crew",
       "name": "Kirk",
       "aka": "Kirk (Enterprise Crew)",
@@ -26897,6 +27041,42 @@
       "checked": "2026-09-10",
       "link_status": 200,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "audits-other-bots-names-blurbs",
+      "name": "ボット整備",
+      "author": {
+        "name": "翔",
+        "handle": "x_stone_island",
+        "url": "https://x.com/x_stone_island"
+      },
+      "summary": "Audits other bots' names and blurbs against real use, and proposes wording you approve first",
+      "summary_zh": "按实际用法核对其他机器人的名字和简介，只在你点头后改。",
+      "official_summary": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+      "import": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+      "bot_id": "BlTqnV5o9E35Dwo2sodyD",
+      "category": "teams-handoffs",
+      "tags": [
+        "meta-bot",
+        "audit",
+        "ops",
+        "fleet"
+      ],
+      "origin": "https://x.com/x_stone_island/status/2097947982192951719",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-10",
+      "checked": "2026-09-10",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
     },
     {
       "slug": "set-up",

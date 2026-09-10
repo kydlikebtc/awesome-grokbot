@@ -138,8 +138,31 @@ def fetch(url, binary=False):
     return data if binary else data.decode("utf-8", "replace")
 
 
-def slugify(name):
+# Words that carry no identifying weight in a five-word slug.
+SLUG_STOPWORDS = {
+    "a", "an", "the", "and", "or", "for", "to", "into", "of", "in", "on", "at",
+    "by", "with", "from", "your", "you", "that", "this", "it", "its", "then",
+    "so", "up", "out", "as", "is", "are",
+}
+
+
+def slugify(name, fallback=None):
+    """Slug from the name; fall back to the English summary when the name has
+    no ASCII at all.
+
+    The pattern only keeps [a-z0-9], so a purely CJK name collapses to nothing
+    and used to become 'unnamed-<4 chars of id>'. Twelve rows were named that
+    way — every non-Latin bot in the catalog had lost its identity in the one
+    field meant to be human-readable. Deriving from the English one-liner keeps
+    those rows recognisable in logs, pending files and diffs.
+    """
     s = re.sub(r"[^a-z0-9]+", "-", (name or "").lower()).strip("-")
+    if s:
+        return s
+    if fallback:
+        words = re.sub(r"[^a-z0-9]+", " ", fallback.lower()).split()
+        keep = [w for w in words if w not in SLUG_STOPWORDS][:5]
+        s = "-".join(keep)
     return s or "unnamed"
 
 
@@ -508,7 +531,7 @@ def main():
         if not summary:
             continue
 
-        slug = slugify(up.get("name") or live["name"])
+        slug = slugify(up.get("name") or live["name"], fallback=summary)
         if slug in known_slugs:
             # bot ids may contain '_' and '-', which the slug pattern forbids,
             # so strip to alphanumerics before using one as a disambiguator.
@@ -517,7 +540,8 @@ def main():
             slug = f"{slug}-{suffix}"
             n = 2
             while slug in known_slugs:      # still colliding: number it
-                slug = f"{slugify(up.get('name') or live['name'])}-{suffix}-{n}"
+                base = slugify(up.get("name") or live["name"], fallback=summary)
+                slug = f"{base}-{suffix}-{n}"
                 n += 1
         known_slugs.add(slug)
 
