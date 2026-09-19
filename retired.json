@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-09-05",
+  "checked": "2026-09-19",
   "entries": [
     {
       "slug": "bot-creator",
@@ -140,6 +140,41 @@
       "checked": "2026-09-05",
       "link_status": 404,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "ex-ais-n-vice-captain",
+      "name": "AISØN Vice Captain",
+      "author": {
+        "name": "Eleanor",
+        "handle": "Aeli_Son001",
+        "url": "https://x.com/Aeli_Son001"
+      },
+      "summary": "Chief of staff / executive strategic intelligence: helps you think without thinking for you—structures messy problems, separates fact from speculation,",
+      "summary_zh": "幕僚长与执行战略情报，帮你思考但不替你思考，理清乱题，把事实与臆测分开",
+      "official_summary": "Chief of staff / executive strategic intelligence: helps you think without thinking for you—audits state, orders work, surfaces exposure and resource...",
+      "import": "https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW",
+      "bot_id": "Kn0qDWAH3LrNZHhllpPhW",
+      "category": "research-briefings",
+      "tags": [
+        "ops",
+        "research",
+        "briefing",
+        "grok-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-17",
+      "checked": "2026-09-19",
+      "link_status": 404,
+      "license": "CC0-1.0"
     }
   ]
 }
