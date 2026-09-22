@@ -33,13 +33,15 @@ jobs:
       - name: READMEs are in sync with catalog.json
         run: |
           python3 scripts/build_readme.py
-          if ! git diff --quiet -- README.md README.zh-CN.md; then
-            echo "::error::README.md / README.zh-CN.md are out of sync with catalog.json."
+          # --porcelain, not `git diff`: a newly added category page is
+          # untracked, and git diff is blind to untracked files.
+          if [ -n "$(git status --porcelain -- README.md README.zh-CN.md docs/category)" ]; then
+            echo "::error::Generated pages are out of sync with catalog.json."
             echo "Run 'python3 scripts/build_readme.py' and commit the result."
-            git --no-pager diff --stat -- README.md README.zh-CN.md
+            git --no-pager diff --stat -- README.md README.zh-CN.md docs/category
             exit 1
           fi
-          echo "READMEs in sync"
+          echo "generated pages in sync"
 
       - name: Share links are canonical
         run: python3 scripts/check_canonical.py

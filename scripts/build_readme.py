@@ -194,6 +194,66 @@ def star_history_block(checked):
     )
 
 
+def cat_page_path(key, zh=False):
+    """Where a category's entry list lives, relative to the repo root."""
+    return f"docs/category/{key}{'.zh-CN' if zh else ''}.md"
+
+
+def build_category_page(cat, key, emo, en, cn, blurb_en, blurb_cn, zh=False):
+    """One category's full entry list, as its own file.
+
+    These used to live in the README. At ~259 bytes a row the list crossed 96%
+    of GitHub's 512 KB render cutoff, past which the tail is dropped with no
+    warning at all. Split by category rather than into arbitrary pages so the
+    file a reader opens is the one they asked for, and so each file stays well
+    under the limit on its own.
+    """
+    rows = [x for x in cat["entries"] if x["category"] == key]
+    rows.sort(key=lambda x: x["name"].lower())
+    label = cn if zh else en
+    blurb = blurb_cn if zh else blurb_en
+    readme = "../../README.zh-CN.md" if zh else "../../README.md"
+    other = cat_page_path(key, not zh).replace("docs/category/", "")
+    L = []
+    A = L.append
+
+    A(f"# {emo} {label}")
+    A("")
+    A(f"*{blurb}*")
+    A("")
+    if zh:
+        A(
+            f"{len(rows)} 个 · [← 回到目录首页]({readme}) · "
+            f"[English]({other}) · [在网页版筛选 ↗]({SITE_URL}#cat={key}&lang=zh)"
+        )
+    else:
+        A(
+            f"{len(rows)} bots · [← back to the catalog]({readme}) · "
+            f"[简体中文]({other}) · [filter on the site ↗]({SITE_URL}#cat={key})"
+        )
+    A("")
+    A("---")
+    A("")
+    for r in rows:
+        A(row(r, zh=zh))
+    A("")
+    A("---")
+    A("")
+    if zh:
+        A(
+            f"[← 回到目录首页]({readme}) · "
+            "导入任何一个之前，请先读 "
+            f"[安全清单](../vetting.md)。"
+        )
+    else:
+        A(
+            f"[← back to the catalog]({readme}) · "
+            f"Before importing any of these, read [the checklist](../vetting.md)."
+        )
+    A("")
+    return "\n".join(L)
+
+
 def author_md(e):
     a = e.get("author") or {}
     name = a.get("name") or ""
@@ -237,9 +297,10 @@ def category_table(entries, zh=False):
         blurb = esc(blurb_cn if zh else blurb_en)
         unit = "个" if zh else "bots"
         site_link = f"{SITE_URL}#cat={key}" + ("&lang=zh" if zh else "")
+        page = cat_page_path(key, zh)
         cells.append(
             f'    <td width="25%" valign="top">'
-            f'<p><strong><a href="#{anchor(key)}">{label}</a></strong><br>'
+            f'<p><strong><a href="{page}">{label}</a></strong><br>'
             f"<sub>{counts[key]} {unit}</sub></p>"
             f"<sub>{blurb}</sub><br><br>"
             f'<sub><a href="{site_link}">{"在网页版筛选" if zh else "filter on the site"} ↗</a></sub></td>'
@@ -452,24 +513,11 @@ def build_en(cat, retired):
     A("| Category | Bots |")
     A("| --- | ---: |")
     for key, emo, en, cn, _, _ in CATEGORIES:
-        A(f"| [{emo} {en}](#{anchor(key)}) | {counts[key]} |")
+        A(f"| [{emo} {en}]({cat_page_path(key)}) | {counts[key]} |")
     A(f"| **Total** | **{n}** |")
     A("")
 
-    # ---- entries
-    for key, emo, en, cn, blurb_en, _ in CATEGORIES:
-        rows = [x for x in e if x["category"] == key]
-        A(f'<a name="{anchor(key)}"></a>')
-        A("")
-        A(f"## {emo} {en}")
-        A("")
-        A(f"*{blurb_en}* — {len(rows)} bots")
-        A("")
-        for r in sorted(rows, key=lambda x: x["name"].lower()):
-            A(row(r, zh=False))
-        A("")
-        A('<sub><a href="#section-categories">↑ back to categories</a></sub>')
-        A("")
+    # Entry lists live in docs/category/*.md — see build_category_page() for why.
 
     # ---- retired
     A("## 🪦 Retired shares")
@@ -759,23 +807,11 @@ def build_zh(cat, retired):
     A("| 分类 | 收录 |")
     A("| --- | ---: |")
     for key, emo, en, cn, _, _ in CATEGORIES:
-        A(f"| [{emo} {cn}](#{anchor(key)}) | {counts[key]} |")
+        A(f"| [{emo} {cn}]({cat_page_path(key, zh=True)}) | {counts[key]} |")
     A(f"| **合计** | **{n}** |")
     A("")
 
-    for key, emo, en, cn, _, blurb_cn in CATEGORIES:
-        rows = [x for x in e if x["category"] == key]
-        A(f'<a name="{anchor(key)}"></a>')
-        A("")
-        A(f"## {emo} {cn}")
-        A("")
-        A(f"*{blurb_cn}* —— {len(rows)} 个")
-        A("")
-        for r in sorted(rows, key=lambda x: x["name"].lower()):
-            A(row(r, zh=True))
-        A("")
-        A('<sub><a href="#section-categories">↑ 回到分类总览</a></sub>')
-        A("")
+    # 条目列表在 docs/category/*.md，原因见 build_category_page()
 
     A("## 🪦 已失效的分享")
     A("")
@@ -879,7 +915,27 @@ def main():
     open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8").write(en)
     open(os.path.join(ROOT, "README.zh-CN.md"), "w", encoding="utf-8").write(zh)
 
+    os.makedirs(os.path.join(ROOT, "docs", "category"), exist_ok=True)
+    pages = []
+    for key, emo, en_l, cn_l, blurb_en, blurb_cn in CATEGORIES:
+        for is_zh in (False, True):
+            text = build_category_page(
+                cat, key, emo, en_l, cn_l, blurb_en, blurb_cn, zh=is_zh
+            )
+            rel = cat_page_path(key, is_zh)
+            open(os.path.join(ROOT, rel), "w", encoding="utf-8").write(text)
+            pages.append((rel, len(text.encode("utf-8"))))
+
+    biggest = max(pages, key=lambda x: x[1])
+    print(
+        f"category pages: {len(pages)} files, largest {biggest[0]} "
+        f"at {biggest[1]:,} bytes ({biggest[1] / RENDER_LIMIT:.0%} of limit)"
+    )
+
     over = []
+    for rel, size in pages:
+        if size >= RENDER_LIMIT:
+            over.append(rel)
     for label, text in (("README.md", en), ("README.zh-CN.md", zh)):
         size = len(text.encode("utf-8"))
         pct = size / RENDER_LIMIT

@@ -87,7 +87,9 @@ jobs:
       - name: Commit and push if anything changed
         if: steps.refresh.outputs.code != '2'
         run: |
-          if git diff --quiet -- catalog.json retired.json README.md README.zh-CN.md; then
+          # --porcelain, not `git diff`: a newly added category page is
+          # untracked, and git diff is blind to untracked files.
+          if [ -z "$(git status --porcelain -- catalog.json retired.json README.md README.zh-CN.md docs/category)" ]; then
             echo "no changes today"
             exit 0
           fi
@@ -97,7 +99,7 @@ jobs:
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog.json retired.json README.md README.zh-CN.md
+          git add catalog.json retired.json README.md README.zh-CN.md docs/category
           git commit -m "chore(daily): ${DELTA}" -m "Automated by .github/workflows/daily-update.yml"
           git push
           echo "pushed: ${DELTA}"

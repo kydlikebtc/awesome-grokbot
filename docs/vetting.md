@@ -21,10 +21,10 @@ A community share is **untrusted third-party software**. The share page is publi
 
 Some rows in this catalog touch things that are hard to undo. Read the profile twice before connecting anything for bots that:
 
-- **move money or trade** — anything in [Finance & ops](../README.md#cat-finance-ops) that mentions a brokerage, wallet, or live account. At least one listed bot trades a real book.
-- **send on your behalf** — outbound sales, DM automation, and social posting bots in [Customer & sales](../README.md#cat-customer-sales) and [Content & publishing](../README.md#cat-content-publishing).
+- **move money or trade** — anything in [Finance & ops](category/finance-ops.md) that mentions a brokerage, wallet, or live account. At least one listed bot trades a real book.
+- **send on your behalf** — outbound sales, DM automation, and social posting bots in [Customer & sales](category/customer-sales.md) and [Content & publishing](category/content-publishing.md).
 - **drive a browser while logged in** — anything that reuses your sessions can act as you on any site you are signed into.
-- **run other bots** — [Teams & handoffs](../README.md#cat-teams-handoffs) bots create, edit, or delete other bots. Give them the narrowest approval boundary you can live with.
+- **run other bots** — [Teams & handoffs](category/teams-handoffs.md) bots create, edit, or delete other bots. Give them the narrowest approval boundary you can live with.
 
 A good default instruction to add to any imported bot: _"Draft and research only. Do not send, post, pay, delete, or change production until I say yes in chat."_
 
