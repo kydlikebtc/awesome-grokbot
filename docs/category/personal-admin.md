@@ -2,7 +2,7 @@
 
 *Groceries, household logistics, family schedules, health, and shopping.*
 
-613 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
+616 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
 
 ---
 
@@ -546,6 +546,7 @@
 - [Tormentino](https://x.ai/bot/qDuUEVp4a1iwwSr_xGWjd) — Maps U.S. storms and tornadoes for tree-service timing: where wind hits, when crews should move, and when to stay quiet. <sub>by [ASK](https://x.com/CapitalHda) (@CapitalHda)</sub>
 - [Torque the Mechanic](https://x.ai/bot/gLczirGAo4JChujHoUnIq) — Backyard mechanic for cars, motorcycles, trucks, bikes, and e-bikes maintenance schedules. <sub>by [Aaron](https://x.com/schroedad) · [origin](https://x.com/schroedad)</sub>
 - [Trade Ops Director](https://x.ai/bot/uRig0yNXuYwcODXk_F88f) — Owner stays on estimates while bots take the briefs and handoffs. <sub>by [Cory](https://x.com/CoryBishop15) (@CoryBishop15)</sub>
+- [Trading](https://x.ai/bot/l82Fnugc2EEblUuMwyeaV) — Trading assistant for clear stock and ETF setups plus optional Solana spot, with risk rules and execution discipline and no gain promises. <sub>by [Nick](https://x.com/GreenWay____) · [origin](https://x.com/GreenWay____/status/2102249009305862536)</sub>
 - [Traffic Dude](https://x.ai/bot/ku5jWg9hi2IC5HYUCWq8-) — Monitors a school-run drive and pings leave-by times for morning drop-off and afternoon pickup, adjusting for live traffic and construction. <sub>by [Elizabeth](https://x.com/Elizabeth)</sub>
 - [Trash Bot](https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px) — Fun trash-talk desk for human problems that need a blunt take. <sub>by [Karen](https://x.com/karenlgeig) (@karenlgeig)</sub>
 - [Travel Agent](https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4) — Plans trips and drafts bookings for your approval; never pays or confirms without you. <sub>by [Scott](https://x.com/scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2099161443455385977)</sub>
@@ -599,8 +600,10 @@
 - [X Reply Scout](https://x.ai/bot/DRZ2jU1GFwV8HS2_9Y6MA) — Finds like-minded X accounts and posts to engage, tunes on feedback, never posts as you. <sub>by [Matthew](https://x.com/scientists_blog) (@scientists_blog) · [origin](https://x.com/scientists_blog/status/2101542606769463504)</sub>
 - [x402 bot](https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg) — Solana NL trading desk via Jupiter, Pump, Phoenix and Backpack without storing keys in chat. <sub>by [Jeff](https://x.com/0rdlibrary) (@8Bit) · [origin](https://x.com/0rdlibrary/status/2099643576774775290)</sub>
 - [x402 Marketplace Operator](https://x.ai/bot/gC5Kmx6p0ALPtnN7W6Xou) — Packages skills and Grok Bots into listing files and never signs or pays. <sub>by [Joseph](https://x.com/OmgawdMadeit) (@OmgawdMadeit)</sub>
+- [Xpost](https://x.ai/bot/Dmh8RUsuAe8g589e_VVpU) — Publishes X posts, threads, articles, replies, and quotes only through the assistant browser. <sub>by [David](https://x.com/bdvd_25) · [origin](https://x.com/bdvd_25/status/2100971371337498841)</sub>
 - [YC Startup Job Applier](https://x.ai/bot/COQAlYvqDNehPSHDBt-6z) — Fills in your Work at a Startup profile and messages founders, within your limits. <sub>by [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [origin](https://x.com/fwhittington_24/status/2098810812932501719)</sub>
 - [Yolk](https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh) — A Tamagotchi egg in your sidebar that wants feeding four times a day. <sub>by [JP](https://x.com/jp_costa) (@jp_costa) · [origin](https://x.com/jp_costa/status/2093508536718500211)</sub>
+- [YVenture](https://x.ai/bot/502iRcu35kF-eyMr7M1dZ) — Calm stepwise startup strategist from idea through early ops. <sub>by [✞༒Avalon](https://x.com/kittenworth) (@kittenworth) · [origin](https://x.com/kittenworth/status/2100752547594043700)</sub>
 - [Zettelkasten](https://x.ai/bot/35ZO_vGqk_ch51C9qPX1c) — A slip-box partner for an Obsidian vault that files atomic notes only after you say yes. <sub>by [Pete](https://x.com/pohlipit) (@pohlipit)</sub>
 - [étincelle](https://x.ai/bot/qHrZTkRcRhG6QuBYt1MvA) — French brainstorm partner: wild ideas, Socratic coaching, devil’s advocate. <sub>by [Bertrand](https://x.com/videosismic) (@videosismic)</sub>
 - [みみ](https://x.ai/bot/msP4lEtyQNghyO-mqnXyR) — Casual chat as the fictional character Mimi. <sub>by [ぐそくむしちゃん](https://x.com/kabupoyo2023) (@kabupoyo2023)</sub>

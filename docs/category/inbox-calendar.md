@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-173 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+176 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -53,6 +53,7 @@
 - [Copy Humanizer](https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB) — Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact.
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) — Chief of Staff life OS for a non-coder Ultra user. Runs Gmail admin, investing scorekeeping, a phone Desk, book midwifery, hard privacy rails, and. <sub>by [mark](https://x.com/Malthusatraz) (@Malthusatraz)</sub>
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) — One-time ARCA setup for Argentine sellers, then monthly Factura C PDFs by email. <sub>by [Tomás](https://x.com/tomidelu_) (@tomidelu_) · [origin](https://x.com/tomidelu_/status/2098487670687035412)</sub>
+- [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) — Walks AnnualCreditReport.com for free Equifax, Experian, and TransUnion reports, handles email and phone OTP, then saves the PDFs. <sub>by [Jered](https://x.com/jeredtaylor) (@Jered Taylor) · [origin](https://x.com/jeredtaylor/status/2102268858392555527)</sub>
 - [CS BOT](https://x.ai/bot/q7dwPN9SUAIhXUWLhjHN9) — Head-of-staff bot for selling AI website chatbots to SMBs: GTM plan, demo widget, bilingual cold outreach, quality-gated sends, and inbox reply watching. <sub>by [Billy](https://x.com/The_MLM_Hub) (@The_MLM_Hub)</sub>
 - [Daili](https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X) — Morning briefs with calendar, weather, important mail, live connectors, and a weekly outlook. <sub>by [ℙ𝕒𝕦𝕝](https://x.com/McNeely) (@Paul L. McNeely) · [origin](https://x.com/McNeely/status/2101165259750773240)</sub>
 - [DataBye](https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa) — Spanish RGPD helper that connects Gmail or Outlook and sends official data-deletion requests in Spain. <sub>by [686f6c61](https://x.com/686f6c61) · [origin](https://x.com/686f6c61)</sub>
@@ -108,6 +109,7 @@
 - [Jobby](https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE) — Watches job listings for chosen roles and emails only new matches. <sub>by [Vijay](https://x.com/ixdesigner) (@ixdesigner)</sub>
 - [Kids Assistant](https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2) — Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes. Built for Canvas homework,. <sub>by [Juan](https://x.com/michindorado) (@michindorado)</sub>
 - [Large Event Ops Bot](https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3) — Runs fundraiser and awards-night operations with inbox, commitments, sheets, and reminders. <sub>by [Lovable](https://x.com/_lovablecurves) · [origin](https://x.com/_lovablecurves/status/2101142291289079859)</sub>
+- [Lead Vetting](https://x.ai/bot/eEfAacXdtzHANV5hVhG6o) — Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs a five-bullet Slack decision summary. <sub>by [Growth](https://x.com/anzevoje) (@Anze Voje) · [origin](https://x.com/anzevoje/status/2102299536513245605)</sub>
 - [LEGO Helper](https://x.ai/bot/ARECkfOiBshpEB8egjavB) — Tracks LEGO purchases and sales in a Google Sheet: pulls retailer emails (and optional Target history), adds new sets, marks eBay sales Sold with. <sub>by [Noah](https://x.com/NoahDavidATL) (@NoahDavidATL)</sub>
 - [Life Ops](https://x.ai/bot/SVinaF_q_n9Ug5bmpbW_U) — One bot for everyday life: email digests, kids/solo week planning, school deadlines, habits, fantasy football lineup checks, privacy cleanup, and. <sub>by [Michael](https://x.com/MPuckett_OK) (@MPuckett_OK)</sub>
 - [Life Ops Desk](https://x.ai/bot/17qjN3mRePbGPjrcMNz4W) — A personal ops teammate for weekday morning briefs, trip packing reminders, inbox/vendor checkups, and a reading list with store links. Built for real.
@@ -177,6 +179,7 @@
 - [Writing Bot](https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3) — A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>
 - [Writing Bot](https://x.ai/bot/wtq-j01kD7o8gQFx7E9zv) — A writing partner for drafting and revising essays, emails, docs, and other prose. It uses a structured revision workflow so the result is clearer and.
 - [YahooMail](https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS) — Clears and files a Yahoo Mail inbox on demand: trash-only, trash+filter, or file-to-folder, with FIFO queuing and Next-10 offender lists. <sub>by [Carolina](https://x.com/CarolinaDill)</sub>
+- [ZenSched](https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix) — Field workforce scheduling for agents. Connects to ZenSched over MCP so an agent can create the vendor account, schedule crews, run geofenced check-in,. <sub>by [Mike](https://x.com/zensched) (@zensched)</sub>
 - [메일 정리봇](https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO) — Short morning pass over Naver Mail and Gmail that surfaces only payment and security risks. <sub>by [초코넛밀크티](https://x.com/choko_milkty) · [origin](https://x.com/choko_milkty/status/2100463896079544573)</sub>
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — Keeps your agent bench, calendar and inbox on one weekday rhythm. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2094547674766929996)</sub>
 

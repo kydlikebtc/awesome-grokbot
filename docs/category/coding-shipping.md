@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-141 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+144 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -146,6 +146,9 @@
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) — Turns repeat WhatsApp Web chores into scripts you can replay. <sub>by [Alexandre](https://x.com/alexhawat) (@alexhawat)</sub>
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — Turns messy $cashtag dumps into distinct equity/ETF/tokenized/perp seats. <sub>by [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>
+- [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) — Treats a technical sketch as a piece bound for readers rather than one ticket among many, taking a rough engineering drawing and refining it until it holds up…. <sub>by [Skyler](https://x.com/kittenworth) (@kittenworth) · [origin](https://x.com/kittenworth/status/2100369305216913562)</sub>
+- [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) — Produces a complete track from a style note and a set of words, running the music model on your own Apple-silicon hardware instead of in somebody else's…. <sub>by [Eugene](https://x.com/monomyth) (@monomyth) · [origin](https://x.com/monomyth/status/2100350198220501262)</sub>
+- [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) — Zoho Mail unread sweep; flags spam/cold pitches; delete/reply. <sub>by [Aseem](https://x.com/aseemwangoo) (@aseemwangoo)</sub>
 - [💡 LearnBot](https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C) — One engineering word each day, explained for people who never code. <sub>by [Grace](https://x.com/graceclarke) (@graceclarke) · [origin](https://x.com/graceclarke/status/2101393873948025039)</sub>
 
 ---
