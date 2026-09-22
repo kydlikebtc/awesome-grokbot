@@ -19,6 +19,14 @@ REPO_SLUG = "kydlikebtc/awesome-grokbot"
 REPO_URL = f"https://github.com/{REPO_SLUG}"
 SITE_URL = "https://kydlikebtc.github.io/awesome-grokbot/"
 
+# GitHub renders only the first 512 KB of a README and gives NO warning past
+# that: the tail is silently dropped, CI stays green, and the page looks fine.
+# Verified 2026-09-22 against community reports (e.g. eslint-plugin-jsdoc at
+# 531 KB showing only the first 512 KB). At ~259 bytes per row this catalog
+# adds roughly 39 KB per 150-row day, so the margin is days, not months.
+RENDER_LIMIT = 512_000
+WARN_AT = 0.85
+
 # star-history "sealed" token: bound to this repo and intended to be embedded in
 # a public README, which is why it lives in the source rather than a secret.
 STAR_TOKEN = (
@@ -870,9 +878,26 @@ def main():
     zh = build_zh(cat, retired)
     open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8").write(en)
     open(os.path.join(ROOT, "README.zh-CN.md"), "w", encoding="utf-8").write(zh)
-    print(f"README.md       {len(en):>7,} bytes")
-    print(f"README.zh-CN.md {len(zh):>7,} bytes")
+
+    over = []
+    for label, text in (("README.md", en), ("README.zh-CN.md", zh)):
+        size = len(text.encode("utf-8"))
+        pct = size / RENDER_LIMIT
+        room = (RENDER_LIMIT - size) // max(size // max(len(cat["entries"]), 1), 1)
+        flag = "OVER LIMIT" if pct >= 1 else ("near limit" if pct >= WARN_AT else "")
+        print(f"{label:16} {size:>8,} bytes  {pct:5.0%} of render limit  ~{room} rows of room  {flag}")
+        if pct >= 1:
+            over.append(label)
+
     print(f"entries rendered: {len(cat['entries'])}")
+
+    if over:
+        raise SystemExit(
+            f"\nSTOP: {', '.join(over)} exceeds GitHub's {RENDER_LIMIT:,}-byte render limit.\n"
+            "GitHub will silently drop everything past that point — no warning, no failed\n"
+            "check, and the page still looks fine. Split the entry list out of the README\n"
+            "before shipping this."
+        )
 
 
 if __name__ == "__main__":
