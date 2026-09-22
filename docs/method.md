@@ -132,6 +132,8 @@ python3 scripts/check_links.py --write     # also update link_status/checked and
 python3 scripts/build_readme.py            # regenerate both READMEs from catalog.json
 ```
 
+The screenshots in `docs/screenshots/` show live counts and therefore go stale as the catalog grows — they are refreshed by hand, not by the daily job, because rendering them needs a browser and a daily ~350 KB PNG would add ~120 MB of history a year. Steps: [`scripts/shoot_screenshots.md`](../scripts/shoot_screenshots.md).
+
 The social preview card is data-driven too. [`docs/social-card.html`](social-card.html) reads the same `catalog.json`, so the figures on it cannot drift from the catalog:
 
 ```bash
