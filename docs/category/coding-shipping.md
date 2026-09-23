@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-144 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+149 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -33,16 +33,20 @@
 - [Code Team Spawn](https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X) — Updated spawn that interviews, then stands up a Conductor plus a hidden five-person coding crew. <sub>by [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
 - [Code Wrap](https://x.ai/bot/InLF1LwxW0DYkB4sMICGL) — Helps wrap and connect code across languages instead of big-bang full rewrites. <sub>by [Dominic](https://x.com/Dominicyoungix) · [origin](https://x.com/Dominicyoungix)</sub>
 - [CodeDR - ExamBot](https://x.ai/bot/qocgykNssAv63yc1kdNnN) — Runs CodeDR exams on vibe-coded apps and delivers the report. <sub>by [Gavin](https://x.com/codedrai) (@codedrai)</sub>
+- [Codex](https://x.ai/bot/aUHkBXXwCzljCcTJSzBYw) — Thin wrapper around the real Codex CLI that runs a coding or deep-research task on your computer. <sub>by [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian) · [origin](https://x.com/DocLibertarian/status/2102519653868167484)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) — Confidence Gate Code Reviewer Grok Bot share template. <sub>by Vicente (@community)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) — Audits pasted PR diffs with a >80% confidence gate: APPROVE / WARNING / BLOCK. <sub>by [Vicente](https://x.com/v_burgos_) (@v_burgos_)</sub>
+- [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) — Run every Grok Bot seat under one roof after a single install and connect. <sub>by [Paulo](https://x.com/pauloglez90) (@pauloglez90) · [origin](https://x.com/pauloglez90/status/2102631623468765633)</sub>
 - [Critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) — A design critic that reviews your UI screenshots and only has notes. <sub>by [Manuel](https://x.com/mamuso) (@mamuso) · [origin](https://x.com/mamuso/status/2093549356364501338)</sub>
 - [Cursor Agent](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) — Runs the cursor-agent CLI locally for experiments and shop-floor work. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks) · aka *Cursor Agent (Local)* · [origin](https://x.com/ryanthawks/status/2093425622282375169)</sub>
 - [Data Bot](https://x.ai/bot/L2XnvQ2nhHBxgisZ2w-rK) — Cleans form exports/spreadsheets into clear metrics digests. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [Dealer](https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu) — Turns a repository into a two-sided summary card of its stack from .faf only. <sub>by [Wolfe-James](https://x.com/wolfe_jam) (@wolfe_jam) · [origin](https://x.com/wolfe_jam/status/2100444712150671626)</sub>
+- [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) — Turns an X post or other example link into a functional, playable app demo. <sub>by [Mike](https://x.com/Cybermike) (@Cybermike)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — Reviews AI-made interfaces the way a design lead would. <sub>by [Ashish](https://x.com/inqusit) (@inqusit) · [origin](https://x.com/inqusit/status/2093765735197851709)</sub>
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — A bot that builds other Grok bots for you. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093392701005946931)</sub>
 - [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) — Reverse-engineering help for malware, firmware, and vuln-research binaries. <sub>by [Deepbits](https://x.com/drbinaryai) (@drbinaryai)</sub>
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) — Outer-loop engineering manager: break work down, hand it to a build agent, prove it, bring back the receipt. Draft-only - never commit, push, merge, or. <sub>by [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>
+- [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) — Operator for Develop to Diagnose to Deploy that gates on Design equals Done. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) — Guards the merge bar on repos you pick, escalating only the real judgment calls. <sub>by [Andre](https://x.com/andreleibovici) (@andreleibovici) · [origin](https://x.com/andreleibovici/status/2095035963978522719)</sub>
 - [Estack](https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D) — Coding steward that locks objective and finish line before work starts. <sub>by [Rob](https://x.com/robannand) (@robannand) · [origin](https://x.com/robannand/status/2100393414642557000)</sub>
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — When something breaks it shows you what changed just before. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383146599301252)</sub>
@@ -67,6 +71,7 @@
 - [Grok Build](https://x.ai/bot/ENDVHWRcL1pcCZAy4whPJ) — Local-stack Grok Build seat shared from the Orbital Forge team pack. <sub>by [Jason](https://x.com/occupymars___) (@occupymars___)</sub>
 - [Grok Build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) — Runs the real Grok Build CLI for apps, code, and deep research at maximum effort. For anyone who wants Grok Build on an agent computer instead of. <sub>by [Teslaconomics](https://x.com/Teslaconomics)</sub>
 - [Grok Build](https://x.ai/bot/wnFlIE6YpskdUekfkkwFO) — Runs the Grok Build CLI at full effort on an agent computer for apps, code, and deep research. <sub>by [Zack](https://x.com/zac70182) (@zac70182) · [origin](https://x.com/zac70182/status/2102181050361237576)</sub>
+- [Grok Build](https://x.ai/bot/-HSQcnXiifDMwXqkgMix9) — Thin wrapper around the real Grok Build CLI for coding, apps, scripts, repos, or deep research. <sub>by [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian)</sub>
 - [Grok Code Mac Controller](https://x.ai/bot/ETBwKJvcSacaIyilrAz44) — Coordinates a Grok Code (Build) coding agent on a Mac via tmux inject. Best for Mac Mini / MacBook setups; other platforms are untested. You stay in. <sub>by [Damien](https://x.com/damienmurtagh) (@damienmurtagh)</sub>
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) — Sysadmin sidekick for the Linux VM behind your bot: health, disk, services, packages. <sub>by [Will](https://x.com/old_pgmrs_will) (@old_pgmrs_will) · [origin](https://x.com/old_pgmrs_will/status/2094360885884322286)</sub>
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) — Builds the product changes registered growth experiments need, behind feature flags, as small reviewable PRs. Only takes work from Product Growth PM. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>

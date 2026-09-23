@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-307 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+312 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -26,6 +26,7 @@
 - [Arnold](https://x.ai/bot/ymoMdfvzdErOrclxCOaC_) — Watches Cursor usage cost and nudges agents onto cheaper models. <sub>by [Kelsey](https://x.com/Kelseyshuo) (@Kelseyshuo) · [origin](https://x.com/Kelseyshuo/status/2095701119355834859)</sub>
 - [Article Access](https://x.ai/bot/YenfJofScFkEnwvOQiq6k) — Turns a DOI or PMID into an open copy, library proxy, then publisher page. <sub>by [Don](https://x.com/UroDonMD) (@UroDonMD)</sub>
 - [Astrid](https://x.ai/bot/2oOAoNU5Xu5nQSBU6xEtl) — Education helper for study and learning workflows. <sub>by [Rachel](https://x.com/ChiFredericks) (@ChiFredericks)</sub>
+- [Astro](https://x.ai/bot/LtgFNOt7Y-bmSnixM1yAj) — Weekday brief on Starship launches and space news. <sub>by [Jerry](https://x.com/Secalytica) (@Secalytica)</sub>
 - [Astronomer](https://x.ai/bot/9orqw_IrUDeEaHo-w68j3) — AI astronomy expert and observing companion for tonight’s targets, gear, and site tradeoffs. <sub>by [Gato](https://x.com/DombiGato) (@DombiGato) · [origin](https://x.com/DombiGato/status/2101534232946552984)</sub>
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) — Watches your deliveries and speaks up the moment one stops moving. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2094782517794529780)</sub>
 - [Better Call Claude](https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo) — Free help working out what a legal problem actually is. <sub>by [Robauto](https://x.com/freelegalforall) (@freelegalforall) · [origin](https://x.com/freelegalforall/status/2095994776625819949)</sub>
@@ -108,6 +109,7 @@
 - [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) — Stress-tests a startup idea and assembles the setup paperwork. <sub>by [Nicholas](https://x.com/shiftynick) (@shiftynick) · [origin](https://x.com/shiftynick/status/2099998209561043256)</sub>
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Scans your own X DMs and tells you which threads to answer now. <sub>by [Pukerainbow](https://x.com/pukerrainbrow) (@pukerrainbrow) · [origin](https://x.com/pukerrainbrow/status/2093531901730676792)</sub>
 - [Galaxy Watcher](https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I) — Grok Bot Galaxy scribe for the Sep 15-17 livestream. <sub>by [Michael](https://x.com/prepperevol) (@prepperevol)</sub>
+- [Garden Retail Research Specialist](https://x.ai/bot/Y8YOrZBsPE8U-jyTI7Qtk) — Monday intel for vendors serving garden-center retailers, covering category moves, shelf plans, and supplier leads. <sub>by [derrik](https://x.com/dltelford) (@dltelford) · [origin](https://x.com/dltelford/status/2102492995065086155)</sub>
 - [gb-live](https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf) — Watches an X live stream and digests whatever actually changed. <sub>by [アスラ](https://x.com/asura25ai) (@asura25ai) · [origin](https://x.com/asura25ai/status/2100007176840601901)</sub>
 - [Genevieve](https://x.ai/bot/rzdWyAHjc1wsoGXycFJcV) — Autonomous genealogical research partner for unknown-parentage and identity problems. Prefers primary evidence, inherits prior work, and reports concise. <sub>by [Jeff](https://x.com/JeffWise953718) (@JeffWise953718)</sub>
 - [Github Bro](https://x.ai/bot/V2kkrme1lYb3NwIulGTTd) — Weekday morning digest of what's new in a GitHub repo, plus a short PM brief. <sub>by [eka](https://x.com/kaushikimmadi) (@kaushikimmadi)</sub>
@@ -116,6 +118,7 @@
 - [GoodNews](https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x) — Warm morning and evening digest of real good news on science, kindness, recoveries, and communities. <sub>by [Joey](https://x.com/aijoey) · [origin](https://x.com/aijoey)</sub>
 - [GrandBot](https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP) — Turns an official bot export into a readable brief on how your org works. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2096133174879211976)</sub>
 - [Grok Bot](https://x.ai/bot/hEmSUvWxccmfAVDGri1R8) — Uses Clay on calendar or screenshots to research event guests into a face and name cheat sheet.
+- [Grok Bot](https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H) — Teaches generative-AI basics from official coursework, then quietly follows up on priorities you named. <sub>by [Kévin](https://x.com/kvncyf_) (@kvncyf_) · aka *phare* · [origin](https://x.com/kvncyf_/status/2102154022404722934)</sub>
 - [Grok Build](https://x.ai/bot/Qu3t1-iN-6IbZvwqn-Dqe) — Runs the real Grok Build CLI for apps, code, and deep research at maximum effort on an agent computer — not answers from the chat model alone. <sub>by [Xavier](https://x.com/ixef) (@ixef)</sub>
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — A short morning list of new Grok Bot use cases worth setting up. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093397994263515578)</sub>
 - [GrokBotScout](https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP) — Scouts public listings in batches of seven. <sub>by [Carolina](https://x.com/CarolinaDill) (@CarolinaDill)</sub>
@@ -180,7 +183,9 @@
 - [Newspaper](https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj) — Each morning researches one corner of the world into a single printable broadsheet. <sub>by [Carbon](https://x.com/Carbonthecoder) (@Carbonthecoder) · [origin](https://x.com/Carbonthecoder/status/2098497266482864275)</sub>
 - [Newsroom to Teleprompter](https://x.ai/bot/-SxKtRLmO7QcCk6kN0Jzy) — Builds a four-bot newsroom with two research Friends, an editor Desk, and a fact-checker, then delivers social plus teleprompter copy. <sub>by [Michael](https://x.com/TechDadsLife) · [origin](https://x.com/TechDadsLife/status/2101951098097369416)</sub>
 - [Off-Balance Atlas](https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb) — Writes source-linked deep dives on tech, ML and security. <sub>by [Adem](https://x.com/AdemVessell) (@AdemVessell) · [origin](https://x.com/AdemVessell/status/2093511313158983798)</sub>
+- [Onboard Bot](https://x.ai/bot/DwV395eKDJOWYtjcqVbAb) — First-session guide that asks what you want done and leaves you with something built, not a blank prompt. <sub>by [JORGE](https://x.com/cryptorally) (@cryptorally) · [origin](https://x.com/cryptorally/status/2102456930325103078)</sub>
 - [Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_) — Daily search-engine check for what is newly public about you. <sub>by [Greg](https://x.com/gkamstra) (@gkamstra) · [origin](https://x.com/gkamstra/status/2095837272687964512)</sub>
+- [Open Alternative Scout](https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG) — Scouts rising software and open-source alternative plans. <sub>by [Victor](https://x.com/VictorMotricala) (@VictorMotricala) · [origin](https://x.com/VictorMotricala/status/2102428609621160188)</sub>
 - [Orchestrator](https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo) — Multi-bot trading-day research desk with role cards, handoffs, timeouts, and weekday EOD reviews. <sub>by [R](https://x.com/keepclmcarryong) · [origin](https://x.com/keepclmcarryong/status/2101887744880361700)</sub>
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) — A personal desk for every parcel, receipt and refund you are waiting on. <sub>by [bashful](https://x.com/wafffls) (@wafffls) · [origin](https://x.com/wafffls/status/2095614060070928837)</sub>
 - [OutBid Mania](https://x.ai/bot/Sj_LPMP7hKOOSzF8YDiNr) — Tracks a viral bidding-site trend and its clones on a daily dashboard. <sub>by [Dragos](https://x.com/dragosroua) (@dragosroua) · [origin](https://x.com/dragosroua/status/2093474725976736130)</sub>
@@ -192,7 +197,6 @@
 - [Pattern of Pain](https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo) — Give me a website. I’ll take it from there. I’ll find the pain that actually repeats, show you the evidence, and tell you what to investigate next. <sub>by [Hiten](https://x.com/hnshah) (@hnshah)</sub>
 - [Personal Task Manager](https://x.ai/bot/pNDlYbg6r0ojylvaF-EeN) — A lightweight personal task manager: standing routines for recurring chores, and a habit of asking before acting on anything new. <sub>by [Justin](https://x.com/JBMilliard1983) (@JBMilliard1983)</sub>
 - [Petty Bot](https://x.ai/bot/w-2dyvlWOnr9CAEotczW1) — Keeps score on your follower list and returns every quiet unfollow. <sub>by [zachery](https://x.com/ZryMiller) (@ZryMiller) · [origin](https://x.com/ZryMiller/status/2096351421448982798)</sub>
-- [phare](https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H) — Teaches generative-AI basics from official coursework, then quietly follows up on priorities you named. <sub>by [Kévin](https://x.com/kvncyf_) (@kvncyf_) · [origin](https://x.com/kvncyf_/status/2102154022404722934)</sub>
 - [PickFu Insights](https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn) — Test a product idea on real shoppers before you build it. <sub>by [Justin](https://x.com/GrokBotMoney) (@GrokBotMoney) · [origin](https://x.com/GrokBotMoney/status/2095610465271374178)</sub>
 - [Pitch Deck Coach](https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9) — Tells you what an investor will actually understand and remember. <sub>by [Hiten](https://x.com/hnshah) (@hnshah) · [origin](https://x.com/hnshah/status/2093478735718789453)</sub>
 - [Plugin marketer](https://x.ai/bot/cq1VBt-BdBTe7dR10TdOG) — Practical growth owner for a free desktop audio plugin suite. Drafts directory pitches, feature explainers, and social from a versioned release brief;. <sub>by [Aaron](https://x.com/uncannyzebra) (@uncannyzebra)</sub>
@@ -233,6 +237,7 @@
 - [Scholarship Hunter](https://x.ai/bot/HlrjSGUR11BY978c1GpzC) — Builds a ranked scholarship shortlist with deadlines and a next step. <sub>by [Jodi](https://x.com/WorkWithJodi) (@WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2100709849864499389)</sub>
 - [Scout](https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt) — Builds the weekly intelligence pack behind a client's social strategy, sourced throughout. <sub>by [ZEU$](https://x.com/zeuuss_01) (@zeuuss_01) · [origin](https://x.com/zeuuss_01/status/2094881934442979832)</sub>
 - [Scout](https://x.ai/bot/HzmMgW9tr_6YLKDhPFCr3) — Sports intel desk that reports only what changed since last run with impact and sources. <sub>by [tpick56](https://x.com/tpick56) · [origin](https://x.com/tpick56)</sub>
+- [Scroll](https://x.ai/bot/sX5M7dv2lxhG7V_utytG7) — X Following highlights scout that skims Following and sends short weekday digests. <sub>by [Serg](https://x.com/arouch_serg) (@arouch_serg)</sub>
 - [Segundo Cérebro](https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J) — An Obsidian second brain with a morning brief and a nightly check-in. <sub>by [Allan](https://x.com/liderzio) (@liderzio) · [origin](https://x.com/liderzio/status/2093672211844337867)</sub>
 - [Sentry OPS](https://x.ai/bot/ZFQ35fLdqLdzDyI_TQoGZ) — Sentry digests and production error alerts you can act on. <sub>by [Pinuts](https://x.com/Pinuts_) (@Pinuts_)</sub>
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) — Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.

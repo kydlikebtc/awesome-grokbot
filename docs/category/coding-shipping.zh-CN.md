@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-144 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+149 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -33,16 +33,20 @@
 - [Code Team Spawn](https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X) — 更新版拉队，面试后立一个 Conductor，再加一支隐藏的五人编码小队。 <sub>作者 [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
 - [Code Wrap](https://x.ai/bot/InLF1LwxW0DYkB4sMICGL) — 跨语言包一层或接 API，而不是一口气整仓重写。 <sub>作者 [Dominic](https://x.com/Dominicyoungix) · [出处](https://x.com/Dominicyoungix)</sub>
 - [CodeDR - ExamBot](https://x.ai/bot/qocgykNssAv63yc1kdNnN) — 对 vibe coding 出来的应用跑 CodeDR 考试并出报告。 <sub>作者 [Gavin](https://x.com/codedrai) (@codedrai)</sub>
+- [Codex](https://x.ai/bot/aUHkBXXwCzljCcTJSzBYw) — 薄封装真实 Codex 命令行，在你的电脑上跑编码或深研任务。 <sub>作者 [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian) · [出处](https://x.com/DocLibertarian/status/2102519653868167484)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) — Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 <sub>作者 Vicente (@community)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) — 用 >80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 <sub>作者 [Vicente](https://x.com/v_burgos_) (@v_burgos_)</sub>
+- [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) — 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理。 <sub>作者 [Paulo](https://x.com/pauloglez90) (@pauloglez90) · [出处](https://x.com/pauloglez90/status/2102631623468765633)</sub>
 - [Critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) — 设计评论家，只看你的界面截图，只给意见。 <sub>作者 [Manuel](https://x.com/mamuso) (@mamuso) · [出处](https://x.com/mamuso/status/2093549356364501338)</sub>
 - [Cursor Agent](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) — 在本机跑 cursor-agent 命令行，做实验和现场活。 <sub>作者 [Ryan](https://x.com/ryanthawks) (@ryanthawks) · 社区旧称 *Cursor Agent (Local)* · [出处](https://x.com/ryanthawks/status/2093425622282375169)</sub>
 - [Data Bot](https://x.ai/bot/L2XnvQ2nhHBxgisZ2w-rK) — 把表单导出/电子表格清洗成清晰的指标摘要。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [Dealer](https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu) — 只按 .faf 文件把仓库收成正反两面的技术栈卡片。 <sub>作者 [Wolfe-James](https://x.com/wolfe_jam) (@wolfe_jam) · [出处](https://x.com/wolfe_jam/status/2100444712150671626)</sub>
+- [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) — 把一条 X 帖或其他示例链接做成可点可玩的应用演示。 <sub>作者 [Mike](https://x.com/Cybermike) (@Cybermike)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — 用设计负责人的眼光审 AI 做出来的界面。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2093765735197851709)</sub>
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — 替你搭建其他 Grok Bot。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093392701005946931)</sub>
 - [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) — 帮你逆向恶意软件、固件和漏洞研究用的二进制。 <sub>作者 [Deepbits](https://x.com/drbinaryai) (@drbinaryai)</sub>
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) — 外环工程经理，拆活、交给构建代理、验收并带回凭据，默认只出草稿，不擅自提交合并。 <sub>作者 [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>
+- [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) — 按开发、诊断、部署运转工程环，设计未完成不放行。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) — 守住你指定仓库的合并门槛，只把真正要拍板的问题往上抛。 <sub>作者 [Andre](https://x.com/andreleibovici) (@andreleibovici) · [出处](https://x.com/andreleibovici/status/2095035963978522719)</sub>
 - [Estack](https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D) — 编码管家，开工前先把目标与完成线钉死。 <sub>作者 [Rob](https://x.com/robannand) (@robannand) · [出处](https://x.com/robannand/status/2100393414642557000)</sub>
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — 东西一坏，就把刚发生的改动摊给你看。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383146599301252)</sub>
@@ -67,6 +71,7 @@
 - [Grok Build](https://x.ai/bot/ENDVHWRcL1pcCZAy4whPJ) — Orbital Forge 团队包里的本机 Grok Build 工位，专跑本地构建。 <sub>作者 [Jason](https://x.com/occupymars___) (@occupymars___)</sub>
 - [Grok Build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) — 在代理机上跑真正的 Grok Build CLI，用最大力度做应用、代码与深研。 <sub>作者 [Teslaconomics](https://x.com/Teslaconomics)</sub>
 - [Grok Build](https://x.ai/bot/wnFlIE6YpskdUekfkkwFO) — 在代理电脑上以最大力度跑 Grok Build CLI，做应用、代码与深度研究。 <sub>作者 [Zack](https://x.com/zac70182) (@zac70182) · [出处](https://x.com/zac70182/status/2102181050361237576)</sub>
+- [Grok Build](https://x.ai/bot/-HSQcnXiifDMwXqkgMix9) — 薄封装真实 Grok Build 命令行，做编码、应用、脚本、仓库或深研。 <sub>作者 [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian)</sub>
 - [Grok Code Mac Controller](https://x.ai/bot/ETBwKJvcSacaIyilrAz44) — 通过 tmux 注入在 Mac 上协调 Grok Code Build 编程代理，适合 Mac Mini 或 MacBook，你仍掌方向盘。 <sub>作者 [Damien](https://x.com/damienmurtagh) (@damienmurtagh)</sub>
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) — Bot 那台 Linux 虚拟机的运维搭档：健康、磁盘、服务、软件包。 <sub>作者 [Will](https://x.com/old_pgmrs_will) (@old_pgmrs_will) · [出处](https://x.com/old_pgmrs_will/status/2094360885884322286)</sub>
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) — 为已登记增长实验做产品改动，藏在特性开关后，以小而可审的 PR 交付。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>

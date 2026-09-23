@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-230 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+233 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -155,6 +155,7 @@
 - [Printful Tee Designer by Chris,](https://x.ai/bot/hEyePUj2QtclYLioeTkTw) — Printful-first tee flow from theme to original art to print-ready DTG file after you approve. <sub>[origin](https://x.com/GrokVeinKeeper)</sub>
 - [Producer](https://x.ai/bot/f2IQR96u1xM-hzMpW7sg2) — Producer seat that moves podcast episodes from idea to publish. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [Product](https://x.ai/bot/3P03grqfP1E5PjeOSW-xO) — Product judgment for indie apps - what to ship next, what not to build, and whether a change is a real user problem. Writes ranked ship-now specs; never. <sub>by [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>
+- [Product Loop PM](https://x.ai/bot/eb1UwzjTfdNsYRfUh599j) — Runs Discover to Define to Design for Launch and keeps STATUS in sync. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) — A lab-coat agent-maker. Invents memorable names, writes full job descriptions, and gives every new agent a matching mascot face. Curious, a little. <sub>by [Kiara](https://x.com/kiaraplds) (@kiaraplds)</sub>
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) — Answers one product problem with three distinct working prototypes. <sub>by [santos](https://x.com/5antoshernandez) (@5antoshernandez) · [origin](https://x.com/5antoshernandez/status/2097118731042492739)</sub>
 - [Prototype Designer](https://x.ai/bot/_b0wyYKwherAZJdyL0HGG) — Builds prototypes at the right fidelity and a spec your AI coder can read. <sub>by [UCDOps](https://x.com/ucdops) · [origin](https://x.com/ucdops/status/2096314150024581166)</sub>
@@ -177,6 +178,7 @@
 - [Search](https://x.ai/bot/ZJJFvBg5t3MsYoD5s-VvM) — You are Search, grokbot.studio door + installer. You were added from a share link, so you are the BUYER copy. You are not the Hexakin source bot. On. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [Sentinel](https://x.ai/bot/uO5NbCQrgt1dtYKeklsj1) — Reputation defense and social-proof extraction across browser review surfaces. Scans for new reviews, drafts on-brand replies for your approval,. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [SERP Watch Team](https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ) — Tracks brand visibility in search rankings and in AI answers, with a write-next digest. <sub>by [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [origin](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
+- [ShareNow Bot](https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o) — Turns a topic or draft into a published static page on an external host, with optional hourly topic boards. <sub>by [Sheing](https://x.com/sashimikun_void) (@sashimikun_void) · [origin](https://x.com/sashimikun_void/status/2102509720951021672)</sub>
 - [Sharenow Feed Bot](https://x.ai/bot/oMU6GmI59Z1jtPUooMLLJ) — Watches five social platforms hourly and publishes a live board. <sub>by [Sheing](https://x.com/sharenow_today) (@sharenow_today) · [origin](https://x.com/sharenow_today/status/2093472078741615000)</sub>
 - [Sharpie](https://x.ai/bot/4ocmp-awK0AcgHSgtKxZm) — Turns messy operator notes into a one-page memo a PE partner or EVP can act on in about 90 seconds. Draft-only Operator Memo Writer — not a strategist,. <sub>by [Ben](https://x.com/Runningbear) (@Runningbear)</sub>
 - [ShopFront](https://x.ai/bot/L6N9ujxhoOOugsju42J9S) — ShopFront builds a simple one-page website from a short questionnaire. You fill in the business name, what you do, city, phone, and three services. <sub>by [tyler](https://x.com/BotTemplatesWa) (@tyler patrick)</sub>
@@ -199,6 +201,7 @@
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — Art studio assistant for scheduling, outreach, and captions. <sub>by [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
 - [Synthesizer](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) — Turns complex material into clear maps and how-you-serve articulations for invitations. <sub>by [Ben](https://x.com/BinLeenk) (@Ben Link) · [origin](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [Taller](https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp) — Drop design links into a markdown reference library, then ask it what to reuse later. <sub>by [Franco](https://x.com/FrancoE114696) (@Fran Escob) · [origin](https://x.com/FrancoE114696/status/2099646811992424632)</sub>
+- [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) — Designs high-quality Grok Bots with a faithful Japanese writing bar for people-facing copy. <sub>by [Kamone](https://x.com/knge_rstc) (@knge_rstc) · [origin](https://x.com/knge_rstc/status/2102607543856226457)</sub>
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) — Cleans up writing you already have into one send-ready version. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — Film-unit director that turns a short brief into a shot list with lenses and T-stops. <sub>by [Ben](https://x.com/ben_pedley) · [origin](https://x.com/ben_pedley)</sub>
 - [Toolsmith](https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC) — Forges small reusable scripts and Chrome-free copy packs so listing and automation stay fast and accurate. Prefer a skill over a new bot; after a path. <sub>by [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [origin](https://x.com/ZyeAnd1/status/2099987803228754118)</sub>

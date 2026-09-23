@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-164 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+168 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -34,6 +34,7 @@
 - [Business ops](https://x.ai/bot/nFEJD59IJA5604hO9vqym) — One entry point for every part of running the shop, delegating where it helps. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2098713517121544195)</sub>
 - [Callsheet](https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ) — Reads other bots runs.json on the shared computer and stays read-only unless you approve edits. <sub>by [DBCrypto](https://x.com/DBCrypt0) (@DBCrypt0)</sub>
 - [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) — Reads your CV, then ranks openings by how closely they really fit. <sub>by [Hojjat](https://x.com/jakesh_jakesh) (@jakesh_jakesh) · [origin](https://x.com/jakesh_jakesh/status/2096823313591156952)</sub>
+- [Carson](https://x.ai/bot/v-anNtCSU16DhOT6XDOpn) — Deploys a starter crew of household life-admin assistants in one step so errands and follow-ups stop eating the week. <sub>[origin](https://x.com/aarwen7/status/2102541925110923386)</sub>
 - [CEO](https://x.ai/bot/GHLPyes3hiP9A6kES7UHg) — A virtual CEO that sets the agenda and directs your other bots. <sub>by [Ashish](https://x.com/inqusit) (@inqusit) · [origin](https://x.com/inqusit/status/2093510161524810062)</sub>
 - [CEO](https://x.ai/bot/Vlzom6onM0PDv97G7E4dW) — Cash-first company CEO seat for a Grok Bot organization. <sub>by [Prize](https://x.com/Updownupupright) (@Updownupupright) · [origin](https://x.com/Updownupupright/status/2100717659222327754)</sub>
 - [Chieeeeefy](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) — Chief of staff for a field engineer, calendar and work inbox first. <sub>by [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · aka *Chieeeeefy (Chief of Staff)* · [origin](https://x.com/naoufal_elh/status/2093393130447921346)</sub>
@@ -90,8 +91,10 @@
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) — You are Hiring Floor, grokbot.studio door + installer. JOB: be the Hiring Floor door - stand up BOT-168-170 from the API cards, then route live. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) — Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the.
 - [House Cat](https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg) — A deliberate piece of fun with a single function: from time to time it offers the other assistants in your fleet some encouragement, and beyond that it does…. <sub>by [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · [origin](https://x.com/ignota_regalis/status/2100363326643691712)</sub>
+- [House Cleaner](https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT) — One-click fat-fleet refresh that explains token burn and writes thin memory on disk. <sub>by [sza](https://x.com/aba_taba) (@aba_taba) · [origin](https://x.com/aba_taba/status/2102516788688719939)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — Daily handful of early-stage jobs the big boards miss. <sub>by [Ben](https://x.com/deysourav7091) (@deysourav7091) · [origin](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — An engagement PM that slices sold work into tickets and drives it. <sub>by [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [origin](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
+- [Kilo](https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm) — Trims heavyweight Grok Bot setups by measuring context bloat, rebuilding offenders after approval, and naming weekly candidates. <sub>by [Terry](https://x.com/Tchap248) (@Tchap248) · [origin](https://x.com/Tchap248/status/2102471859413348698)</sub>
 - [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) — Turns a one-line app idea into a ready-to-paste Grok Build prompt. <sub>by [Phantom](https://x.com/FantomBuildz) (@FantomBuildz) · [origin](https://x.com/FantomBuildz/status/2098199032237547648)</sub>
 - [KirBot](https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h) — Merges two overlapping bots into one, then walks you through retiring the spare. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2097865550592417976)</sub>
 - [Kirk](https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl) — Install Kirk, type START, and a bridge crew of specialist bots appears. <sub>by [Mr](https://x.com/The_Mr_Wizard) (@The_Mr_Wizard) · aka *Kirk (Enterprise Crew)* · [origin](https://x.com/The_Mr_Wizard/status/2093442495447191944)</sub>
@@ -110,6 +113,7 @@
 - [Mercury](https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L) — A standing tech lead that holds the system picture and delegates the coding out. <sub>by [Mujeeb](https://x.com/chiefjeeb) (@chiefjeeb) · [origin](https://x.com/chiefjeeb/status/2094223658151502326)</sub>
 - [Meta Grok](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — A weekday roundup of the five Grok bots people are actually talking about. <sub>by [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
 - [Nomad](https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3) — Keeps a running register of your agents so the stack is never locked in. <sub>by [Pedro](https://x.com/PedroAnibarro) (@PedroAnibarro) · [origin](https://x.com/PedroAnibarro/status/2095095116142666116)</sub>
+- [Norm](https://x.ai/bot/afzAN696RpFOIs-9uRTHo) — Normalizes names and skills across your Grok Bots with a locked map first; soft skill suggestions only, never invents bots. <sub>by [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL) · [origin](https://x.com/CodeSolutionsIL/status/2102556845571252276)</sub>
 - [Ops Gerente — mesa de entrada](https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS) — Logistics intake desk that routes work, uses Google Calendar as source of truth, and runs next-day trip QC. <sub>by [Nicolás](https://x.com/ntaschetti) · [origin](https://x.com/ntaschetti)</sub>
 - [Optima](https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy) — Clears obsolete rules and instructions still stuck in your other bots' memory. <sub>by [TOATspace by gemini](https://x.com/TOATspace) (@TOATspace) · [origin](https://x.com/TOATspace/status/2098378374905565625)</sub>
 - [OS: Ontology Stack](https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD) — Operational ontology of your org that finds bottlenecks across projects, people, and processes. <sub>by [Damiano](https://x.com/damianoredem) · [origin](https://x.com/damianoredem)</sub>
