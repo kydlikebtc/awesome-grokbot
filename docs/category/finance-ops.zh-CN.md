@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-137 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+138 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -81,6 +81,7 @@
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — 记分板，跟踪 Kalshi 与 Polly 两侧机器人，让对赌竞赛可核验。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — 查澳大利亚公司档案，并帮你接上 Milypay。 <sub>作者 [sal](https://x.com/1Milysec) (@1Milysec) · [出处](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 <sub>作者 [Michael](https://x.com/mbhound) · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) — 先摸清你的财务现状，再给储蓄投资与还债计划，不说教。 <sub>[出处](https://x.com/Brbaumhoff/status/2102810440904634508)</sub>
 - [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) — 协助 Oracle Fusion Cloud 应付账款，查财务 REST API，创建并核对应付单据。 <sub>作者 [Shiv](https://x.com/__KumR__) (@__KumR__)</sub>
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) — 还债教练，先看账单，银行操作要你点头才开。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) — 业主经营者的主界面，保护专注，把活分给专家，决策时才打断你。 <sub>作者 [Allan](https://x.com/allantsivils) (@allantsivils)</sub>

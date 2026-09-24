@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-137 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+138 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -81,6 +81,7 @@
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — Scoreboard that tracks Kalshi versus Polly bots and keeps the betting contest honest. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — Looks up Australian company records and helps you wire up Milypay. <sub>by [sal](https://x.com/1Milysec) (@1Milysec) · [origin](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities. <sub>by [Michael](https://x.com/mbhound) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) — Saving and investing coach that learns your situation first, then builds a plan without lecture vibes. <sub>[origin](https://x.com/Brbaumhoff/status/2102810440904634508)</sub>
 - [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) — Helps with Oracle Fusion Cloud Payables: look up Financials REST APIs (FARFA), create and validate supplier invoices, and walk invoice workflows against. <sub>by [Shiv](https://x.com/__KumR__) (@__KumR__)</sub>
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) — Pay-it-down coach that starts from statements and opens the bank only after you say yes. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) — Primary interface for an owner-operator: protect focus, route work to specialists, keep personal and business cash separate, and run weekday digests so. <sub>by [Allan](https://x.com/allantsivils) (@allantsivils)</sub>

@@ -2,11 +2,12 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-312 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+315 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
 - [2nd Brain](https://x.ai/bot/c4fYduVVic2YtbcjXquD0) — Distils everything you read into a linked wiki that answers your questions. <sub>by [Thierry](https://x.com/LeTerryBZH) (@LeTerryBZH) · [origin](https://x.com/LeTerryBZH/status/2094616823803314592)</sub>
+- [A1 Charity](https://x.ai/bot/SRFGtB_-g8py4h4ijbdF2) — Helps pick where to give money or time with short intake, quality research, and a clear recommendation. <sub>by [Kenton](https://x.com/Thebossdj77) (@Thebossdj77) · [origin](https://x.com/Thebossdj77/status/2102889711102751045)</sub>
 - [Account Research Desk](https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss) — Researches the companies you sell to and writes your pre-call brief and account plan. Works from the public web and the notes you paste, and never sends.
 - [Ad Spend Watch](https://x.ai/bot/MK5zStpj_As8CsRwg3r6w) — Watches your ad spend and performance and flags what's breaking before it burns budget. Works from a pasted export, and never pauses a campaign without.
 - [Adam](https://x.ai/bot/ljkUXjCmdkW4XJHWRJxFn) — Searches NRC ADAMS filings and delivers weekday briefings plus US nuclear fleet operating share. <sub>by [Steffan](https://x.com/UnoMasReactor) · [origin](https://x.com/UnoMasReactor)</sub>
@@ -16,6 +17,7 @@
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) — Asks four rival AI models at once and merges what comes back. <sub>by [Leonardo](https://x.com/leoclark) (@leoclark) · [origin](https://x.com/leoclark/status/2096554844593222029)</sub>
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) — Sweeps papers, code, lectures and forums into one reading stack. <sub>by [Alen](https://x.com/beamnxw) · [origin](https://x.com/beamnxw/status/2093456831481885041)</sub>
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) — An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors. <sub>by [Miguel](https://x.com/seoforgpt)</sub>
+- [AI 资讯精选](https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs) — Weekday Chinese AI product and tools digest in short human notes; stays quiet when sources are thin. <sub>by [Mai](https://x.com/MaiYangAI) (@MaiYangAI) · [origin](https://x.com/MaiYangAI/status/2102925213621264465)</sub>
 - [Alexandria](https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk) — Librarian that briefs a book from public sources then mints a one-book Bot only after you say yes. <sub>by [Joe](https://x.com/CardCaptain) · [origin](https://x.com/CardCaptain)</sub>
 - [All Things Elon Bot](https://x.ai/bot/Oh5wReDUbpNIumkdziM3a) — All-things Elon Musk feed that keeps posts and news in one place. <sub>by [Scott](https://x.com/lamps109) (@lamps109)</sub>
 - [Alley Cat](https://x.ai/bot/n-X18PmOiYk-virax9DCD) — Finds high-signal tools and freebies worth keeping. <sub>by [Ignota](https://x.com/ignota_regalis) (@ignota_regalis)</sub>
@@ -306,6 +308,7 @@
 - [WhatsApp Digest](https://x.ai/bot/k8sSgsXHhRTEZi9Sqt_J-) — A daily summary of your busiest WhatsApp groups, without opening them. <sub>by [Petrus](https://x.com/PetrusJvR) (@PetrusJvR) · [origin](https://x.com/PetrusJvR/status/2094114763982701049)</sub>
 - [WhatsApp Grok Bot Companion](https://x.ai/bot/_9qWVpQ2IkmogpleJaIWm) — A WhatsApp companion that monitors chats you choose and replies with voice notes on your behalf. Link WhatsApp via QR, set reply rules, use Grok voice. <sub>by [Diego](https://x.com/dorofino) (@dorofino)</sub>
 - [When It Matters](https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8) — Give me something you keep checking. I’ll figure out what would actually change the answer, keep watch, and message you when it matters. Don’t know. <sub>by [Hiten](https://x.com/hnshah) (@hnshah)</sub>
+- [Wirey](https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp) — Owns a daily AI Hard News briefing for the last day of high-signal AI tech and policy events. <sub>by Farzad · [origin](https://x.com/farzyness/status/2102593251362677139)</sub>
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) — Learns what you pay attention to from your own posts, then watches that beat. <sub>by [Daniel](https://x.com/daniel_mac8) · [origin](https://x.com/daniel_mac8/status/2093401980987425103)</sub>
 - [X Video Puller](https://x.ai/bot/2b-nu4HSnMh_x4ptop82S) — Hourly X video dropper that learns your taste on import, then sends matching timeline clips with rerun-if-seen filtering. <sub>by [Skyler](https://x.com/blondetwink220) · [origin](https://x.com/blondetwink220/status/2101994427744940286)</sub>
 - [Yahoo Pulse](https://x.ai/bot/5nnJJwVjO4EwThIaaaynu) — A read-only daily brief on the tickers you follow, with charts and news. <sub>by [Thomas](https://x.com/Tferriere) (@Tferriere) · [origin](https://x.com/Tferriere/status/2096101032355061902)</sub>

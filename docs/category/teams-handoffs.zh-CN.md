@@ -72,7 +72,6 @@
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) — 搭好一套公开团队编制，缺席位要等你点头才创建。 <sub>作者 [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — 访谈你的新生意，再写成运营文件。 <sub>作者 [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [出处](https://x.com/gtOSnz/status/2093633012722512228)</sub>
 - [freebots.lol](https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4) — 把你的 Bot 登记进公开网格，给它一把钥匙和一页。 <sub>作者 [Daniel](https://x.com/Daniel_Farinax) (@Daniel_Farinax) · [出处](https://x.com/Daniel_Farinax/status/2093592700587331679)</sub>
-- [Frodo](https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H) — 舰队密钥填报经纪人，同伴请它代填登录凭据。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL) · [出处](https://x.com/CodeSolutionsIL/status/2100733017673327049)</sub>
 - [Funhouse](https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5) — 给 Grok Bot 应用换主题、宠物和叠层。 <sub>作者 [Adem](https://x.com/AdemVessell) (@AdemVessell) · [出处](https://x.com/AdemVessell/status/2093869927753224689)</sub>
 - [Gatekeeper](https://x.ai/bot/T5FSfM91XA6gMgh2rX56K) — 在你答应新事先，摊开你得放下什么。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383132137279825)</sub>
 - [Gonzalo's SMB manager](https://x.ai/bot/G0GVoN9xUbXFucwWz539v) — 把客户赢回来、把明天排满，每一步都要老板点头。 <sub>作者 [Josh](https://x.com/joshkim) (@joshkim) · [出处](https://x.com/joshkim/status/2093579852955975761)</sub>
@@ -106,6 +105,7 @@
 - [LevelUpWorld Zero→Company](https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L) — 给整支机器人舰队加上可说可听的语音层。 <sub>作者 [Mark](https://x.com/LevelUpAIDIS) (@LevelUpAIDIS) · [出处](https://x.com/LevelUpAIDIS/status/2100697119690486060)</sub>
 - [Life](https://x.ai/bot/6I-yjMRU1BmiYNfZgWXBK) — 私人事务的常驻收件箱，需要时再拉出对应 Bot。 <sub>作者 [Tyler](https://x.com/TylerNishida) · [出处](https://x.com/TylerNishida/status/2093426221732532457)</sub>
 - [Lingxi's Engineer Bot](https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j) — 放手型的工程负责人：拉起云编码代理，一路把你的 PR 推下去。 <sub>作者 [Lingxi](https://x.com/lingxi) · [出处](https://x.com/lingxi/status/2094489411245461677)</sub>
+- [Lockbox](https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H) — 舰队密钥填报经纪人，同伴请它代填登录凭据。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL) · 社区旧称 *Frodo* · [出处](https://x.com/CodeSolutionsIL/status/2100733017673327049)</sub>
 - [Lockdown](https://x.ai/bot/P1LmE76VG38Ui-XCmzAZE) — 工作日 SOC 2 看门狗，出事才开口。 <sub>作者 [Claire](https://x.com/clairevo) (@clairevo) · [出处](https://x.com/clairevo/status/2093496609955021275)</sub>
 - [MadMax Mode](https://x.ai/bot/pTe8gpPc_5SuwKkEszn18) — 按紧的 brief 给你发明新 Bot，并把每份活归到该去的位置。 <sub>作者 [Joseph](https://x.com/JoePro) (@JoePro) · [出处](https://x.com/JoePro/status/2094879004083765674)</sub>
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — 精简调度员，把每件事派给对的专长，自己从不动手。 <sub>作者 [Farzad](https://x.com/farzyness) · [出处](https://x.com/farzyness/status/2093384064363377099)</sub>

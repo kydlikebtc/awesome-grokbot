@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-137 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+139 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -47,6 +47,7 @@
 - [Draft Seller](https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh) — Seller desk for marketplace listings, messages, and fulfillment. <sub>by [Dode](https://x.com/dode)</sub>
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Builds the deck after a customer call, from what was actually said. <sub>by [Krista](https://x.com/kristaletz) · [origin](https://x.com/kristaletz/status/2093494509682217308)</sub>
 - [Event Producer](https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB) — Turns your event details into a run of show, guest list, and day-of checklist. Tracks vendors, guests, dietary needs, and travel, and never sends a.
+- [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) — Personal relationship memory for who people are, how you know them, and what you owe them next. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2102753770858045523)</sub>
 - [for](https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT) — A sharp build lead for multi-agent projects. Assigns roles, stitches drop-in pieces into one site, and gets you a working preview. <sub>by [Abdulloh](https://x.com/Abdulloh_E_B) (@Abdulloh_E_B)</sub>
 - [Founder Chief of Staff](https://x.ai/bot/sg6IWeAYYNefTAT-O5K_W) — Runs site ops, local SEO content, and staff bots for a solo founder so they can stay on the product. Publishes on a schedule, watches the funnel, and. <sub>by [Joel](https://x.com/Masterxexe1) (@Masterxexe1)</sub>
 - [Founder Growth Pilot](https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ) — Finds targets and drafts personal notes; never sends without you. <sub>by [Guy](https://x.com/guysuter) (@guysuter)</sub>
@@ -130,6 +131,7 @@
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public.
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) — Writes the bug report you paste into the right support form. <sub>by [Fine_Computer_4451](https://x.com/Fine_4451) (@Fine_4451) · [origin](https://x.com/Fine_4451/status/2096010664636506121)</sub>
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) — Own persuasive communication training — writing and talking that gets into people’s heads. Rude, sharp coach. Not a friend. Not a soft writing buddy. ##. <sub>by [Michal](https://x.com/mpalczew) (@mpalczew)</sub>
+- [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) — Revives quiet sales leads with warm CRM SMS, a Slack veto window, then auto-send if nobody blocks. <sub>by Roberto · [origin](https://x.com/robertodjg/status/2102589053950431365)</sub>
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) — A Stripe billing assistant that tracks live MRR and subscriptions, and sends a weekday morning digest of new customers and cancels with how long they. <sub>by [Erencan](https://x.com/appeeky) (@appeeky)</sub>
 - [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) — Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots. <sub>by [Nicholas](https://x.com/PmpProduct)</sub>
 - [Sue — Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) — French X comment support that clarifies without attacking, adds a sourced fact, then a link. <sub>by [Steve](https://x.com/LArchitecteuh) (@LArchitecteuh)</sub>

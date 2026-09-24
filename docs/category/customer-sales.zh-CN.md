@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-137 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+139 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -47,6 +47,7 @@
 - [Draft Seller](https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh) — 电商卖家台，管刊登、消息与履约。 <sub>作者 [Dode](https://x.com/dode)</sub>
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 客户通话结束后，按实际说过的话做演示文稿。 <sub>作者 [Krista](https://x.com/kristaletz) · [出处](https://x.com/kristaletz/status/2093494509682217308)</sub>
 - [Event Producer](https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB) — 把活动细节收成流程单、宾客名单与当天清单，跟踪供应商与餐饮旅行，不擅自发邀。
+- [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) — 私人关系记忆，记清是谁、怎么认识、下次该跟进什么。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2102753770858045523)</sub>
 - [for](https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT) — 多代理项目的锋利建造负责人，分配角色，把可插入零件缝成一个站点，并给你可运行预览。 <sub>作者 [Abdulloh](https://x.com/Abdulloh_E_B) (@Abdulloh_E_B)</sub>
 - [Founder Chief of Staff](https://x.ai/bot/sg6IWeAYYNefTAT-O5K_W) — 为独立创始人跑站点运营、本地 SEO 内容与员工机器人，好腾出深度时间。 <sub>作者 [Joel](https://x.com/Masterxexe1) (@Masterxexe1)</sub>
 - [Founder Growth Pilot](https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ) — 找目标并起草私人短信；未经你同意绝不发送。 <sub>作者 [Guy](https://x.com/guysuter) (@guysuter)</sub>
@@ -130,6 +131,7 @@
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) — 按渠道整理故障报告，写好后由你贴进正确的支持表单。 <sub>作者 [Fine_Computer_4451](https://x.com/Fine_4451) (@Fine_4451) · [出处](https://x.com/Fine_4451/status/2096010664636506121)</sub>
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) — 掌管有说服力的沟通训练，让写作与谈话真正进到人脑子里，粗鲁锋利不当软写作伴。 <sub>作者 [Michal](https://x.com/mpalczew) (@mpalczew)</sub>
+- [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) — 把沉默线索捞回CRM，先发温和短信，Slack留否决窗，无人拦截再自动发出。 <sub>作者 Roberto · [出处](https://x.com/robertodjg/status/2102589053950431365)</sub>
 - [Stripe Expert](https://x.ai/bot/Eq82ekPGgwFeIEM5BuzCW) — 盯着 Stripe 实时 MRR 与订阅，工作日早上汇总新客与退订及他们待了多久。 <sub>作者 [Erencan](https://x.com/appeeky) (@appeeky)</sub>
 - [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) — 为产品摄影工作室跑专家机器人群，编码 PR、CRM 跟进与拍摄日程。 <sub>作者 [Nicholas](https://x.com/PmpProduct)</sub>
 - [Sue — Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) — 用法语在 X 评论区冷静澄清，补一条有来源的事实再附链接。 <sub>作者 [Steve](https://x.com/LArchitecteuh) (@LArchitecteuh)</sub>

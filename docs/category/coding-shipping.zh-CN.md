@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-149 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+151 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -27,6 +27,7 @@
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — 在美国比价时把运费与优惠券算进去，找真正最低到手价。 <sub>作者 [Joel](https://x.com/MortMatters) · [出处](https://x.com/MortMatters/status/2100784159924924604)</sub>
 - [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) — 小企业幕僚长，在增长、编辑与工程等专家机器人之间分派工作并保持连接器车道干净。 <sub>作者 [EdibleAnus](https://x.com/TheEdibleAnus) · [出处](https://x.com/TheEdibleAnus/status/2100872166199660876)</sub>
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — 专职编码代理，所有软件活都丢给 Claude Code CLI 跑。 <sub>作者 [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
+- [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库。 <sub>作者 [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [出处](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 <sub>作者 [Farzad](https://x.com/farzyness) (@farzyness) · [出处](https://x.com/farzyness/status/2094240859243913669)</sub>
 - [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) — 只停你自己的系统，先演练再确认的紧急急停开关。 <sub>作者 [Knock](https://x.com/SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2094970870871585096)</sub>
 - [Code Team Spawn](https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3) — 平时闲着，你要编码团队时才面试并拉起一支隐藏的五人小队。 <sub>作者 [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
@@ -151,6 +152,7 @@
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) — 把 WhatsApp Web 上重复的活录成能回放的脚本。 <sub>作者 [Alexandre](https://x.com/alexhawat) (@alexhawat)</sub>
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — 把杂乱的 $cashtag 堆整理成独立的股票/ETF/代币化/永续席位。 <sub>作者 [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — 帮发帖的人判断该引用、发新帖还是先等等，结合公开 For You 规则与实时帖子数据。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp)</sub>
+- [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) — 每天早上看苹果开发者发布页，指定 Xcode 版本一出就提醒。 <sub>作者 Natasha · [出处](https://x.com/NatashaTheRobot/status/2102575579308667011)</sub>
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) — 把工程草图变成高质量出版物。 <sub>作者 [Skyler](https://x.com/kittenworth) (@kittenworth) · [出处](https://x.com/kittenworth/status/2100369305216913562)</sub>
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) — 在 Apple Silicon 上用 yue2-mlx 生成歌曲（非商业）。 <sub>作者 [Eugene](https://x.com/monomyth) (@monomyth) · [出处](https://x.com/monomyth/status/2100350198220501262)</sub>
 - [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) — 清扫 Zoho Mail 未读；标记垃圾/冷推销；删除/回复。 <sub>作者 [Aseem](https://x.com/aseemwangoo) (@aseemwangoo)</sub>

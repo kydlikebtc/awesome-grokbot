@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-149 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+151 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -27,6 +27,7 @@
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — Finds the lowest all-in US price for a product with shipping and coupons counted. <sub>by [Joel](https://x.com/MortMatters) · [origin](https://x.com/MortMatters/status/2100784159924924604)</sub>
 - [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) — Small-business chief of staff that routes work across specialist bots for GTM, editorial, and engineering while keeping connector lanes clean. <sub>by [EdibleAnus](https://x.com/TheEdibleAnus) · [origin](https://x.com/TheEdibleAnus/status/2100872166199660876)</sub>
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — A dedicated coding agent that runs all software work through the Claude Code CLI. <sub>by [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
+- [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — Routes coding asks through Claude Code on your Mac for one GitHub repo via Remote Control setup. <sub>by [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [origin](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. <sub>by [Farzad](https://x.com/farzyness) (@farzyness) · [origin](https://x.com/farzyness/status/2094240859243913669)</sub>
 - [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) — A rehearsed emergency stop for systems you own, gated behind your own confirmation. <sub>by [Knock](https://x.com/SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2094970870871585096)</sub>
 - [Code Team Spawn](https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3) — Sits idle until you need a coding team, then interviews and spawns a hidden five-person crew. <sub>by [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
@@ -151,6 +152,7 @@
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) — Turns repeat WhatsApp Web chores into scripts you can replay. <sub>by [Alexandre](https://x.com/alexhawat) (@alexhawat)</sub>
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — Turns messy $cashtag dumps into distinct equity/ETF/tokenized/perp seats. <sub>by [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>
+- [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) — Checks Apple Developer Releases each morning and alerts when a named Xcode version ships. <sub>by Natasha · [origin](https://x.com/NatashaTheRobot/status/2102575579308667011)</sub>
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) — Treats a technical sketch as a piece bound for readers rather than one ticket among many, taking a rough engineering drawing and refining it until it holds up…. <sub>by [Skyler](https://x.com/kittenworth) (@kittenworth) · [origin](https://x.com/kittenworth/status/2100369305216913562)</sub>
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) — Produces a complete track from a style note and a set of words, running the music model on your own Apple-silicon hardware instead of in somebody else's…. <sub>by [Eugene](https://x.com/monomyth) (@monomyth) · [origin](https://x.com/monomyth/status/2100350198220501262)</sub>
 - [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) — Zoho Mail unread sweep; flags spam/cold pitches; delete/reply. <sub>by [Aseem](https://x.com/aseemwangoo) (@aseemwangoo)</sub>

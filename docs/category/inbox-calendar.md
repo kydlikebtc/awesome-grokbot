@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-184 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+187 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -48,9 +48,11 @@
 - [Chief of Staff](https://x.ai/bot/WMLSz9eCswzYR8nPmmxsJ) — Coordinating desk for remodeling contractors that sorts weekday mail and calendar, drafts Square invoices, and waits for approval. <sub>by [Amine](https://x.com/a_zaari) (@a_zaari) · [origin](https://x.com/a_zaari/status/2102530733579374811)</sub>
 - [Chief of Staff Desk](https://x.ai/bot/kcmEmRS4Z5YmFr_KRwSFL) — Chief of Staff for a spend-controlled multi-bot shop. Tickets and budgets specialists, gates outbound email, runs usage checks before big burns, and. <sub>by [James](https://x.com/JamesBottom) (@JamesBottom)</sub>
 - [Chief of Staff Hub](https://x.ai/bot/8m_coI7VfLJXAQuB6DsOd) — A brief, proactive hub that coordinates specialist agents, watches email and calendar, and keeps family/work logistics moving without fluff. <sub>by [Sebastian](https://x.com/SebastianNJ) (@SebastianNJ)</sub>
+- [Chuck](https://x.ai/bot/CqQQXo05k79ukSLCubxfj) — Unsubscribes from promotional email so the inbox mostly keeps personal mail and real work. <sub>by [Veetharag](https://x.com/veetharag) · [origin](https://x.com/veetharag/status/2102739508089553336)</sub>
 - [Client Board Ops](https://x.ai/bot/dCnuQGIkcRywkol7dlBpr) — Weekday client-board automation: sync Trello to a tasks sheet each morning, email a status digest, and check the inbox for replies that create or update. <sub>by [Gil](https://x.com/MrGonzo1024) (@MrGonzo1024)</sub>
 - [Commitments](https://x.ai/bot/rFShmowW_3x_qeXQQB-sn) — Catches promises in Slack, Notion, and email, then keeps Notion rows open until done. <sub>by [Sam](https://x.com/samlambert) (@Sam Lambert) · [origin](https://x.com/samlambert/status/2099584402045210992)</sub>
 - [Communications Desk](https://x.ai/bot/N-Kgs41b2Lf9vVCkgsTHp) — A multi-inbox communications desk for educators and operators. Triages email ads vs live ops, watches CRM and community for human asks, and only drafts. <sub>by [Mitch](https://x.com/mitchanelson) (@mitchanelson)</sub>
+- [Content Calendar](https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO) — Owns the cross-channel posting calendar only: slots, multi-day arcs, conflicts, and one post at a time. <sub>by [ladybarrelmaker](https://x.com/ladybarrelmaker) · [origin](https://x.com/ladybarrelmaker/status/2102764678791495692)</sub>
 - [Copy](https://x.ai/bot/v3cu4BQauoUaTcbJ6m_7C) — Edits and rewrites drafts, emails, and pages so they sound like a person wrote them. Keeps your voice, shows every change and why, and never invents a. <sub>by [Jenny](https://x.com/Crypto8675309) (@Crypto8675309)</sub>
 - [Copy Humanizer](https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB) — Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact.
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) — Chief of Staff life OS for a non-coder Ultra user. Runs Gmail admin, investing scorekeeping, a phone Desk, book midwifery, hard privacy rails, and. <sub>by [mark](https://x.com/Malthusatraz) (@Malthusatraz)</sub>
@@ -107,6 +109,7 @@
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — An inbox-zero bot across every inbox you actually use. <sub>by [Matthew](https://x.com/matt_silberman) · [origin](https://x.com/matt_silberman/status/2093378871403933751)</sub>
 - [Inbox](https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH) — Weekday GTD triage for an Obsidian inbox that clarifies overnight captures into actions, waiting-fors, and calendar. <sub>by [Coconut](https://x.com/Genseb7) (@Genseb7) · [origin](https://x.com/Genseb7/status/2102187055404982593)</sub>
 - [Inbox Zero](https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98) — Keeps Gmail at zero by filing the noise every weekday. <sub>by [LD](https://x.com/zapnocode) · [origin](https://x.com/zapnocode/status/2093493728660865073)</sub>
+- [Independent Author Hub](https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8) — Ops hub for indie authors coordinating site, newsletter, marketing calendar, and reader-lifecycle bots. <sub>by [ladybarrelmaker](https://x.com/ladybarrelmaker) · [origin](https://x.com/ladybarrelmaker/status/2102763758418600166)</sub>
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) — Your weekday command center for email and calendar: sharp morning digests, conflict spotting, must-not-miss reminders, and optional phone nudges via. <sub>by [sandra](https://x.com/spmtoscana) (@spmtoscana)</sub>
 - [Jess](https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN) — Recaps email, calendar, Notion and Slack before you open any of them. <sub>by [Logan](https://x.com/LoganARobison) · [origin](https://x.com/LoganARobison/status/2093380304891167113)</sub>
 - [Jobby](https://x.ai/bot/DYg0r1xvzy_xxPeRGHcHE) — Watches job listings for chosen roles and emails only new matches. <sub>by [Vijay](https://x.com/ixdesigner) (@ixdesigner)</sub>

@@ -27,7 +27,6 @@
 - [Atlas — Chief of Staff](https://x.ai/bot/IM85IkIwRCySw0epewBpX) — 独立作者的幕僚长，兼顾写作与发行。 <sub>作者 [Natalie](https://x.com/HushWritings) (@HushWritings)</sub>
 - [AvatarMaker](https://x.ai/bot/EfBhh8nwpuGD0XNfl0eBI) — 给个人资料和品牌生成头像，并反复改到满意。 <sub>作者 [Andrew](https://x.com/Andrew51786) (@Andrew51786) · [出处](https://x.com/Andrew51786)</sub>
 - [B](https://x.ai/bot/Wj3E3oow1J4gjwK4E2vNy) — 出版搭档 B，帮 Jack Richards 收尾 Modern day Off Grid 与 Living Freer，含手稿清理与前后事务。
-- [Babel Fish](https://x.ai/bot/UcazP9A_LRigoW9b06QRo) — 白话摘要编辑，把难啃材料改写成多数人能看懂的版本。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) · [出处](https://x.com/CodeSolutionsIL)</sub>
 - [Best Video Editor](https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI) — 按你的素材规划整段剪辑，交出可审的成片。 <sub>作者 [X](https://x.com/XFreeze) (@XFreeze) · [出处](https://x.com/XFreeze/status/2093442263200235974)</sub>
 - [Bid Desk Bot](https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs) — 帮一人物流创业公司规模化找合同，按客户需求向真实公司写标书，而不是空转。 <sub>作者 [Roskr](https://x.com/RoskrLC) (@RoskrLC) · [出处](https://x.com/RoskrLC/status/2099992835747389442)</sub>
 - [blogdrafter](https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi) — 从笔记起草和润色博客，靠你的写作档案保住本人语气。 <sub>作者 [dai](https://x.com/daisuke) (@daisuke) · [出处](https://x.com/daisuke/status/2097903822232518947)</sub>
@@ -150,6 +149,7 @@
 - [Pearl](https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC) — 创作者内容引擎的幕僚长，规划工作、分派专家 Bot、审交接，发之前会先问你。 <sub>作者 [Vivek](https://x.com/vivekk_tech) · [出处](https://x.com/vivekk_tech/status/2101980385030869092)</sub>
 - [People Log](https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK) — 社交记忆机器人，记住朋友、同事与邻居的名字与细节，提醒你别说错话。 <sub>作者 [Tim](https://x.com/TeslaCybernut) (@TeslaCybernut)</sub>
 - [PerkDrop](https://x.ai/bot/JMYZKIbP0ekzJ3IvGMlQk) — 为学生、创业、开源维护者、黑客松与求职者找免费工具、额度与项目，做成可领取的短卡片。 <sub>作者 [Sanath](https://x.com/sansynx) (@sansynx)</sub>
+- [Plainwrap](https://x.ai/bot/UcazP9A_LRigoW9b06QRo) — 白话摘要编辑，把难啃材料改写成多数人能看懂的版本。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) · 社区旧称 *Babel Fish* · [出处](https://x.com/CodeSolutionsIL)</sub>
 - [Podcast Pipeline](https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn) — 端到端播客机器人，研究、脚本、TTS、VTT、发布。 <sub>作者 [Nge](https://x.com/TheNextGreatEra) (@TheNextGreatEra) · [出处](https://x.com/TheNextGreatEra/status/2100358476354707610)</sub>
 - [PostNitro Bot](https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw) — 用 PostNitro 为你的品牌写文案、做轮播图视频并预约多平台发布。 <sub>作者 [Muneeb](https://x.com/muneeb_builds) (@muneeb_builds)</sub>
 - [Printful Tee Designer by Chris,](https://x.ai/bot/hEyePUj2QtclYLioeTkTw) — 面向 Printful 的 T 恤流程，主题到原稿再到可印 DTG，需你批准。 <sub>[出处](https://x.com/GrokVeinKeeper)</sub>
