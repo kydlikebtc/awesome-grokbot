@@ -7,16 +7,16 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 2042,
+    "live": 2050,
     "retired": 6,
     "by_category": {
       "coding-shipping": 162,
-      "inbox-calendar": 187,
-      "research-briefings": 318,
+      "inbox-calendar": 188,
+      "research-briefings": 320,
       "customer-sales": 159,
       "finance-ops": 144,
       "content-publishing": 237,
-      "personal-admin": 656,
+      "personal-admin": 661,
       "teams-handoffs": 179
     }
   },
@@ -26665,7 +26665,7 @@
         }
       ],
       "first_seen": "2026-09-23",
-      "checked": "2026-09-23",
+      "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -27998,6 +27998,38 @@
         }
       ],
       "first_seen": "2026-09-22",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "inbox-cleaner",
+      "name": "Inbox Cleaner",
+      "author": {
+        "name": "Jamie",
+        "handle": "wafflebeebz",
+        "url": "https://x.com/wafflebeebz"
+      },
+      "summary": "Cleans Gmail promotions, unsubscribes when possible, trashes junk, and files keepers into folders",
+      "summary_zh": "清理 Gmail 促销邮件，能退订就退订，垃圾进垃圾桶，要留的归档到文件夹",
+      "official_summary": "Cleans Gmail inboxes: scans promotions, unsubscribes when possible, trashes junk, and files keepers into folders. For anyone who wants a dedicated...",
+      "import": "https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp",
+      "bot_id": "6uqwQQpLVpsSYJPG2QIEp",
+      "category": "inbox-calendar",
+      "tags": [
+        "gmail",
+        "inbox",
+        "unsubscribe",
+        "cleanup"
+      ],
+      "origin": "https://x.com/wafflebeebz/status/2103025580157628909",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -38222,6 +38254,38 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "food-truck-marketplace-cto",
+      "name": "Food Truck Marketplace CTO",
+      "author": {
+        "name": "Alex",
+        "handle": "Alexzander_ud",
+        "url": "https://x.com/Alexzander_ud"
+      },
+      "summary": "Technical co-founder for a QR-first food-truck ordering product: ship, fix, and operate without exposing the private stack",
+      "summary_zh": "餐车二维码点餐产品的技术联合创始人，帮你上线修问题，不暴露私有技术栈",
+      "official_summary": "Technical co-founder bot for a QR-first food-truck ordering product. Helps a founder ship, fix, and operate — without exposing their private stack or...",
+      "import": "https://x.ai/bot/6DuTZ4NrJazU1YO4Llcx0",
+      "bot_id": "6DuTZ4NrJazU1YO4Llcx0",
+      "category": "personal-admin",
+      "tags": [
+        "food-truck",
+        "cto",
+        "qr",
+        "marketplace"
+      ],
+      "origin": "https://x.com/Alexzander_ud/status/2102987289009995797",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "football-manager",
       "name": "Football Manager",
       "author": {
@@ -45025,6 +45089,38 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "optima-by-toatspace-vso9",
+      "name": "Optima",
+      "author": {
+        "name": "TOATspace by gemini",
+        "handle": "TOATspace",
+        "url": "https://x.com/TOATspace"
+      },
+      "summary": "Updated Optima that clears leftover old rules from bot docs and memory after one exact yes",
+      "summary_zh": "更新版 Optima，在你明确点头后清掉机器人文档与记忆里已停用的旧规则",
+      "official_summary": "Forgetting / leftover-rule scrub desk for Optima by TOATspace. Cleans leftover old rules so bots stop following jobs you already killed — cut list →...",
+      "import": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+      "bot_id": "VSO9GRfDreEu2ZiXwwZB_",
+      "category": "personal-admin",
+      "tags": [
+        "cleanup",
+        "memory",
+        "rules",
+        "maintenance"
+      ],
+      "origin": "https://x.com/TOATspace/status/2102970382378529216",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "optimist-prodigionous",
       "name": "Optimus Prodigious",
       "author": {
@@ -45828,6 +45924,33 @@
         }
       ],
       "first_seen": "2026-09-20",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "pfp-bot",
+      "name": "Pfp Bot",
+      "summary": "Turns an X photo, selfie, upload, or pet pic into a tiny Grokbot-style icon that keeps your look",
+      "summary_zh": "把 X 头像、自拍、上传图或宠物照做成保留原貌的迷你 Grokbot 风图标",
+      "official_summary": "Turns your X photo, an upload, a selfie, or a pet pic into a tiny Grokbot-style icon with capsule eyes that keeps the hair, colors, and signature look....",
+      "import": "https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ",
+      "bot_id": "eFnHzlDcKdoA406SzZbNZ",
+      "category": "personal-admin",
+      "tags": [
+        "avatar",
+        "pfp",
+        "image",
+        "x"
+      ],
+      "origin": "https://x.com/joshkim/status/2102978987723223086",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -47880,7 +48003,7 @@
         }
       ],
       "first_seen": "2026-09-21",
-      "checked": "2026-09-23",
+      "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -48748,6 +48871,38 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "smooth-brains-bot",
+      "name": "Smooth Brains Bot",
+      "author": {
+        "name": "Tim",
+        "handle": "smoothbrainsai",
+        "url": "https://x.com/smoothbrainsai"
+      },
+      "summary": "Guide for non-custodial systematic Bitcoin trading on Hyperliquid from connect and fund through fees",
+      "summary_zh": "非托管比特币系统交易向导，带你在 Hyperliquid 完成连接充值与费用路径",
+      "official_summary": "Smooth Brains runs non-custodial systematic Bitcoin trading on Hyperliquid — you connect and fund, the system runs the plan. I'm your account guide with...",
+      "import": "https://x.ai/bot/FwtiQchlHexgCdlDo5WkL",
+      "bot_id": "FwtiQchlHexgCdlDo5WkL",
+      "category": "personal-admin",
+      "tags": [
+        "bitcoin",
+        "trading",
+        "hyperliquid",
+        "crypto"
+      ],
+      "origin": "https://x.com/smoothbrainsai/status/2103033891581759590",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "snack-bot",
@@ -52035,6 +52190,37 @@
         }
       ],
       "first_seen": "2026-09-09",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "weather-bot",
+      "name": "Weather Bot",
+      "author": {
+        "name": "Bill",
+        "handle": "GrokBotGod",
+        "url": "https://x.com/GrokBotGod"
+      },
+      "summary": "Local conditions and quiet alerts only: two lines on ordinary days, one sentence when weather shifts",
+      "summary_zh": "本地天气与安静提醒，平常两行，天气变化时一句就够",
+      "official_summary": "Weather Bot gives local conditions and quiet alerts only. Asks where you are once, then stays at two lines on ordinary days and one sentence when the...",
+      "import": "https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6",
+      "bot_id": "_6ZWfvMmBLOS1rxFFezl6",
+      "category": "personal-admin",
+      "tags": [
+        "weather",
+        "alerts",
+        "local"
+      ],
+      "origin": "https://x.com/GrokBotGod/status/2102998072678903944",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -55512,7 +55698,7 @@
         }
       ],
       "first_seen": "2026-09-16",
-      "checked": "2026-09-23",
+      "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
     },
@@ -58121,6 +58307,38 @@
       "link_status": 200,
       "license": "CC-BY-4.0",
       "aka": "phare"
+    },
+    {
+      "slug": "stock-research-teammate",
+      "name": "Grok Bot",
+      "author": {
+        "name": "Shmuel",
+        "handle": "sammya_sh",
+        "url": "https://x.com/sammya_sh"
+      },
+      "summary": "Compares stocks with current market data, ranks a clear pick, and can run a weekly watch brief",
+      "summary_zh": "用当前行情比较股票并给出明确排序，也可做每周观察简报",
+      "official_summary": "An investment research teammate that compares stocks with current market data, ranks them with a clear pick, and can run a weekly watch brief in the...",
+      "import": "https://x.ai/bot/MT6acytP70wHR526vPvM3",
+      "bot_id": "MT6acytP70wHR526vPvM3",
+      "category": "research-briefings",
+      "tags": [
+        "stocks",
+        "research",
+        "investing",
+        "brief"
+      ],
+      "origin": "https://x.com/sammya_sh/status/2102971805292167403",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "grok-build-qu3t",
@@ -65340,6 +65558,37 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cross-market-research-desk-hk",
+      "name": "观潮",
+      "author": {
+        "name": "wifibaby4u",
+        "url": "https://x.com/wifibaby4u"
+      },
+      "summary": "Cross-market research desk for A/HK/US plus macros, watchlists, theme logs, and decision leanings (not advice)",
+      "summary_zh": "跨市场研究台，按时段盯 A股港股美股与宏观，对照自选并记主题与机会日志（非投资建议）",
+      "official_summary": "跨市场投资研究助手：按时段盯 A股/港股/美股与宏观，对照持仓自选，记录高机会标的，并在关键节点给出决策倾向（非投资建议）。",
+      "import": "https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW",
+      "bot_id": "nylU6e_GXKCzJvLLxN6qW",
+      "category": "research-briefings",
+      "tags": [
+        "markets",
+        "research",
+        "china",
+        "investing"
+      ],
+      "origin": "https://x.com/wifibaby4u/status/2102971038997078517",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "korean-research-desk-turns-findings",

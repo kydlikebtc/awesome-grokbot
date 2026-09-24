@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-318 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+320 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -122,6 +122,7 @@
 - [GrandBot](https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP) — Turns an official bot export into a readable brief on how your org works. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2096133174879211976)</sub>
 - [Grok Bot](https://x.ai/bot/hEmSUvWxccmfAVDGri1R8) — Uses Clay on calendar or screenshots to research event guests into a face and name cheat sheet.
 - [Grok Bot](https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H) — Teaches generative-AI basics from official coursework, then quietly follows up on priorities you named. <sub>by [Kévin](https://x.com/kvncyf_) (@kvncyf_) · aka *phare* · [origin](https://x.com/kvncyf_/status/2102154022404722934)</sub>
+- [Grok Bot](https://x.ai/bot/MT6acytP70wHR526vPvM3) — Compares stocks with current market data, ranks a clear pick, and can run a weekly watch brief. <sub>by [Shmuel](https://x.com/sammya_sh) (@sammya_sh) · [origin](https://x.com/sammya_sh/status/2102971805292167403)</sub>
 - [Grok Build](https://x.ai/bot/Qu3t1-iN-6IbZvwqn-Dqe) — Runs the real Grok Build CLI for apps, code, and deep research at maximum effort on an agent computer — not answers from the chat model alone. <sub>by [Xavier](https://x.com/ixef) (@ixef)</sub>
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — A short morning list of new Grok Bot use cases worth setting up. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093397994263515578)</sub>
 - [GrokBotScout](https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP) — Scouts public listings in batches of seven. <sub>by [Carolina](https://x.com/CarolinaDill) (@CarolinaDill)</sub>
@@ -323,6 +324,7 @@
 - [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) — Reads big macro events for what they do to rates, the dollar, gold, crypto and equities. <sub>by [Michael](https://x.com/Fund_Monkey) (@Fund_Monkey) · [origin](https://x.com/Fund_Monkey/status/2095172991223234844)</sub>
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) — Chinese relay that hands planning and research to a Cursor Cloud Agent and brings the answer back. <sub>by [lee](https://x.com/0xlangeai) (@0xlangeai) · [origin](https://x.com/0xlangeai/status/2098313794179207552)</sub>
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) — Morning blueberry research monitor that stays quiet when nothing new matters. <sub>by [Gorgeous](https://x.com/Bizuayeu) (@Bizuayeu) · [origin](https://x.com/Bizuayeu/status/2097338867154309585)</sub>
+- [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) — Cross-market research desk for A/HK/US plus macros, watchlists, theme logs, and decision leanings (not advice). <sub>by [wifibaby4u](https://x.com/wifibaby4u) · [origin](https://x.com/wifibaby4u/status/2102971038997078517)</sub>
 - [검색봇](https://x.ai/bot/9tXf36bPtT2pWLeFnEH0S) — Korean research desk that turns findings into a Threads-ready post. <sub>by [는](https://x.com/titledworld) (@titledworld) · [origin](https://x.com/titledworld/status/2100705626230010028)</sub>
 
 ---

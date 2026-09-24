@@ -2,7 +2,7 @@
 
 *盯住一个领域、核查说法，最后只给你一份短简报。*
 
-318 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
+320 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
 
 ---
 
@@ -122,6 +122,7 @@
 - [GrandBot](https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP) — 把官方 Bot 导出读成一份组织运转简报。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2096133174879211976)</sub>
 - [Grok Bot](https://x.ai/bot/hEmSUvWxccmfAVDGri1R8) — 用 Clay 对照日历或截图查活动宾客，做成认人认名小抄。
 - [Grok Bot](https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H) — 用官方课程教生成式 AI 基础，随后按你点过的优先级安静跟进。 <sub>作者 [Kévin](https://x.com/kvncyf_) (@kvncyf_) · 社区旧称 *phare* · [出处](https://x.com/kvncyf_/status/2102154022404722934)</sub>
+- [Grok Bot](https://x.ai/bot/MT6acytP70wHR526vPvM3) — 用当前行情比较股票并给出明确排序，也可做每周观察简报。 <sub>作者 [Shmuel](https://x.com/sammya_sh) (@sammya_sh) · [出处](https://x.com/sammya_sh/status/2102971805292167403)</sub>
 - [Grok Build](https://x.ai/bot/Qu3t1-iN-6IbZvwqn-Dqe) — 在代理电脑上以最大力度跑真正的 Grok Build CLI，做应用、代码与深度研究，不只靠聊天模型作答。 <sub>作者 [Xavier](https://x.com/ixef) (@ixef)</sub>
 - [GrokBot Awesome Use Cases](https://x.ai/bot/DTNL6V2HxpUHj3MkI-bSj) — 早上一小份值得动手搭的新 Grok Bot 用法。 <sub>作者 [Andrej](https://x.com/scheemunai) · [出处](https://x.com/scheemunai/status/2093397994263515578)</sub>
 - [GrokBotScout](https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP) — 按每批七条扫公开列表。 <sub>作者 [Carolina](https://x.com/CarolinaDill) (@CarolinaDill)</sub>
@@ -323,6 +324,7 @@
 - [全球宏观分析师](https://x.ai/bot/08RSf587bOlWhbQai6A3I) — 看大事对利率、美元、黄金、加密货币和股市会怎么传。 <sub>作者 [Michael](https://x.com/Fund_Monkey) (@Fund_Monkey) · [出处](https://x.com/Fund_Monkey/status/2095172991223234844)</sub>
 - [参谋长](https://x.ai/bot/nSzhldgXfVuC93CjjQptM) — 中文参谋，把规划和研究转给 Cursor Cloud Agent，再把结果带回来。 <sub>作者 [lee](https://x.com/0xlangeai) (@0xlangeai) · [出处](https://x.com/0xlangeai/status/2098313794179207552)</sub>
 - [藍苺守 織](https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K) — 每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静。 <sub>作者 [Gorgeous](https://x.com/Bizuayeu) (@Bizuayeu) · [出处](https://x.com/Bizuayeu/status/2097338867154309585)</sub>
+- [观潮](https://x.ai/bot/nylU6e_GXKCzJvLLxN6qW) — 跨市场研究台，按时段盯 A股港股美股与宏观，对照自选并记主题与机会日志（非投资建议）。 <sub>作者 [wifibaby4u](https://x.com/wifibaby4u) · [出处](https://x.com/wifibaby4u/status/2102971038997078517)</sub>
 - [검색봇](https://x.ai/bot/9tXf36bPtT2pWLeFnEH0S) — 韩语调研台，把网络与官方资料整理成可发 Threads 的帖子。 <sub>作者 [는](https://x.com/titledworld) (@titledworld) · [出处](https://x.com/titledworld/status/2100705626230010028)</sub>
 
 ---

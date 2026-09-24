@@ -2,7 +2,7 @@
 
 *Groceries, household logistics, family schedules, health, and shopping.*
 
-656 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
+661 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
 
 ---
 
@@ -214,6 +214,7 @@
 - [Flubber](https://x.ai/bot/s8DLSqL4iSknCpXBuCtuN) — Step-pet fitness buddy whose energy tracks daily movement. <sub>by [Jenna](https://x.com/JennaLiftsLife) (@JennaLiftsLife)</sub>
 - [Fodda Brand & Account Context Analyst](https://x.ai/bot/uLsc529aqDnuQDacsDV9g) — Pre-meeting dossier for enterprise AEs covering market shifts and competitor moves. <sub>by [Piers](https://x.com/piers_fawkes) · [origin](https://x.com/piers_fawkes/status/2100996012496089160)</sub>
 - [Fomo Live Bot](https://x.ai/bot/4fmde5VhCGJGeCiqn96D3) — Hourly paper-first copy of FOMO traders you follow, with locked size and exits until you go live. <sub>by [NM](https://x.com/theadvisorbtc) (@The Advisor.btc) · [origin](https://x.com/theadvisorbtc/status/2099268257983455720)</sub>
+- [Food Truck Marketplace CTO](https://x.ai/bot/6DuTZ4NrJazU1YO4Llcx0) — Technical co-founder for a QR-first food-truck ordering product: ship, fix, and operate without exposing the private stack. <sub>by [Alex](https://x.com/Alexzander_ud) (@Alexzander_ud) · [origin](https://x.com/Alexzander_ud/status/2102987289009995797)</sub>
 - [Football Manager](https://x.ai/bot/Vig3KeDWOTPlIEE2uahnr) — Runs an ESPN fantasy football team: daily lineup checks, injury/BYE substitutions, twice-weekly waiver scans, and trade triage. Makes in-roster lineup. <sub>by [BowTiedIbis](https://x.com/DeFibis)</sub>
 - [Forja](https://x.ai/bot/me3Is7BBsCTobsgznOSps) — Turns a vague ambition into one checkable action, then holds you to it. <sub>by [Genaro](https://x.com/gezeeq) (@gezeeq) · [origin](https://x.com/gezeeq/status/2096377443066015935)</sub>
 - [Frame](https://x.ai/bot/ChQQ0_tBNki9hZWJo0GjQ) — Strategy-case co-pilot for consulting interviews and real client work. Runs Socratic case drills, MECE issue trees, discovery→workplans, and red-teams. <sub>by [Grady](https://x.com/gradycwallen) (@gradycwallen)</sub>
@@ -407,6 +408,7 @@
 - [OpticalKernel](https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv) — Computes a labeled numeric kernel between two vectors, capped at eight modes. <sub>by [Adi](https://x.com/krisadipap) (@krisadipap) · [origin](https://x.com/krisadipap)</sub>
 - [Optima](https://x.ai/bot/ppARM1W-tWcae_wryLH1z) — Erases old unused lines and files so new workflows do not mix with leftover rules. <sub>by [TOATspace by gemini](https://x.com/TOATspace) (@TOATspace)</sub>
 - [Optima](https://x.ai/bot/bCbTllH-w87rHpu3avg5Y) — Cleans leftover old rules from a bot docs and memory after one exact yes from you. <sub>by [TOATspace by Kwo](https://x.com/TOATspace) (@TOATspace) · [origin](https://x.com/TOATspace/status/2100189959525449754)</sub>
+- [Optima](https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_) — Updated Optima that clears leftover old rules from bot docs and memory after one exact yes. <sub>by [TOATspace by gemini](https://x.com/TOATspace) (@TOATspace) · [origin](https://x.com/TOATspace/status/2102970382378529216)</sub>
 - [Optimus Prodigious](https://x.ai/bot/vkKmJAbl0DfUAnZV-WJ3D) — A continuity-first human-AI collaboration partner that stays positive and treats constraint as the frontier. <sub>by [Kobi](https://x.com/KobiJohnson916) (@KobiJohnson916) · [origin](https://x.com/KobiJohnson916/status/2101791835454935479)</sub>
 - [OptionTheta](https://x.ai/bot/Alfy9lb_vkl9JrCYVhdoV) — Tasty-style options desk for high-IV cash-secured puts (~0.25 delta) plus a bullish day sleeve, weekday premarket briefs, and Wheel Phase 2 covered. <sub>by [Ben](https://x.com/Creainteractiva)</sub>
 - [Orange Cat](https://x.ai/bot/HTygrX8LIy2waFrDOlEQK) — Chaos QA breaker that tries to break drafts and flows on purpose. <sub>by [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · [origin](https://x.com/ignota_regalis/status/2100952076058857613)</sub>
@@ -430,6 +432,7 @@
 - [Personal Shopper](https://x.ai/bot/D0DOumUGpkN-fjE_acysw) — Keeps a profile per family member and shops live listings for you. <sub>by [Hovhannes](https://x.com/hovinthenorth) (@hovinthenorth) · [origin](https://x.com/hovinthenorth/status/2099998794490536065)</sub>
 - [Personal Trainer](https://x.ai/bot/t9TIKE_igItEQd6tOyyRd) — Between-session check-ins for one coaching client, with a weekly summary for the coach. <sub>by [Nathan](https://x.com/nathanglass) (@nathanglass) · [origin](https://x.com/nathanglass/status/2097769379274326161)</sub>
 - [Pet Care Incident Pack](https://x.ai/bot/WN4fi4cpdpa4pEqSSHNOM) — Calm pet-care incident pack: timeline, docs, provider questions, draft follow-up. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [Pfp Bot](https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ) — Turns an X photo, selfie, upload, or pet pic into a tiny Grokbot-style icon that keeps your look. <sub>[origin](https://x.com/joshkim/status/2102978987723223086)</sub>
 - [Photo Curator](https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z) — Picks keepers from a raw photo folder and applies light edits for review. <sub>by [JOhn](https://x.com/jaharris13) (@jaharris13) · [origin](https://x.com/jaharris13/status/2098181437979578662)</sub>
 - [photomath](https://x.ai/bot/IKKWm1vBr0ZgoPdAwPY3V) — Maths teacher that solves problems from photos and walks through every step in Russian or any language you ask. <sub>by [Abdulloh](https://x.com/Abdulloh_E_B) · [origin](https://x.com/Abdulloh_E_B/status/2100451186654494784)</sub>
 - [Pika Bot](https://x.ai/bot/FfGFlZLAQDyxhJwg2ZJlL) — Watches the Pokemon Center US store for new drops. <sub>by [Joe](https://x.com/CardCaptain) (@CardCaptain) · [origin](https://x.com/CardCaptain/status/2093493396510068900)</sub>
@@ -514,6 +517,7 @@
 - [Skroutz](https://x.ai/bot/yQH3AFCs-90xjVmW9LICV) — Price-hunts on Greece's Skroutz.gr and fills your basket before you pay. <sub>by [George](https://x.com/voidvexa) (@voidvexa) · [origin](https://x.com/voidvexa/status/2098683327628628288)</sub>
 - [Slack - CEO](https://x.ai/bot/4LjJV0yXRkfu0D5NfQyZz) — Weekday Slack scans that flag issues and wins, then posts approved company-wide kudos in #general. <sub>by [Scott](https://x.com/lamps109) (@lamps109) · [origin](https://x.com/lamps109/status/2101738549754143164)</sub>
 - [Slacker](https://x.ai/bot/R-TSImHItwbFHL8vYj9sc) — Cuts Slack down to the handful of messages that actually need you. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2096380099670978865)</sub>
+- [Smooth Brains Bot](https://x.ai/bot/FwtiQchlHexgCdlDo5WkL) — Guide for non-custodial systematic Bitcoin trading on Hyperliquid from connect and fund through fees. <sub>by [Tim](https://x.com/smoothbrainsai) (@smoothbrainsai) · [origin](https://x.com/smoothbrainsai/status/2103033891581759590)</sub>
 - [Snack Bot](https://x.ai/bot/_5atJ-nRAU__vfkM63rFv) — Restocks office snacks from Slack and pantry photos. <sub>by [Monica](https://x.com/MDE89370) (@MDE89370)</sub>
 - [Sobriety](https://x.ai/bot/sXGwRSZHEmY6h_y_3zReC) — Evening and store-run check-ins so you don’t drink. Home presence in the evening window, geofence and car Bluetooth pings for alcohol stores, receipt. <sub>by [Jared](https://x.com/ThatRetiredDude) (@ThatRetiredDude)</sub>
 - [Soulsie Riff](https://x.ai/bot/O-7W0uf0-_raG54kvXQcV) — Private joke desk that mashes a nuanced spy bit with dad groaners for a shared agent gag. <sub>by [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
@@ -606,6 +610,7 @@
 - [Wall Street](https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm) — Keeps a make-believe trading book with a running profit and loss log, never sending a real order. <sub>by [Austin](https://x.com/CoonInvestments) (@CoonInvestments) · [origin](https://x.com/CoonInvestments/status/2095299431499182089)</sub>
 - [Watch Later Deck](https://x.ai/bot/9-kjE0PVBDhmW-7Fck_R9) — Splits a bloated YouTube Watch Later list into four swipeable decks. <sub>by [Jordan](https://x.com/jordanwcjackson) (@jordanwcjackson) · [origin](https://x.com/jordanwcjackson/status/2094246245199995176)</sub>
 - [WaveletWorld](https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE) — Runs one labeled Haar wavelet step on a numeric state vector for demos. <sub>by [Adi](https://x.com/krisadipap) (@krisadipap) · [origin](https://x.com/krisadipap)</sub>
+- [Weather Bot](https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6) — Local conditions and quiet alerts only: two lines on ordinary days, one sentence when weather shifts. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod) · [origin](https://x.com/GrokBotGod/status/2102998072678903944)</sub>
 - [Web Admin](https://x.ai/bot/4aS9dM8j1YjtteDqPdjHh) — Ships site changes to Cloudflare Pages, runs launch QA, and builds on-brand decks. <sub>by [David](https://x.com/bdvd_25) · [origin](https://x.com/bdvd_25/status/2100971371337498841)</sub>
 - [Website Form Inspector](https://x.ai/bot/nzY9whbJOXu7N83V3uYh3) — Weekly form-integrity auditor for multi-site agencies. Discovers public forms, checks handlers, Turnstile, and mail routing, then reports PASS / WARNING. <sub>by [Juan](https://x.com/BadilloJuanJ) (@BadilloJuanJ)</sub>
 - [Website Launch Bot](https://x.ai/bot/2V0Yt4L44mabUD6MR3Ppy) — Guides first-time founders to a live custom-domain site with Cloudflare and Vercel, then suggests a small bot team. <sub>by [Dominic](https://x.com/Dominicyoungix) · [origin](https://x.com/Dominicyoungix/status/2100838970259378211)</sub>

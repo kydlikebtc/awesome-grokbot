@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-187 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+188 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -108,6 +108,7 @@
 - [HVAC, Doors, and Home Assistant](https://x.ai/bot/tF0ckH21ZT7L1CN3HOyHl) — Calendar-driven building ops for HVAC, doors, and Home Assistant. <sub>by [Christopher](https://x.com/csapperson) (@csapperson)</sub>
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — An inbox-zero bot across every inbox you actually use. <sub>by [Matthew](https://x.com/matt_silberman) · [origin](https://x.com/matt_silberman/status/2093378871403933751)</sub>
 - [Inbox](https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH) — Weekday GTD triage for an Obsidian inbox that clarifies overnight captures into actions, waiting-fors, and calendar. <sub>by [Coconut](https://x.com/Genseb7) (@Genseb7) · [origin](https://x.com/Genseb7/status/2102187055404982593)</sub>
+- [Inbox Cleaner](https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp) — Cleans Gmail promotions, unsubscribes when possible, trashes junk, and files keepers into folders. <sub>by [Jamie](https://x.com/wafflebeebz) (@wafflebeebz) · [origin](https://x.com/wafflebeebz/status/2103025580157628909)</sub>
 - [Inbox Zero](https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98) — Keeps Gmail at zero by filing the noise every weekday. <sub>by [LD](https://x.com/zapnocode) · [origin](https://x.com/zapnocode/status/2093493728660865073)</sub>
 - [Independent Author Hub](https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8) — Ops hub for indie authors coordinating site, newsletter, marketing calendar, and reader-lifecycle bots. <sub>by [ladybarrelmaker](https://x.com/ladybarrelmaker) · [origin](https://x.com/ladybarrelmaker/status/2102763758418600166)</sub>
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) — Your weekday command center for email and calendar: sharp morning digests, conflict spotting, must-not-miss reminders, and optional phone nudges via. <sub>by [sandra](https://x.com/spmtoscana) (@spmtoscana)</sub>

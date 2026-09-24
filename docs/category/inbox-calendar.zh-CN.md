@@ -2,7 +2,7 @@
 
 *分拣邮件、起草回复、守住日历、把工作日节奏跑起来。*
 
-187 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
+188 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
 
 ---
 
@@ -108,6 +108,7 @@
 - [HVAC, Doors, and Home Assistant](https://x.ai/bot/tF0ckH21ZT7L1CN3HOyHl) — 按日历驱动暖通、门禁和 Home Assistant 的楼宇运营。 <sub>作者 [Christopher](https://x.com/csapperson) (@csapperson)</sub>
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — 对着你真正在用的每个收件箱，把未读清到零。 <sub>作者 [Matthew](https://x.com/matt_silberman) · [出处](https://x.com/matt_silberman/status/2093378871403933751)</sub>
 - [Inbox](https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH) — 工作日早晨做 GTD 分拣，把一夜堆积整理成下一步、等待项与日历事项。 <sub>作者 [Coconut](https://x.com/Genseb7) (@Genseb7) · [出处](https://x.com/Genseb7/status/2102187055404982593)</sub>
+- [Inbox Cleaner](https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp) — 清理 Gmail 促销邮件，能退订就退订，垃圾进垃圾桶，要留的归档到文件夹。 <sub>作者 [Jamie](https://x.com/wafflebeebz) (@wafflebeebz) · [出处](https://x.com/wafflebeebz/status/2103025580157628909)</sub>
 - [Inbox Zero](https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98) — 每个工作日把噪音归档，把 Gmail 压到零。 <sub>作者 [LD](https://x.com/zapnocode) · [出处](https://x.com/zapnocode/status/2093493728660865073)</sub>
 - [Independent Author Hub](https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8) — 独立作者运营中枢，协调站点、通讯、营销日历与读者生命周期机器人。 <sub>作者 [ladybarrelmaker](https://x.com/ladybarrelmaker) · [出处](https://x.com/ladybarrelmaker/status/2102763758418600166)</sub>
 - [Iris](https://x.ai/bot/fEF3XuiyCp32zSG0FkEDR) — 工作日邮件与日历指挥中心，锋利早间摘要、冲突识别与待决清单。 <sub>作者 [sandra](https://x.com/spmtoscana) (@spmtoscana)</sub>
