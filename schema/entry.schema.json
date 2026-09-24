@@ -75,6 +75,10 @@
       "type": "string",
       "minLength": 1
     },
+    "official": {
+      "description": "True when the organisation named in author.name published the share itself, rather than an individual sharing a bot they built. Set from the share page's own '<bot> by <org>' attribution against the publisher list in scripts/sync_upstream.py, and overridable by hand. A row carrying this must also carry author.name.",
+      "type": "boolean"
+    },
     "import": {
       "description": "Canonical share URL. This is the only link users are told to click.",
       "type": "string",

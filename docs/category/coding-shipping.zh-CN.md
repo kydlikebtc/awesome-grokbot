@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-151 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+162 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -17,11 +17,14 @@
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — 一句话描述应用，收回一个能跑起来的构建。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835122231722366)</sub>
 - [Astra Afterburner](https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4) — 编码代理额度用尽时，把积压研究队列交给你闲着的第二套套餐。 <sub>作者 [Drew](https://x.com/SacredFolio) (@SacredFolio) · [出处](https://x.com/SacredFolio/status/2100726625423728900)</sub>
 - [Baut](https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx) — 帮你把 Grok.me 游戏做出去，产品决策按真金白银来。 <sub>作者 [𝕏](https://x.com/XAmandaMoore) (@XAmandaMoore)</sub>
+- [Beta Adoption Watcher](https://x.ai/bot/sfcf5d046a2784045938d) <sup>官方</sup> — 看谁真在用新功能：盯用量、列出已上手的客户，方便团队跟进。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [BeTree](https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w) — 把分散在多个 Bot 上的计划收成一张活的关系图。 <sub>作者 [Nicolas](https://x.com/NicoChauvin74) · [出处](https://x.com/NicoChauvin74/status/2093778235054031136)</sub>
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) — 直接查询 The Graph 子图，回答链上数据问题。 <sub>作者 [Derek](https://x.com/data_nexus) (@data_nexus) · [出处](https://x.com/data_nexus/status/2094265024227192946)</sub>
 - [Bot designer](https://x.ai/bot/DUfaLelLJRtsDDAdJAcud) — 设计职责单一、边界清晰的 Grok Bot。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) — Arch Linux 桌面或服务器帮手，检查包缓存与体积，经你批准后再清理 pacman 或 yay。 <sub>作者 [Prakash](https://x.com/None) (@None)</sub>
+- [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) <sup>官方</sup> — 给工程师能信的缺陷报告：接过帖子、在预发环境点同样路径、抓下现场，产出复现包。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [BuildFeed: Startups](https://x.ai/bot/7tob1iILCQ-5aELPbHSPn) — 整理创始人、投资人与运营者在 YouTube 上关于创业、融资、销售与招人的真说法。 <sub>作者 [Jake](https://x.com/buildfeedtech) (@buildfeedtech)</sub>
+- [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) <sup>官方</sup> — 从真实通话维护问答库：记问题、给答案打时间戳、回链到原始录音。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — 第一性原理的游戏引擎和固件专长，给小体量爱好游戏用，只上真正能跑的最小栈。 <sub>作者 Marcus · [出处](https://github.com/doanbactam/awesome-grok-bots)</sub>
 - [Changelog Stand-down](https://x.ai/bot/T27nv3vIy89yKldqELWbn) — 每周一用白话汇总团队这周真正上线了什么。 <sub>作者 [Andrea](https://x.com/acolombiadev) (@acolombiadev) · [出处](https://x.com/acolombiadev/status/2096015833449349211)</sub>
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — 在美国比价时把运费与优惠券算进去，找真正最低到手价。 <sub>作者 [Joel](https://x.com/MortMatters) · [出处](https://x.com/MortMatters/status/2100784159924924604)</sub>
@@ -29,6 +32,7 @@
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — 专职编码代理，所有软件活都丢给 Claude Code CLI 跑。 <sub>作者 [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库。 <sub>作者 [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [出处](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — 把前端和架构活交给 Claude Code CLI，干完直接开 PR。 <sub>作者 [Farzad](https://x.com/farzyness) (@farzyness) · [出处](https://x.com/farzyness/status/2094240859243913669)</sub>
+- [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) <sup>官方</sup> — 同时跑一堆云端 agent 不用盯：起任务、看状态、推卡住的，最后汇总报告。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) — 只停你自己的系统，先演练再确认的紧急急停开关。 <sub>作者 [Knock](https://x.com/SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2094970870871585096)</sub>
 - [Code Team Spawn](https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3) — 平时闲着，你要编码团队时才面试并拉起一支隐藏的五人小队。 <sub>作者 [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
 - [Code Team Spawn](https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X) — 更新版拉队，面试后立一个 Conductor，再加一支隐藏的五人编码小队。 <sub>作者 [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
@@ -44,6 +48,7 @@
 - [Dealer](https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu) — 只按 .faf 文件把仓库收成正反两面的技术栈卡片。 <sub>作者 [Wolfe-James](https://x.com/wolfe_jam) (@wolfe_jam) · [出处](https://x.com/wolfe_jam/status/2100444712150671626)</sub>
 - [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) — 把一条 X 帖或其他示例链接做成可点可玩的应用演示。 <sub>作者 [Mike](https://x.com/Cybermike) (@Cybermike)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — 用设计负责人的眼光审 AI 做出来的界面。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2093765735197851709)</sub>
+- [Docs Auditor](https://x.ai/bot/s1025e1ebe0b11f048bd4) <sup>官方</sup> — 揪出跟产品脱节的文档：拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [dr eggbot](https://x.ai/bot/93gOz3op1UQdBdbekQFLK) — 替你搭建其他 Grok Bot。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093392701005946931)</sub>
 - [Dr.Binary](https://x.ai/bot/Pc2T7udSjGxv9pd9Spkyc) — 帮你逆向恶意软件、固件和漏洞研究用的二进制。 <sub>作者 [Deepbits](https://x.com/drbinaryai) (@drbinaryai)</sub>
 - [Engineer](https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv) — 外环工程经理，拆活、交给构建代理、验收并带回凭据，默认只出草稿，不擅自提交合并。 <sub>作者 [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>
@@ -53,6 +58,7 @@
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — 东西一坏，就把刚发生的改动摊给你看。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383146599301252)</sub>
 - [Exec Daily Ops](https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ) — 工程早间简报，草稿回复留给你发送。 <sub>作者 [Kumar](https://x.com/kumarkandgule) (@kumarkandgule) · [出处](https://x.com/kumarkandgule/status/2100001162426519754)</sub>
 - [Fable 5.1 Oracle](https://x.ai/bot/tLSg4HxepSclMqbZUTRnX) — 把怎么做想清楚并检查成品，自己从不写代码。 <sub>作者 [Matt](https://x.com/bossriceshark) (@bossriceshark) · [出处](https://x.com/bossriceshark/status/2095151692706967931)</sub>
+- [Feature Request Tracker](https://x.ai/bot/s229dcca5bc0eaa01b09c) <sup>官方</sup> — 记住需求是谁提的：从 Slack 和通话里挖出来，挂到客户身上，让规格有真实出处。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Feedback](https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU) — 把你已确认的 bug 整理成规范报告，提给对的团队。 <sub>作者 [NYTEMODE](https://x.com/nytemodeonly) (@nytemodeonly) · [出处](https://x.com/nytemodeonly/status/2094225527984820492)</sub>
 - [Flora: Plant Care Log](https://x.ai/bot/dGYdqS9vLSXpxoNCPBHys) — 私人室内植物护理日志与周提醒，在自己的电脑上建植物日记并按时催浇水。
 - [Flowsery](https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k) — 把会话录像收成一份按优先级排的修复清单。 <sub>作者 [Taras](https://x.com/tarasshyn) (@tarasshyn) · [出处](https://x.com/tarasshyn/status/2093730218145976437)</sub>
@@ -112,9 +118,13 @@
 - [OwnPhoneBot](https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP) — 通过 VoIP.ms 和 Asterisk 给你的 AI 一个真实电话号码。 <sub>作者 [Daniel](https://x.com/lafraia) (@lafraia) · [出处](https://x.com/lafraia/status/2100362748701872405)</sub>
 - [Packet Wrangler Range Rider](https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS) — 只读盯托管站点的健康，写好修复建议等你批准。 <sub>作者 [Stephanie](https://x.com/SLamouroux) (@SLamouroux) · [出处](https://x.com/SLamouroux/status/2100710528209277136)</sub>
 - [Path Consolidator Bot](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) — 找出重复代码路径并帮助合并。 <sub>作者 [Joshua](https://x.com/joshuastowell25) (@joshuastowell25)</sub>
+- [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) <sup>官方</sup> — API 测不到的路径就硬来：在机器上直接操作界面，抓下失败，交一份精简发现清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — 按风险高低来审 pull request。 <sub>作者 [mustafa](https://x.com/mustafaergisi) · [出处](https://x.com/mustafaergisi/status/2093393924870058039)</sub>
+- [Product Feedback Analyst](https://x.ai/bot/s9e2a2591b97ca74fbeaa) <sup>官方</sup> — 把零散的产品反馈理成优先级：多来源收集后聚类，按证据和紧急度权衡，再起草结论。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) <sup>官方</sup> — 看清真正要紧的指标：登可观测性平台、翻火焰图，回来给你热点加一段说明。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Prompt Injection Tabletop](https://x.ai/bot/k4tC99hzcfIgk0yrRKvuZ) — 跑防御性提示注入桌面推演，并留下可上线的加固清单。 <sub>作者 [#CarbeneAI](https://x.com/CarbeneAI) (@CarbeneAI)</sub>
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) — 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 <sub>作者 [FreeSolDev](https://x.com/STACCoverflow) (@STACCoverflow)</sub>
+- [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) <sup>官方</sup> — 从一句需求到能点的东西：自己在机器上写，回来给你截图加一个在线地址。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Rage-to-Repro](https://x.ai/bot/OiWRa-EK50vFlpisHat_b) — 把愤怒的缺陷报告变成冷静的复现卡。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Real-Place Play Mat Builder](https://x.ai/bot/M7lV0J3ZhSjdCv4Dhju91) — 按真实地点设计风火轮比例游戏垫，含线框与模块化 SVG 零件。 <sub>作者 [Wyatt](https://x.com/WyattPettis) · [出处](https://x.com/WyattPettis)</sub>
 - [Remote Grok Build](https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX) — 为已连接电脑上的本地 Grok Build 做任务控制。可选按项目工人和用于并行回合的 RGB 通道。 <sub>作者 [Frank](https://x.com/FrankYin17) (@FrankYin17) · [出处](https://x.com/FrankYin17/status/2100333239458033926)</sub>
@@ -125,6 +135,7 @@
 - [Sanity](https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx) — Sanity 内容模型、模式和 GROQ 专长。 <sub>作者 [Adam](https://x.com/ahdumgray) (@ahdumgray) · [出处](https://x.com/ahdumgray/status/2093504459741794550)</sub>
 - [SAP Technical Consultant](https://x.ai/bot/O08yUdBz6vFFqYITvWPPi) — S/4HANA 顾问，帮你做干净核心的设计决定。 <sub>作者 [Lalit](https://x.com/beinglalit21) (@beinglalit21) · [出处](https://x.com/beinglalit21/status/2093783196488061076)</sub>
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) — 在聊天里用 Midkernel 扫 GitHub 仓库，回报报告和完整日志。 <sub>作者 [James](https://x.com/mdashjames) (@mdashjames)</sub>
+- [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) <sup>官方</sup> — 快速过供应商安全问卷：登门户、从信任中心和历史标书取答案，逐项填好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) — 自主 SEO 工程师，在站点仓库里拉起 SEOAgent，冲自然流量。 <sub>作者 [alexander.v.lindsay@gmail.com](https://x.com/SEOAgent_) (@SEOAgent_) · [出处](https://x.com/SEOAgent_)</sub>
 - [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) — 用 servel CLI 管 Servel Docker Swarm 集群的部署、节点与日志。 <sub>作者 [Kerem](https://x.com/serveldev) (@serveldev)</sub>
 - [Sheet Check](https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW) — 表格问答，引用单元格，否则说不知道。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>

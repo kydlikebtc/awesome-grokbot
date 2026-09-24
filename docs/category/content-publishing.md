@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-233 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+237 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -123,6 +123,7 @@
 - [Market Loop](https://x.ai/bot/8tv5B1XUrpqWJ2mp1tkk6) — Recurring grocery automation: turns purchase history into weekly/biweekly/monthly lists, prepares delivery carts from saved lists, handles voice. <sub>by [Marcel](https://x.com/marcelvsouza) (@marcelvsouza)</sub>
 - [Marketing Bot](https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB) — A CMO bot that turns your product into the marketing around it. <sub>by [Ihor](https://x.com/tymarsha) (@tymarsha) · aka *Marketing Bot (CMO)* · [origin](https://x.com/tymarsha/status/2093448136396095754)</sub>
 - [Marketing Bot](https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6) — Turns a project description into X launch copy worth tapping. <sub>by [Bragi](https://x.com/BragiHelvig) (@BragiHelvig) · [origin](https://x.com/BragiHelvig/status/2100393322569167341)</sub>
+- [Marketing Calendar Owner](https://x.ai/bot/se318a72a31fad75c277e) <sup>official</sup> — Keep regional and global content, launch, and events calendars in sync. Pulls from Notion and keeps webinars and campaigns current without a weekly chase. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Marketplace Bot](https://x.ai/bot/9ptyasfHm8ehbIDsLizs-) — Prices, writes and posts your second-hand listings across three selling apps. <sub>by [Strategic](https://x.com/mentalmodality) (@mentalmodality) · [origin](https://x.com/mentalmodality/status/2096802892602654744)</sub>
 - [Medium Writer](https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o) — Drafts practitioner stories ready for Medium from a source. <sub>by [Vijay](https://x.com/ixdesigner) (@ixdesigner)</sub>
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — Makes still memes and GIFs from live X trends and news, plus a 3-5 meme morning drop. Never posts to X. <sub>by [dogenorway](https://x.com/DogecoinNorway) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
@@ -135,6 +136,7 @@
 - [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) — Turns a track and lyrics into a timed shot list and prompt board. <sub>by [Joseph](https://x.com/OmgawdMadeit) (@OmgawdMadeit) · [origin](https://x.com/OmgawdMadeit/status/2096127964668629458)</sub>
 - [MyApps Video Desk](https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK) — Generates photoreal clips in MyApps and stitches with ffmpeg. <sub>by [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O)</sub>
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) — Design partner for a U.S. citizen dividend and sovereign wealth package with floors, wage ladder, and pay-fors. <sub>by [Alec](https://x.com/AlecSnelling) · [origin](https://x.com/AlecSnelling/status/2099377714600050708)</sub>
+- [Newsletter Writer](https://x.ai/bot/s5d2839123b973b4480f9) <sup>official</sup> — Pulls what shipped from launches, wins and your calendar, writes the issue in your voice, and parks it for you to send. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [NewsletterBot](https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8) — Turns a newsletter issue link into branded social graphics and carousels after you approve the highlights. <sub>by [Contentdrips by Usama](https://x.com/im_usamakhalid) (@im_usamakhalid) · [origin](https://x.com/im_usamakhalid/status/2102110261683552351)</sub>
 - [Nigerian Prince Bot](https://x.ai/bot/6R04SyIqh-omLtqYD7FCy) — Nigerian Prince tip-jar. One ask. Official X Money to @suddenlyjon, $0.69+. Built by @SuddenlyJon. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Office Ops Desk](https://x.ai/bot/afZj-XnYkThA4MB7GfZK6) — Tracks office shipments, facilities issues, and team birthdays, then writes the digests. Works from a pasted list or a spreadsheet, and never sends.
@@ -149,9 +151,11 @@
 - [Pearl](https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC) — Chief of Staff for a creator content engine that plans work, delegates to specialist bots, reviews handoffs, and asks before shipping. <sub>by [Vivek](https://x.com/vivekk_tech) · [origin](https://x.com/vivekk_tech/status/2101980385030869092)</sub>
 - [People Log](https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK) — A social-memory bot that remembers names and details about friends, coworkers, and neighbors — including photos — so you can add notes at events and. <sub>by [Tim](https://x.com/TeslaCybernut) (@TeslaCybernut)</sub>
 - [PerkDrop](https://x.ai/bot/JMYZKIbP0ekzJ3IvGMlQk) — Finds free tools, credits, and programs for students, startups, OSS maintainers, hackathon builders, and job hunters. Short claimable cards with. <sub>by [Sanath](https://x.com/sansynx) (@sansynx)</sub>
+- [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) <sup>official</sup> — Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Plainwrap](https://x.ai/bot/UcazP9A_LRigoW9b06QRo) — Plain-English digest editor that turns dense input into something most people can follow. <sub>by [Code](https://x.com/CodeSolutionsIL) · aka *Babel Fish* · [origin](https://x.com/CodeSolutionsIL)</sub>
 - [Podcast Pipeline](https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn) — Covers the whole production line for an audio programme: it researches the topic, writes a script with a distinct voice for each host, stitches the speech…. <sub>by [Nge](https://x.com/TheNextGreatEra) (@TheNextGreatEra) · [origin](https://x.com/TheNextGreatEra/status/2100358476354707610)</sub>
 - [PostNitro Bot](https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw) — Creates and schedules social posts with PostNitro for your own brand. Writes the copy, designs carousels, images, and videos, then books them to. <sub>by [Muneeb](https://x.com/muneeb_builds) (@muneeb_builds)</sub>
+- [Presentation Designer](https://x.ai/bot/s25997c2d0308b4e76024) <sup>official</sup> — Builds on-brand decks from your master template and brand system, and hands back an editable link rather than a flat export. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Printful Tee Designer by Chris,](https://x.ai/bot/hEyePUj2QtclYLioeTkTw) — Printful-first tee flow from theme to original art to print-ready DTG file after you approve. <sub>[origin](https://x.com/GrokVeinKeeper)</sub>
 - [Producer](https://x.ai/bot/f2IQR96u1xM-hzMpW7sg2) — Producer seat that moves podcast episodes from idea to publish. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [Product](https://x.ai/bot/3P03grqfP1E5PjeOSW-xO) — Product judgment for indie apps - what to ship next, what not to build, and whether a change is a real user problem. Writes ranked ship-now specs; never. <sub>by [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>

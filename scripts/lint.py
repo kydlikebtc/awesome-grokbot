@@ -146,6 +146,15 @@ def main():
         ):
             warn(f"{label}: summary_zh is identical to summary — untranslated?")
 
+        # `official` asserts that the organisation in author.name published the
+        # share. JSON Schema cannot express the dependency between two fields,
+        # so it is checked here: the claim is meaningless without the name, and
+        # the READMEs build the "published by ..." sentence out of it.
+        if e.get("official") and not (e.get("author") or {}).get("name"):
+            err(
+                f"{label}: official is set but there is no author.name to attribute it to"
+            )
+
     # catalog-level invariants
     declared = catalog.get("counts", {})
     if declared.get("live") != len(entries):

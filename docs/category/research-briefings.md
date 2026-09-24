@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-315 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+318 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -59,6 +59,7 @@
 - [Coach G](https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS) — Morning health readout from your watch or ring data. <sub>by [Mike](https://x.com/mikepat711) (@mikepat711) · [origin](https://x.com/mikepat711/status/2096726779629121681)</sub>
 - [Collins](https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3) — Works through Hercules Collins's 1680 catechism, one question a day. <sub>by [Zach](https://x.com/zachmllr) (@zachmllr) · [origin](https://x.com/zachmllr/status/2094258928922116418)</sub>
 - [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — Commercial judgment for technical founders deciding without complete data. <sub>by [Smit](https://x.com/thesmitpatel) (@thesmitpatel) · [origin](https://x.com/thesmitpatel/status/2094100307340857707)</sub>
+- [Competitive Intelligence Analyst](https://x.ai/bot/sa2d131975aaab07e43f2) <sup>official</sup> — Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Competitor Watching](https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N) — Snapshots you against 3-8 competitors and alerts only on material change. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398377056678001)</sub>
 - [Connection Audit](https://x.ai/bot/qllnuXO-FDFBHZU4MSamY) — Triages the saved-reading pile and ties each keeper to a live problem. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2094103797270503600)</sub>
 - [Consumption Autopsy](https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy) — Post-mortems your study habits and swaps one passive input for practice. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2094103715070558493)</sub>
@@ -243,6 +244,7 @@
 - [Segundo Cérebro](https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J) — An Obsidian second brain with a morning brief and a nightly check-in. <sub>by [Allan](https://x.com/liderzio) (@liderzio) · [origin](https://x.com/liderzio/status/2093672211844337867)</sub>
 - [Sentry OPS](https://x.ai/bot/ZFQ35fLdqLdzDyI_TQoGZ) — Sentry digests and production error alerts you can act on. <sub>by [Pinuts](https://x.com/Pinuts_) (@Pinuts_)</sub>
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) — Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.
+- [SEO / AEO Auditor](https://x.ai/bot/sb6d579c33f7a32d0e7af) <sup>official</sup> — Tracks keyword, technical, AI-prompt and competitor movement in one place, and flags the site issues worth fixing. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [SEO/GEO Specialist](https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng) — SEO and GEO operator for people who want measurable rankings and AI citations. Uses Rankdelta.ai for research, rank tracking, technical audits, and AI. <sub>by [Angelo](https://x.com/angelosorbello1) (@angelosorbello1)</sub>
 - [Serenity 티커 알림](https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ) — Tracks Serenity ticker opinions on X via FxTwitter every fifteen minutes. <sub>by [krong](https://x.com/Krongggggg) (@Krongggggg)</sub>
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — Give it a symptom and it works out what actually caused the drop. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383124948324505)</sub>
@@ -276,6 +278,7 @@
 - [Termômetro Eleitoral](https://x.ai/bot/n6DQhcTSPHdlVpQtEinpS) — Daily summary of X candidates and posts worth your attention. <sub>by [Cristiano](https://x.com/crisvallory) (@crisvallory)</sub>
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) — A cheerful skeptic that makes your other bots prove it. <sub>by [Russ](https://x.com/russbroomell) (@russbroomell) · [origin](https://x.com/russbroomell/status/2095661019041251711)</sub>
 - [The List](https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k) — Three-line in-chat drops when new bots or directory picks land, no email and no drafting. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod) · [origin](https://x.com/GrokBotGod/status/2101482157436751928)</sub>
+- [The List](https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq) — Three lines in your own chat whenever a new bot lands in the directory. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Page](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) — Watches 3-5 public pages once each morning and messages only when the thing you care about actually changed. After setup you get a short Watching list;. <sub>by [Hiten](https://x.com/hnshah) (@hnshah)</sub>
 - [Thoth](https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT) — Does deep research and files the dossiers so you can find them again. <sub>by [Rich](https://x.com/RichSilver) · [origin](https://x.com/RichSilver/status/2093409239246971049)</sub>
 - [Throttle · Token Officer — fleet burn & waste](https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP) — Watches a Grok Bot fleet for token burn and wasteful loops with short reports. <sub>by [Ailton](https://x.com/james_ailton) (@james_ailton)</sub>

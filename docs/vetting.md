@@ -37,15 +37,23 @@ A good default instruction to add to any imported bot: _"Draft and research only
 
 ## What a green link in this catalog does and does not prove
 
-| Claim                                                     | True?                           |
-| --------------------------------------------------------- | ------------------------------- |
-| The share page returned HTTP 200 on the date in the badge | ✅ Yes, measured                |
-| The name and description match what the author published  | ✅ Yes, read from the live page |
-| The bot is safe                                           | ❌ Not tested                   |
-| The bot still works as described                          | ❌ Not tested                   |
-| The bot is actively maintained                            | ❌ Not tested                   |
+| Claim                                                                    | True?                                         |
+| ------------------------------------------------------------------------ | --------------------------------------------- |
+| The share page returned HTTP 200 on the date in the badge                | ✅ Yes, measured                              |
+| The name and description match what the author published                 | ✅ Yes, read from the live page               |
+| An <sup>official</sup> row was published by the organisation named on it | ✅ Yes, from the share page's own attribution |
+| An <sup>official</sup> row is therefore safer                            | ❌ Not tested — run the same checklist        |
+| The bot is safe                                                          | ❌ Not tested                                 |
+| The bot still works as described                                         | ❌ Not tested                                 |
+| The bot is actively maintained                                           | ❌ Not tested                                 |
 
 Reachability is the only property this catalog verifies. Everything else is on you before you connect a single thing.
+
+### What <sup>official</sup> does and does not mean
+
+Some rows are marked <sup>official</sup>: the share page attributes the bot to an organisation rather than to an individual, so you know who published it and that it was not reposted by a third party.
+
+That is a provenance label, not an endorsement. It says nothing about what the bot does on your account, and the checklist above applies to it unchanged — an organisation's bot still arrives as untrusted third-party software, still lands on the same shared computer as every other bot you have added, and still needs its connectors added one at a time. Several of the official rows currently listed are explicitly draft-only or review-only, which is a property of those particular bots stated on their own share pages, not something the label guarantees.
 
 ## Reporting a problem
 

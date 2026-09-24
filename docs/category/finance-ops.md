@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-138 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+144 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -29,6 +29,7 @@
 - [Claim Starter Pack](https://x.ai/bot/k3-TuPGQzUVKtnjYNWji0) — Insurance claim starter: timeline, docs checklist, draft narrative. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Class Action Lawsuit Finder](https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ) — Finds Canadian and Quebec class-action settlements you can claim. <sub>by [Rob](https://x.com/rob_an_) (@rob_an_)</sub>
 - [Coin](https://x.ai/bot/QOQRcpreItQijaazrJ7wp) — Autopilot Coinbase Advanced Trade manager — places and manages mid-cap crypto trades with hard stops, scale-outs, weekly rotation, and a macro cash. <sub>by [Estevan](https://x.com/xtevan) (@xtevan)</sub>
+- [Contract Desk](https://x.ai/bot/sd358e6cf5e8bed188eec) <sup>official</sup> — See the week of paper at a glance. Summarizes by stage and owner, pulls key terms, and flags blocked reviews. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Convert X Money to Karma](https://x.ai/bot/iCn7r691OdtaB_o8MtHx_) — Converts money, tokens, and engagement into karmic accounting with a ten percent watermark up the royalty chain. <sub>by [Rob](https://x.com/ludiofelix) (@ludiofelix)</sub>
 - [Copay Compass](https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD) — Chases down help with the price of a cancer prescription and preps the paperwork. <sub>by [Marc](https://x.com/MSaintjour) (@MSaintjour) · [origin](https://x.com/MSaintjour/status/2094802093622133104)</sub>
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) — Turns one health question into a three-minute brief. <sub>by [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [origin](https://x.com/GuleidAmina/status/2093386135452152155)</sub>
@@ -46,6 +47,7 @@
 - [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) — Elliott Wave analyst for liquid crypto and listed stocks. Labels structure, projects Fibonacci targets, and states invalidation. Preferred plus. <sub>by [Viktor](https://x.com/BitrockLLC) (@BitrockLLC)</sub>
 - [ESA Vendor Desk](https://x.ai/bot/GBB4tGs-8cSl8DTX3zhyg) — Runs multi-state ESA and voucher vendor filings, ClassWallet/Odyssey hygiene, and curriculum directory listings for a classical Christian curriculum. <sub>by [Another](https://x.com/AnotherJoe) (@AnotherJoe)</sub>
 - [Evelyn](https://x.ai/bot/OZn5dOvIhkqsG5CG-Ow2D) — Accounts receivable agent for multi-entity service companies. <sub>by [Thomas](https://x.com/MattesonAI) (@MattesonAI)</sub>
+- [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) <sup>official</sup> — Builds the weekly summary from your expense tool and sheets, logs receipts arriving by email, and chases missing ones. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Family Office](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) — UHNW-style planner for tax, estate, retirement, and entities. <sub>by [rob_e](https://x.com/rob_evj) (@rob_evj)</sub>
 - [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) — Front-door GM for a multi-league fantasy football shop. Fans work to specialist desks, restamps boards on a clock, and never submits a lineup, trade, or. <sub>by [Eric](https://x.com/androiydai) (@androiydai)</sub>
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — Runs a paper-trading tournament on NSE or NASDAQ. <sub>by [Shantanu](https://x.com/shantanugoel) (@shantanugoel) · aka *Fenrir (Paper Trading)* · [origin](https://x.com/shantanugoel/status/2093399035529085059)</sub>
@@ -69,6 +71,7 @@
 - [Hormozi Money Models](https://x.ai/bot/5YvX0dqXaRzi1lYZJz6F0) — Audits how a business makes and keeps cash using Hormozi Money Models frameworks. <sub>by [Arturo](https://x.com/arturorodes) · [origin](https://x.com/arturorodes)</sub>
 - [House-Hunt Assistant](https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg) — House hunting made easy: say where and your max price, then get twice-daily watches, shortlist alerts, rough payment estimates, tour/offer help, and. <sub>by [Alison](https://x.com/al1__x) (@al1__x) · [origin](https://x.com/al1__x/status/2099989568925598182)</sub>
 - [Invention Engineer](https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz) — Starts from what you have — tools, printer, parts, budget, skills — and fills in the rest: plans, BOM, vendor sourcing, and build steps. Own-printer. <sub>by [Wardonis](https://x.com/Wardonis)</sub>
+- [Invoice Coordinator](https://x.ai/bot/s072bae9387b9fc03cac8) <sup>official</sup> — Stops invoices sitting. Forwards them, matches what it can, tracks campus and vendor actuals, and nudges the owner when something needs a human. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — Finds invoice PDFs in Gmail and packs a month into a CSV. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — Keeps Harvest and Balances invoices in sync: daily create/update from Harvest into Balances, then mark Harvest paid when Balances shows payment. Stages. <sub>by [Jerrod](https://x.com/jerrodtuck)</sub>
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) — Kalshi research seat that logs placed bets for one market instead of a catch-all desk. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101113469185474972)</sub>
@@ -85,6 +88,8 @@
 - [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) — Helps with Oracle Fusion Cloud Payables: look up Financials REST APIs (FARFA), create and validate supplier invoices, and walk invoice workflows against. <sub>by [Shiv](https://x.com/__KumR__) (@__KumR__)</sub>
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) — Pay-it-down coach that starts from statements and opens the bank only after you say yes. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) — Primary interface for an owner-operator: protect focus, route work to specialists, keep personal and business cash separate, and run weekday digests so. <sub>by [Allan](https://x.com/allantsivils) (@allantsivils)</sub>
+- [Paid Media](https://x.ai/bot/s59facc90a46a8b4f59da) <sup>official</sup> — Pulls live channel and campaign data, Slacks a recommended reallocation against your monthly budget, and holds for your approval before making adjustments. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Paid Media Creative Strategist](https://x.ai/bot/s45471f3a8af234c13047) <sup>official</sup> — Spot early creative winners before they're obvious. Writes a sharp why-it-works hypothesis and proposes the next test. No invented metrics. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PantryPatrol](https://x.ai/bot/BiPCHML6s0cTYPhm4c72_) — Monitors MyFitnessPal food logs, analyzes what you actually eat, then builds a ready H-E-B grocery delivery cart—hands-free restock. Future state:. <sub>by [Froy](https://x.com/Jack_137) (@Jack_137)</sub>
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — Cash floor coach that keeps checking your balance stays above a floor until payday. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) — Analyses bank CSV for spending, bills, lifestyle creep, and cash flow.
@@ -131,6 +136,7 @@
 - [Travel Guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) — Plans award travel around your home airport, points and status. <sub>by [DJ](https://x.com/congressdj) (@congressdj) · [origin](https://x.com/congressdj/status/2093539459719434306)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray desk for trading workflows. <sub>by [XO](https://x.com/Ortix008) (@Ortix008)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — Conversion-path intelligence for browser-only funnel builders — ClickFunnels, GoHighLevel, Kartra, Systeme, and similar stacks. Crawls live funnels,. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
+- [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>official</sup> — Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Visibility Marketer](https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF) — Free organic marketer for Grok Bot templates. Writes natural, human-feeling copy; finds no-new-account visibility; posts on accounts you already own. <sub>by [Wardonis](https://x.com/Wardonis) · [origin](https://x.com/Wardonis/status/2102149739500187778)</sub>
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) — Maps covered/gray/excluded from warranty clauses. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) — Sweeps your inbox weekly for renewals, receipts and expiring trials. <sub>by [SmoresBoy](https://x.com/jxckvibe) · [origin](https://x.com/jxckvibe/status/2093828719374705066)</sub>

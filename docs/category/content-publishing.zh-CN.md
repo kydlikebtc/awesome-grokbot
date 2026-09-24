@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-233 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+237 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -123,6 +123,7 @@
 - [Market Loop](https://x.ai/bot/8tv5B1XUrpqWJ2mp1tkk6) — 周期性买菜自动化，按购买史生成周或月清单，从已存清单备好配送车，支持语音补货。 <sub>作者 [Marcel](https://x.com/marcelvsouza) (@marcelvsouza)</sub>
 - [Marketing Bot](https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB) — CMO Bot，把产品本身变成围着它转的营销。 <sub>作者 [Ihor](https://x.com/tymarsha) (@tymarsha) · 社区旧称 *Marketing Bot (CMO)* · [出处](https://x.com/tymarsha/status/2093448136396095754)</sub>
 - [Marketing Bot](https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6) — 把项目说明收成值得点开的 X 发布文案与线程。 <sub>作者 [Bragi](https://x.com/BragiHelvig) (@BragiHelvig) · [出处](https://x.com/BragiHelvig/status/2100393322569167341)</sub>
+- [Marketing Calendar Owner](https://x.ai/bot/se318a72a31fad75c277e) <sup>官方</sup> — 区域和全球的内容、发布、活动日历保持同步：从 Notion 取数，网课和投放不用每周催。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Marketplace Bot](https://x.ai/bot/9ptyasfHm8ehbIDsLizs-) — 二手闲置定价、写文案、发到三个平台。 <sub>作者 [Strategic](https://x.com/mentalmodality) (@mentalmodality) · [出处](https://x.com/mentalmodality/status/2096802892602654744)</sub>
 - [Medium Writer](https://x.ai/bot/QdafnX9w3E0G7vqZsvs0o) — 按来源起草适合 Medium 的实操故事稿。 <sub>作者 [Vijay](https://x.com/ixdesigner) (@ixdesigner)</sub>
 - [Meme King](https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp) — 按当天 X 热度和新闻做静图和 GIF 梗图，早上再丢 3 到 5 张。自己不会发到 X。 <sub>作者 [dogenorway](https://x.com/DogecoinNorway) · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
@@ -135,6 +136,7 @@
 - [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) — 把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。 <sub>作者 [Joseph](https://x.com/OmgawdMadeit) (@OmgawdMadeit) · [出处](https://x.com/OmgawdMadeit/status/2096127964668629458)</sub>
 - [MyApps Video Desk](https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK) — 在 MyApps 里生成短片再用 ffmpeg 拼成一条。 <sub>作者 [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O)</sub>
 - [Nessie](https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_) — 协助起草美国全民分红与主权财富方案，锁定下限、工资阶梯和真实筹资来源。 <sub>作者 [Alec](https://x.com/AlecSnelling) · [出处](https://x.com/AlecSnelling/status/2099377714600050708)</sub>
+- [Newsletter Writer](https://x.ai/bot/s5d2839123b973b4480f9) <sup>官方</sup> — 月度通讯按时发：从发布、战绩、日历里取料，用你的口吻写好，先存着等你发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [NewsletterBot](https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8) — 把一期 newsletter 链接转成品牌社媒图与轮播，亮点先经你批准再出图。 <sub>作者 [Contentdrips by Usama](https://x.com/im_usamakhalid) (@im_usamakhalid) · [出处](https://x.com/im_usamakhalid/status/2102110261683552351)</sub>
 - [Nigerian Prince Bot](https://x.ai/bot/6R04SyIqh-omLtqYD7FCy) — 尼日利亚王子小费罐，只问一次，官方 X Money 打给 suddenlyjon，六毛九起。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Office Ops Desk](https://x.ai/bot/afZj-XnYkThA4MB7GfZK6) — 跟踪办公室快递、设施问题与团队生日并写摘要，可从粘贴列表或表格来，不擅自外发。
@@ -149,9 +151,11 @@
 - [Pearl](https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC) — 创作者内容引擎的幕僚长，规划工作、分派专家 Bot、审交接，发之前会先问你。 <sub>作者 [Vivek](https://x.com/vivekk_tech) · [出处](https://x.com/vivekk_tech/status/2101980385030869092)</sub>
 - [People Log](https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK) — 社交记忆机器人，记住朋友、同事与邻居的名字与细节，提醒你别说错话。 <sub>作者 [Tim](https://x.com/TeslaCybernut) (@TeslaCybernut)</sub>
 - [PerkDrop](https://x.ai/bot/JMYZKIbP0ekzJ3IvGMlQk) — 为学生、创业、开源维护者、黑客松与求职者找免费工具、额度与项目，做成可领取的短卡片。 <sub>作者 [Sanath](https://x.com/sansynx) (@sansynx)</sub>
+- [Personal Site Builder](https://x.ai/bot/s3c76c85a840b32b8fed8) <sup>官方</sup> — 按一段描述搭个人站点，顺手把域名问题理清，交给你一个已经上线的起点。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Plainwrap](https://x.ai/bot/UcazP9A_LRigoW9b06QRo) — 白话摘要编辑，把难啃材料改写成多数人能看懂的版本。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) · 社区旧称 *Babel Fish* · [出处](https://x.com/CodeSolutionsIL)</sub>
 - [Podcast Pipeline](https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn) — 端到端播客机器人，研究、脚本、TTS、VTT、发布。 <sub>作者 [Nge](https://x.com/TheNextGreatEra) (@TheNextGreatEra) · [出处](https://x.com/TheNextGreatEra/status/2100358476354707610)</sub>
 - [PostNitro Bot](https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw) — 用 PostNitro 为你的品牌写文案、做轮播图视频并预约多平台发布。 <sub>作者 [Muneeb](https://x.com/muneeb_builds) (@muneeb_builds)</sub>
+- [Presentation Designer](https://x.ai/bot/s25997c2d0308b4e76024) <sup>官方</sup> — 不从空白页开始做品牌 PPT：套你的母版和品牌规范，交一个可继续改的链接。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Printful Tee Designer by Chris,](https://x.ai/bot/hEyePUj2QtclYLioeTkTw) — 面向 Printful 的 T 恤流程，主题到原稿再到可印 DTG，需你批准。 <sub>[出处](https://x.com/GrokVeinKeeper)</sub>
 - [Producer](https://x.ai/bot/f2IQR96u1xM-hzMpW7sg2) — 制作人席位，把播客从点子推到发布。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [Product](https://x.ai/bot/3P03grqfP1E5PjeOSW-xO) — 给独立应用做产品判断，决定下一步做什么、不做什么，以及改动是否真是用户问题。 <sub>作者 [Andrew](https://x.com/andrewkittridge) (@Andrew Kittridge)</sub>

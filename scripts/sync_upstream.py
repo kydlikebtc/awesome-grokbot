@@ -58,6 +58,21 @@ TIMEOUT = 30
 
 SHARE_RE = re.compile(r"https://x\.ai/bot/([A-Za-z0-9_-]+)")
 
+# Organisations that publish their own bots, as opposed to individuals sharing
+# one they built. A match sets `official: true` on the row.
+#
+# Matched against the author the share page itself reports, parsed out of
+# og:title's "<bot> by <org>" — not against anything an upstream catalog claims.
+# Deliberately an explicit list rather than a pattern: these shares currently
+# carry ids shaped `s<20 hex>` while community ones do not, but that correlation
+# explains nothing and would silently mislabel individuals the day x.ai starts
+# issuing the same id shape. Naming which authors count as an organisation is a
+# judgement call, so it is written down instead of inferred.
+#
+# Compared case-insensitively. Add an entry only after checking the live page
+# actually attributes the bot to that organisation.
+OFFICIAL_PUBLISHERS = {"spacex"}
+
 UPSTREAMS = [
     {
         "name": "majiayu000/awesome-grok-bot",
@@ -140,9 +155,34 @@ def fetch(url, binary=False):
 
 # Words that carry no identifying weight in a five-word slug.
 SLUG_STOPWORDS = {
-    "a", "an", "the", "and", "or", "for", "to", "into", "of", "in", "on", "at",
-    "by", "with", "from", "your", "you", "that", "this", "it", "its", "then",
-    "so", "up", "out", "as", "is", "are",
+    "a",
+    "an",
+    "the",
+    "and",
+    "or",
+    "for",
+    "to",
+    "into",
+    "of",
+    "in",
+    "on",
+    "at",
+    "by",
+    "with",
+    "from",
+    "your",
+    "you",
+    "that",
+    "this",
+    "it",
+    "its",
+    "then",
+    "so",
+    "up",
+    "out",
+    "as",
+    "is",
+    "are",
 }
 
 
@@ -539,7 +579,7 @@ def main():
             suffix = re.sub(r"[^a-z0-9]", "", bid.lower())[:4] or "dup"
             slug = f"{slug}-{suffix}"
             n = 2
-            while slug in known_slugs:      # still colliding: number it
+            while slug in known_slugs:  # still colliding: number it
                 base = slugify(up.get("name") or live["name"], fallback=summary)
                 slug = f"{base}-{suffix}-{n}"
                 n += 1
@@ -575,6 +615,13 @@ def main():
         }
         if author.get("name"):
             rec["author"] = {k: v for k, v in author.items() if v}
+            # Only ever from the live page's own attribution. `author["name"]`
+            # is set from og:title above; an upstream-supplied name lands in
+            # `handle` and is not trusted for this.
+            # `or ""`, not a get() default: probe() sets author to None when
+            # og:title has no " by <org>" suffix, so the key exists and is None.
+            if (live.get("author") or "").strip().lower() in OFFICIAL_PUBLISHERS:
+                rec["official"] = True
         if up.get("tags"):
             rec["tags"] = [str(t) for t in up["tags"] if t][:4]
         if live.get("official_summary"):
@@ -637,9 +684,16 @@ def main():
             }
             for r in pending
         ]
-        json.dump(out, open(args.pending_out, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        json.dump(
+            out,
+            open(args.pending_out, "w", encoding="utf-8"),
+            ensure_ascii=False,
+            indent=2,
+        )
         print(f"\nwrote {len(out)} row(s) needing Chinese to {args.pending_out}")
-        print("fill in each summary_zh, then re-run with --pending-in <that file> --write")
+        print(
+            "fill in each summary_zh, then re-run with --pending-in <that file> --write"
+        )
     print(
         f"\nready to add: {len(ready)}"
         + (f" | skipped, no Chinese: {skipped}" if skipped else "")
@@ -660,11 +714,16 @@ def main():
     if not ready:
         return 0
 
+    # Whitelist as well as an ordering: anything not listed here is dropped on
+    # the way into catalog.json. A new field must be added here or it vanishes
+    # silently -- schema allows it, the code above sets it, and lint cannot
+    # complain because optional fields are allowed to be absent.
     ORDER = [
         "slug",
         "name",
         "aka",
         "author",
+        "official",
         "summary",
         "summary_zh",
         "zh_machine",

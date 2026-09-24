@@ -7,17 +7,17 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 1985,
+    "live": 2042,
     "retired": 6,
     "by_category": {
-      "coding-shipping": 151,
+      "coding-shipping": 162,
       "inbox-calendar": 187,
-      "research-briefings": 315,
-      "customer-sales": 139,
-      "finance-ops": 138,
-      "content-publishing": 233,
-      "personal-admin": 653,
-      "teams-handoffs": 169
+      "research-briefings": 318,
+      "customer-sales": 159,
+      "finance-ops": 144,
+      "content-publishing": 237,
+      "personal-admin": 656,
+      "teams-handoffs": 179
     }
   },
   "entries": [
@@ -438,6 +438,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "beta-adoption-watcher",
+      "name": "Beta Adoption Watcher",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "See who's actually trying the new feature. Monitors usage and surfaces which customers are in, so the team can follow up.",
+      "summary_zh": "看谁真在用新功能：盯用量、列出已上手的客户，方便团队跟进。",
+      "official_summary": "See who's actually trying the new feature. Monitors usage and surfaces which customers are in, so the team can follow up.",
+      "import": "https://x.ai/bot/sfcf5d046a2784045938d",
+      "bot_id": "sfcf5d046a2784045938d",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "betree",
       "name": "BeTree",
       "author": {
@@ -578,6 +604,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "bug-reproduction",
+      "name": "Bug Reproduction",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Picks up the thread, clicks the same path in staging, captures the failure, and files a repro pack engineers can trust.",
+      "summary_zh": "给工程师能信的缺陷报告：接过帖子、在预发环境点同样路径、抓下现场，产出复现包。",
+      "official_summary": "Give engineers reports they can trust. Catches the thread, clicks the same path in staging, captures the failure, and drops a repro pack (steps,...",
+      "import": "https://x.ai/bot/s2d62197e15bd11a1bd63",
+      "bot_id": "s2d62197e15bd11a1bd63",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "buildfeed-startups",
       "name": "BuildFeed: Startups",
       "author": {
@@ -603,6 +655,32 @@
         }
       ],
       "first_seen": "2026-09-16",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "call-faq-miner",
+      "name": "Call FAQ Miner",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording.",
+      "summary_zh": "从真实通话维护问答库：记问题、给答案打时间戳、回链到原始录音。",
+      "official_summary": "Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording.",
+      "import": "https://x.ai/bot/s297976f738dc390d23df",
+      "bot_id": "s297976f738dc390d23df",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -848,6 +926,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cloud-agent-orchestrator",
+      "name": "Cloud Agent Orchestrator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report.",
+      "summary_zh": "同时跑一堆云端 agent 不用盯：起任务、看状态、推卡住的，最后汇总报告。",
+      "official_summary": "Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report.",
+      "import": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+      "bot_id": "s20b2c65ebeebb7362fa7",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "code-red",
@@ -1379,6 +1483,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "docs-auditor",
+      "name": "Docs Auditor",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Diffs the help center and internal notes against what actually shipped, flags stale pages, and drafts the fix.",
+      "summary_zh": "揪出跟产品脱节的文档：拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订。",
+      "official_summary": "Catch docs that are out of date with the product. Diffs help center and internal notes against what shipped last week, flags stale pages, and drafts the...",
+      "import": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+      "bot_id": "s1025e1ebe0b11f048bd4",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "dr-eggbot",
       "name": "dr eggbot",
       "author": {
@@ -1719,6 +1849,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "feature-request-tracker",
+      "name": "Feature Request Tracker",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Never lose \"who asked for this.\" Mines Slack and calls into a living list tied to customers, so the spec has a real demand trail.",
+      "summary_zh": "记住需求是谁提的：从 Slack 和通话里挖出来，挂到客户身上，让规格有真实出处。",
+      "official_summary": "Never lose \"who asked for this.\" Mines Slack and calls into a living list tied to customers, so the spec has a real demand trail.",
+      "import": "https://x.ai/bot/s229dcca5bc0eaa01b09c",
+      "bot_id": "s229dcca5bc0eaa01b09c",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "feedback",
@@ -3835,6 +3991,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "playtest-operator",
+      "name": "Playtest Operator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack.",
+      "summary_zh": "API 测不到的路径就硬来：在机器上直接操作界面，抓下失败，交一份精简发现清单。",
+      "official_summary": "Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack.",
+      "import": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+      "bot_id": "s2cfcbb8a38b8e22b7d18",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "pr-reviewer",
       "name": "PR Reviewer",
       "author": {
@@ -3877,6 +4059,58 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "product-feedback-analyst",
+      "name": "Product Feedback Analyst",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Collects and clusters feedback from connected sources, weighs evidence against urgency, and drafts the prioritised view.",
+      "summary_zh": "把零散的产品反馈理成优先级：多来源收集后聚类，按证据和紧急度权衡，再起草结论。",
+      "official_summary": "Turn scattered product signal into a prioritized view. Collects and clusters feedback from connected sources, weighs evidence and urgency, and drafts...",
+      "import": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+      "bot_id": "s9e2a2591b97ca74fbeaa",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "product-performance",
+      "name": "Product Performance",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Logs into your observability tools, walks the flamegraphs, and comes back with hotspots plus a short writeup.",
+      "summary_zh": "看清真正要紧的指标：登可观测性平台、翻火焰图，回来给你热点加一段说明。",
+      "official_summary": "Get a clear view of the metrics that matter. Logs into observability tools, walks the flamegraphs, and comes back with hotspots plus a short writeup...",
+      "import": "https://x.ai/bot/s6d5f1cc3a564c8da972a",
+      "bot_id": "s6d5f1cc3a564c8da972a",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "prompt-injection-tabletop",
@@ -3938,6 +4172,32 @@
         }
       ],
       "first_seen": "2026-09-20",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "prototype-builder",
+      "name": "Prototype Builder",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Go from ask to something clickable fast. Writes on its computer and comes back with a screenshot plus a live URL.",
+      "summary_zh": "从一句需求到能点的东西：自己在机器上写，回来给你截图加一个在线地址。",
+      "official_summary": "Go from ask to something clickable fast. Writes on its computer and comes back with a screenshot plus a live URL.",
+      "import": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+      "bot_id": "s2e4acfb8db3cc0669a1b",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -4304,6 +4564,32 @@
         }
       ],
       "first_seen": "2026-09-10",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "security-questionnaire-filler",
+      "name": "Security Questionnaire Filler",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Logs into vendor security portals, pulls answers from your trust center and past RFPs, and drafts every field for review.",
+      "summary_zh": "快速过供应商安全问卷：登门户、从信任中心和历史标书取答案，逐项填好草稿。",
+      "official_summary": "Speed through vendor security portals. Logs into the questionnaire site, pulls answers from your trust center and past RFPs, drafts every field, and...",
+      "import": "https://x.ai/bot/s1bde25ba45eca88ff276",
+      "bot_id": "s1bde25ba45eca88ff276",
+      "category": "coding-shipping",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -9600,6 +9886,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "marketing-calendar-owner",
+      "name": "Marketing Calendar Owner",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Keep regional and global content, launch, and events calendars in sync. Pulls from Notion and keeps webinars and campaigns current without a weekly chase.",
+      "summary_zh": "区域和全球的内容、发布、活动日历保持同步：从 Notion 取数，网课和投放不用每周催。",
+      "official_summary": "Keep regional and global content, launch, and events calendars in sync. Pulls from Notion and keeps webinars and campaigns current without a weekly chase.",
+      "import": "https://x.ai/bot/se318a72a31fad75c277e",
+      "bot_id": "se318a72a31fad75c277e",
+      "category": "content-publishing",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "marketplace-bot",
       "name": "Marketplace Bot",
       "author": {
@@ -10017,6 +10329,32 @@
         }
       ],
       "first_seen": "2026-09-14",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "newsletter-writer",
+      "name": "Newsletter Writer",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Pulls what shipped from launches, wins and your calendar, writes the issue in your voice, and parks it for you to send.",
+      "summary_zh": "月度通讯按时发：从发布、战绩、日历里取料，用你的口吻写好，先存着等你发。",
+      "official_summary": "Ship monthly marketing and product updates on time. Pulls what's new from launches, wins, and your calendar, writes the issue in your voice, and parks...",
+      "import": "https://x.ai/bot/s5d2839123b973b4480f9",
+      "bot_id": "s5d2839123b973b4480f9",
+      "category": "content-publishing",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -10503,6 +10841,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "personal-site-builder",
+      "name": "Personal Site Builder",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point.",
+      "summary_zh": "按一段描述搭个人站点，顺手把域名问题理清，交给你一个已经上线的起点。",
+      "official_summary": "Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point.",
+      "import": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+      "bot_id": "s3c76c85a840b32b8fed8",
+      "category": "content-publishing",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "babel-fish",
       "name": "Plainwrap",
       "author": {
@@ -10604,6 +10968,32 @@
         }
       ],
       "first_seen": "2026-09-20",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "presentation-designer",
+      "name": "Presentation Designer",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Builds on-brand decks from your master template and brand system, and hands back an editable link rather than a flat export.",
+      "summary_zh": "不从空白页开始做品牌 PPT：套你的母版和品牌规范，交一个可继续改的链接。",
+      "official_summary": "Build on-brand decks without starting from a blank slide. Uses your master template and brand system and delivers an editable link ready to refine and...",
+      "import": "https://x.ai/bot/s25997c2d0308b4e76024",
+      "bot_id": "s25997c2d0308b4e76024",
+      "category": "content-publishing",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -13704,6 +14094,84 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "account-health",
+      "name": "Account Health",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list.",
+      "summary_zh": "季度复盘前就看清风险和增购机会：读完手上所有客户的用量和信号，理成一张关注清单。",
+      "official_summary": "See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list.",
+      "import": "https://x.ai/bot/s5465ebb9e192551741f7",
+      "bot_id": "s5465ebb9e192551741f7",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "account-manager",
+      "name": "Account Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Preps every call from transcripts, notes, CRM and Slack, drafts the follow-up, and keeps context from one call to the next.",
+      "summary_zh": "维护重点客户不用每次重建上下文：从转录、笔记、CRM、Slack 备会，跟进信也起好草稿。",
+      "official_summary": "Keep every key account warm without rebuilding context each time. Preps every call from transcripts, notes, CRM, and Slack, drafts follow-ups, and keeps...",
+      "import": "https://x.ai/bot/sd4333bc337078a9752ac",
+      "bot_id": "sd4333bc337078a9752ac",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "account-research-specialist",
+      "name": "Account Research Specialist",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Tier accounts before you touch them. Pulls Salesforce + live signals, scores fit and warmth, and builds a shareable research pack per account.",
+      "summary_zh": "接触前先给客户分层：合 Salesforce 和实时信号打匹配度和热度，每家出一份可传阅的调研包。",
+      "official_summary": "Tier accounts before you touch them. Pulls Salesforce + live signals, scores fit and warmth, and builds a shareable research pack per account.",
+      "import": "https://x.ai/bot/sa7d7f82d0068c2367a17",
+      "bot_id": "sa7d7f82d0068c2367a17",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "adm-account-bot",
       "name": "ADM account bot",
       "author": {
@@ -14487,6 +14955,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "community-operations-manager",
+      "name": "Community Operations Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Keep the ambassador loop moving. Screens apps, triages DMs across channels, and drafts nurture on a cadence so community isn't a full-time chase.",
+      "summary_zh": "大使计划转起来：审申请、跨渠道分拣私信、按节奏起草维护内容，社区不用专人盯。",
+      "official_summary": "Keep the ambassador loop moving. Screens apps, triages DMs across channels, and drafts nurture on a cadence so community isn't a full-time chase.",
+      "import": "https://x.ai/bot/seb9d6ba6765c64113941",
+      "bot_id": "seb9d6ba6765c64113941",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "company-docs-q-a",
       "name": "Company Docs Q&A",
       "summary": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a...",
@@ -14507,6 +15001,32 @@
         }
       ],
       "first_seen": "2026-09-16",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "compelling-events-monitor",
+      "name": "Compelling Events Monitor",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Watches leadership posts for awards, launches and hiring signals, then digests the ones worth engaging with.",
+      "summary_zh": "有真事再去搭话：盯高管发言里的获奖、发布、招人信号，汇总成一份可互动清单。",
+      "official_summary": "Engage when there's a real reason. Watches leadership posts for awards, launches, and hiring signals, then sends a short digest of posts to engage with...",
+      "import": "https://x.ai/bot/sdeb02761a9d185e5899f",
+      "bot_id": "sdeb02761a9d185e5899f",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -14684,6 +15204,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "crm-operations-manager",
+      "name": "CRM Operations Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Keep the pipeline clean. Handles CRM and org-chart hygiene before and after meetings so records stay current without a manual pass.",
+      "summary_zh": "保持管道干净：会前会后自动整理 CRM 和组织架构，记录不用手工补。",
+      "official_summary": "Keep the pipeline clean. Handles CRM and org-chart hygiene before and after meetings so records stay current without a manual pass.",
+      "import": "https://x.ai/bot/s162b4ed38d6cf1d56731",
+      "bot_id": "s162b4ed38d6cf1d56731",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "customer-demand-bot",
       "name": "Customer Demand Bot",
       "author": {
@@ -14841,6 +15387,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "deal-desk-coordinator",
+      "name": "Deal Desk Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Draft contextual internal deal notes from past emails, Salesforce, and calls, then submit in Salesforce once you approve.",
+      "summary_zh": "从历史邮件、Salesforce、通话里起草内部交易说明，你批了再提交回 Salesforce。",
+      "official_summary": "Draft contextual internal deal notes from past emails, Salesforce, and calls, then submit in Salesforce once you approve.",
+      "import": "https://x.ai/bot/sb434ef300dea2b88aa58",
+      "bot_id": "sb434ef300dea2b88aa58",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "deal-inspector",
       "name": "Deal Inspector",
       "summary": "Checks every deal that moved stage against your qualification criteria using the actual call transcripts. Quotes the evidence, flags what is missing,...",
@@ -14860,6 +15432,32 @@
         }
       ],
       "first_seen": "2026-09-17",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "deck-updater",
+      "name": "Deck Updater",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Leave the room with the slide already moving. Updates your deck from discovery notes mid-call or right after, with next steps baked in.",
+      "summary_zh": "散会时片子已经改好：通话中或刚结束就按调研笔记更新，下一步动作一并写进去。",
+      "official_summary": "Leave the room with the slide already moving. Updates your deck from discovery notes mid-call or right after, with next steps baked in.",
+      "import": "https://x.ai/bot/s2a289081613e5e361c79",
+      "bot_id": "s2a289081613e5e361c79",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -15047,6 +15645,58 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "enablement-fulfillment-specialist",
+      "name": "Enablement Fulfillment Specialist",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Answer \"send me the recordings\" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links.",
+      "summary_zh": "有人要录像不用翻：找出 Zoom 素材、做成一页纸、传到 Drive，回信草稿带好链接。",
+      "official_summary": "Answer \"send me the recordings\" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links.",
+      "import": "https://x.ai/bot/s0dfd5486dc759d409d69",
+      "bot_id": "s0dfd5486dc759d409d69",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "event-guest-screener",
+      "name": "Event Guest Screener",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Fill the room with the right people. Scores event applicants against your ICP and batch-approves strong fits in the invite tool.",
+      "summary_zh": "让活动坐的是对的人：按理想客户画像给报名者打分，强匹配的在邀请系统里批量放行。",
+      "official_summary": "Fill the room with the right people. Scores event applicants against your ICP and batch-approves strong fits in the invite tool.",
+      "import": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+      "bot_id": "s47ebc74c9fcf9359b5a9",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "event-producer",
@@ -16505,6 +17155,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "linkedin-campaign-manager",
+      "name": "LinkedIn Campaign Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean.",
+      "summary_zh": "把广告、表单、跟进、UTM 串成一条一致的获客漏斗，投放先出草稿等你批。",
+      "official_summary": "Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean.",
+      "import": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+      "bot_id": "s4d10d16bdbe2391aa753",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "linkedin-desk",
       "name": "LinkedIn Desk",
       "author": {
@@ -16821,6 +17497,58 @@
         }
       ],
       "first_seen": "2026-09-19",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "meeting-prep-buddy",
+      "name": "Meeting Prep Buddy",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Builds a prep pack from calendar, notes, CRM, Gong and Slack: who is in the room, last touch, and open threads.",
+      "summary_zh": "每场会都有备而去：从日历、笔记、CRM、Gong、Slack 汇出与会人、上次接触和未决事项。",
+      "official_summary": "Walk into every meeting ready. Builds prep packs from calendar, notes, CRM, Gong, and Slack: who's in the room, last touch, open threads, and a...",
+      "import": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+      "bot_id": "s445a0c9a2ca4bea7729e",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "merch-fulfillment-operator",
+      "name": "Merch Fulfillment Operator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Runs the outreach, watches the redemption form, asks you to approve each submission in chat, and ships the swag.",
+      "summary_zh": "周边寄给对的人：做触达、盯兑换表单、在聊天里问你批不批，通过了就发货。",
+      "official_summary": "Send merch to the right prospects. Runs outreach, watches the redemption form, pings you to approve/reject submission in chat, and sends your swag...",
+      "import": "https://x.ai/bot/se479952f3c9e373dfd64",
+      "bot_id": "se479952f3c9e373dfd64",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -17248,6 +17976,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "pipeline-analyst",
+      "name": "Pipeline Analyst",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard.",
+      "summary_zh": "看管道有张干净的表：清洗 Salesforce 和表格，标出停滞和承诺风险，周一给你记分板。",
+      "official_summary": "Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard.",
+      "import": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+      "bot_id": "s98af8b9dcde521e1a9fa",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "pipeline-pulse",
       "name": "Pipeline Pulse",
       "summary": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed...",
@@ -17346,6 +18100,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "prospecting-plan-builder",
+      "name": "Prospecting Plan Builder",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list.",
+      "summary_zh": "攒出这周的活：找联系人、补全邮箱和手机、写成可直接开工的跟进表。",
+      "official_summary": "Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list.",
+      "import": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+      "bot_id": "s8b59eb62f90871ac5c36",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "prospecting-sheet-builder",
@@ -17611,6 +18391,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "renewal-desk-operator",
+      "name": "Renewal Desk Operator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Builds a 90-day pack per account from usage, tickets, calls and CRM, drafts the commercial note, and nudges the owner.",
+      "summary_zh": "每次续约都已经摸过底：按用量、工单、通话、CRM 出 90 天材料，商务说明也起好草稿。",
+      "official_summary": "Walk into every renewal already briefed. Builds a 90-day pack per account from usage, tickets, Gong, and CRM, drafts the commercial note, and nudges...",
+      "import": "https://x.ai/bot/s4c86a54f188668096400",
+      "bot_id": "s4c86a54f188668096400",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "revenue-enablement-bot",
       "name": "Revenue Enablement Bot",
       "author": {
@@ -17786,6 +18592,58 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "sales-call-coach-s817",
+      "name": "Sales Call Coach",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Leave every call with homework. Reviews Gong calls and leaves timestamped coaching on discovery, objections, and executive presence, plus a call score.",
+      "summary_zh": "每通电话都留作业：复盘 Gong 录音，就挖需求、异议处理、临场气场打时间戳点评并评分。",
+      "official_summary": "Leave every call with homework. Reviews Gong calls and leaves timestamped coaching on discovery, objections, and executive presence, plus a call score.",
+      "import": "https://x.ai/bot/s8173b3a9c49917de5b2d",
+      "bot_id": "s8173b3a9c49917de5b2d",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "sales-outbound",
+      "name": "Sales Outbound",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Researches accounts overnight, scores contacts on intent, drafts email and LinkedIn in your voice, and leaves it for review.",
+      "summary_zh": "调研和外呼都交出去：夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍。",
+      "official_summary": "Hand off research and outbound. Researches accounts overnight, scores contacts with intent, drafts email and LinkedIn in your voice, and leaves a review...",
+      "import": "https://x.ai/bot/s8ff03023f140bab479f7",
+      "bot_id": "s8ff03023f140bab479f7",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "scout-axr0",
       "name": "Scout",
       "author": {
@@ -17936,6 +18794,32 @@
         }
       ],
       "first_seen": "2026-09-21",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "social-media-manager",
+      "name": "Social Media Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Studies your posting history, drafts when something noteworthy ships, and parks the post for you to publish.",
+      "summary_zh": "用你的口吻发帖但不用泡在草稿箱：学你历史发言，有值得说的就写好存着等你发。",
+      "official_summary": "Post in your voice without living in drafts. Studies your real history, drafts when something noteworthy ships, parks posts for you to publish, and...",
+      "import": "https://x.ai/bot/s634cb1edf26493e86be2",
+      "bot_id": "s634cb1edf26493e86be2",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -18253,6 +19137,32 @@
         }
       ],
       "first_seen": "2026-09-22",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "ticket-triage-specialist",
+      "name": "Ticket Triage Specialist",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Clear the queue without living in it. Watches support on a cadence, drafts replies only, and stays quiet when it's clean.",
+      "summary_zh": "清队列但不用守着：按节奏盯工单，只出回复草稿，没事的时候不吵你。",
+      "official_summary": "Clear the queue without living in it. Watches support on a cadence, drafts replies only, and stays quiet when it's clean.",
+      "import": "https://x.ai/bot/s7aaf6431077930df326f",
+      "bot_id": "s7aaf6431077930df326f",
+      "category": "customer-sales",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -19327,6 +20237,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "contract-desk",
+      "name": "Contract Desk",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "See the week of paper at a glance. Summarizes by stage and owner, pulls key terms, and flags blocked reviews.",
+      "summary_zh": "一眼看完这周的合同：按阶段和责任人汇总、提炼关键条款、标出卡住的审查。",
+      "official_summary": "See the week of paper at a glance. Summarizes by stage and owner, pulls key terms, and flags blocked reviews.",
+      "import": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+      "bot_id": "sd358e6cf5e8bed188eec",
+      "category": "finance-ops",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "convert-x-money-to-karma",
       "name": "Convert X Money to Karma",
       "author": {
@@ -19940,6 +20876,32 @@
         }
       ],
       "first_seen": "2026-09-17",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "expense-manager",
+      "name": "Expense Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Builds the weekly summary from your expense tool and sheets, logs receipts arriving by email, and chases missing ones.",
+      "summary_zh": "盯住钱：从报销系统和表格出周报，邮箱里的新票据自动记账，缺的去催人。",
+      "official_summary": "Stay on top of the money. Builds the weekly summary from your expense manager and sheets, logs new receipts from email, and nudges owners on missing...",
+      "import": "https://x.ai/bot/s50bb9361d891bd788a23",
+      "bot_id": "s50bb9361d891bd788a23",
+      "category": "finance-ops",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -20735,6 +21697,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "invoice-coordinator",
+      "name": "Invoice Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Stops invoices sitting. Forwards them, matches what it can, tracks campus and vendor actuals, and nudges the owner when something needs a human.",
+      "summary_zh": "别让发票压着：转单、能配的自动配、盯实际支出，缺人处理就去催对应负责人。",
+      "official_summary": "Stop invoices from sitting. Forwards invoices, matches what it can, tracks campus or vendor actuals, and nudges the right owner when something needs a...",
+      "import": "https://x.ai/bot/s072bae9387b9fc03cac8",
+      "bot_id": "s072bae9387b9fc03cac8",
+      "category": "finance-ops",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "invoice-hunter",
       "name": "Invoice Hunter",
       "author": {
@@ -21282,6 +22270,58 @@
         }
       ],
       "first_seen": "2026-09-20",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "paid-media",
+      "name": "Paid Media",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Pulls live channel and campaign data, Slacks a recommended reallocation against your monthly budget, and holds for your approval before making adjustments.",
+      "summary_zh": "拉实时投放数据，按月度预算在 Slack 提一版调配建议，等你点头才动手。",
+      "official_summary": "Pulls live channel and campaign data, Slacks a recommended reallocation against your monthly budget, and holds for your approval before making adjustments.",
+      "import": "https://x.ai/bot/s59facc90a46a8b4f59da",
+      "bot_id": "s59facc90a46a8b4f59da",
+      "category": "finance-ops",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "paid-media-creative-strategist",
+      "name": "Paid Media Creative Strategist",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Spot early creative winners before they're obvious. Writes a sharp why-it-works hypothesis and proposes the next test. No invented metrics.",
+      "summary_zh": "在数据明显之前就看出哪版素材会赢，讲清为什么、提出下一个测试，不编指标。",
+      "official_summary": "Spot early creative winners before they're obvious. Writes a sharp why-it-works hypothesis and proposes the next test. No invented metrics.",
+      "import": "https://x.ai/bot/s45471f3a8af234c13047",
+      "bot_id": "s45471f3a8af234c13047",
+      "category": "finance-ops",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -22913,6 +23953,32 @@
         }
       ],
       "first_seen": "2026-09-22",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "vendor-portal-operator",
+      "name": "Vendor Portal Operator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only.",
+      "summary_zh": "没有正经 API 的采购门户也能跑：续约、席位、下单每周点同一条路，只回报异常。",
+      "official_summary": "Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only.",
+      "import": "https://x.ai/bot/s98a7368e786130ad172b",
+      "bot_id": "s98a7368e786130ad172b",
+      "category": "finance-ops",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -30761,6 +31827,32 @@
         }
       ],
       "first_seen": "2026-09-20",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "apartment-scout",
+      "name": "Apartment Scout",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Filters new listings against your criteria, emails to book tour times, and applies for the ones that qualify.",
+      "summary_zh": "房子一上市就约看：筛房源、发邮件订看房时间、符合条件的直接递申请。",
+      "official_summary": "Book tours with a shortlist of eligible apartments as soon as they go on the market. Filters listings, emails to book tour times, and applies for the...",
+      "import": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+      "bot_id": "sd6f165284d7fd2f25e56",
+      "category": "personal-admin",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -48334,6 +49426,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "subscription-cleaner",
+      "name": "Subscription Cleaner",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Cut the noise you forgot about. Collates receipt and newsletter mail, suggests what to kill, and unsubscribes what you approve.",
+      "summary_zh": "砍掉你早忘了的订阅：汇总账单和推送邮件、建议退哪些，你点头的它去退订。",
+      "official_summary": "Cut the noise you forgot about. Collates receipt and newsletter mail, suggests what to kill, and unsubscribes what you approve.",
+      "import": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+      "bot_id": "sb36667ce9e1fdc00cfe7",
+      "category": "personal-admin",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "d2fl-template",
       "name": "Substantive Reply Watch",
       "author": {
@@ -50141,6 +51259,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "travel-coordinator",
+      "name": "Travel Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Hold the best option before it expires. Compares flights and hotels to your rules, confirms before booking, and drops itinerary plus calendar.",
+      "summary_zh": "趁好价还在就锁住：按你的规则比机票酒店，订之前先确认，最后给行程和日历。",
+      "official_summary": "Hold the best option before it expires. Compares flights and hotels to your rules, confirms before booking, and drops itinerary plus calendar.",
+      "import": "https://x.ai/bot/sc693906bdeded166b7ba",
+      "bot_id": "sc693906bdeded166b7ba",
+      "category": "personal-admin",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "travel-desk",
@@ -54733,6 +55877,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "competitive-intelligence-analyst",
+      "name": "Competitive Intelligence Analyst",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging.",
+      "summary_zh": "看清格局的真变化：夜里盯对手上新，同时体检自家站点的素材疲劳和过时说法。",
+      "official_summary": "See the landscape shift in meaningful ways. Monitors overnight for new launches and audits your site for fatigued creatives and stale messaging....",
+      "import": "https://x.ai/bot/sa2d131975aaab07e43f2",
+      "bot_id": "sa2d131975aaab07e43f2",
+      "category": "research-briefings",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "competitor-watching",
@@ -61359,6 +62529,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "seo-aeo-auditor",
+      "name": "SEO / AEO Auditor",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Tracks keyword, technical, AI-prompt and competitor movement in one place, and flags the site issues worth fixing.",
+      "summary_zh": "关键词、技术项、AI 提问、对手动向盯在一处，告诉你是在涨还是在掉，并标出待修问题。",
+      "official_summary": "Track keyword, technical, AI-prompt, and competitor movement in one place. Surfaces whether you're gaining or losing ground, flags site issues that need...",
+      "import": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+      "bot_id": "sb6d579c33f7a32d0e7af",
+      "category": "research-briefings",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "seo-geo-specialist",
       "name": "SEO/GEO Specialist",
       "author": {
@@ -62544,6 +63740,37 @@
         }
       ],
       "first_seen": "2026-09-22",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "the-list-4mog",
+      "name": "The List",
+      "author": {
+        "name": "Bill",
+        "handle": "GrokBotGod",
+        "url": "https://x.com/GrokBotGod"
+      },
+      "summary": "Three lines in your own chat whenever a new bot lands in the directory.",
+      "summary_zh": "GrokBotGod 的站内通讯：装一次，目录上新就在这个聊天里给你三行速报，不用邮箱。",
+      "official_summary": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land. No email. No yes/no...",
+      "import": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+      "bot_id": "4mOGY7Nd_mRvrwZYec4Jq",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "monitoring",
+        "news",
+        "scheduled"
+      ],
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
@@ -65118,6 +66345,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "calendar-coordinator",
+      "name": "Calendar Coordinator",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Get people in the same room. Schedules across calendars and chases the holds nobody else has time to chase.",
+      "summary_zh": "把人凑到一起：跨日历排期，没人有空去催的占位它去催。",
+      "official_summary": "Get people in the same room. Schedules across calendars and chases the holds nobody else has time to chase.",
+      "import": "https://x.ai/bot/s634fd63ee875502d8df9",
+      "bot_id": "s634fd63ee875502d8df9",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "callsheet",
       "name": "Callsheet",
       "author": {
@@ -65606,6 +66859,32 @@
       "license": "CC-BY-4.0"
     },
     {
+      "slug": "chief-of-staff-sc0a",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Scans Slack, email, calendar and meeting notes, then reads out what is new and what maps to your own goals.",
+      "summary_zh": "随时在线的幕僚：扫 Slack、邮件、日历、会议记录，简报新情况以及哪些跟你的目标相关。",
+      "official_summary": "Your always-on assistant. Scans Slack, email, calendar, and meeting notes and delivers a succinct read out on what's new and what maps to your...",
+      "import": "https://x.ai/bot/sc0a0ec3ce9c675824106",
+      "bot_id": "sc0a0ec3ce9c675824106",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "clark-kent-daily-diary",
       "name": "Clark Kent",
       "author": {
@@ -65929,6 +67208,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "daily-briefing-writer",
+      "name": "Daily Briefing Writer",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Start the day with high quality inputs instead of noise. Delivers a tight daily brief of only the stories that matter to you.",
+      "summary_zh": "开工先看高质量输入而不是噪音：每天一份只含与你相关的简报。",
+      "official_summary": "Start the day with high quality inputs instead of noise. Delivers a tight daily brief of only the stories that matter to you.",
+      "import": "https://x.ai/bot/sb94d44175e650dbb703e",
+      "bot_id": "sb94d44175e650dbb703e",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "daily-easy-apply-digest",
@@ -66303,6 +67608,32 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "executive-assistant-sf81",
+      "name": "Executive Assistant",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room.",
+      "summary_zh": "不用泡在群里也不掉线：每早一份简报，进新群自动补一份前情摘要。",
+      "official_summary": "Stay oriented without living in channels. Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room, so you're never...",
+      "import": "https://x.ai/bot/sf813cbd3aadad1cfda46",
+      "bot_id": "sf813cbd3aadad1cfda46",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "facta",
@@ -67219,6 +68550,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "hiring-screener",
+      "name": "Hiring Screener",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Interview the strong ones, not the whole pile. Scores applications or work samples against a defined bar and hands off an ATS-ready review.",
+      "summary_zh": "只面强的那批：按设定标准给简历或作品打分，产出可直接进 ATS 的评审意见。",
+      "official_summary": "Interview the strong ones, not the whole pile. Scores applications or work samples against a defined bar and hands off an ATS-ready review.",
+      "import": "https://x.ai/bot/scfddc8ad204a669484d0",
+      "bot_id": "scfddc8ad204a669484d0",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "hiring-signals",
       "name": "Hiring Signals",
       "summary": "Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the...",
@@ -67314,6 +68671,58 @@
         }
       ],
       "first_seen": "2026-09-23",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "inbox-manager",
+      "name": "Inbox Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Triages the inbox into categories, surfaces urgent and blocked threads, and drafts replies. Every send waits for you.",
+      "summary_zh": "让邮箱重新可用：分好类、挑出紧急和被卡住的，回复和清理都只给草稿。",
+      "official_summary": "Keep email usable. Triages your inbox into clear categories, surfaces urgent and blocked threads, and drafts replies and cleanup. Every send stays...",
+      "import": "https://x.ai/bot/s4f048c7b7da9e010c2c3",
+      "bot_id": "s4f048c7b7da9e010c2c3",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "internal-communications-manager",
+      "name": "Internal Communications Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Draft clear, on-voice copy from your real context, matched to each audience and channel. Review-only so it never sends on its own.",
+      "summary_zh": "按你的真实语境和各渠道口吻写内部通告，只出草稿，绝不自己发。",
+      "official_summary": "Draft clear, on-voice copy from your real context, matched to each audience and channel. Review-only so it never sends on its own.",
+      "import": "https://x.ai/bot/s066a9145d936e74d0c80",
+      "bot_id": "s066a9145d936e74d0c80",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -68168,6 +69577,32 @@
         }
       ],
       "first_seen": "2026-09-23",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "onboarding-manager",
+      "name": "Onboarding Manager",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Builds the checklist, pulls the right docs, answers day-one questions, and routes anything else to whoever can answer.",
+      "summary_zh": "新人拿到的是路径不是一堆链接：列清单、配文档、答第一天的问题，答不了的转给能答的人。",
+      "official_summary": "Give new hires a path, not a pile of links. Builds the checklist, pulls the right docs, answers day-one questions, and routes each ask to whoever can...",
+      "import": "https://x.ai/bot/s9c881536413c0bbfa776",
+      "bot_id": "s9c881536413c0bbfa776",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"
@@ -69269,6 +70704,32 @@
       "license": "CC0-1.0"
     },
     {
+      "slug": "status-report-writer",
+      "name": "Status Report Writer",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Own the to-do so nothing slips. Pulls open action items from docs, meetings, and Slack into one living list and a morning digest.",
+      "summary_zh": "待办不漏项：从文档、会议、Slack 收拢未完成事项，合成一张活清单和早报。",
+      "official_summary": "Own the to-do so nothing slips. Pulls open action items from docs, meetings, and Slack into one living list and a morning digest.",
+      "import": "https://x.ai/bot/sde2c69536d2f2564fe1b",
+      "bot_id": "sde2c69536d2f2564fe1b",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
       "slug": "stellar-cartography",
       "name": "Stellar Cartography",
       "author": {
@@ -69357,6 +70818,32 @@
         }
       ],
       "first_seen": "2026-09-22",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "talent-scout-sac3",
+      "name": "Talent Scout",
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle",
+        "url": "https://x.com/DenisLabelle"
+      },
+      "official": true,
+      "summary": "Runs screen-to-offer: sources candidates, drafts outreach in your voice, and skips anyone already in the ATS.",
+      "summary_zh": "招聘在你睡觉时也在走：从找人到发 offer 全程，用你的口吻写触达，已在库的自动跳过。",
+      "official_summary": "Keep recruiting moving while you sleep. Runs screen-to-offer: sources, drafts outreach in your voice, skips people already in the ATS, and handles...",
+      "import": "https://x.ai/bot/sac3a109dfe021c555c7c",
+      "bot_id": "sac3a109dfe021c555c7c",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC0-1.0"

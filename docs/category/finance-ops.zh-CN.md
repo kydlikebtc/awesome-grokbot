@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-138 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+144 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -29,6 +29,7 @@
 - [Claim Starter Pack](https://x.ai/bot/k3-TuPGQzUVKtnjYNWji0) — 保险理赔起步，时间线、材料清单、叙事草稿。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Class Action Lawsuit Finder](https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ) — 查找你可以申领的加拿大和魁北克集体诉讼和解。 <sub>作者 [Rob](https://x.com/rob_an_) (@rob_an_)</sub>
 - [Coin](https://x.ai/bot/QOQRcpreItQijaazrJ7wp) — 自动驾驶的 Coinbase Advanced Trade 管家，下单并管理中盘加密交易，含硬止损、分批止盈、周轮换与宏观现金仓。 <sub>作者 [Estevan](https://x.com/xtevan) (@xtevan)</sub>
+- [Contract Desk](https://x.ai/bot/sd358e6cf5e8bed188eec) <sup>官方</sup> — 一眼看完这周的合同：按阶段和责任人汇总、提炼关键条款、标出卡住的审查。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Convert X Money to Karma](https://x.ai/bot/iCn7r691OdtaB_o8MtHx_) — 把钱、代币和互动记成因果账，并沿版权链上浮百分之十水印。 <sub>作者 [Rob](https://x.com/ludiofelix) (@ludiofelix)</sub>
 - [Copay Compass](https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD) — 帮你找抗癌药援助并备好申请材料。 <sub>作者 [Marc](https://x.com/MSaintjour) (@MSaintjour) · [出处](https://x.com/MSaintjour/status/2094802093622133104)</sub>
 - [Cost-Smart Health Brief](https://x.ai/bot/Rm6VqcE8cOWXwotPth9qM) — 把一个健康问题收成三分钟简报。 <sub>作者 [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [出处](https://x.com/GuleidAmina/status/2093386135452152155)</sub>
@@ -46,6 +47,7 @@
 - [Elliott Wave Pro](https://x.ai/bot/SbsjQzSlRFqIXosjenXH7) — 流动加密与上市股票的艾略特波浪分析，标注结构、投影斐波那契目标并写明失效条件。 <sub>作者 [Viktor](https://x.com/BitrockLLC) (@BitrockLLC)</sub>
 - [ESA Vendor Desk](https://x.ai/bot/GBB4tGs-8cSl8DTX3zhyg) — 跑多州 ESA 与代金券供应商申报、ClassWallet 卫生与课程目录上架，服务古典基督教课程商。 <sub>作者 [Another](https://x.com/AnotherJoe) (@AnotherJoe)</sub>
 - [Evelyn](https://x.ai/bot/OZn5dOvIhkqsG5CG-Ow2D) — 面向多实体服务公司的应收账款代理。 <sub>作者 [Thomas](https://x.com/MattesonAI) (@MattesonAI)</sub>
+- [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) <sup>官方</sup> — 盯住钱：从报销系统和表格出周报，邮箱里的新票据自动记账，缺的去催人。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Family Office](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) — 覆盖税务、遗产、退休和实体的超高净值风格规划师。 <sub>作者 [rob_e](https://x.com/rob_evj) (@rob_evj)</sub>
 - [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) — 多联赛梦幻足球店的前门总经理，把球迷活分给专家并汇总阵容建议。 <sub>作者 [Eric](https://x.com/androiydai) (@androiydai)</sub>
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — 在 NSE 或纳斯达克上跑模拟交易赛。 <sub>作者 [Shantanu](https://x.com/shantanugoel) (@shantanugoel) · 社区旧称 *Fenrir (Paper Trading)* · [出处](https://x.com/shantanugoel/status/2093399035529085059)</sub>
@@ -69,6 +71,7 @@
 - [Hormozi Money Models](https://x.ai/bot/5YvX0dqXaRzi1lYZJz6F0) — 用 Hormozi Money Models 审计生意如何获客留存与回笼现金。 <sub>作者 [Arturo](https://x.com/arturorodes) · [出处](https://x.com/arturorodes)</sub>
 - [House-Hunt Assistant](https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg) — 说清地点与最高价，一天两次给你匹配房源摘要，让找房更省事。 <sub>作者 [Alison](https://x.com/al1__x) (@al1__x) · [出处](https://x.com/al1__x/status/2099989568925598182)</sub>
 - [Invention Engineer](https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz) — 从你已有的工具、打印机、零件、预算与技能出发，补全计划、物料清单、采购与搭建步骤。 <sub>作者 [Wardonis](https://x.com/Wardonis)</sub>
+- [Invoice Coordinator](https://x.ai/bot/s072bae9387b9fc03cac8) <sup>官方</sup> — 别让发票压着：转单、能配的自动配、盯实际支出，缺人处理就去催对应负责人。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — 从 Gmail 里找出发票 PDF，把一个月打成一份表格。 <sub>作者 [Andrej](https://x.com/scheemunai) · [出处](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — 保持 Harvest 与 Balances 发票同步，每日从 Harvest 创建或更新到 Balances。 <sub>作者 [Jerrod](https://x.com/jerrodtuck)</sub>
 - [Kalshi](https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD) — Kalshi 研究席位，专管单一市场并把下单记录在案。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101113469185474972)</sub>
@@ -85,6 +88,8 @@
 - [Oracle Payables Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) — 协助 Oracle Fusion Cloud 应付账款，查财务 REST API，创建并核对应付单据。 <sub>作者 [Shiv](https://x.com/__KumR__) (@__KumR__)</sub>
 - [OweNo](https://x.ai/bot/gDBMpvw8W4H3KqliukLty) — 还债教练，先看账单，银行操作要你点头才开。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Owner-Operator Chief of Staff](https://x.ai/bot/mExccKrtfNSo6e8eSBLzK) — 业主经营者的主界面，保护专注，把活分给专家，决策时才打断你。 <sub>作者 [Allan](https://x.com/allantsivils) (@allantsivils)</sub>
+- [Paid Media](https://x.ai/bot/s59facc90a46a8b4f59da) <sup>官方</sup> — 拉实时投放数据，按月度预算在 Slack 提一版调配建议，等你点头才动手。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Paid Media Creative Strategist](https://x.ai/bot/s45471f3a8af234c13047) <sup>官方</sup> — 在数据明显之前就看出哪版素材会赢，讲清为什么、提出下一个测试，不编指标。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PantryPatrol](https://x.ai/bot/BiPCHML6s0cTYPhm4c72_) — 盯 MyFitnessPal 饮食记录，分析你真吃了什么，再备好 H-E-B 配送购物车，免提补货。 <sub>作者 [Froy](https://x.com/Jack_137) (@Jack_137)</sub>
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — 现金底线教练，盯着余额发薪前别跌破底线。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) — 分析银行 CSV 的支出、账单、生活方式膨胀和现金流。
@@ -131,6 +136,7 @@
 - [Travel Guru](https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP) — 按你家机场、积分和会籍来排积分出行。 <sub>作者 [DJ](https://x.com/congressdj) (@congressdj) · [出处](https://x.com/congressdj/status/2093539459719434306)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — 只做浏览器漏斗搭建工具的转化路径情报，如 ClickFunnels 与 GoHighLevel。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
+- [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>官方</sup> — 没有正经 API 的采购门户也能跑：续约、席位、下单每周点同一条路，只回报异常。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Visibility Marketer](https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF) — 为 Grok Bot 模板做免费自然流量营销，写像人的文案，找无需新开账号的曝光，发在你已有的号上。 <sub>作者 [Wardonis](https://x.com/Wardonis) · [出处](https://x.com/Wardonis/status/2102149739500187778)</sub>
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) — 从保修条款映射承保／灰区／除外。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) — 每周扫收件箱，盯续订、收据和快到期的试用。 <sub>作者 [SmoresBoy](https://x.com/jxckvibe) · [出处](https://x.com/jxckvibe/status/2093828719374705066)</sub>

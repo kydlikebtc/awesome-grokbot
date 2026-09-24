@@ -82,7 +82,20 @@ When two sources disagree, this is the order the merge applies. The reasoning ma
 | `official_summary`      | `og:description`, verbatim | Authoritative, but x.ai truncates it at ~155 characters, so it is stored alongside rather than instead of `summary`.                                                                                                                                                                                                                                                        |
 | `summary_zh`            | This repo                  | Editorial translation. 267 rows inherited from `majiayu000/awesome-grok-bot`; the remaining 93 were written here.                                                                                                                                                                                                                                                           |
 | `category`              | This repo                  | See below.                                                                                                                                                                                                                                                                                                                                                                  |
+| `official`              | Live page attribution      | Set when the author the share page itself reports is on the publisher list in [`scripts/sync_upstream.py`](../scripts/sync_upstream.py). See below.                                                                                                                                                                                                                         |
 | `link_status`           | Measured                   | Never inherited from an upstream catalog.                                                                                                                                                                                                                                                                                                                                   |
+
+## Organisations that publish their own bots
+
+Most rows are individuals sharing a bot they built. Some are not: an organisation publishes its own, and the share page says so in `og:title` — `Ticket Triage Specialist by SpaceX`. Those rows carry `official: true`, show a small marker in the lists, and can be filtered on the site.
+
+The flag is set by matching the author **the live page reports** against an explicit list, `OFFICIAL_PUBLISHERS`. Three details are deliberate:
+
+- **The list is explicit, not a pattern.** These shares currently carry ids shaped `s<20 hex>` while community ones never do, which is a tempting rule and the wrong one: the correlation explains nothing, and it would silently mislabel individuals the day x.ai starts issuing that id shape for everyone. Deciding which authors count as an organisation is a judgement call, so it is written down.
+- **Only the live page counts.** An upstream catalog claiming a bot is official does not set the flag; an upstream-supplied name lands in `author.handle`, which is not consulted. The 56 SpaceX rows added on 2026-09-24 were tagged by one upstream with a `SpaceX official Grok Bot template:` prefix — six of them were not, and relying on that prefix would have missed them.
+- **It is provenance, not endorsement.** [vetting.md](vetting.md) spells out what the marker does and does not promise; an organisation's bot gets the same checklist as everyone else's.
+
+`lint.py` rejects a row carrying `official` without an `author.name` to attribute it to — the claim is meaningless without the name, and the READMEs build the "published by …" sentence out of it.
 
 ## Categories
 
@@ -100,14 +113,14 @@ Upstream categories were mapped mechanically first (for example GrokBotDev's `de
 
 What the sync will not do:
 
-| Guard | Why |
-| --- | --- |
-| Only ids answering under HTTP 400 are added | An upstream listing a dead share never propagates the dead link here |
-| Name, author and `official_summary` read from the live page | Same precedence as the first build — upstream rows go stale |
-| An id already in `retired.json` is never re-added | Otherwise a stale upstream would resurrect it every night |
-| At most `MAX_NEW` (150) rows per run | Caps the blast radius if an upstream ever publishes garbage |
-| Circuit breaker aborts the whole run | A bot wall in front of the CI runner cannot retire the catalog |
-| `lint.py` must pass before the commit | A schema-invalid row never reaches `main` |
+| Guard                                                       | Why                                                                  |
+| ----------------------------------------------------------- | -------------------------------------------------------------------- |
+| Only ids answering under HTTP 400 are added                 | An upstream listing a dead share never propagates the dead link here |
+| Name, author and `official_summary` read from the live page | Same precedence as the first build — upstream rows go stale          |
+| An id already in `retired.json` is never re-added           | Otherwise a stale upstream would resurrect it every night            |
+| At most `MAX_NEW` (150) rows per run                        | Caps the blast radius if an upstream ever publishes garbage          |
+| Circuit breaker aborts the whole run                        | A bot wall in front of the CI runner cannot retire the catalog       |
+| `lint.py` must pass before the commit                       | A schema-invalid row never reaches `main`                            |
 
 ### Scouting X directly
 
@@ -119,7 +132,7 @@ It is deliberately not part of CI. GitHub Actions has no X access, and the judge
 
 Where an upstream row already carries a Chinese one-liner, that is used as-is — `majiayu000/awesome-grok-bot` writes them by hand, and a human line beats a fresh translation. Only the remainder is machine-translated, and those rows are marked `zh_machine: true`.
 
-The READMEs report the split rather than claiming the whole catalog is hand-written: when any generated rows exist, the figure reads *"N rows with a Chinese summary — X written by hand, Y generated by the daily sync"*.
+The READMEs report the split rather than claiming the whole catalog is hand-written: when any generated rows exist, the figure reads _"N rows with a Chinese summary — X written by hand, Y generated by the daily sync"_.
 
 Translation needs an `ANTHROPIC_API_KEY` repository secret. Without it the sync still runs and still adds every row that arrived with upstream Chinese; rows that would need translating are skipped for that day rather than shipped with English in the Chinese README.
 
@@ -133,6 +146,15 @@ python3 scripts/build_readme.py            # regenerate both READMEs from catalo
 ```
 
 The screenshots in `docs/screenshots/` show live counts and therefore go stale as the catalog grows — they are refreshed by hand, not by the daily job, because rendering them needs a browser and a daily ~350 KB PNG would add ~120 MB of history a year. Steps: [`scripts/shoot_screenshots.md`](../scripts/shoot_screenshots.md).
+
+The site page reads every figure it displays out of `catalog.json` at runtime, but its `<meta name="description">` and `<meta property="og:description">` are static HTML — and those two are what search results and Slack/X link unfurls show. They are stamped from the catalog by the pages workflow before upload:
+
+```bash
+python3 scripts/stamp_site.py            # rewrite in place
+python3 scripts/stamp_site.py --check    # exit 1 if it is behind catalog.json
+```
+
+The script exits non-zero when its patterns match nothing, rather than passing quietly. Both lines read `361` for three weeks after the catalog had passed 2,000, for the ordinary reason: nothing renders them during development, so nobody sees them go wrong.
 
 The social preview card is data-driven too. [`docs/social-card.html`](social-card.html) reads the same `catalog.json`, so the figures on it cannot drift from the catalog:
 

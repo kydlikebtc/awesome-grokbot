@@ -2,10 +2,13 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-139 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+159 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
+- [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) <sup>官方</sup> — 季度复盘前就看清风险和增购机会：读完手上所有客户的用量和信号，理成一张关注清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) <sup>官方</sup> — 维护重点客户不用每次重建上下文：从转录、笔记、CRM、Slack 备会，跟进信也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Account Research Specialist](https://x.ai/bot/sa7d7f82d0068c2367a17) <sup>官方</sup> — 接触前先给客户分层：合 Salesforce 和实时信号打匹配度和热度，每家出一份可传阅的调研包。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [ADM account bot](https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN) — 每周一份客户经营计划，用来保住并做大客户。 <sub>作者 [Scott](https://x.com/scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2093727476405170365)</sub>
 - [Adventure Photography Bot](https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3) — 为 Ama Dablam 攀登与伙伴跑赞助外联。 <sub>作者 [Kai](https://x.com/kaiphotojawn) (@kaiphotojawn)</sub>
 - [AE deal bot](https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe) — 按 MEDDPICC 给在谈的单打分，并指出下一步。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2094802082750673227)</sub>
@@ -29,23 +32,30 @@
 - [Client Ops Helper](https://x.ai/bot/ePHe68qUal43USIgqKghR) — 小服务公司采用 AI 的运营帮手，从 CEO 个人工作栈起步再铺开。 <sub>作者 [laila](https://x.com/LailaDeeb1) (@LailaDeeb1)</sub>
 - [Club Ops EA](https://x.ai/bot/ZWpTSG_3fGF6Rh-fKChsb) — 学生网络安全社团的中枢执行助理，把活分给专家机器人并盯社团运营。 <sub>作者 [Justice](https://x.com/JustSecUO) (@JustSecUO)</sub>
 - [Colombia Move](https://x.ai/bot/mWxeafjXItbC0_VcpSwqm) — 给 Colombia Move 市集做客服，西语英语都能接。 <sub>作者 [Michael](https://x.com/michaelheredia) (@michaelheredia) · [出处](https://x.com/michaelheredia/status/2098070216701817322)</sub>
+- [Community Operations Manager](https://x.ai/bot/seb9d6ba6765c64113941) <sup>官方</sup> — 大使计划转起来：审申请、跨渠道分拣私信、按节奏起草维护内容，社区不用专人盯。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Company Docs Q&A](https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9) — 先查在线文档再查已接知识源回答产品与操作问题，并始终给出引用。
+- [Compelling Events Monitor](https://x.ai/bot/sdeb02761a9d185e5899f) <sup>官方</sup> — 有真事再去搭话：盯高管发言里的获奖、发布、招人信号，汇总成一份可互动清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Computer](https://x.ai/bot/Z8aPXNVasH1ogYkAuCMIZ) — 小代理花名册的前门机器人，读你的 GitHub 看板，点名一个可咬下的任务并推动。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL)</sub>
 - [Contentdrips Bot](https://x.ai/bot/LZLr3E1ySm7HzuMSKB18s) — 在 ContentDrips 做社媒图与轮播，写简单文案并预约到 LinkedIn 与 Instagram。 <sub>作者 [Usama](https://x.com/im_usamakhalid) (@im_usamakhalid)</sub>
 - [Contra Job Sniper](https://x.ai/bot/__sNWxlx-8H08UluQuOeo) — 每六小时扫一次 Contra 接案流，有变才发邮件。 <sub>作者 [Srujal](https://x.com/techking_007) (@techking_007) · 社区旧称 *Contra Job Scraper* · [出处](https://x.com/techking_007/status/2093415230932177139)</sub>
 - [CREW CHIEF](https://x.ai/bot/o1WooIlDtZTeyXf9sigG-) — MSP 日常服务的班组长台。 <sub>作者 [Jeremiah](https://x.com/TechHandPro) (@TechHandPro)</sub>
 - [Crew Orchestrator](https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O) — 让多机器人赚钱小队继续转，小时级催工并优先应用，销售触达目录一次更新一个机器人。
+- [CRM Operations Manager](https://x.ai/bot/s162b4ed38d6cf1d56731) <sup>官方</sup> — 保持管道干净：会前会后自动整理 CRM 和组织架构，记录不用手工补。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Customer Demand Bot](https://x.ai/bot/u5KGTAihFddbb2qQxOtDh) — 按你设定的品类和距离，找附近公开求购该产品或服务的帖子并推给你。 <sub>作者 [Dominic](https://x.com/Dominicyoungix) · [出处](https://x.com/Dominicyoungix/status/2100860862957490300)</sub>
 - [Customer Proof Desk](https://x.ai/bot/AamPlGjd2lIdDv6seEMXR) — 把通话笔记与逐字稿收成案例、证言与证据点，引用保持原话，未经你同意不发布。
 - [Customer Support Idiot Buffer](https://x.ai/bot/PMCHyvumlOdCFNRifTDJW) — 经语音桥替你打客服电话，聊天里实时指挥。 <sub>作者 [Mitchell](https://x.com/MitcelloRudoll) (@MitcelloRudoll) · [出处](https://x.com/MitcelloRudoll/status/2100738324793090552)</sub>
 - [Dan Lanning](https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS) — 用真实通话稿练伙伴关系与高风险发现通话的表达。 <sub>作者 [Jenna](https://x.com/jennananpei) (@jennananpei)</sub>
 - [Data Broker Opt-Out Bot](https://x.ai/bot/92VG66mFtkdl7eqWiJLo6) — 走官方退出流程，从 Apollo、ZoomInfo 等主流 B2B 销售情报库删除或压制你的职业联系信息。 <sub>作者 [Jacky](https://x.com/JackyHeshi) (@Jacky Heshi) · [出处](https://x.com/JackyHeshi/status/2102274644174909819)</sub>
+- [Deal Desk Coordinator](https://x.ai/bot/sb434ef300dea2b88aa58) <sup>官方</sup> — 从历史邮件、Salesforce、通话里起草内部交易说明，你批了再提交回 Salesforce。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Deal Inspector](https://x.ai/bot/vZfC76-4UC1XU7qC4m726) — 对每个晋级的交易，用真实通话逐字稿对照资格标准，引用证据并标出缺口。
+- [Deck Updater](https://x.ai/bot/s2a289081613e5e361c79) <sup>官方</sup> — 散会时片子已经改好：通话中或刚结束就按调研笔记更新，下一步动作一并写进去。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) — 根据通话记录直接做出会后幻灯片。 <sub>作者 [Pavan](https://x.com/pavravi) (@pavravi) · [出处](https://x.com/pavravi/status/2095194505876316378)</sub>
 - [dial bot](https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi) — 替你打一通真实电话，结束后交回一份书面通话纪要。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp) · [出处](https://x.com/mattyp/status/2098156079620542639)</sub>
 - [dial bot](https://x.ai/bot/tIas6udS9kSXpcAz6LFd1) — 用 Bland AI 打出站电话，打完把结果写成纪要带回来。
 - [Draft Seller](https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh) — 电商卖家台，管刊登、消息与履约。 <sub>作者 [Dode](https://x.com/dode)</sub>
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — 客户通话结束后，按实际说过的话做演示文稿。 <sub>作者 [Krista](https://x.com/kristaletz) · [出处](https://x.com/kristaletz/status/2093494509682217308)</sub>
+- [Enablement Fulfillment Specialist](https://x.ai/bot/s0dfd5486dc759d409d69) <sup>官方</sup> — 有人要录像不用翻：找出 Zoom 素材、做成一页纸、传到 Drive，回信草稿带好链接。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Event Guest Screener](https://x.ai/bot/s47ebc74c9fcf9359b5a9) <sup>官方</sup> — 让活动坐的是对的人：按理想客户画像给报名者打分，强匹配的在邀请系统里批量放行。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Event Producer](https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB) — 把活动细节收成流程单、宾客名单与当天清单，跟踪供应商与餐饮旅行，不擅自发邀。
 - [Everyone](https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu) — 私人关系记忆，记清是谁、怎么认识、下次该跟进什么。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2102753770858045523)</sub>
 - [for](https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT) — 多代理项目的锋利建造负责人，分配角色，把可插入零件缝成一个站点，并给你可运行预览。 <sub>作者 [Abdulloh](https://x.com/Abdulloh_E_B) (@Abdulloh_E_B)</sub>
@@ -88,6 +98,7 @@
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — 承接屋顶线索，起草短信邮件并交接快速报价。 <sub>作者 [Legend](https://x.com/legendRoofingCo) · [出处](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — 重写 LinkedIn 资料，并在工作日批量处理邀请。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) — 把 LinkedIn 导出做成可搜的记忆，含帖子与私信。 <sub>作者 [SyftData](https://x.com/isb) (@isb) · [出处](https://x.com/isb/status/2100425188764713462)</sub>
+- [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) <sup>官方</sup> — 把广告、表单、跟进、UTM 串成一条一致的获客漏斗，投放先出草稿等你批。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — 每天按你定的规则审核 LinkedIn 邀请。 <sub>作者 [AJ](https://x.com/SEO) · [出处](https://x.com/SEO/status/2093418792546181548)</sub>
 - [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) — 跟进 LinkedIn 引流评论，起草回复和私信，并在限额内处理连接请求。 <sub>作者 [Ethan](https://x.com/ethan_leee9113) (@Ethan Lee) · [出处](https://x.com/ethan_leee9113/status/2101189341242376366)</sub>
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) — 每天按你的关键词扫 LinkedIn 帖子和评论找线索。 <sub>作者 [Angel](https://x.com/angelesp) · [出处](https://x.com/angelesp/status/2093826046231511549)</sub>
@@ -97,6 +108,8 @@
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) — 为场地营销搭并更新私密 Luma 活动页，含文案、品牌、报名、容量候补与名单导出。
 - [Mappy](https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l) — 把目标公司里现在在职的人图画出来。 <sub>作者 [Nick](https://x.com/NickRoman) (@NickRoman) · 社区旧称 *Mappy (Talent Map)* · [出处](https://x.com/NickRoman/status/2093426904950833178)</sub>
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) — AI 视频与工作室走向市场机器人，生成并迭代短视频、审计社交、起草广告。 <sub>作者 [Patrick](https://x.com/sheridap) (@sheridap)</sub>
+- [Meeting Prep Buddy](https://x.ai/bot/s445a0c9a2ca4bea7729e) <sup>官方</sup> — 每场会都有备而去：从日历、笔记、CRM、Gong、Slack 汇出与会人、上次接触和未决事项。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Merch Fulfillment Operator](https://x.ai/bot/se479952f3c9e373dfd64) <sup>官方</sup> — 周边寄给对的人：做触达、盯兑换表单、在聊天里问你批不批，通过了就发货。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) — 为 CRM、GoHighLevel 与 AI 前台找高意向购买信号。 <sub>作者 [Darius](https://x.com/dariusgaynor) (@dariusgaynor)</sub>
 - [Music PR Bot](https://x.ai/bot/o2_Nqk-xSpJRDquQrSmyP) — 专辑外联，每日推介、草稿、电台/媒体 CRM。 <sub>作者 [Dani](https://x.com/Danihakim73) (@Danihakim73)</sub>
 - [Nikita Bier](https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV) — 用分享环路压测产品。告诉你别人会不会转给朋友，砍掉多余，给出本周能上的一个改动。 <sub>作者 Jacob · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
@@ -109,9 +122,11 @@
 - [PG Bot](https://x.ai/bot/zsxwic_IlmyavESnhLiWZ) — AE 辖区管道 Bot，管账簿级外联、会议和潜在 ARR。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [Phone with Bland](https://x.ai/bot/4BmzjFu_i3mVd58irr1x1) — 给任意 Grok Bot 专属电话与声音，可代发短信与打电话订餐、跟进线索。 <sub>作者 [Cole](https://x.com/usebland) (@usebland)</sub>
 - [PhoneZero Operator](https://x.ai/bot/vB2o6vvmHjDQRM5yFH9vn) — 让你的 Bot 能打也能接真正的电话。 <sub>作者 [Bryan](https://x.com/ibelevy) (@ibelevy) · [出处](https://x.com/ibelevy/status/2093395583809785868)</sub>
+- [Pipeline Analyst](https://x.ai/bot/s98af8b9dcde521e1a9fa) <sup>官方</sup> — 看管道有张干净的表：清洗 Salesforce 和表格，标出停滞和承诺风险，周一给你记分板。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) — 扫整本管道看推进、陈旧下一步、预测风险与 CRM 缺口，展示变化并起草需要的更新。
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) — 工业代表外勤日，覆盖计划、装机台账与巡检。 <sub>[出处](https://x.com/Quantumcowgirl1/status/2101348217610756139)</sub>
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — 每次会后放下待办和一封跟进草稿。 <sub>作者 [Priya](https://x.com/itspriyaptl) · [出处](https://x.com/itspriyaptl/status/2093389586864988661)</sub>
+- [Prospecting Plan Builder](https://x.ai/bot/s8b59eb62f90871ac5c36) <sup>官方</sup> — 攒出这周的活：找联系人、补全邮箱和手机、写成可直接开工的跟进表。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) — 醒来就有一份筛过的 B2B 客户表。 <sub>作者 [Sultanov](https://x.com/thekuchh) (@thekuchh) · [出处](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Pulse](https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj) — 帮你排查 Windows 游戏本故障，给出风险排序的修复建议，侵入性操作前必须你点头。 <sub>作者 [AdamDesigns](https://x.com/ZestStream) (@ZestStream) · [出处](https://x.com/ZestStream/status/2102067819462713408)</sub>
 - [Punto Tricolor Ops](https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi) — 服务哥伦比亚小企业的日常运营，从早报做到预约。 <sub>作者 [andres](https://x.com/cyberandres) (@cyberandres) · [出处](https://x.com/cyberandres/status/2100418255093395496)</sub>
@@ -119,16 +134,20 @@
 - [RE Ops COO](https://x.ai/bot/_qRtgGDLXFjuEVML35EI4) — 纵向整合房地产业者的数字优先 COO，跑每日记分板与运营核对。 <sub>作者 [Danny](https://x.com/Danny_0315) (@Danny_0315)</sub>
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) — 英国建筑业仅限承包商的招聘助手，简历、LinkedIn、日费率与岗位狩猎。 <sub>作者 [Niyazi](https://x.com/inovasyonkultur) (@inovasyonkultur)</sub>
 - [Relay](https://x.ai/bot/dToDHHTIZFDURU6gBkU5X) — 跨 LinkedIn、Instagram、TikTok、Pinterest 与 X 的多表面社交分发代理。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
+- [Renewal Desk Operator](https://x.ai/bot/s4c86a54f188668096400) <sup>官方</sup> — 每次续约都已经摸过底：按用量、工单、通话、CRM 出 90 天材料，商务说明也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) — 赋能问题的统一入口，再路由到对的专项技能。 <sub>作者 [Nathan](https://x.com/nathanclark_) (@nathanclark_) · [出处](https://x.com/nathanclark_/status/2096204922907963834)</sub>
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — 找出已经躺在 HubSpot 管道里的收入机会。 <sub>作者 [Eric](https://x.com/ericosiu) (@ericosiu) · [出处](https://x.com/ericosiu/status/2095629858630160695)</sub>
 - [RobIT](https://x.ai/bot/0BbPklegaSLcUqp0CVXda) — 排查 Windows 卡顿崩溃原因，并清掉卸载残留的杀软与浏览器插件。 <sub>作者 [Lipa](https://x.com/CrystalJ613) (@CrystalJ613) · [出处](https://x.com/CrystalJ613/status/2100084745451250009)</sub>
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) — 工作日操盘手，获客、外呼、质检和入职一起跑。 <sub>作者 [Daniel](https://x.com/danielfoch) · [出处](https://x.com/danielfoch/status/2093697807542526325)</sub>
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) — 给销售通话打分并告诉你下一通该改什么，可用粘贴逐字稿或上传录音。
+- [Sales Call Coach](https://x.ai/bot/s8173b3a9c49917de5b2d) <sup>官方</sup> — 每通电话都留作业：复盘 Gong 录音，就挖需求、异议处理、临场气场打时间戳点评并评分。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) <sup>官方</sup> — 调研和外呼都交出去：夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Scout](https://x.ai/bot/Axr06_abjVj29IjBhJrQ_) — 找出已在用产品且准备加购的账户，区分自助升级与销售 PQL。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) — 客户通话进行中，给售前工程师做实时后援。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2094066260376166500)</sub>
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) — 食品厂、代工或调味料店的常设运营桌，从销售订单到原料采购、按预测做自制或外购，以及包装核对。 <sub>作者 [Vince](https://x.com/VinceWilliams21) (@VinceWilliams21) · [出处](https://x.com/VinceWilliams21/status/2100013315321933905)</sub>
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — 面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏。 <sub>作者 [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。
+- [Social Media Manager](https://x.ai/bot/s634cb1edf26493e86be2) <sup>官方</sup> — 用你的口吻发帖但不用泡在草稿箱：学你历史发言，有值得说的就写好存着等你发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) — 按渠道整理故障报告，写好后由你贴进正确的支持表单。 <sub>作者 [Fine_Computer_4451](https://x.com/Fine_4451) (@Fine_4451) · [出处](https://x.com/Fine_4451/status/2096010664636506121)</sub>
 - [Spike](https://x.ai/bot/itRObzTzlih4AGPFX99LP) — 掌管有说服力的沟通训练，让写作与谈话真正进到人脑子里，粗鲁锋利不当软写作伴。 <sub>作者 [Michal](https://x.com/mpalczew) (@mpalczew)</sub>
 - [Stale Leads Closer](https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0) — 把沉默线索捞回CRM，先发温和短信，Slack留否决窗，无人拦截再自动发出。 <sub>作者 Roberto · [出处](https://x.com/robertodjg/status/2102589053950431365)</sub>
@@ -138,6 +157,7 @@
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — 把找工作的人配到你收件箱里藏着的岗位。 <sub>作者 [Lenny](https://x.com/lennysan) (@lennysan) · [出处](https://x.com/lennysan/status/2093428147194847238)</sub>
 - [Talent Scout](https://x.ai/bot/egph0oXWVB7zFKZxmyZg0) — 按职位描述从 Dropbox 筛简历，排名候选人，并起草个性化触达。 <sub>作者 [charlesmartel](https://x.com/chas__martel) (@chas__martel)</sub>
 - [Termlock](https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU) — 只出草稿的自由职业还价台，粘贴中介或平台报价，得到带引用的市场带、缺口表与还价稿。 <sub>作者 [Basho](https://x.com/IslandMountain_) (@IslandMountain_)</sub>
+- [Ticket Triage Specialist](https://x.ai/bot/s7aaf6431077930df326f) <sup>官方</sup> — 清队列但不用守着：按节奏盯工单，只出回复草稿，没事的时候不吵你。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) — 本地营销机构的幕僚长，跨客户跑专家，公开作品先起草后批准，交付谷歌商家资料、社交、SEO 博客。 <sub>作者 [Tripper](https://x.com/TripperWood) (@TripperWood)</sub>
 - [Travel Influencer Outreach](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) — 向旅行品牌争取住宿换内容合作，跟进回复并为创作者规划 Reels。 <sub>作者 [Lovable](https://x.com/_lovablecurves) · [出处](https://x.com/_lovablecurves/status/2101139367091736589)</sub>
 - [Venduto](https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp) — 打理欧洲二手挂单，从首询到议价成交，重要承诺仍需你盯着。 <sub>作者 [Tommaso](https://x.com/SuperTost100) (@SuperTost100) · [出处](https://x.com/SuperTost100/status/2100149576388743291)</sub>

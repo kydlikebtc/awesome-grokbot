@@ -2,7 +2,7 @@
 
 *Groceries, household logistics, family schedules, health, and shopping.*
 
-653 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
+656 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
 
 ---
 
@@ -30,6 +30,7 @@
 - [Alibaba Buyer Ops](https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs) — Runs the day-to-day of buying from factories on Alibaba. <sub>by [Domenic](https://x.com/DomenicFotino) (@DomenicFotino) · [origin](https://x.com/DomenicFotino/status/2098863386197151793)</sub>
 - [Allergy Bot](https://x.ai/bot/NNzElxanGR7uZUiiXD_5u) — Screens restaurant menus for food allergies and can call when the menu is not enough. <sub>by [Liam](https://x.com/lmon_25) · [origin](https://x.com/lmon_25)</sub>
 - [anew](https://x.ai/bot/qtuoVRf5etpEVPNA29i7H) — Spins up simple free webpages quickly from a short brief. <sub>by [round](https://x.com/round) · [origin](https://x.com/round/status/2101446607937888535)</sub>
+- [Apartment Scout](https://x.ai/bot/sd6f165284d7fd2f25e56) <sup>official</sup> — Filters new listings against your criteria, emails to book tour times, and applies for the ones that qualify. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV) — Audits iOS apps before App Review and guides rejection responses. <sub>by [Steve](https://x.com/stevederico) (@stevederico) · [origin](https://x.com/stevederico)</sub>
 - [Appeal Desk](https://x.ai/bot/yOiPm69HN5FujdkvvysF9) — Turns denial letters and EOBs into appeal packages without treating the plan as orders. <sub>by [Marc](https://x.com/MSaintjour) (@MSaintjour)</sub>
 - [Apple Dev](https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA) — Drives Xcode, simulators, and Swift builds on a Mac you already paired. <sub>by [Evan](https://x.com/Baconbrix) (@Baconbrix) · [origin](https://x.com/Baconbrix/status/2098196516121002418)</sub>
@@ -532,6 +533,7 @@
 - [Store setup from zero](https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp) — Turns a bare idea for a product into a shop page people can buy from. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2098713500482777501)</sub>
 - [Structure](https://x.ai/bot/Ft6PXN7eTwVVsC-gVPEHW) — Maps entity, partnership, equity, and capital options into prep-only packs for advisers. <sub>by [Ben](https://x.com/BinLeenk) (@Ben Link) · [origin](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [Subrotate](https://x.ai/bot/Uo1B3L6OhucZtpbxhTD2S) — Keeps a personal subscription rotation plan with ON, PARKED, and monthly spend. <sub>by [Turac](https://x.com/TuracTheThinker) (@TuracTheThinker)</sub>
+- [Subscription Cleaner](https://x.ai/bot/sb36667ce9e1fdc00cfe7) <sup>official</sup> — Cut the noise you forgot about. Collates receipt and newsletter mail, suggests what to kill, and unsubscribes what you approve. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Substantive Reply Watch](https://x.ai/bot/dIrtejdsNBAEb2dy4GfYC) — Shared Grok Bot template from d2fl. <sub>by [Tom](https://x.com/d2fl) (@d2fl)</sub>
 - [Sui Generis](https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj) — A blunt second read on any plan, argument or draft. <sub>by [Sarah](https://x.com/nasben82) (@SpaceCowgirlTX) · [origin](https://x.com/nasben82/status/2099999458519912657)</sub>
 - [Susan Miller](https://x.ai/bot/3gtrtAYfI2WHaLZT73-Mu) — Daily horoscopes pulled from Susan Miller on Astrology Zone, as a short morning brief for sun and rising signs. <sub>by [Inkwell](https://x.com/cybrgalaxy) (@cybrgalaxy)</sub>
@@ -582,6 +584,7 @@
 - [Trash Bot](https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px) — Fun trash-talk desk for human problems that need a blunt take. <sub>by [Karen](https://x.com/karenlgeig) (@karenlgeig)</sub>
 - [Travel Agent](https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4) — Plans trips and drafts bookings for your approval; never pays or confirms without you. <sub>by [Scott](https://x.com/scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2099161443455385977)</sub>
 - [Travel And Event Agency](https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh) — Finds live flight and event tickets and compares real fares. <sub>by [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway) · aka *Travel & Event Agency* · [origin](https://x.com/DogecoinNorway/status/2093419031407845671)</sub>
+- [Travel Coordinator](https://x.ai/bot/sc693906bdeded166b7ba) <sup>official</sup> — Hold the best option before it expires. Compares flights and hotels to your rules, confirms before booking, and drops itinerary plus calendar. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Travel Desk](https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu) — Work-travel desk for bag-inclusive flights, hotels near the venue, and logistics you actually enjoy. <sub>by [ladybarrelmaker](https://x.com/ladybarrelmaker) · [origin](https://x.com/ladybarrelmaker/status/2102768720841941101)</sub>
 - [Tutor](https://x.ai/bot/Rj9uN1lhqYP-kLpRVShG0) — Any subject, taught in small lessons anchored to one everyday picture. <sub>by [Anand](https://x.com/anandVragav) (@anandVragav) · [origin](https://x.com/anandVragav/status/2093622965053059198)</sub>
 - [Twain](https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH) — Converse as Mark Twain’s American irony with river sense and fraud-spotting. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>

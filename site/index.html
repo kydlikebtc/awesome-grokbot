@@ -6,7 +6,7 @@
     <title>awesome-grokbot — a checked catalog of live Grok Bot shares</title>
     <meta
       name="description"
-      content="361 live x.ai/bot shares for Grok Bot. Every link status-checked, every row attributed. Search and filter by category, tag, or author."
+      content="2042 live x.ai/bot shares for Grok Bot. Every link status-checked, every row attributed. Search and filter by category, tag, or author."
     />
     <link
       rel="canonical"
@@ -35,7 +35,7 @@
     />
     <meta
       property="og:description"
-      content="361 live x.ai/bot shares. Every link status-checked, every row attributed to where it came from."
+      content="2042 live x.ai/bot shares. Every link status-checked, every row attributed to where it came from."
     />
     <meta
       property="og:url"
@@ -502,6 +502,22 @@
         white-space: nowrap;
       }
 
+      /* Outline rather than a filled badge: it marks who published the share,
+         which is provenance, not a quality or safety rating. */
+      .offmark {
+        font-family: var(--mono);
+        font-size: 0.6rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--ink-2);
+        border: 1px solid var(--rule);
+        border-radius: 3px;
+        padding: 0.05rem 0.28rem;
+        margin-left: 0.45rem;
+        white-space: nowrap;
+        vertical-align: 0.06em;
+      }
+
       .summary {
         color: var(--ink-2);
         margin-top: 0.16rem;
@@ -867,7 +883,10 @@
         let DATA = [],
           active = new Set(),
           lang = "en",
-          query = "";
+          query = "",
+          // Orthogonal to `active`: category is one-of-many, this is a yes/no
+          // narrowing that stacks on top of whatever categories are selected.
+          officialOnly = false;
 
         /* --- output encoding -----------------------------------------------------
      Two separate defences, because they stop different things:
@@ -925,11 +944,13 @@
           lang = p.get("lang") === "zh" ? "zh" : "en";
           const c = p.get("cat");
           active = new Set(c ? c.split(",").filter((k) => CAT[k]) : []);
+          officialOnly = p.get("official") === "1";
         }
         function writeURL() {
           const p = new URLSearchParams();
           if (query) p.set("q", query);
           if (active.size) p.set("cat", [...active].join(","));
+          if (officialOnly) p.set("official", "1");
           if (lang !== "en") p.set("lang", lang);
           const h = p.toString();
           const next = h ? `#${h}` : location.pathname;
@@ -967,6 +988,7 @@
 
         function match(e) {
           if (active.size && !active.has(e.category)) return false;
+          if (officialOnly && !e.official) return false;
           if (!query) return true;
           return query
             .toLowerCase()
@@ -1010,6 +1032,15 @@
       <div class="num">${String(i + 1).padStart(3, "0")}</div>
       <div class="body">
         <span class="name"><a href="${share}" rel="noopener noreferrer">${highlight(e.name, query)}</a></span>
+        ${
+          e.official
+            ? `<span class="offmark" title="${
+                lang === "zh"
+                  ? `由 ${esc(a.name || "")} 官方发布，而非个人分享`
+                  : `published by ${esc(a.name || "")} itself, not shared by an individual`
+              }">${lang === "zh" ? "官方" : "official"}</span>`
+            : ""
+        }
         ${e.aka ? `<span class="aka">aka ${esc(e.aka)}</span>` : ""}
         <p class="summary">${highlight(summary, query)}</p>
         <p class="meta">
@@ -1067,6 +1098,7 @@
           const counts = {};
           for (const e of DATA)
             counts[e.category] = (counts[e.category] || 0) + 1;
+          const offCount = DATA.reduce((n, e) => n + (e.official ? 1 : 0), 0);
           chipsEl.innerHTML =
             CATS.map(
               ([k, en, zh, v]) =>
@@ -1074,7 +1106,14 @@
          <span class="swatch"></span>${esc(lang === "zh" ? zh : en)}<span class="n">${counts[k] || 0}</span>
        </button>`,
             ).join("") +
-            (active.size
+            // Rendered only when such rows exist, so the control never sits
+            // there filtering down to nothing.
+            (offCount
+              ? `<button class="chip" id="offchip" aria-pressed="${officialOnly}" style="--cc:var(--ink)">
+         <span class="swatch"></span>${lang === "zh" ? "机构官方" : "official"}<span class="n">${offCount}</span>
+       </button>`
+              : "") +
+            (active.size || officialOnly
               ? `<button class="chip clear" id="clearcats">${lang === "zh" ? "清除筛选" : "clear"} ✕</button>`
               : "");
 
@@ -1085,10 +1124,17 @@
               sync();
             };
           });
+          const oc = $("#offchip");
+          if (oc)
+            oc.onclick = () => {
+              officialOnly = !officialOnly;
+              sync();
+            };
           const cc = $("#clearcats");
           if (cc)
             cc.onclick = () => {
               active.clear();
+              officialOnly = false;
               sync();
             };
         }

@@ -36,6 +36,11 @@ jobs:
       - name: Assemble the site
         run: |
           cp catalog.json site/catalog.json
+          # The page renders every count from catalog.json at runtime, but the
+          # <meta> descriptions are static HTML -- which is what search results
+          # and Slack/X link unfurls read. Stamped here so the artifact is always
+          # current; the committed file keeps a real, if older, number.
+          python3 scripts/stamp_site.py
           # Pages serves the artifact as-is; .nojekyll stops Jekyll touching it.
           touch site/.nojekyll
           echo "site contents:"
