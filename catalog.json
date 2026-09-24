@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 1984,
+    "live": 1985,
     "retired": 6,
     "by_category": {
       "coding-shipping": 151,
@@ -17,7 +17,7 @@
       "finance-ops": 138,
       "content-publishing": 233,
       "personal-admin": 653,
-      "teams-handoffs": 168
+      "teams-handoffs": 169
     }
   },
   "entries": [
@@ -66602,6 +66602,31 @@
       "checked": "2026-09-24",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "law-bot-eqgl",
+      "name": "Full-Spectrum Law Firm OS",
+      "author": {
+        "name": "JC",
+        "handle": "JoshuaRCook",
+        "url": "https://x.com/JoshuaRCook"
+      },
+      "summary": "Texas law-firm OS: intake, conflict checks and service packages across family, civil, criminal and probate work.",
+      "summary_zh": "德州律所运营系统，家事、民事、刑事、遗产四类案件全流程，从接案和利益冲突检查做起。",
+      "official_summary": "A Texas law-firm operations OS covering family, civil, criminal, and estate/probate matters end to end: intake and conflict checks, service-package...",
+      "import": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+      "bot_id": "EQgLIMO5Q_sVk3iM9EQbZ",
+      "category": "teams-handoffs",
+      "sources": [
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-24",
+      "checked": "2026-09-24",
+      "link_status": 200,
+      "license": "CC0-1.0"
     },
     {
       "slug": "funhouse",
