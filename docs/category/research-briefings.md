@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-320 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+327 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -52,6 +52,7 @@
 - [Chief of Staff](https://x.ai/bot/kGLNBCMEYM6mbejtFfRV9) — Investments and stock research stack for decision support. <sub>by [BCLA3YS](https://x.com/EntangledMatter) (@EntangledMatter)</sub>
 - [Chief of Staff](https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH) — Opens the weekday with a brief and hands work to your other bots. <sub>by [Wyatt](https://x.com/thewyattbrocato) (@thewyattbrocato) · [origin](https://x.com/thewyattbrocato/status/2101358846245507156)</sub>
 - [Chief of Staff — Conflict Desk](https://x.ai/bot/3l5q_rso0yE9KpJO9nYTi) — Coordinates a conflict-intelligence desk: daily WW3-risk and AI-in-conflict digests with a risk %, plus evening spike-only alerts. Built to run with. <sub>by [Alamandorious](https://x.com/alamandorious)</sub>
+- [Cite Desk](https://x.ai/bot/RRrKgAtNJ1Zdl8QTUkipi) — Citation and authority desk for an insurance-coverage bot fleet (part of the Bridge + Fleet map). <sub>by [ladybarrelmaker](https://x.com/ladybarrelmaker)</sub>
 - [Civic Radar](https://x.ai/bot/18ceCocmLssbw59nEPwhr) — Neighborhood change radar that maps permits, 311 requests, agendas, registries, and site plans. <sub>by [Chris](https://x.com/ChrisPadrick) · [origin](https://x.com/ChrisPadrick)</sub>
 - [Claim Ontology Desk](https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v) — Breaks a contested claim into entity, source, and framing. <sub>by [Mat](https://x.com/Ispider) (@Ispider) · [origin](https://x.com/Ispider/status/2100694607092949096)</sub>
 - [Clara](https://x.ai/bot/Ky-rlD5nvLiQocsBuH0AS) — Spanish-speaking piano teacher for practice and repertoire. <sub>by [Gonzalo](https://x.com/TrasgoI) (@TrasgoI)</sub>
@@ -60,6 +61,7 @@
 - [Collins](https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3) — Works through Hercules Collins's 1680 catechism, one question a day. <sub>by [Zach](https://x.com/zachmllr) (@zachmllr) · [origin](https://x.com/zachmllr/status/2094258928922116418)</sub>
 - [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — Commercial judgment for technical founders deciding without complete data. <sub>by [Smit](https://x.com/thesmitpatel) (@thesmitpatel) · [origin](https://x.com/thesmitpatel/status/2094100307340857707)</sub>
 - [Competitive Intelligence Analyst](https://x.ai/bot/sa2d131975aaab07e43f2) <sup>official</sup> — Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Competitor Monitor](https://x.ai/bot/9msshkJeF5cnzAw8tF4vi) — Glasser-powered competitor monitoring bot for ongoing competitive intel inside Grok Bot. <sub>by [iammutex](https://x.com/iammutex)</sub>
 - [Competitor Watching](https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N) — Snapshots you against 3-8 competitors and alerts only on material change. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398377056678001)</sub>
 - [Connection Audit](https://x.ai/bot/qllnuXO-FDFBHZU4MSamY) — Triages the saved-reading pile and ties each keeper to a live problem. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2094103797270503600)</sub>
 - [Consumption Autopsy](https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy) — Post-mortems your study habits and swaps one passive input for practice. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2094103715070558493)</sub>
@@ -150,6 +152,7 @@
 - [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — Surfaces what people have actually said about a topic in the last 30 days. <sub>by [Matt](https://x.com/mvanhorn) (@mvanhorn) · [origin](https://x.com/mvanhorn/status/2093466618718245198)</sub>
 - [Launch Seat](https://x.ai/bot/QwYUXSLYJcuk0k6L_lyn9) — A work-and-projects assistant built for the Starbase trip contest — keeps tasks, drafts, research, and follow-through moving so more of the day ships. <sub>by [Brandon](https://x.com/brandonbe) (@brandonbe)</sub>
 - [Learning DNA](https://x.ai/bot/xm3G76TSxi1dcG4qwebvm) — Discovers how you learn best through a short interactive assessment, then teaches everything in your style. <sub>by [kareen](https://x.com/KareenMallet) (@KareenMallet) · [origin](https://x.com/KareenMallet/status/2100458316786741742)</sub>
+- [Legal Advisor](https://x.ai/bot/0TmnKtakm--gYpX_1jcni) — Plain-language legal research that adapts to your jurisdiction and drafts your options. <sub>by [XPixel](https://x.com/xpixeladventure) (@xpixeladventure) · [origin](https://x.com/xpixeladventure/status/2103150892421919065)</sub>
 - [Life Team Orchestrator](https://x.ai/bot/OkIvqIKyCEHxsaxnqnM-S) — One front door for a household life team. Runs a weekday morning digest, protects personal time from work spillover, and routes deep work to specialist. <sub>by [Josh](https://x.com/AReasonedLife) (@AReasonedLife)</sub>
 - [Liked Bands](https://x.ai/bot/EOT3r0UlzJodiXjRgKrhR) — Daily concert watch for artists from your Spotify Liked Songs and top playlists. Flags shows and new tour announcements in regions you care about,. <sub>by [Jim](https://x.com/RevJimYYC) (@RevJimYYC)</sub>
 - [LinkedIn Watch](https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR) — Scheduled LinkedIn digest covering feed, messages, invites, views, and jobs. <sub>by [Dave](https://x.com/AnnouncrFM) (@AnnouncrFM) · [origin](https://x.com/AnnouncrFM/status/2098210496356680113)</sub>
@@ -190,10 +193,12 @@
 - [Onboard Bot](https://x.ai/bot/DwV395eKDJOWYtjcqVbAb) — First-session guide that asks what you want done and leaves you with something built, not a blank prompt. <sub>by [JORGE](https://x.com/cryptorally) (@cryptorally) · [origin](https://x.com/cryptorally/status/2102456930325103078)</sub>
 - [Online Identity Bot](https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_) — Daily search-engine check for what is newly public about you. <sub>by [Greg](https://x.com/gkamstra) (@gkamstra) · [origin](https://x.com/gkamstra/status/2095837272687964512)</sub>
 - [Open Alternative Scout](https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG) — Scouts rising software and open-source alternative plans. <sub>by [Victor](https://x.com/VictorMotricala) (@VictorMotricala) · [origin](https://x.com/VictorMotricala/status/2102428609621160188)</sub>
+- [Open Call Producer](https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro) — Turns a photography open call into a checked submission pack built around your shots. <sub>by [Aleksandr](https://x.com/sashanaria) (@sashanaria) · [origin](https://x.com/sashanaria/status/2103237385521971372)</sub>
 - [Orchestrator](https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo) — Multi-bot trading-day research desk with role cards, handoffs, timeouts, and weekday EOD reviews. <sub>by [R](https://x.com/keepclmcarryong) · [origin](https://x.com/keepclmcarryong/status/2101887744880361700)</sub>
 - [orders](https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie) — A personal desk for every parcel, receipt and refund you are waiting on. <sub>by [bashful](https://x.com/wafffls) (@wafffls) · [origin](https://x.com/wafffls/status/2095614060070928837)</sub>
 - [OutBid Mania](https://x.ai/bot/Sj_LPMP7hKOOSzF8YDiNr) — Tracks a viral bidding-site trend and its clones on a daily dashboard. <sub>by [Dragos](https://x.com/dragosroua) (@dragosroua) · [origin](https://x.com/dragosroua/status/2093474725976736130)</sub>
 - [Outbound Prospecting](https://x.ai/bot/i03IaF768-ielyzegoGye) — Finds prospects that match your ideal customer, then drafts a first message to each one. Every name is researched on the public web, and nothing sends.
+- [Outbound Scout](https://x.ai/bot/7FPx_GNADVyb36VRYoKz1) — Builds a prospecting pipeline from your product link: buyer profile first, then companies. <sub>by [iammutex](https://x.com/iammutex) · [origin](https://x.com/iammutex/status/2103122640475132161)</sub>
 - [Overheard](https://x.ai/bot/NIEguoGUjA648fUPle8F5) — Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something.
 - [Paid Ads Creative Collector](https://x.ai/bot/fsje86F8rzNNPc0q6piM_) — Collects competitor creatives from Meta and TikTok Ad Libraries, filters by start/create time, and uploads into Drive for paid-ads / creative research. <sub>by [Kim](https://x.com/ginking0826) (@ginking0826)</sub>
 - [Paperknife](https://x.ai/bot/RY23hf0sh91-5TGn18af7) — Cuts AI/ML papers into claim, use case, and math. Opens the PDF — not the abstract — and returns one-page Paper Cards for practitioners and researchers. <sub>by [UncleKoco](https://x.com/KyleSmith0204) (@KyleSmith0204)</sub>
@@ -246,6 +251,7 @@
 - [Sentry OPS](https://x.ai/bot/ZFQ35fLdqLdzDyI_TQoGZ) — Sentry digests and production error alerts you can act on. <sub>by [Pinuts](https://x.com/Pinuts_) (@Pinuts_)</sub>
 - [SEO & AEO Desk](https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL) — Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.
 - [SEO / AEO Auditor](https://x.ai/bot/sb6d579c33f7a32d0e7af) <sup>official</sup> — Tracks keyword, technical, AI-prompt and competitor movement in one place, and flags the site issues worth fixing. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [SEO Expert](https://x.ai/bot/sg2dZMjlprpit0y0PNyhL) — Keeps watch on your site's search performance and plans fixes for your sign-off. <sub>by [iammutex](https://x.com/iammutex) · [origin](https://x.com/iammutex/status/2103122640475132161)</sub>
 - [SEO/GEO Specialist](https://x.ai/bot/pImOOCvE7uB1SXENOI9Ng) — SEO and GEO operator for people who want measurable rankings and AI citations. Uses Rankdelta.ai for research, rank tracking, technical audits, and AI. <sub>by [Angelo](https://x.com/angelosorbello1) (@angelosorbello1)</sub>
 - [Serenity 티커 알림](https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ) — Tracks Serenity ticker opinions on X via FxTwitter every fifteen minutes. <sub>by [krong](https://x.com/Krongggggg) (@Krongggggg)</sub>
 - [Sherlock Holmes](https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d) — Give it a symptom and it works out what actually caused the drop. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383124948324505)</sub>
@@ -277,6 +283,7 @@
 - [Team Ninja + Self-learning Skills Loop](https://x.ai/bot/uoHxMMgZfiJTymQ0dA9g8) — Builds purpose-driven multi-bot teams with a self-learning skills loop. <sub>by [Tim](https://x.com/salterworld) (@salterworld)</sub>
 - [Tech Skills Coach](https://x.ai/bot/z841w3sxcqGwe83MQLk3E) — Tech co-pilot that builds coding fluency with deliberate practice. <sub>by [laila](https://x.com/LailaDeeb1) (@LailaDeeb1)</sub>
 - [Termômetro Eleitoral](https://x.ai/bot/n6DQhcTSPHdlVpQtEinpS) — Daily summary of X candidates and posts worth your attention. <sub>by [Cristiano](https://x.com/crisvallory) (@crisvallory)</sub>
+- [Texas Lawyer](https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y) — Tracks Texas coverage rulings and quiet regulator moves in one standing briefing. <sub>by [ladybarrelmaker](https://x.com/ladybarrelmaker) · [origin](https://x.com/ladybarrelmaker/status/2103106176481140860)</sub>
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) — A cheerful skeptic that makes your other bots prove it. <sub>by [Russ](https://x.com/russbroomell) (@russbroomell) · [origin](https://x.com/russbroomell/status/2095661019041251711)</sub>
 - [The List](https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k) — Three-line in-chat drops when new bots or directory picks land, no email and no drafting. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod) · [origin](https://x.com/GrokBotGod/status/2101482157436751928)</sub>
 - [The List](https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq) — Three lines in your own chat whenever a new bot lands in the directory. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>

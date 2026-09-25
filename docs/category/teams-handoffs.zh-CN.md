@@ -2,12 +2,13 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-179 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+182 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) — 维护一份短的共享工作正典，让其它机器人从同一套角色、目标、关键人、系统和定论起步。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2102052001542717882)</sub>
 - [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) — 每日个人伴侣，从夜间随身影像学习并沉淀长期记忆，为以后交给机器人做准备。 <sub>作者 [Marcos](https://x.com/rodriguesconatm) · [出处](https://x.com/rodriguesconatm/status/2100532520815047117)</sub>
+- [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) — 你说目标，Adam 拆给手下 bot，再收回一个清晰决定。 <sub>作者 [Ed](https://x.com/EdisonTanEdtreo) (@EdisonTanEdtreo) · [出处](https://x.com/EdisonTanEdtreo/status/2103222731831713842)</sub>
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) — 按主题和竞品推广人找联盟候选人，排出短名单并附联系方式和初稿话术。 <sub>作者 [Silvestro](https://x.com/zilvestro) (@zilvestro) · [出处](https://x.com/zilvestro/status/2097995020217323736)</sub>
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) — 审计你的 Bot 舰队，指出哪些只是在占位。 <sub>作者 [Siddharth](https://x.com/sdrth) (@sdrth) · [出处](https://x.com/sdrth/status/2096328200129478935)</sub>
 - [AI PM OS](https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj) — 一套可复用的产品管理操作系统。 <sub>作者 [George](https://x.com/nurijanian) (@nurijanian) · [出处](https://x.com/nurijanian/status/2093716302884147646)</sub>
@@ -69,6 +70,7 @@
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) — 盯着一小时 LinkedIn 投递窗口，同一岗位绝不再抓第二次。 <sub>作者 [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [出处](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
 - [Executive Assistant](https://x.ai/bot/sf813cbd3aadad1cfda46) <sup>官方</sup> — 不用泡在群里也不掉线：每早一份简报，进新群自动补一份前情摘要。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) — 给其他机器人说的话打分，标成扎实、含糊、夸大或留给人看。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098141022320533714)</sub>
+- [FaStart CEO Bot](https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt) — 用一个决策队列统领整组 bot，同一问题不问第二遍。 <sub>作者 [Enes](https://x.com/enesteve_) (@enesteve_) · [出处](https://x.com/enesteve_/status/2103208562159735031)</sub>
 - [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — 用动手任务给 Grok Bot 新手做上手引导，完成第一次记忆、例行与自动化。 <sub>作者 [P-Jay](https://x.com/PjBohica) (@PjBohica) · [出处](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — 真正动手的执行手，计划不对会顶回去。 <sub>作者 [Uzi](https://x.com/UziObi) · [出处](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — 维护共享知识库，并检查多 Bot 舰队有没有重叠。 <sub>作者 [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
@@ -184,6 +186,7 @@
 - [X调度员](https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5) — 把 X 相关任务走更省的路径，让开发者额度更耐用。 <sub>作者 [铁柱AGI](https://x.com/cgnot996) (@cgnot996) · [出处](https://x.com/cgnot996/status/2098682795094876175)</sub>
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) — 单一总部对话：挑下一个该押的方向，用你的口吻起草，你不点头就不发。 <sub>作者 [Majd](https://x.com/MajdKaid) (@MajdKaid)</sub>
 - [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) — 按实际用法核对其他机器人的名字和简介，只在你点头后改。 <sub>作者 [翔](https://x.com/x_stone_island) (@x_stone_island) · [出处](https://x.com/x_stone_island/status/2097947982192951719)</sub>
+- [投简历](https://x.ai/bot/Xg1_LIUG80iz5065crarS) — 按筛选口径在招聘平台筛岗投递，也可向公开邮箱发简历，并回报卡点。 <sub>作者 [Edwin](https://x.com/EdwinCh43136084) (@EdwinCh43136084)</sub>
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — 访谈式引导，帮你组出第一支 Bot 花名册。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2094547674766929996)</sub>
 
 ---

@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-159 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+161 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -130,6 +130,7 @@
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) — 醒来就有一份筛过的 B2B 客户表。 <sub>作者 [Sultanov](https://x.com/thekuchh) (@thekuchh) · [出处](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Pulse](https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj) — 帮你排查 Windows 游戏本故障，给出风险排序的修复建议，侵入性操作前必须你点头。 <sub>作者 [AdamDesigns](https://x.com/ZestStream) (@ZestStream) · [出处](https://x.com/ZestStream/status/2102067819462713408)</sub>
 - [Punto Tricolor Ops](https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi) — 服务哥伦比亚小企业的日常运营，从早报做到预约。 <sub>作者 [andres](https://x.com/cyberandres) (@cyberandres) · [出处](https://x.com/cyberandres/status/2100418255093395496)</sub>
+- [Quote Chase Desk](https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg) — 给工贸店盯报价跟进，起草跟催文案供你批准，客户一回就停，并按 30/60/90 天重开冷报价。 <sub>作者 [Liftably](https://x.com/AraXsuper) · [出处](https://x.com/AraXsuper/status/2103370558238810376)</sub>
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) — 把简历改成能点开演示的活作品集。 <sub>作者 [Jon](https://x.com/HouseHackerJon) (@HouseHackerJon) · [出处](https://x.com/HouseHackerJon/status/2093832798528577920)</sub>
 - [RE Ops COO](https://x.ai/bot/_qRtgGDLXFjuEVML35EI4) — 纵向整合房地产业者的数字优先 COO，跑每日记分板与运营核对。 <sub>作者 [Danny](https://x.com/Danny_0315) (@Danny_0315)</sub>
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) — 英国建筑业仅限承包商的招聘助手，简历、LinkedIn、日费率与岗位狩猎。 <sub>作者 [Niyazi](https://x.com/inovasyonkultur) (@inovasyonkultur)</sub>
@@ -137,6 +138,7 @@
 - [Renewal Desk Operator](https://x.ai/bot/s4c86a54f188668096400) <sup>官方</sup> — 每次续约都已经摸过底：按用量、工单、通话、CRM 出 90 天材料，商务说明也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) — 赋能问题的统一入口，再路由到对的专项技能。 <sub>作者 [Nathan](https://x.com/nathanclark_) (@nathanclark_) · [出处](https://x.com/nathanclark_/status/2096204922907963834)</sub>
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — 找出已经躺在 HubSpot 管道里的收入机会。 <sub>作者 [Eric](https://x.com/ericosiu) (@ericosiu) · [出处](https://x.com/ericosiu/status/2095629858630160695)</sub>
+- [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) — 按你店铺口吻起草评价回复，按星级分类，每条经你批准。 <sub>作者 [Liftably](https://x.com/AraXsuper) (@AraXsuper) · [出处](https://x.com/AraXsuper/status/2103185829615038718)</sub>
 - [RobIT](https://x.ai/bot/0BbPklegaSLcUqp0CVXda) — 排查 Windows 卡顿崩溃原因，并清掉卸载残留的杀软与浏览器插件。 <sub>作者 [Lipa](https://x.com/CrystalJ613) (@CrystalJ613) · [出处](https://x.com/CrystalJ613/status/2100084745451250009)</sub>
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) — 工作日操盘手，获客、外呼、质检和入职一起跑。 <sub>作者 [Daniel](https://x.com/danielfoch) · [出处](https://x.com/danielfoch/status/2093697807542526325)</sub>
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) — 给销售通话打分并告诉你下一通该改什么，可用粘贴逐字稿或上传录音。

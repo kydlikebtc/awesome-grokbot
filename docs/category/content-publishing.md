@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-237 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+240 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -131,6 +131,7 @@
 - [Mentor](https://x.ai/bot/3rV7gv1k94G6gCG_arFLr) — A build partner for short AI-video projects and product loops. <sub>by [Jon](https://x.com/Jon_Rose_) (@Jon_Rose_) · [origin](https://x.com/Jon_Rose_/status/2099919690197876937)</sub>
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — Mines a day of AI news and ranks what actually deserves a post. <sub>by [Gabriel](https://x.com/adamuchigabriel) (@adamuchigabriel) · aka *Minerador de conte\u00fado* · [origin](https://x.com/adamuchigabriel/status/2094182045782073384)</sub>
 - [Money](https://x.ai/bot/wyfpX8C4jOj-4_4RAQ249) — You are Money, grokbot.studio door + installer. You were added from a share link, so you are the installed copy. You are not the Hexakin source bot. On. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
+- [Mono Lisa](https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI) — A nightly design desk that investigates metric drops and files the fix. <sub>by [Felix](https://x.com/felixleezd) (@felixleezd) · [origin](https://x.com/felixleezd/status/2102808184155246699)</sub>
 - [Mr. Laser](https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY) — Project lead for a one-person laser-engraving shop. <sub>by [Rich](https://x.com/RichSilver) (@RichSilver) · [origin](https://x.com/RichSilver/status/2093409240962506861)</sub>
 - [Music Hit Studio](https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG) — Creates and ships original songs with a Grok Bot team: expert prompts to a music model, taste kill before generate, then publish and post-approval reach. <sub>by [DoS](https://x.com/DOSHostNet) (@DOSHostNet)</sub>
 - [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) — Turns a track and lyrics into a timed shot list and prompt board. <sub>by [Joseph](https://x.com/OmgawdMadeit) (@OmgawdMadeit) · [origin](https://x.com/OmgawdMadeit/status/2096127964668629458)</sub>
@@ -200,6 +201,7 @@
 - [Social Media GTM Bot](https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ) — A Head of Content bot for founders who publish on Instagram, TikTok, YouTube, X, and LinkedIn. It recycles winning posts, prepares comment-to-DM lead magnets, keeps a per-platform calendar, and publishes through PlugKit only after you approve the text. <sub>by [Antoine](https://x.com/Antoine) · [origin](https://x.com/Grok_Hub_IO/status/2093826224879747387)</sub>
 - [Songwriter](https://x.ai/bot/k3eBiEIAtXSRUCZJX5aYJ) — Studio door for songwriting. Stands up a songwriter specialist, then routes lyrics, choruses, progressions, and structure in text so someone else can. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) — Takes one public claim apart into an evidence-graded source ledger (E0–E4). Sources only. No verdict. Send one sentence and one source. <sub>by [JosefEmanuel](https://x.com/aeon_jo) (@aeon_jo)</sub>
+- [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — Send a photo of a room to clean out or redecorate and get a concept after mockup plus easy step-by-step instructions. <sub>[origin](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — Adversarial startup evaluator for founders who want their idea stress-tested before they waste months building. Drop a concept and get a KILL, REWORK,. <sub>by [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — Mark up the flat, machine-sounding lines in a draft and get them rewritten. <sub>by [Bill](https://x.com/bfrench) (@bfrench) · [origin](https://x.com/bfrench/status/2094591383080403402)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — Art studio assistant for scheduling, outreach, and captions. <sub>by [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
@@ -218,6 +220,7 @@
 - [Video Transcriber](https://x.ai/bot/wC622hEnAgGY5AHK9z205) — Turns a video link into a clean transcript or subtitle file. <sub>by [habib](https://x.com/reachhabib) (@reachhabib) · [origin](https://x.com/reachhabib/status/2097039920988627403)</sub>
 - [Vidmoat Bot](https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc) — Cuts, previews, and renders videos in Vidmoat over MCP into an editable timeline. <sub>by [Vidmoat](https://x.com/vidmoat) · [origin](https://x.com/vidmoat)</sub>
 - [Webby](https://x.ai/bot/Q2shbC8RRmoRleIyr5J33) — A website admin that rebuilds, dashboards and keeps the newsletter going. <sub>by [Farzad](https://x.com/farzyness) · [origin](https://x.com/farzyness/status/2093485215150744014)</sub>
+- [Weekly Recap](https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q) — Collects what you and your bots actually did from bots, routines, calendar, GitHub, and notes, then drafts an honest emoji-led weekly recap for approval. <sub>by [Christian](https://x.com/Christian_O91) · [origin](https://x.com/Christian_O91/status/2103347545900507549)</sub>
 - [wing](https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv) — A dating-app wingman that drafts openers and replies in your voice. <sub>by [Lauren](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093516142019318262)</sub>
 - [X Account Crew](https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp) — Five specialists sharing the work of running your X account. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [X Account Strategist](https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp) — For founders, operators, and business leaders who need distribution and a real network on X. Surfaces post and article ideas from several angles each. <sub>by [Ashish](https://x.com/inqusit) (@inqusit)</sub>

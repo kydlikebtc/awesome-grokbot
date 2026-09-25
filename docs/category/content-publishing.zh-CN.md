@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-237 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+240 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -131,6 +131,7 @@
 - [Mentor](https://x.ai/bot/3rV7gv1k94G6gCG_arFLr) — 短 AI 视频项目与产品闭环的共建搭档。 <sub>作者 [Jon](https://x.com/Jon_Rose_) (@Jon_Rose_) · [出处](https://x.com/Jon_Rose_/status/2099919690197876937)</sub>
 - [Minerador de conteúdo](https://x.ai/bot/ut8BUqwZlAthhIt8s7YNX) — 挖一整天的 AI 新闻，排出真正值得发帖的那几条。 <sub>作者 [Gabriel](https://x.com/adamuchigabriel) (@adamuchigabriel) · 社区旧称 *Minerador de conte\u00fado* · [出处](https://x.com/adamuchigabriel/status/2094182045782073384)</sub>
 - [Money](https://x.ai/bot/wyfpX8C4jOj-4_4RAQ249) — grokbot.studio 的 Money 入口与安装器，安装后成为财务侧副本并路由钱款事务。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
+- [Mono Lisa](https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI) — 夜间设计台，追查指标下跌并整理成可执行修复单。 <sub>作者 [Felix](https://x.com/felixleezd) (@felixleezd) · [出处](https://x.com/felixleezd/status/2102808184155246699)</sub>
 - [Mr. Laser](https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY) — 一个人激光雕刻店的项目负责人。 <sub>作者 [Rich](https://x.com/RichSilver) (@RichSilver) · [出处](https://x.com/RichSilver/status/2093409240962506861)</sub>
 - [Music Hit Studio](https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG) — 用 Grok Bot 团队创作并发布原创歌曲，把专家提示交给音乐模型并收尾发行。 <sub>作者 [DoS](https://x.com/DOSHostNet) (@DOSHostNet)</sub>
 - [Music Video Release](https://x.ai/bot/vagsUEIt5s7lexKnSes2H) — 把成曲和歌词做成分镜时间表和可粘贴提示板，不拍不传。 <sub>作者 [Joseph](https://x.com/OmgawdMadeit) (@OmgawdMadeit) · [出处](https://x.com/OmgawdMadeit/status/2096127964668629458)</sub>
@@ -200,6 +201,7 @@
 - [Social Media GTM Bot](https://x.ai/bot/rwdXTWNa0eGPFzyTWlRKJ) — 给创始人当内容负责人，把内容循环发到 Instagram、TikTok、YouTube、X 和 LinkedIn。 <sub>作者 [Antoine](https://x.com/Antoine) · [出处](https://x.com/Grok_Hub_IO/status/2093826224879747387)</sub>
 - [Songwriter](https://x.ai/bot/k3eBiEIAtXSRUCZJX5aYJ) — 歌曲创作工作室入口，拉起词曲专家，用文本路由歌词、副歌、进行与结构。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
 - [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) — 把一条公开主张拆成按证据分级的来源台账，只列来源不下判，请发一句主张加一个来源。 <sub>作者 [JosefEmanuel](https://x.com/aeon_jo) (@aeon_jo)</sub>
+- [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — 发一张想清理或翻新的房间照片，返回概念改造效果图和易跟做的分步说明。 <sub>[出处](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — 给想在浪费数月前压力测试点子的创始人做对抗式评估，丢来概念，得到杀掉、返工或继续的判决。 <sub>作者 [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — 标出稿子里平淡的机器腔，然后改写成能读的句子。 <sub>作者 [Bill](https://x.com/bfrench) (@bfrench) · [出处](https://x.com/bfrench/status/2094591383080403402)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — 艺术工作室助手，排期、外联和标题。 <sub>作者 [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
@@ -218,6 +220,7 @@
 - [Video Transcriber](https://x.ai/bot/wC622hEnAgGY5AHK9z205) — 把视频链接转成干净的文稿或字幕文件。 <sub>作者 [habib](https://x.com/reachhabib) (@reachhabib) · [出处](https://x.com/reachhabib/status/2097039920988627403)</sub>
 - [Vidmoat Bot](https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc) — 经 MCP 在 Vidmoat 里剪片、预览和渲染，落成可编辑时间线。 <sub>作者 [Vidmoat](https://x.com/vidmoat) · [出处](https://x.com/vidmoat)</sub>
 - [Webby](https://x.ai/bot/Q2shbC8RRmoRleIyr5J33) — 管网站重建和看板，newsletter 也一直转着。 <sub>作者 [Farzad](https://x.com/farzyness) · [出处](https://x.com/farzyness/status/2093485215150744014)</sub>
+- [Weekly Recap](https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q) — 从机器人例行日历 GitHub 与笔记收集本周实绩，起草带表情的周报草稿，未经你同意绝不发。 <sub>作者 [Christian](https://x.com/Christian_O91) · [出处](https://x.com/Christian_O91/status/2103347545900507549)</sub>
 - [wing](https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv) — 约会应用僚机，用你的口气起草开场和回复。 <sub>作者 [Lauren](https://x.com/poteto) (@poteto) · [出处](https://x.com/poteto/status/2093516142019318262)</sub>
 - [X Account Crew](https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp) — 五个专长一起扛你的 X 账号。 <sub>作者 [Sultanov](https://x.com/thekuchh) (@thekuchh) · [出处](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [X Account Strategist](https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp) — 给需要分发与真实人脉的创始人和经营者，每天从多角度挖帖子与长文选题。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit)</sub>

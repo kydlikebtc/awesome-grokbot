@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-162 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+165 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -79,6 +79,7 @@
 - [Grok Build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) — 在代理机上跑真正的 Grok Build CLI，用最大力度做应用、代码与深研。 <sub>作者 [Teslaconomics](https://x.com/Teslaconomics)</sub>
 - [Grok Build](https://x.ai/bot/wnFlIE6YpskdUekfkkwFO) — 在代理电脑上以最大力度跑 Grok Build CLI，做应用、代码与深度研究。 <sub>作者 [Zack](https://x.com/zac70182) (@zac70182) · [出处](https://x.com/zac70182/status/2102181050361237576)</sub>
 - [Grok Build](https://x.ai/bot/-HSQcnXiifDMwXqkgMix9) — 薄封装真实 Grok Build 命令行，做编码、应用、脚本、仓库或深研。 <sub>作者 [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian)</sub>
+- [Grok Build](https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph) — 在代理电脑上跑真 Grok Build CLI，做应用、代码与深度研究。 <sub>作者 [Sandesh](https://x.com/SandeshAndrade) (@SandeshAndrade)</sub>
 - [Grok Code Mac Controller](https://x.ai/bot/ETBwKJvcSacaIyilrAz44) — 通过 tmux 注入在 Mac 上协调 Grok Code Build 编程代理，适合 Mac Mini 或 MacBook，你仍掌方向盘。 <sub>作者 [Damien](https://x.com/damienmurtagh) (@damienmurtagh)</sub>
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) — Bot 那台 Linux 虚拟机的运维搭档：健康、磁盘、服务、软件包。 <sub>作者 [Will](https://x.com/old_pgmrs_will) (@old_pgmrs_will) · [出处](https://x.com/old_pgmrs_will/status/2094360885884322286)</sub>
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) — 为已登记增长实验做产品改动，藏在特性开关后，以小而可审的 PR 交付。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
@@ -118,6 +119,8 @@
 - [OwnPhoneBot](https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP) — 通过 VoIP.ms 和 Asterisk 给你的 AI 一个真实电话号码。 <sub>作者 [Daniel](https://x.com/lafraia) (@lafraia) · [出处](https://x.com/lafraia/status/2100362748701872405)</sub>
 - [Packet Wrangler Range Rider](https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS) — 只读盯托管站点的健康，写好修复建议等你批准。 <sub>作者 [Stephanie](https://x.com/SLamouroux) (@SLamouroux) · [出处](https://x.com/SLamouroux/status/2100710528209277136)</sub>
 - [Path Consolidator Bot](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) — 找出重复代码路径并帮助合并。 <sub>作者 [Joshua](https://x.com/joshuastowell25) (@joshuastowell25)</sub>
+- [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) — 按 AI 爬虫视角审计单个网址，并起草一份 llms.txt 补丁清单。 <sub>作者 [Eric](https://x.com/ericesoteric) (@ericesoteric) · [出处](https://x.com/ericesoteric/status/2102910573952508090)</sub>
+- [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) — 给 bot 所在电脑做保养，腾内存和磁盘，保持更新顺畅。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2103144210681700713)</sub>
 - [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) <sup>官方</sup> — API 测不到的路径就硬来：在机器上直接操作界面，抓下失败，交一份精简发现清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — 按风险高低来审 pull request。 <sub>作者 [mustafa](https://x.com/mustafaergisi) · [出处](https://x.com/mustafaergisi/status/2093393924870058039)</sub>
 - [Product Feedback Analyst](https://x.ai/bot/s9e2a2591b97ca74fbeaa) <sup>官方</sup> — 把零散的产品反馈理成优先级：多来源收集后聚类，按证据和紧急度权衡，再起草结论。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>

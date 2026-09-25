@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-159 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+161 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -130,6 +130,7 @@
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) — Wakes you up to a fresh sheet of qualified B2B accounts. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Pulse](https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj) — Talks you through Windows gaming-laptop faults with risk-ranked fixes and a hard stop before invasive steps. <sub>by [AdamDesigns](https://x.com/ZestStream) (@ZestStream) · [origin](https://x.com/ZestStream/status/2102067819462713408)</sub>
 - [Punto Tricolor Ops](https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi) — Daily ops for a small Colombia business from briefing to bookings. <sub>by [andres](https://x.com/cyberandres) (@cyberandres) · [origin](https://x.com/cyberandres/status/2100418255093395496)</sub>
+- [Quote Chase Desk](https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg) — Tracks open quotes for trades shops, drafts paced follow-ups for approval, stops when a customer replies, and reopens cold quotes at 30/60/90 days. <sub>by [Liftably](https://x.com/AraXsuper) · [origin](https://x.com/AraXsuper/status/2103370558238810376)</sub>
 - [Ralph](https://x.ai/bot/NQQjXITgX9V7WjaDh9Vzb) — Rebuilds a resume into a live portfolio of clickable work demos. <sub>by [Jon](https://x.com/HouseHackerJon) (@HouseHackerJon) · [origin](https://x.com/HouseHackerJon/status/2093832798528577920)</sub>
 - [RE Ops COO](https://x.ai/bot/_qRtgGDLXFjuEVML35EI4) — Numbers-first COO for a vertically integrated real estate operator. Runs daily scoreboards, keeps acquisitions/rehab/PM honest, drafts outreach for you. <sub>by [Danny](https://x.com/Danny_0315) (@Danny_0315)</sub>
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) — UK construction recruitment assistant for contractor-only job hunts: CVs, LinkedIn, day-rate roles, and honest applications — no PAYE when the visa. <sub>by [Niyazi](https://x.com/inovasyonkultur) (@inovasyonkultur)</sub>
@@ -137,6 +138,7 @@
 - [Renewal Desk Operator](https://x.ai/bot/s4c86a54f188668096400) <sup>official</sup> — Builds a 90-day pack per account from usage, tickets, calls and CRM, drafts the commercial note, and nudges the owner. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) — One front door for enablement asks, routed to the right specialist skill. <sub>by [Nathan](https://x.com/nathanclark_) (@nathanclark_) · [origin](https://x.com/nathanclark_/status/2096204922907963834)</sub>
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — Finds the revenue already sitting in your HubSpot pipeline. <sub>by [Eric](https://x.com/ericosiu) (@ericosiu) · [origin](https://x.com/ericosiu/status/2095629858630160695)</sub>
+- [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) — Drafts review replies in your shop's own voice, star-sorted, with you approving each one. <sub>by [Liftably](https://x.com/AraXsuper) (@AraXsuper) · [origin](https://x.com/AraXsuper/status/2103185829615038718)</sub>
 - [RobIT](https://x.ai/bot/0BbPklegaSLcUqp0CVXda) — Finds what is crashing a Windows PC and cleans leftover antivirus or browser junk. <sub>by [Lipa](https://x.com/CrystalJ613) (@CrystalJ613) · [origin](https://x.com/CrystalJ613/status/2100084745451250009)</sub>
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) — A weekday operator that runs GTM, outbound, QA and onboarding. <sub>by [Daniel](https://x.com/danielfoch) · [origin](https://x.com/danielfoch/status/2093697807542526325)</sub>
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) — Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.

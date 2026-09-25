@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-162 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+165 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -79,6 +79,7 @@
 - [Grok Build](https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL) — Runs the real Grok Build CLI for apps, code, and deep research at maximum effort. For anyone who wants Grok Build on an agent computer instead of. <sub>by [Teslaconomics](https://x.com/Teslaconomics)</sub>
 - [Grok Build](https://x.ai/bot/wnFlIE6YpskdUekfkkwFO) — Runs the Grok Build CLI at full effort on an agent computer for apps, code, and deep research. <sub>by [Zack](https://x.com/zac70182) (@zac70182) · [origin](https://x.com/zac70182/status/2102181050361237576)</sub>
 - [Grok Build](https://x.ai/bot/-HSQcnXiifDMwXqkgMix9) — Thin wrapper around the real Grok Build CLI for coding, apps, scripts, repos, or deep research. <sub>by [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian)</sub>
+- [Grok Build](https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph) — Runs the real Grok Build CLI for apps, code, and deep research at maximum effort - for anyone who wants Grok Build on an agent computer. <sub>by [Sandesh](https://x.com/SandeshAndrade) (@SandeshAndrade)</sub>
 - [Grok Code Mac Controller](https://x.ai/bot/ETBwKJvcSacaIyilrAz44) — Coordinates a Grok Code (Build) coding agent on a Mac via tmux inject. Best for Mac Mini / MacBook setups; other platforms are untested. You stay in. <sub>by [Damien](https://x.com/damienmurtagh) (@damienmurtagh)</sub>
 - [Grok VM maintenance](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) — Sysadmin sidekick for the Linux VM behind your bot: health, disk, services, packages. <sub>by [Will](https://x.com/old_pgmrs_will) (@old_pgmrs_will) · [origin](https://x.com/old_pgmrs_will/status/2094360885884322286)</sub>
 - [Growth Eng](https://x.ai/bot/fC0XjRxxW3tQZi4KU8VB1) — Builds the product changes registered growth experiments need, behind feature flags, as small reviewable PRs. Only takes work from Product Growth PM. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
@@ -118,6 +119,8 @@
 - [OwnPhoneBot](https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP) — Connects a real telephone number to an assistant by taking the fiddly provisioning off your hands: it signs you up with the telephone provider and installs an…. <sub>by [Daniel](https://x.com/lafraia) (@lafraia) · [origin](https://x.com/lafraia/status/2100362748701872405)</sub>
 - [Packet Wrangler Range Rider](https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS) — A read-only watchdog for hosted sites that drafts fixes for your approval. <sub>by [Stephanie](https://x.com/SLamouroux) (@SLamouroux) · [origin](https://x.com/SLamouroux/status/2100710528209277136)</sub>
 - [Path Consolidator Bot](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) — Finds duplicate code paths and helps consolidate them. <sub>by [Joshua](https://x.com/joshuastowell25) (@joshuastowell25)</sub>
+- [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) — Audits one URL the way AI crawlers see it and drafts an llms.txt patch list. <sub>by [Eric](https://x.com/ericesoteric) (@ericesoteric) · [origin](https://x.com/ericesoteric/status/2102910573952508090)</sub>
+- [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) — Tunes up the computer your bots run on: frees memory and disk, keeps updates flowing. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2103144210681700713)</sub>
 - [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) <sup>official</sup> — Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PR Reviewer](https://x.ai/bot/rt629UEZFtE4Wz0A_0c37) — Reviews pull requests risk-first. <sub>by [mustafa](https://x.com/mustafaergisi) · [origin](https://x.com/mustafaergisi/status/2093393924870058039)</sub>
 - [Product Feedback Analyst](https://x.ai/bot/s9e2a2591b97ca74fbeaa) <sup>official</sup> — Collects and clusters feedback from connected sources, weighs evidence against urgency, and drafts the prioritised view. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>

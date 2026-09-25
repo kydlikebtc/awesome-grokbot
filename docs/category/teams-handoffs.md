@@ -2,12 +2,13 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-179 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+182 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) — Keeps a short shared work canon so peer bots start from the same role, goals, VIPs, systems, and decisions. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2102052001542717882)</sub>
 - [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) — Daily personal companion that learns from nightly body-cam uploads, builds durable memory, and prepares for a future robot handoff. <sub>by [Marcos](https://x.com/rodriguesconatm) · [origin](https://x.com/rodriguesconatm/status/2100532520815047117)</sub>
+- [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) — Name an outcome and Adam splits it across your bots, then returns one clear decision. <sub>by [Ed](https://x.com/EdisonTanEdtreo) (@EdisonTanEdtreo) · [origin](https://x.com/EdisonTanEdtreo/status/2103222731831713842)</sub>
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) — Finds and ranks affiliate candidates who could sell your product, with contacts and a draft approach. <sub>by [Silvestro](https://x.com/zilvestro) (@zilvestro) · [origin](https://x.com/zilvestro/status/2097995020217323736)</sub>
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) — Audits your fleet of bots and tells you which ones are dead weight. <sub>by [Siddharth](https://x.com/sdrth) (@sdrth) · [origin](https://x.com/sdrth/status/2096328200129478935)</sub>
 - [AI PM OS](https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj) — A product-management operating system packaged as one reusable setup. <sub>by [George](https://x.com/nurijanian) (@nurijanian) · [origin](https://x.com/nurijanian/status/2093716302884147646)</sub>
@@ -69,6 +70,7 @@
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) — Sits down for one focused hour of LinkedIn applications and never repeats a listing. <sub>by [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [origin](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
 - [Executive Assistant](https://x.ai/bot/sf813cbd3aadad1cfda46) <sup>official</sup> — Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) — Grades claims from other bots as solid, shaky, overstated, or hold for a human. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2098141022320533714)</sub>
+- [FaStart CEO Bot](https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt) — One executive voice over your bot crew: a single decision queue, no question asked twice. <sub>by [Enes](https://x.com/enesteve_) (@enesteve_) · [origin](https://x.com/enesteve_/status/2103208562159735031)</sub>
 - [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — Onboards new Grok Bot users by doing small real tasks for first memory, first routine, and first automation. <sub>by [P-Jay](https://x.com/PjBohica) (@PjBohica) · [origin](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — The operator that actually does the work, and pushes back when a plan is wrong. <sub>by [Uzi](https://x.com/UziObi) · [origin](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — Keeps a shared knowledge base and audits a multi-bot fleet for overlap. <sub>by [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
@@ -184,6 +186,7 @@
 - [X调度员](https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5) — Sends X tasks down the cheaper route so your developer credits last longer. <sub>by [铁柱AGI](https://x.com/cgnot996) (@cgnot996) · [origin](https://x.com/cgnot996/status/2098682795094876175)</sub>
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) — A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. <sub>by [Majd](https://x.com/MajdKaid) (@MajdKaid)</sub>
 - [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) — Audits other bots' names and blurbs against real use, and proposes wording you approve first. <sub>by [翔](https://x.com/x_stone_island) (@x_stone_island) · [origin](https://x.com/x_stone_island/status/2097947982192951719)</sub>
+- [投简历](https://x.ai/bot/Xg1_LIUG80iz5065crarS) — Screens jobs on Chinese boards per your filter and applies, or emails open hiring inboxes, then reports blockers. <sub>by [Edwin](https://x.com/EdwinCh43136084) (@EdwinCh43136084)</sub>
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — Interview-style onboarding that assembles your first bot roster. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2094547674766929996)</sub>
 
 ---
