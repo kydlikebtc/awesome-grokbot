@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-188 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+190 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -10,6 +10,7 @@
 - [Ad Aether](https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2) — Bratty desktop buddy that nudges you to check email and helps you actually deal with it. <sub>by [Ξ](https://x.com/elizrdrake) · [origin](https://x.com/elizrdrake/status/2101280955948560651)</sub>
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) — French-speaking personal butler for mail, calendar, and admin. Discreet, short replies, never sends without your OK. Watches important threads so. <sub>by [Steve](https://x.com/StevoM1982) (@StevoM1982)</sub>
 - [Alfred](https://x.ai/bot/moKscJ7PToJw_PVQWvkf_) — Cheeky British chief of staff that watches email and Drive, builds daily briefings, and coordinates teammate bots. <sub>by [Michael](https://x.com/mmmllcadv3) (@mmmllcadv3) · [origin](https://x.com/mmmllcadv3/status/2101753040415969422)</sub>
+- [Asana Task Master](https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl) — Reads your Gmail and Outlook inboxes and turns emails that need action into Asana tasks with due dates, so nothing gets buried in email. Replies on the. <sub>by [Wayne](https://x.com/wikiwayne) (@wikiwayne) · [origin](https://x.com/wikiwayne/status/2103637882757849123)</sub>
 - [BOOKIE](https://x.ai/bot/cu9T08lvtRNOfk_Nexys1) — Booking sidekick for service businesses. Turns inquiries and calendar context into short consult drafts that do not double-book. <sub>by [Bud](https://x.com/BudJohnson) (@BudJohnson)</sub>
 - [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) — Drafts and sends founder-voiced beta invites for a reading app. <sub>by [Navya](https://x.com/NavyaM89482) (@NavyaM89482) · [origin](https://x.com/NavyaM89482/status/2093524788761248166)</sub>
 - [Boost](https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva) — Reads work Gmail and files the real work as Asana tasks. <sub>by [Wayne](https://x.com/wikiwayne) (@wikiwayne) · aka *Inbox to Asana* · [origin](https://x.com/wikiwayne/status/2095991720060014888)</sub>
@@ -182,6 +183,7 @@
 - [The Morning Newspaper](https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di) — Overnight personal newspaper from inbox and calendar, printed by breakfast. <sub>[origin](https://x.com/CodeChap/status/2098372713614110964)</sub>
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) — Bookends your day with a morning agenda and a night preview. <sub>by [Mark](https://x.com/ironted21) · [origin](https://x.com/ironted21/status/2093771512331252046)</sub>
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) — A household chief of staff for family plans, school and home admin. <sub>by [Claire](https://x.com/clairevo) (@clairevo) · [origin](https://x.com/clairevo/status/2093487955205923031)</sub>
+- [Tradbot](https://x.ai/bot/wOE4e95HNxhSbrzyLkSI-) — Watches your personal email and calendar so school forms, bills, and RSVPs don't slip. Drafts the reply, catches the pickup clash, and never sends. <sub>[origin](https://x.com/harriskennyx/status/2103645980147204160)</sub>
 - [UK HealthOps](https://x.ai/bot/NgVzsPCqf9_qdNWLs9NAQ) — UK health admin covering history, consultants, bookings, and calendar. <sub>by [Philip](https://x.com/HybridEcon) (@HybridEcon)</sub>
 - [Wallet Watcher](https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO) — Scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating before they renew. <sub>by [Imran](https://x.com/imrannotes) · [origin](https://x.com/imrannotes/status/2100825649145381181)</sub>
 - [Webinar Desk](https://x.ai/bot/n0v3TatpnoYff_4ybSWmK) — Finds webinars in your lanes, attends with approval, and emails a brief. <sub>by [Mat](https://x.com/Ispider) (@Ispider) · [origin](https://x.com/Ispider/status/2100694025926029415)</sub>
