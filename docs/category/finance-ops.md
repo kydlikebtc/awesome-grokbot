@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-245 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+246 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -194,6 +194,7 @@
 - [Roommate Money Court](https://x.ai/bot/-5hh_I52qTUbDO2ud89NC) — Fair-split card and who-owes-whom from numbers only. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Rotator](https://x.ai/bot/iZXoXZbO9c0rojklFO1hx) — Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when nothing. <sub>by [Cody](https://x.com/brodyis4doge) (@brodyis4doge) · [origin](https://x.com/brodyis4doge/status/2103646077589033365)</sub>
 - [Sam](https://x.ai/bot/AtYdjvimO286h3sOIDfB4) — Economic council director for a local-first network. Advises on resource allocation, settlement rules, and incentives. Never invents balances, never. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Sato Base Bot](https://x.ai/bot/iv-NtTB_VGJGm-8x5XasG) — Gives your bot its own Base wallet: buys tokens from a link and pays for things, inside limits you set. <sub>by [Amateo](https://x.com/satohub) (@satohub) · [origin](https://x.com/satohub/status/2109049407656116404)</sub>
 - [Selling Vigilance](https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad) — Turns shop-floor photos and spoken details into a priced inventory with IDs, photo cards, and a print-ready PDF — plus daytime auto-backups so nothing. <sub>by [Vigilance](https://x.com/VigilanceRifles) (@VigilanceRifles)</sub>
 - [Senior Analyst](https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV) — Reads financial paperwork into a spreadsheet and drafts a cited memo. <sub>by [T](https://x.com/tobias_pfuetze) (@tobias_pfuetze) · [origin](https://x.com/tobias_pfuetze/status/2094386098201911719)</sub>
 - [Ship Gate](https://x.ai/bot/k-CdVynq7kxNU0jMv2n9K) — App Store + Google Play ship captain for indie and company apps. Runs a living store checklist against HANDOFF/OPS, and queues every submit, spend, or. <sub>by [Patrick](https://x.com/psoreilly) (@psoreilly)</sub>
