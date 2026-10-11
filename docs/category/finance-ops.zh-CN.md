@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-245 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+246 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -194,6 +194,7 @@
 - [Roommate Money Court](https://x.ai/bot/-5hh_I52qTUbDO2ud89NC) — 只凭数字做公平分摊卡和谁欠谁。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Rotator](https://x.ai/bot/iZXoXZbO9c0rojklFO1hx) — 默认纸面单资产轮动，持有一只并扫描可买的回调。 <sub>作者 [Cody](https://x.com/brodyis4doge) (@brodyis4doge) · [出处](https://x.com/brodyis4doge/status/2103646077589033365)</sub>
 - [Sam](https://x.ai/bot/AtYdjvimO286h3sOIDfB4) — 本地优先网络的经济顾问，谈资源配置与结算规则，不编余额。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Sato Base Bot](https://x.ai/bot/iv-NtTB_VGJGm-8x5XasG) — 给你的机器人一个自己的 Base 钱包：在你设定的额度内，凭链接买代币、付款。 <sub>作者 [Amateo](https://x.com/satohub) (@satohub) · [出处](https://x.com/satohub/status/2109049407656116404)</sub>
 - [Selling Vigilance](https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad) — 把店面照片与口述细节变成带编号、照片卡与可打印 PDF 的标价库存，白天自动备份以免丢。 <sub>作者 [Vigilance](https://x.com/VigilanceRifles) (@VigilanceRifles)</sub>
 - [Senior Analyst](https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV) — 把财务文件读进电子表格，再起草一份带引用的备忘录。 <sub>作者 [T](https://x.com/tobias_pfuetze) (@tobias_pfuetze) · [出处](https://x.com/tobias_pfuetze/status/2094386098201911719)</sub>
 - [Ship Gate](https://x.ai/bot/k-CdVynq7kxNU0jMv2n9K) — 独立与公司应用的 App Store 与 Google Play 发船船长，跑上架检查清单。 <sub>作者 [Patrick](https://x.com/psoreilly) (@psoreilly)</sub>

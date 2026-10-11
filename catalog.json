@@ -7,14 +7,14 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 3671,
+    "live": 3672,
     "retired": 14,
     "by_category": {
       "coding-shipping": 290,
       "inbox-calendar": 316,
       "research-briefings": 611,
       "customer-sales": 248,
-      "finance-ops": 245,
+      "finance-ops": 246,
       "content-publishing": 382,
       "personal-admin": 1359,
       "teams-handoffs": 220
@@ -5291,6 +5291,37 @@
         }
       ],
       "first_seen": "2026-10-02",
+      "checked": "2026-10-10",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "sato-base-bot",
+      "name": "Sato Base Bot",
+      "author": {
+        "name": "Amateo",
+        "handle": "satohub",
+        "url": "https://x.com/satohub"
+      },
+      "summary": "Gives your bot its own Base wallet: buys tokens from a link and pays for things, inside limits you set.",
+      "summary_zh": "给你的机器人一个自己的 Base 钱包：在你设定的额度内，凭链接买代币、付款。",
+      "official_summary": "An onchain agent on Base that holds its own wallet, pays for APIs with x402, trades Base tokens, buys gift cards, and sends USDC, all inside limits you...",
+      "import": "https://x.ai/bot/iv-NtTB_VGJGm-8x5XasG",
+      "bot_id": "iv-NtTB_VGJGm-8x5XasG",
+      "category": "finance-ops",
+      "tags": [
+        "crypto",
+        "wallet",
+        "base",
+        "trading"
+      ],
+      "origin": "https://x.com/satohub/status/2109049407656116404",
+      "sources": [
+        {
+          "catalog": "satohubai/sato-agent",
+          "url": "https://github.com/satohubai/sato-agent"
+        }
+      ],
       "checked": "2026-10-10",
       "link_status": 200,
       "license": "CC0-1.0"
