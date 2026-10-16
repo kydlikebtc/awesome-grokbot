@@ -159,6 +159,7 @@ This list stands on work other people did first. Each catalog row names its upst
 | [ZeroPointRepo/GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) | Agent-run directory with the richest per-bot metadata (sharer, origin post, tags). |
 | [cs68614-hash/awesome-grokbot-templates](https://github.com/cs68614-hash/awesome-grokbot-templates) | Community-scraped share IDs, several of which appear nowhere else. |
 | [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) | Open directory of agent-bot prompts; contributor and origin-post attribution. |
+| [Grok Bot Use Cases](https://grokbotusecases.com) | Directory of 90+ installable Grok Bot templates. |
 
 Full attribution and licence notes: [docs/sources.md](docs/sources.md).
 
