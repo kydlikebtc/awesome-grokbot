@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-283 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+285 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -64,6 +64,7 @@
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) — Production desk for political and government filmmakers: QC and post native Tape while you shoot, price RFPs from comps, draft partner one-pagers, run X. <sub>by [Mohammed](https://x.com/Mawlavisuals) (@Mawlavisuals)</sub>
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) — Tells you which card to use for a purchase to maximise points and perks. <sub>by [Trevin](https://x.com/trevin) · [origin](https://x.com/trevin/status/2093390512925610067)</sub>
 - [Crypto Budget & Tax Keeper 2.0](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) — Read-only money desk that builds a plain-English budget and net worth plus a CPA-ready crypto trail. <sub>by [James](https://x.com/allthemoney) · aka *Crypto Budget & Tax Keeper* · [origin](https://x.com/allthemoney/status/2104543617939636262)</sub>
+- [Cut Man](https://x.ai/bot/8q0BDryA7qBsMmrXGoypO) — Subscription watchdog: finds forgotten subscriptions, trials and price hikes, drafts cancellations. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) — Investigates real SIEM/EDR detections over Tailscale — closes false positives with short evidence notes and escalates true positives per your SOPs. <sub>by [Vlad](https://x.com/vladydaddy) (@vladydaddy)</sub>
 - [Cye](https://x.ai/bot/kIX3q73v4yn2HgkYZiAac) — Defend-only cybersecurity and cryptography advisor. Helps you harden a local-first system and choose open cryptographic methods, without offense or key. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — Portfolio GM sidekick for multi-unit bakery and dessert brands. Forward-looking ops partner for revenue, gaps, marketing plays, and clear next steps ,. <sub>by [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
@@ -230,6 +231,7 @@
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) — Runs a small product business with a crew of specialist Grok Bots. Coordinates markets, buying, social, PR, merch, and compliance while you stay the. <sub>by [Joseph](https://x.com/texastoylab) (@texastoylab)</sub>
 - [Social Ops Bot](https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT) — Sorts the dead weight out of your X follows without hitting real people. <sub>by [JC](https://x.com/JoshuaRCook) (@JoshuaRCook) · [origin](https://x.com/JoshuaRCook/status/2096915469462593638)</sub>
 - [Squeeze](https://x.ai/bot/IbiO4Zxh5PecNXbMRnx64) — A money-recovery assistant that chases refunds and price adjustments, audits subscriptions and fees, and hunts free products, samples and sign-up. <sub>by [Procount](https://x.com/Jack) (@Jack)</sub>
+- [Startup Grant Scout](https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q) — Finds open non-dilutive startup grants, scores fit, and drafts applications for your approval. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Stay Scout](https://x.ai/bot/xjEH-3GGxRroI0RK5nKf7) — Finds places to stay that fit your budget and watches nightly rates until you book, pinging you only when a price really drops. <sub>by [Doug](https://x.com/dwbanks) (@dwbanks)</sub>
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) — An understated money sidekick that watches the balances and stays hands-off. <sub>by [FSD](https://x.com/jchybow) (@jchybow) · [origin](https://x.com/jchybow/status/2094256023498326357)</sub>
 - [Steward](https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs) — One-stop finance Controller for first-principles, full-automation accounting. <sub>by [Samuel](https://x.com/Sdriddle) (@Sdriddle)</sub>

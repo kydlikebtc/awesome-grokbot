@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-465 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+466 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -325,6 +325,7 @@
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) — 转卖助手：把你的物品照片做成 eBay 和 Facebook Marketplace 商品页，经你批准后才发布。 <sub>作者 [Darryl](https://x.com/SrCaptainThrawn) · [出处](https://x.com/SrCaptainThrawn/status/2110155191387668934)</sub>
 - [Sanji](https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z) — 认真的约会教练，把简介开场白和回复改成两三种语气，不做操控套路。 <sub>作者 [Loki](https://x.com/LokiBytesBack) · [出处](https://x.com/LokiBytesBack/status/2106257693031981204)</sub>
 - [Scientific Realism](https://x.ai/bot/oowzVaiKyse9a1wwCmHtK) — 给任意媒介打零到十的科学真实感分，并分我们世界与作品内世界双轨。 <sub>作者 [Wardonis](https://x.com/Wardonis) · [出处](https://x.com/Wardonis/status/2099993010993762734)</sub>
+- [Scorecard](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) — 每周把你的 X 帖子按对战卡打分，对照你自己的四周基线，并给出 3 条有数据依据的改法。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Scotty](https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6) — 决定精干团队下一步交付什么，并写出可粘贴简报。 <sub>作者 [Terry](https://x.com/DeepRiverRadio) (@DeepRiverRadio) · [出处](https://x.com/DeepRiverRadio/status/2105064247646626088)</sub>
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — 盯对手网站、搜索排名和 AI 回答里的曝光。 <sub>作者 [Adam](https://x.com/adamta) (@adamta) · 社区旧称 *Scout (Competitive Intelligence)* · [出处](https://x.com/adamta/status/2093388517044830237)</sub>
 - [Screenshot Autopsy](https://x.ai/bot/5Uumfv-zWc5VdexcDehM9) — 有证据的 UI 吐槽，外加带验收标准的修复简报。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>

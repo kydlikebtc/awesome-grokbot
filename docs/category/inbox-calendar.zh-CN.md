@@ -2,7 +2,7 @@
 
 *分拣邮件、起草回复、守住日历、把工作日节奏跑起来。*
 
-427 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
+428 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
 
 ---
 
@@ -343,6 +343,7 @@
 - [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) — 转发一张收据，它就变成报销表里的一行。 <sub>作者 [Lime](https://x.com/limeunfiltered) (@limeunfiltered) · [出处](https://x.com/limeunfiltered/status/2093899797967278545)</sub>
 - [Recruiter Email Finder](https://x.ai/bot/lbf-biMZO02RdXeOBks_-) — 找出目标公司真正负责招人的人，并给出可发的邮箱。 <sub>作者 [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [出处](https://x.com/fwhittington_24/status/2098810811514851568)</sub>
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) — 排面试环、给面试官准备材料并催卡住的环节，可从日历或名单，不擅自给候选人发信。
+- [Rematch](https://x.ai/bot/_abcO9nWji9H9yX1r9XGV) — 待办闭环助手：盯住你欠别人和别人欠你的每一次跟进，起草催办供你确认。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) — 接住那些永远写不进日历的小提醒。 <sub>作者 [Damon](https://x.com/damonchen) · [出处](https://x.com/damonchen/status/2093559687354671335)</sub>
 - [Reminder](https://x.ai/bot/DNxwXlx3rZ9K57NwbthQh) — 日常提醒机器人：账单、续费、免费试用、生日和预约，周日还会发下周清单。 <sub>作者 [NFTeee](https://x.com/NFT2ME) (@NFT2ME)</sub>
 - [Remote Job Hunter](https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS) — 在公司招聘官网找远程岗位，用雇主的 ATS 投递，记好投递日志，并盯着邮箱里的面试邀请。 <sub>作者 [TKR](https://x.com/IRENCIFR) · [出处](https://x.com/IRENCIFR/status/2107656410385539206)</sub>

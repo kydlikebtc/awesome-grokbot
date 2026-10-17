@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-427 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+428 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -343,6 +343,7 @@
 - [Receipt Scanner / Expense Tracking](https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp) — Forward a receipt and it becomes a row in your expense sheet. <sub>by [Lime](https://x.com/limeunfiltered) (@limeunfiltered) · [origin](https://x.com/limeunfiltered/status/2093899797967278545)</sub>
 - [Recruiter Email Finder](https://x.ai/bot/lbf-biMZO02RdXeOBks_-) — Works out who does the hiring at your target employers and how to email them. <sub>by [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [origin](https://x.com/fwhittington_24/status/2098810811514851568)</sub>
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) — Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate.
+- [Rematch](https://x.ai/bot/_abcO9nWji9H9yX1r9XGV) — Open-loop closer: tracks every follow-up you owe or are owed and drafts the nudge for approval. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) — Holds the small reminders that never make it onto your calendar. <sub>by [Damon](https://x.com/damonchen) · [origin](https://x.com/damonchen/status/2093559687354671335)</sub>
 - [Reminder](https://x.ai/bot/DNxwXlx3rZ9K57NwbthQh) — Your everyday reminder bot: bills, renewals, free trials, birthdays, and appointments, plus a Sunday week-ahead list. <sub>by [NFTeee](https://x.com/NFT2ME) (@NFT2ME)</sub>
 - [Remote Job Hunter](https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS) — Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites. <sub>by [TKR](https://x.com/IRENCIFR) · [origin](https://x.com/IRENCIFR/status/2107656410385539206)</sub>

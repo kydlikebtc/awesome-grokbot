@@ -7,15 +7,15 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4519,
+    "live": 4523,
     "retired": 18,
     "by_category": {
       "coding-shipping": 306,
-      "inbox-calendar": 427,
+      "inbox-calendar": 428,
       "research-briefings": 733,
       "customer-sales": 279,
-      "finance-ops": 283,
-      "content-publishing": 465,
+      "finance-ops": 285,
+      "content-publishing": 466,
       "personal-admin": 1801,
       "teams-handoffs": 225
     }
@@ -152618,6 +152618,126 @@
       "checked": "2026-10-17",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cut-man",
+      "name": "Cut Man",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Subscription watchdog: finds forgotten subscriptions, trials and price hikes, drafts cancellations.",
+      "summary_zh": "订阅看门狗：揪出被遗忘的订阅、试用和涨价，起草退订。",
+      "official_summary": "Finds money leaks in your business, like unused subscriptions, surprise renewals, and wasted spend, and keeps you on track to cut them. For solo...",
+      "import": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO",
+      "bot_id": "8q0BDryA7qBsMmrXGoypO",
+      "category": "finance-ops",
+      "tags": [
+        "subscriptions",
+        "bills",
+        "savings",
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO"
+        }
+      ],
+      "checked": "2026-10-15",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "rematch",
+      "name": "Rematch",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Open-loop closer: tracks every follow-up you owe or are owed and drafts the nudge for approval.",
+      "summary_zh": "待办闭环助手：盯住你欠别人和别人欠你的每一次跟进，起草催办供你确认。",
+      "official_summary": "Finds every stalled email, quiet lead, and open loop, then drafts the follow-up. Nothing sends without your OK.",
+      "import": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
+      "bot_id": "_abcO9nWji9H9yX1r9XGV",
+      "category": "inbox-calendar",
+      "tags": [
+        "follow-up",
+        "email",
+        "productivity",
+        "assistant"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV"
+        }
+      ],
+      "checked": "2026-10-15",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "startup-grant-scout",
+      "name": "Startup Grant Scout",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Finds open non-dilutive startup grants, scores fit, and drafts applications for your approval.",
+      "summary_zh": "寻找可申请的非稀释性创业资助，按匹配度打分，并起草申请供你确认。",
+      "official_summary": "Finds open, non-dilutive grants your startup can actually win, scores each on fit, and drafts full applications up to the submit step for your approval.",
+      "import": "https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q",
+      "bot_id": "BAI6spVv_6v3ZVMFM3i6Q",
+      "category": "finance-ops",
+      "tags": [
+        "grants",
+        "funding",
+        "startup",
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q"
+        }
+      ],
+      "checked": "2026-10-16",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "scorecard",
+      "name": "Scorecard",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Weekly fight-card scoring of your X posts against your 4-week baseline, plus 3 data-backed fixes.",
+      "summary_zh": "每周把你的 X 帖子按对战卡打分，对照你自己的四周基线，并给出 3 条有数据依据的改法。",
+      "official_summary": "Every Monday, judges your last week on X like a fight: a fight-card image scored with X's open-source ranking weights against your own 4-week baseline,...",
+      "import": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who",
+      "bot_id": "tEsWijg6kaDbi-3aY6who",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "analytics",
+        "social",
+        "content"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who"
+        }
+      ],
+      "checked": "2026-10-17",
+      "link_status": 200,
+      "license": "CC0-1.0"
     }
   ]
 }

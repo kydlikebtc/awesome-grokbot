@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-283 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+285 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -64,6 +64,7 @@
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) — 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期。 <sub>作者 [Mohammed](https://x.com/Mawlavisuals) (@Mawlavisuals)</sub>
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) — 告诉你这笔该刷哪张卡，积分和权益才最大。 <sub>作者 [Trevin](https://x.com/trevin) · [出处](https://x.com/trevin/status/2093390512925610067)</sub>
 - [Crypto Budget & Tax Keeper 2.0](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) — 只读理财助手，从银行与交易所整理白话预算净资产并保留 CPA 可用的加密流水。 <sub>作者 [James](https://x.com/allthemoney) · 社区旧称 *Crypto Budget & Tax Keeper* · [出处](https://x.com/allthemoney/status/2104543617939636262)</sub>
+- [Cut Man](https://x.ai/bot/8q0BDryA7qBsMmrXGoypO) — 订阅看门狗：揪出被遗忘的订阅、试用和涨价，起草退订。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) — 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级。 <sub>作者 [Vlad](https://x.com/vladydaddy) (@vladydaddy)</sub>
 - [Cye](https://x.ai/bot/kIX3q73v4yn2HgkYZiAac) — 仅防御的网络安全与密码学顾问，硬化本地优先系统。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — 多店烘焙品牌的组合总经理搭子，看营收缺口与营销下一步。 <sub>作者 [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
@@ -230,6 +231,7 @@
 - [Small Biz Control Orchestrator](https://x.ai/bot/Gs5Xs18vnlTyCpcoBDGZ7) — 用一队专家 Grok Bot 跑小型产品生意，协调市场、采购、社交、公关、周边与合规，你仍是最终拍板。 <sub>作者 [Joseph](https://x.com/texastoylab) (@texastoylab)</sub>
 - [Social Ops Bot](https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT) — 清掉 X 关注里的僵尸号和垃圾号，不误伤真人。 <sub>作者 [JC](https://x.com/JoshuaRCook) (@JoshuaRCook) · [出处](https://x.com/JoshuaRCook/status/2096915469462593638)</sub>
 - [Squeeze](https://x.ai/bot/IbiO4Zxh5PecNXbMRnx64) — 追退款与议价、审计订阅费用，并找免费样品与注册福利。 <sub>作者 [Procount](https://x.com/Jack) (@Jack)</sub>
+- [Startup Grant Scout](https://x.ai/bot/BAI6spVv_6v3ZVMFM3i6Q) — 寻找可申请的非稀释性创业资助，按匹配度打分，并起草申请供你确认。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Stay Scout](https://x.ai/bot/xjEH-3GGxRroI0RK5nKf7) — 按预算找住宿并盯房价，真正降价才提醒。 <sub>作者 [Doug](https://x.com/dwbanks) (@dwbanks)</sub>
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) — 低调的理财搭子：盯着账户余额，但不替你动手。 <sub>作者 [FSD](https://x.com/jchybow) (@jchybow) · [出处](https://x.com/jchybow/status/2094256023498326357)</sub>
 - [Steward](https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs) — 第一性原理全自动记账的财务控制器。 <sub>作者 [Samuel](https://x.com/Sdriddle) (@Sdriddle)</sub>

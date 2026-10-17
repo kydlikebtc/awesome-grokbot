@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-465 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+466 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -325,6 +325,7 @@
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) — A resale assistant that turns your item photos into eBay and Facebook Marketplace listings, and posts them only after you approve. <sub>by [Darryl](https://x.com/SrCaptainThrawn) · [origin](https://x.com/SrCaptainThrawn/status/2110155191387668934)</sub>
 - [Sanji](https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z) — Honest dating coach that rewrites bios, openers, and replies into two or three tones without manipulation tactics. <sub>by [Loki](https://x.com/LokiBytesBack) · [origin](https://x.com/LokiBytesBack/status/2106257693031981204)</sub>
 - [Scientific Realism](https://x.ai/bot/oowzVaiKyse9a1wwCmHtK) — Scores any media 0.0–10.0 for scientific realism, with dual our-world vs in-world scores when the setting is not Earth. Thorough sources, fast writeups. <sub>by [Wardonis](https://x.com/Wardonis) · [origin](https://x.com/Wardonis/status/2099993010993762734)</sub>
+- [Scorecard](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) — Weekly fight-card scoring of your X posts against your 4-week baseline, plus 3 data-backed fixes. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Scotty](https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6) — Decides what a lean team ships next and writes the paste-ready brief. <sub>by [Terry](https://x.com/DeepRiverRadio) (@DeepRiverRadio) · [origin](https://x.com/DeepRiverRadio/status/2105064247646626088)</sub>
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — Watches rival sites, search rank and AI-answer visibility. <sub>by [Adam](https://x.com/adamta) (@adamta) · aka *Scout (Competitive Intelligence)* · [origin](https://x.com/adamta/status/2093388517044830237)</sub>
 - [Screenshot Autopsy](https://x.ai/bot/5Uumfv-zWc5VdexcDehM9) — Evidence-tied UI roast plus fix brief with AC. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
