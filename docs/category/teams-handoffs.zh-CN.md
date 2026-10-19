@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-226 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+227 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -222,6 +222,7 @@
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) — 为增长团队跑付费访谈与公开社媒倾听，圈人、排除 CRM、审批外联并出周报。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) — 唯一职责，引导用户加入 Wainwright，并编排他们的 Grok Bot 舰队，做到顺畅的首次运行。首次醒来时，用招聘口吻介绍……。 <sub>作者 [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [出处](https://x.com/itsryanlenk/status/2100335862399553579)</sub>
 - [Walt](https://x.ai/bot/BsTA9W4uysdokbBQiriuQ) — 执行制片，盯着另一个拍片 Bot 质检到成片。 <sub>作者 [FatDon](https://x.com/FatDon420) (@FatDon420) · [出处](https://x.com/FatDon420/status/2093481701930410183)</sub>
+- [What Should My Bot Do?](https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ) — 先问 5 个关于你业务的问题，再推荐你的第一个 Agent 和接下来的 3 项工作。只写草稿。 <sub>作者 [Roshel](https://x.com/RoshelPere15695) (@RoshelPere15695)</sub>
 - [Witness](https://x.ai/bot/p_0KTQ41WwupGeD-iShbK) — 记下你每个重要决定的原因。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383141901709505)</sub>
 - [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) — 和工作外的 Life 成对，专业事务走这一扇门。 <sub>作者 [Tyler](https://x.com/TylerNishida) · [出处](https://x.com/TylerNishida/status/2093426221732532457)</sub>
 - [Workshop Facilitator](https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH) — 主持工作会，只要还有问题没人认领就不让散会。 <sub>作者 [Paul](https://x.com/OTNworld) (@OTNworld) · [出处](https://x.com/OTNworld/status/2094033417646006646)</sub>
