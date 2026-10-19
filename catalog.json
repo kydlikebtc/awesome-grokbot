@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4665,
+    "live": 4666,
     "retired": 18,
     "by_category": {
       "coding-shipping": 307,
@@ -17,7 +17,7 @@
       "finance-ops": 293,
       "content-publishing": 483,
       "personal-admin": 1886,
-      "teams-handoffs": 226
+      "teams-handoffs": 227
     }
   },
   "entries": [
@@ -157290,6 +157290,37 @@
       "checked": "2026-10-18",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "what-should-my-bot-do",
+      "name": "What Should My Bot Do?",
+      "author": {
+        "name": "Roshel",
+        "handle": "RoshelPere15695",
+        "url": "https://x.com/RoshelPere15695"
+      },
+      "summary": "Asks 5 questions about your business, then picks your first agent and 3 next jobs. Drafts only",
+      "summary_zh": "先问 5 个关于你业务的问题，再推荐你的第一个 Agent 和接下来的 3 项工作。只写草稿。",
+      "official_summary": "Free Grok Bot template: 5 questions about your business, then your first AI agent, 3 next jobs and a free guide for each. Drafts only.",
+      "import": "https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ",
+      "bot_id": "KOJbYHQwZmEacXcdpkdUZ",
+      "category": "teams-handoffs",
+      "tags": [
+        "small-business",
+        "onboarding",
+        "meta-bot",
+        "drafts-only"
+      ],
+      "sources": [
+        {
+          "catalog": "whatshouldmybotdo.com",
+          "url": "https://whatshouldmybotdo.com/templates"
+        }
+      ],
+      "first_seen": "2026-10-19",
+      "checked": "2026-10-19",
+      "link_status": 200,
+      "license": "CC0-1.0"
     }
   ]
 }

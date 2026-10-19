@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-226 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+227 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -222,6 +222,7 @@
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) — Runs paid user interviews and public social listening for a growth team: who to ask, CRM exclusion audits, approval-gated outreach, X/Reddit themes,. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) — Works as the hiring desk for a fleet of assistants: you pick the role you need from a single list, and it reads the specification over for problems before…. <sub>by [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [origin](https://x.com/itsryanlenk/status/2100335862399553579)</sub>
 - [Walt](https://x.ai/bot/BsTA9W4uysdokbBQiriuQ) — An executive producer that QCs another filmmaker bot until the cut is done. <sub>by [FatDon](https://x.com/FatDon420) (@FatDon420) · [origin](https://x.com/FatDon420/status/2093481701930410183)</sub>
+- [What Should My Bot Do?](https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ) — Asks 5 questions about your business, then picks your first agent and 3 next jobs. Drafts only. <sub>by [Roshel](https://x.com/RoshelPere15695) (@RoshelPere15695)</sub>
 - [Witness](https://x.ai/bot/p_0KTQ41WwupGeD-iShbK) — Keeps a record of why you made each important decision. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383141901709505)</sub>
 - [Work](https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0) — The work-side counterpart to Life, one door for professional tasks. <sub>by [Tyler](https://x.com/TylerNishida) · [origin](https://x.com/TylerNishida/status/2093426221732532457)</sub>
 - [Workshop Facilitator](https://x.ai/bot/EJTJEGbRPXlSppzFk8ETH) — Chairs a working session and refuses to close it while any question lacks an owner. <sub>by [Paul](https://x.com/OTNworld) (@OTNworld) · [origin](https://x.com/OTNworld/status/2094033417646006646)</sub>
