@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-524 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+527 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -140,6 +140,7 @@
 - [Design Assistant](https://x.ai/bot/QmhN5Wk_fhaLnYk7LYwLC) — A senior product design partner for designers and product teams: wireframes, HTML/CSS prototypes, UX writing, audits, IA diagrams, scoping. <sub>by [Wil](https://x.com/wmurillo_eth)</sub>
 - [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) — Owns the component registry, interface contracts, naming conventions, and architecture gates between Definition and Development. <sub>by Ash</sub>
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) — Ops desk for a content studio. Builds the weekly calendar from approved posts, assembles the client pack with every asset and source line. <sub>by ZEU$</sub>
+- [Distill](https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih) — One source in, ten ranked ready-to-post drafts out, in your voice. Posts only with your OK. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [DJ Grok Bot](https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm) — Personal Spotify DJ for daily mood playlists from your taste. <sub>by [Daniel](https://x.com/restaurant_boy) (@restaurant_boy)</sub>
 - [Dnd](https://x.ai/bot/llmJc5n7NsC1ZUpL4YUdx) — Group-chat dungeon master for streamlined D&D 5e. Seats your friends in one room: character sheets, hybrid dice, combat, scene images, adventure hooks,. <sub>by [Brice](https://x.com/briceayres) (@briceayres)</sub>
 - [Do You Know It](https://x.ai/bot/qqri--MjKj0It7LYwqYqu) — Drop an EPUB or PDF and get a Check/Reveal self-check quiz from the real chapter text — no gradebook. Built for students and self-learners who want to. <sub>by [Ford](https://x.com/FordCrews) (@FordCrews)</sub>
@@ -358,6 +359,7 @@
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) — A resale assistant that turns your item photos into eBay and Facebook Marketplace listings, and posts them only after you approve. <sub>by [Darryl](https://x.com/SrCaptainThrawn) · [origin](https://x.com/SrCaptainThrawn/status/2110155191387668934)</sub>
 - [Sanji](https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z) — Honest dating coach that rewrites bios, openers, and replies into two or three tones without manipulation tactics. <sub>by [Loki](https://x.com/LokiBytesBack) · [origin](https://x.com/LokiBytesBack/status/2106257693031981204)</sub>
 - [Scientific Realism](https://x.ai/bot/oowzVaiKyse9a1wwCmHtK) — Scores any media 0.0–10.0 for scientific realism, with dual our-world vs in-world scores when the setting is not Earth. Thorough sources, fast writeups. <sub>by [Wardonis](https://x.com/Wardonis) · [origin](https://x.com/Wardonis/status/2099993010993762734)</sub>
+- [Scorecard](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) — Weekly fight-card scoring of your X posts against your 4-week baseline, plus 3 data-backed fixes. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Scotty](https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6) — Decides what a lean team ships next and writes the paste-ready brief. <sub>by [Terry](https://x.com/DeepRiverRadio) (@DeepRiverRadio) · [origin](https://x.com/DeepRiverRadio/status/2105064247646626088)</sub>
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — Watches rival sites, search rank and AI-answer visibility. <sub>by [Adam](https://x.com/adamta) (@adamta) · aka *Scout (Competitive Intelligence)* · [origin](https://x.com/adamta/status/2093388517044830237)</sub>
 - [Screenshot Autopsy](https://x.ai/bot/5Uumfv-zWc5VdexcDehM9) — Evidence-tied UI roast plus fix brief with AC. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
@@ -404,6 +406,7 @@
 - [Soul-to-Scene Director](https://x.ai/bot/9xP8NiSCxAr5vCPf_oG6s) — A songwriting partner and music-video director that finishes your lyrics in your own voice and turns your songs and photos into music videos. <sub>by [Zerefs](https://x.com/phera46334652) (@phera46334652) · [origin](https://x.com/phera46334652/status/2111236114665115715)</sub>
 - [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) — Takes one public claim apart into an evidence-graded source ledger (E0–E4). Sources only. No verdict. Send one sentence and one source. <sub>by [JosefEmanuel](https://x.com/aeon_jo) (@aeon_jo)</sub>
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) — Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps. <sub>by Jeroen</sub>
+- [Sponsor Scout](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) — Finds brands already sponsoring creators like you (fighters, athletes, newsletter writers), verifies contacts, and drafts pitches you send yourself. Setup asks which niches are off-limits. <sub>by [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Sponsorship Deal Desk](https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy) — A creator sponsorship deal desk. It qualifies inbound, sends a locked first-reply on new rate-asks, and holds exceptions for a human. <sub>by [Eric](https://x.com/ericosiu)</sub>
 - [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — Send a photo of a room to clean out or redecorate and get a concept after mockup plus easy step-by-step instructions. <sub>[origin](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — Adversarial startup evaluator for founders who want their idea stress-tested before they waste months building. Drop a concept and get a KILL, REWORK,. <sub>by [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>

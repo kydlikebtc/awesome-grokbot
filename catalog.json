@@ -7,15 +7,15 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4933,
+    "live": 4938,
     "retired": 26,
     "by_category": {
       "coding-shipping": 313,
       "inbox-calendar": 471,
       "research-briefings": 784,
       "customer-sales": 290,
-      "finance-ops": 301,
-      "content-publishing": 524,
+      "finance-ops": 303,
+      "content-publishing": 527,
       "personal-admin": 2024,
       "teams-handoffs": 226
     }
@@ -165938,6 +165938,156 @@
       "checked": "2026-10-20",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "cut-man",
+      "name": "Cut Man",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Subscription watchdog: finds forgotten subscriptions, trials and price hikes, drafts cancellations.",
+      "summary_zh": "订阅看门狗：揪出被遗忘的订阅、试用和涨价，起草退订。",
+      "official_summary": "Finds money leaks in your business, like unused subscriptions, surprise renewals, and wasted spend, and keeps you on track to cut them. For solo...",
+      "import": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO",
+      "bot_id": "8q0BDryA7qBsMmrXGoypO",
+      "category": "finance-ops",
+      "tags": [
+        "subscriptions",
+        "bills",
+        "savings",
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/8q0BDryA7qBsMmrXGoypO"
+        }
+      ],
+      "checked": "2026-10-15",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "scorecard",
+      "name": "Scorecard",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Weekly fight-card scoring of your X posts against your 4-week baseline, plus 3 data-backed fixes.",
+      "summary_zh": "每周把你的 X 帖子按对战卡打分，对照你自己的四周基线，并给出 3 条有数据依据的改法。",
+      "official_summary": "Every Monday, judges your last week on X like a fight: a fight-card image scored with X's open-source ranking weights against your own 4-week baseline,...",
+      "import": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who",
+      "bot_id": "tEsWijg6kaDbi-3aY6who",
+      "category": "content-publishing",
+      "tags": [
+        "x",
+        "analytics",
+        "social",
+        "content"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/tEsWijg6kaDbi-3aY6who"
+        }
+      ],
+      "checked": "2026-10-17",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "distill",
+      "name": "Distill",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "One source in, ten ranked ready-to-post drafts out, in your voice. Posts only with your OK.",
+      "summary_zh": "一份素材进，十条按你口吻排好、可直接发的草稿出。没你点头不发布。",
+      "official_summary": "One source in, ten ranked ready-to-post drafts out, in your voice. Nothing posts without your OK.",
+      "import": "https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih",
+      "bot_id": "dPj7ysFWJ-nTtWPwiZlih",
+      "category": "content-publishing",
+      "tags": [
+        "drafts",
+        "voice",
+        "publishing",
+        "social"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih"
+        }
+      ],
+      "checked": "2026-10-18",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "undercut",
+      "name": "Undercut",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call.",
+      "summary_zh": "丢进一张账单。看看附近新客户付多少，并给出把价格谈下来的完整话术。电话你自己打。",
+      "official_summary": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call.",
+      "import": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB",
+      "bot_id": "mzY8PRsWQZCuKuTEFQteB",
+      "category": "finance-ops",
+      "tags": [
+        "bills",
+        "negotiation",
+        "savings",
+        "subscriptions"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB"
+        }
+      ],
+      "checked": "2026-10-20",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "sponsor-scout",
+      "name": "Sponsor Scout",
+      "author": {
+        "name": "Michael",
+        "handle": "michaelheckert",
+        "url": "https://x.com/michaelheckert"
+      },
+      "summary": "Finds brands already sponsoring creators like you (fighters, athletes, newsletter writers), verifies contacts, and drafts pitches you send yourself. Setup asks which niches are off-limits.",
+      "summary_zh": "找出已经在赞助同类创作者（格斗选手、运动员、通讯写作者）的品牌，核实联系人，并起草由你自己发出的提案。设置时会问哪些领域不能碰。",
+      "official_summary": "Finds brands already sponsoring people like you, finds the real way in, and drafts the pitch. You hit send. Built for fighters, athletes, newsletter...",
+      "import": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6",
+      "bot_id": "HK7rbeEuMNDD3_RbYyvx6",
+      "category": "content-publishing",
+      "tags": [
+        "sponsors",
+        "pitches",
+        "creators",
+        "outreach"
+      ],
+      "sources": [
+        {
+          "catalog": "x.ai share page",
+          "url": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6"
+        }
+      ],
+      "checked": "2026-10-20",
+      "link_status": 200,
+      "license": "CC0-1.0"
     }
   ]
 }

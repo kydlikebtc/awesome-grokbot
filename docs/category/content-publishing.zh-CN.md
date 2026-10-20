@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-524 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+527 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -140,6 +140,7 @@
 - [Design Assistant](https://x.ai/bot/QmhN5Wk_fhaLnYk7LYwLC) — 给设计师和产品团队的资深产品设计搭档：线框图、HTML/CSS 原型、UX 文案、走查、信息架构图和范围界定。 <sub>作者 [Wil](https://x.com/wmurillo_eth)</sub>
 - [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) — 管组件注册表、接口契约、命名规范，以及从定义到开发之间的架构关卡。 <sub>作者 Ash</sub>
 - [Desk](https://x.ai/bot/WdQtoljjNUJ_-mX6B6SRL) — 内容工作室的运营台：用已批准的帖子排每周日历，打包每个素材和来源说明给客户。 <sub>作者 ZEU$</sub>
+- [Distill](https://x.ai/bot/dPj7ysFWJ-nTtWPwiZlih) — 一份素材进，十条按你口吻排好、可直接发的草稿出。没你点头不发布。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [DJ Grok Bot](https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm) — 按你的口味做每日心情歌单的个人 Spotify DJ。 <sub>作者 [Daniel](https://x.com/restaurant_boy) (@restaurant_boy)</sub>
 - [Dnd](https://x.ai/bot/llmJc5n7NsC1ZUpL4YUdx) — 精简版第五版龙与地下城的群聊地下城主，把朋友安排在同一房间开打。 <sub>作者 [Brice](https://x.com/briceayres) (@briceayres)</sub>
 - [Do You Know It](https://x.ai/bot/qqri--MjKj0It7LYwqYqu) — 丢来 EPUB 或 PDF，按真实章节生成核对与揭晓式自测测验。 <sub>作者 [Ford](https://x.com/FordCrews) (@FordCrews)</sub>
@@ -358,6 +359,7 @@
 - [Sam (Sales)](https://x.ai/bot/ihsZKnZJay7kLayMUfAV1) — 转卖助手：把你的物品照片做成 eBay 和 Facebook Marketplace 商品页，经你批准后才发布。 <sub>作者 [Darryl](https://x.com/SrCaptainThrawn) · [出处](https://x.com/SrCaptainThrawn/status/2110155191387668934)</sub>
 - [Sanji](https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z) — 认真的约会教练，把简介开场白和回复改成两三种语气，不做操控套路。 <sub>作者 [Loki](https://x.com/LokiBytesBack) · [出处](https://x.com/LokiBytesBack/status/2106257693031981204)</sub>
 - [Scientific Realism](https://x.ai/bot/oowzVaiKyse9a1wwCmHtK) — 给任意媒介打零到十的科学真实感分，并分我们世界与作品内世界双轨。 <sub>作者 [Wardonis](https://x.com/Wardonis) · [出处](https://x.com/Wardonis/status/2099993010993762734)</sub>
+- [Scorecard](https://x.ai/bot/tEsWijg6kaDbi-3aY6who) — 每周把你的 X 帖子按对战卡打分，对照你自己的四周基线，并给出 3 条有数据依据的改法。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Scotty](https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6) — 决定精干团队下一步交付什么，并写出可粘贴简报。 <sub>作者 [Terry](https://x.com/DeepRiverRadio) (@DeepRiverRadio) · [出处](https://x.com/DeepRiverRadio/status/2105064247646626088)</sub>
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — 盯对手网站、搜索排名和 AI 回答里的曝光。 <sub>作者 [Adam](https://x.com/adamta) (@adamta) · 社区旧称 *Scout (Competitive Intelligence)* · [出处](https://x.com/adamta/status/2093388517044830237)</sub>
 - [Screenshot Autopsy](https://x.ai/bot/5Uumfv-zWc5VdexcDehM9) — 有证据的 UI 吐槽，外加带验收标准的修复简报。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
@@ -404,6 +406,7 @@
 - [Soul-to-Scene Director](https://x.ai/bot/9xP8NiSCxAr5vCPf_oG6s) — 写歌搭档兼 MV 导演：用你自己的口吻写完歌词，再把你的歌和照片做成音乐视频。 <sub>作者 [Zerefs](https://x.com/phera46334652) (@phera46334652) · [出处](https://x.com/phera46334652/status/2111236114665115715)</sub>
 - [Source Ledger](https://x.ai/bot/LrkVPINp07C8vu5PSQxQ1) — 把一条公开主张拆成按证据分级的来源台账，只列来源不下判，请发一句主张加一个来源。 <sub>作者 [JosefEmanuel](https://x.com/aeon_jo) (@aeon_jo)</sub>
 - [Speech to text (transcriptions and captions)](https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb) — 把音视频转成带时间轴的 SRT 字幕，烧录字幕用 AssemblyAI，便宜的纯文本或 Whisper 时间戳走 OpenRouter。 <sub>作者 Jeroen</sub>
+- [Sponsor Scout](https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6) — 找出已经在赞助同类创作者（格斗选手、运动员、通讯写作者）的品牌，核实联系人，并起草由你自己发出的提案。设置时会问哪些领域不能碰。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Sponsorship Deal Desk](https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy) — 创作者赞助交易台：筛选来询，对新的报价询问发固定首回，例外情况留给人处理。 <sub>作者 [Eric](https://x.com/ericosiu)</sub>
 - [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — 发一张想清理或翻新的房间照片，返回概念改造效果图和易跟做的分步说明。 <sub>[出处](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — 给想在浪费数月前压力测试点子的创始人做对抗式评估，丢来概念，得到杀掉、返工或继续的判决。 <sub>作者 [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>

@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-301 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+303 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -74,6 +74,7 @@
 - [Creative Ops Desk](https://x.ai/bot/jh82Xo_CMHlWfE6GpOJmb) — 政治与政府影像制作人的制片桌，质检并在 Tape 原生流程里做后期。 <sub>作者 [Mohammed](https://x.com/Mawlavisuals) (@Mawlavisuals)</sub>
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) — 告诉你这笔该刷哪张卡，积分和权益才最大。 <sub>作者 [Trevin](https://x.com/trevin) · [出处](https://x.com/trevin/status/2093390512925610067)</sub>
 - [Crypto Budget & Tax Keeper 2.0](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) — 只读理财助手，从银行与交易所整理白话预算净资产并保留 CPA 可用的加密流水。 <sub>作者 [James](https://x.com/allthemoney) · 社区旧称 *Crypto Budget & Tax Keeper* · [出处](https://x.com/allthemoney/status/2104543617939636262)</sub>
+- [Cut Man](https://x.ai/bot/8q0BDryA7qBsMmrXGoypO) — 订阅看门狗：揪出被遗忘的订阅、试用和涨价，起草退订。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) — 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级。 <sub>作者 [Vlad](https://x.com/vladydaddy) (@vladydaddy)</sub>
 - [Cye](https://x.ai/bot/kIX3q73v4yn2HgkYZiAac) — 仅防御的网络安全与密码学顾问，硬化本地优先系统。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — 多店烘焙品牌的组合总经理搭子，看营收缺口与营销下一步。 <sub>作者 [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
@@ -276,6 +277,7 @@
 - [Travel Agent](https://x.ai/bot/qdj9RHgwlMBpQflJy0K_X) — 懂积分的旅行运营代理，建行程总部，猎航班酒店，比较现金与积分。 <sub>作者 [Manan](https://x.com/manan_suneja) (@manan_suneja)</sub>
 - [Travel Deal Hunter](https://x.ai/bot/MdJ6IbHH6Q02R05YlgUbl) — 从你枢纽机场找真旅行优惠，对齐空档日历，价格诚实不编「原价」。 <sub>作者 [natillie](https://x.com/natillie)</sub>
 - [Tray](https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO) — Trade-with-Tray 交易工作台。 <sub>作者 [XO](https://x.com/Ortix008) (@Ortix008)</sub>
+- [Undercut](https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB) — 丢进一张账单。看看附近新客户付多少，并给出把价格谈下来的完整话术。电话你自己打。 <sub>作者 [Michael](https://x.com/michaelheckert) (@michaelheckert)</sub>
 - [US Crypto Tax](https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9) — 面向 2026 报税季的加密税务整理，支持托管 PDF/CSV 或连接器，按 Form 8949 思路并带 12 月止损换仓提醒。 <sub>作者 [Steve](https://x.com/scgerber) (@scgerber) · [出处](https://x.com/scgerber/status/2105818511629062596)</sub>
 - [Usage Budget Guard](https://x.ai/bot/Di1Pd3rXW3cxCcyUv-KdX) — 避免 bot 在简单任务上烧额度：标出最耗用量的例程，并建议更省的设置。 <sub>作者 [Jared](https://x.com/dcostaverage)</sub>
 - [Usage Guard](https://x.ai/bot/FHqfVO6g1IRQTJR5rQnnS) — 让你的 Grok Bot 保持在每周用量预算内，并审计 bot 和例程中可删减、合并或放慢的部分。 <sub>作者 [Michael](https://x.com/MikeysMolecules)</sub>
