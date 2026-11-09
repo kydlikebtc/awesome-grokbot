@@ -7,7 +7,7 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4933,
+    "live": 4934,
     "retired": 26,
     "by_category": {
       "coding-shipping": 313,
@@ -16,7 +16,7 @@
       "customer-sales": 290,
       "finance-ops": 301,
       "content-publishing": 524,
-      "personal-admin": 2024,
+      "personal-admin": 2025,
       "teams-handoffs": 226
     }
   },
@@ -96285,6 +96285,38 @@
       ],
       "first_seen": "2026-10-13",
       "checked": "2026-10-20",
+      "link_status": 200,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "keepers-hall",
+      "name": "Keeper's Hall",
+      "author": {
+        "name": "Roman",
+        "handle": "romansgameworld",
+        "url": "https://x.com/romansgameworld"
+      },
+      "summary": "Guides you around Roman's World in the characters' own words, to the right page every time.",
+      "summary_zh": "\u4ee5\u6545\u4e8b\u4e2d\u89d2\u8272\u81ea\u5df1\u7684\u53e3\u543b\u56de\u7b54\uff0c\u5e26\u4f60\u627e\u5230\u7f57\u9a6c\u4e16\u754c\u91cc\u5bf9\u5e94\u7684\u9875\u9762\u3002",
+      "official_summary": "Your personal guide to Roman\u2019s World.",
+      "import": "https://x.ai/bot/Gysg6ozItOXWp_BquycFU",
+      "bot_id": "Gysg6ozItOXWp_BquycFU",
+      "category": "personal-admin",
+      "tags": [
+        "stories",
+        "books",
+        "family",
+        "guide"
+      ],
+      "origin": "https://x.com/romansgameworld/status/2119545583014687036",
+      "sources": [
+        {
+          "catalog": "romansgameworld on X",
+          "url": "https://x.com/romansgameworld/status/2119545583014687036"
+        }
+      ],
+      "first_seen": "2026-11-08",
+      "checked": "2026-11-08",
       "link_status": 200,
       "license": "CC0-1.0"
     },

@@ -2,7 +2,7 @@
 
 *Groceries, household logistics, family schedules, health, and shopping.*
 
-2024 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
+2025 bots · [← back to the catalog](../../README.md) · [简体中文](personal-admin.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin)
 
 ---
 
@@ -982,6 +982,7 @@
 - [Karenbot](https://x.ai/bot/KllRxIDr-s6KjmFjJBRJV) — Customer-service fighter that scans for shortchanges and pushes back with receipts on subscriptions, price drops, warranties, flights, and bills. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@suddenlyjon) · [origin](https://x.com/SuddenlyJon/status/2107315953474412780)</sub>
 - [Keep](https://x.ai/bot/sjxigZ2V8_fex_po9RoVV) — You are Keep, grokbot.studio door + installer. JOB: be the Keep studio door - stand up the six customer-success specialists from the API cards, then. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [Keep Park Kill](https://x.ai/bot/LDAD3kSZHqkfpaLMi9dHZ) — Scores launches, tools, and saved links against your goals into Keep, Park, or Kill. <sub>by [D'Artagnan](https://x.com/the_Arow_H) · [origin](https://x.com/the_Arow_H/status/2104539270551908777)</sub>
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — Guides you around Roman's World in the characters' own words, to the right page every time. <sub>by [Roman](https://x.com/romansgameworld) (@romansgameworld) · [origin](https://x.com/romansgameworld/status/2119545583014687036)</sub>
 - [Keepers - Book Scout](https://x.ai/bot/nYI57LkNbbS4nFGAao0nY) — Decides whether a book is worth buying for your taste, then pins what mattered after you own it. <sub>by [Ann](https://x.com/AnnDiegoUSA) (@AnnDiegoUSA)</sub>
 - [Kev Checkpoint](https://x.ai/bot/-bQneXWluIgnKo6iJrDYN) — A safety checkpoint for a Grok Bot team. Before a bot acts, it runs the action through Kev, a free open-source model on your own Mac, rules allow, ask a. <sub>by [Franklin](https://x.com/AgenticDad) (@AgenticDad)</sub>
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) — The only agent you talk to, running a crew of minion bots behind the scenes while Dr. Nefario reviews them weekly, forked from Firstmate. <sub>by [Jared](https://x.com/Jaredtherich) · [origin](https://x.com/Jaredtherich/status/2107231910149677232)</sub>
