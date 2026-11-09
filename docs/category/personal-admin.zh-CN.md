@@ -2,7 +2,7 @@
 
 *买菜、家务后勤、家庭日程、健康和购物。*
 
-2024 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](personal-admin.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh)
+2025 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](personal-admin.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh)
 
 ---
 
@@ -982,6 +982,7 @@
 - [Karenbot](https://x.ai/bot/KllRxIDr-s6KjmFjJBRJV) — 替你和客服据理力争，找出被少给的钱，拿着收据去追订阅、降价、保修、航班、保险和医疗账单。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@suddenlyjon) · [出处](https://x.com/SuddenlyJon/status/2107315953474412780)</sub>
 - [Keep](https://x.ai/bot/sjxigZ2V8_fex_po9RoVV) — grokbot.studio 的 Keep 入口，拉起六位客户成功专家并路由相关工作。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
 - [Keep Park Kill](https://x.ai/bot/LDAD3kSZHqkfpaLMi9dHZ) — 对照目标与门槛给新工具发布和收藏链接打分，分成保留暂存或淘汰并记下复访日。 <sub>作者 [D'Artagnan](https://x.com/the_Arow_H) · [出处](https://x.com/the_Arow_H/status/2104539270551908777)</sub>
+- [Keeper's Hall](https://x.ai/bot/Gysg6ozItOXWp_BquycFU) — 以故事中角色自己的口吻回答，带你找到罗马世界里对应的页面。 <sub>作者 [Roman](https://x.com/romansgameworld) (@romansgameworld) · [出处](https://x.com/romansgameworld/status/2119545583014687036)</sub>
 - [Keepers - Book Scout](https://x.ai/bot/nYI57LkNbbS4nFGAao0nY) — 按你的口味判断书值不值得买，买后又钉下真正重要的点。 <sub>作者 [Ann](https://x.com/AnnDiegoUSA) (@AnnDiegoUSA)</sub>
 - [Kev Checkpoint](https://x.ai/bot/-bQneXWluIgnKo6iJrDYN) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Franklin](https://x.com/AgenticDad) (@AgenticDad)</sub>
 - [Kevin](https://x.ai/bot/rZs29r38Oeor_7Ndp2coe) — 你唯一需要对话的机器人，在后台指挥一群小黄人机器人，Dr. Nefario 每周复盘它们，基于 Firstmate 改造。 <sub>作者 [Jared](https://x.com/Jaredtherich) · [出处](https://x.com/Jaredtherich/status/2107231910149677232)</sub>
