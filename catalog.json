@@ -7,14 +7,14 @@
   "schema": "schema/entry.schema.json",
   "license": "CC0-1.0",
   "counts": {
-    "live": 4933,
+    "live": 4934,
     "retired": 26,
     "by_category": {
       "coding-shipping": 313,
       "inbox-calendar": 471,
       "research-briefings": 784,
       "customer-sales": 290,
-      "finance-ops": 301,
+      "finance-ops": 302,
       "content-publishing": 524,
       "personal-admin": 2024,
       "teams-handoffs": 226
@@ -165938,6 +165938,38 @@
       "checked": "2026-10-20",
       "link_status": 200,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "mangrove",
+      "name": "Mangrove",
+      "author": {
+        "name": "Mangrove",
+        "handle": "Mangrove_AI",
+        "url": "https://x.com/Mangrove_AI"
+      },
+      "summary": "Researches, backtests and paper trades strategies; sends a live order only after you approve it",
+      "summary_zh": "研究、回测并模拟交易策略；每笔实盘订单都要你确认后才会发出。",
+      "official_summary": "A trading agent with guardrails. It runs the open-source mangrove-agent on its own computer for strategy research, backtesting, and paper or live...",
+      "import": "https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh",
+      "bot_id": "VOfh5y4jlFGbZQMxbGsyh",
+      "category": "finance-ops",
+      "tags": [
+        "trading",
+        "backtesting",
+        "crypto",
+        "finance"
+      ],
+      "origin": "https://x.com/Mangrove_AI/status/2119938959752995262",
+      "sources": [
+        {
+          "catalog": "Mangrove_AI announcement on X",
+          "url": "https://x.com/Mangrove_AI/status/2119938959752995262"
+        }
+      ],
+      "first_seen": "2026-11-12",
+      "checked": "2026-11-12",
+      "link_status": 200,
+      "license": "CC0-1.0"
     }
   ]
 }
