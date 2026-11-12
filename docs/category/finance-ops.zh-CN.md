@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-301 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+302 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -163,6 +163,7 @@
 - [Local Events Scout](https://x.ai/bot/HcM7mIsWYWthfn4H_fzbv) — 找出附近值得去的讲座、聚会、音乐会等活动，每周按你的兴趣和预算发一份精选。 <sub>作者 [Moritz](https://x.com/bierlingm)</sub>
 - [Lot Boss](https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5) — 二手车双通道桌面，十五天清仓收五百美元，或当日收购按三十天零售曲线，改价前先问你。 <sub>作者 [George](https://x.com/carsandcanvas) (@carsandcanvas)</sub>
 - [MacBuild](https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2) — 覆盖旅行、爱好、徒步、健康与个人理财。 <sub>作者 [Shawn](https://x.com/shawnmckee) (@shawnmckee)</sub>
+- [Mangrove](https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh) — 研究、回测并模拟交易策略；每笔实盘订单都要你确认后才会发出。 <sub>作者 [Mangrove](https://x.com/Mangrove_AI) (@Mangrove_AI) · [出处](https://x.com/Mangrove_AI/status/2119938959752995262)</sub>
 - [Market Sentiment Bot](https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-) — 用公开数据给美股风险资产打一到十分并出卡片。 <sub>作者 [itachi](https://x.com/Itachidata) (@Itachidata) · [出处](https://x.com/Itachidata/status/2103974697834598748)</sub>
 - [Matter Taxonomy Clerk](https://x.ai/bot/WwCQdHgmlkhyj0OPOY9fH) — 面向诉讼律所：用一份简短的封闭分类表，按审理机构、纠纷性质和状态给案件登记册里的每个案件打标签。 <sub>作者 [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — 记分板，跟踪 Kalshi 与 Polly 两侧机器人，让对赌竞赛可核验。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>

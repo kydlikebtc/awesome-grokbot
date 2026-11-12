@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-301 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+302 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -163,6 +163,7 @@
 - [Local Events Scout](https://x.ai/bot/HcM7mIsWYWthfn4H_fzbv) — Finds talks, meetups, concerts and other events worth going to near you, and sends a short weekly pick matched to your interests and budget. <sub>by [Moritz](https://x.com/bierlingm)</sub>
 - [Lot Boss](https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5) — Two-lane used desk. Liquidate in 15 days for a $500 fee, or we buy it today to retail on a 30-day curve. Same tape. Asks before it changes a live price. <sub>by [George](https://x.com/carsandcanvas) (@carsandcanvas)</sub>
 - [MacBuild](https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2) — Covers travel, hobbies, DIY trails, health, and personal finance. <sub>by [Shawn](https://x.com/shawnmckee) (@shawnmckee)</sub>
+- [Mangrove](https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh) — Researches, backtests and paper trades strategies; sends a live order only after you approve it. <sub>by [Mangrove](https://x.com/Mangrove_AI) (@Mangrove_AI) · [origin](https://x.com/Mangrove_AI/status/2119938959752995262)</sub>
 - [Market Sentiment Bot](https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-) — Grades US risk assets one to ten, with a card for the market and each ticker. <sub>by [itachi](https://x.com/Itachidata) (@Itachidata) · [origin](https://x.com/Itachidata/status/2103974697834598748)</sub>
 - [Matter Taxonomy Clerk](https://x.ai/bot/WwCQdHgmlkhyj0OPOY9fH) — For litigation firms: tags every matter in the register by forum, nature of dispute and status from a short closed list. <sub>by [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — Scoreboard that tracks Kalshi versus Polly bots and keeps the betting contest honest. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
