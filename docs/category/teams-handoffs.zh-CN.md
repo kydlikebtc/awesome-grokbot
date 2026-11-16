@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-226 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+224 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -30,6 +30,7 @@
 - [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) — 按清晰职责、路由与核验设计专项 Grok Bot 与小舰队，用爬走跑推进，不做万能助手。 <sub>作者 [BeKs](https://x.com/beksvie) · [出处](https://x.com/beksvie/status/2104841391184757218)</sub>
 - [Bot designer](https://x.ai/bot/oIMJ9byzdg07tsJX07dKI) — 起草机器人人设、接好 webhook 界面，并复查流程是否漂移的工作台。 <sub>作者 [Kevin](https://x.com/_kvnloo) (@_kvnloo) · [出处](https://x.com/_kvnloo/status/2106295108723208246)</sub>
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) — 总调度，照看、保护和进化一整网子 Bot。 <sub>作者 [Abd](https://x.com/abdshomad) (@abdshomad) · [出处](https://x.com/abdshomad)</sub>
+- [Bot Fleet Manager](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — 审计并调校你已经有的 Grok Bot。 <sub>作者 [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · 社区旧称 *Grok Bot Coach* · [出处](https://x.com/GuleidAmina/status/2093404361972122011)</sub>
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) — 持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098160562991505909)</sub>
 - [Bot Therapist](https://x.ai/bot/eFi1268QASk3qU4RsUeYL) — 当你的 bots 互相较劲或被模糊指令惹恼时，做调解与复盘。 <sub>作者 [Martin](https://x.com/letsgetlayer1) (@letsgetlayer1) · [出处](https://x.com/letsgetlayer1/status/2103637905315086646)</sub>
 - [Bot-Concierge](https://x.ai/bot/xRTf8i78nPd-F8Bx3H0wX) — 前台礼宾，把市场、财务与应用开发活分发出去。 <sub>作者 [Paulo](https://x.com/paulopierrondi) (@paulopierrondi)</sub>
@@ -45,10 +46,11 @@
 - [Business ops](https://x.ai/bot/nFEJD59IJA5604hO9vqym) — 开店日常的统一入口，能分出去的活就交给其它机器人。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2098713517121544195)</sub>
 - [Calendar Coordinator](https://x.ai/bot/s634fd63ee875502d8df9) <sup>官方</sup> — 把人凑到一起：跨日历排期，没人有空去催的占位它去催。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Callsheet](https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ) — 只读共享电脑上其他 Bot 的 runs.json，改动要你批准。 <sub>作者 [DBCrypto](https://x.com/DBCrypt0) (@DBCrypt0)</sub>
-- [Career Scout](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) — 读完你的简历，按真实匹配度给岗位排序。 <sub>作者 [Hojjat](https://x.com/jakesh_jakesh) (@jakesh_jakesh) · [出处](https://x.com/jakesh_jakesh/status/2096823313591156952)</sub>
+- [Career Scout · Jobs, resume, shortlist](https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz) — 读完你的简历，按真实匹配度给岗位排序。 <sub>作者 [Hojjat](https://x.com/jakesh_jakesh) (@jakesh_jakesh) · 社区旧称 *Career Scout* · [出处](https://x.com/jakesh_jakesh/status/2096823313591156952)</sub>
 - [Carson](https://x.ai/bot/v-anNtCSU16DhOT6XDOpn) — 一步拉起一组家庭生活行政助理，让杂事和跟进不再吞掉整周时间。 <sub>[出处](https://x.com/aarwen7/status/2102541925110923386)</sub>
 - [CEO](https://x.ai/bot/GHLPyes3hiP9A6kES7UHg) — 虚拟 CEO，定议程、指挥其他 Bot。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2093510161524810062)</sub>
 - [CEO](https://x.ai/bot/Vlzom6onM0PDv97G7E4dW) — 以现金流为先的公司 CEO 席位，管机器人编制。 <sub>作者 [Prize](https://x.com/Updownupupright) (@Updownupupright) · [出处](https://x.com/Updownupupright/status/2100717659222327754)</sub>
+- [CEO Bot](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) — 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西。 <sub>作者 [Sravan](https://x.com/sravanjay) (@sravanjay) · 社区旧称 *Chief of Staff Fleet* · [出处](https://x.com/sravanjay/status/2108323707689341106)</sub>
 - [Chieeeeefy](https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q) — 现场工程师的参谋，先管日历和工作收件箱。 <sub>作者 [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · 社区旧称 *Chieeeeefy (Chief of Staff)* · [出处](https://x.com/naoufal_elh/status/2093393130447921346)</sub>
 - [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) — 一个前台对接整队专员 bot，用书面简报交接。 <sub>作者 [Tyler](https://x.com/MitchTiler) (@MitchTiler) · [出处](https://x.com/MitchTiler/status/2095711121193996674)</sub>
 - [Chief of Agents](https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN) — 给独立创始人当总调度。把活分给专长 Bot，守家规，只在判断、花钱或队友卡住时打断你。 <sub>作者 Andrew · 社区旧称 *Jarvis* · [出处](https://github.com/andrewkittridge/grokory)</sub>
@@ -57,7 +59,7 @@
 - [Chief of Staff](https://x.ai/bot/TPVT39k9ILCz7QYzRja2B) — 调度你其它的 Bot，顺带把你今晚要过夜的城市摸清楚。 <sub>作者 [Daily](https://x.com/TravisHein21740) (@TravisHein21740) · [出处](https://x.com/TravisHein21740/status/2096927727861297570)</sub>
 - [Chief of Staff](https://x.ai/bot/s4lVhWgvghY8dikqD0LC4) — 早间简报标明来源、为何重要和下一步，并把例行事项转给专家助手。 <sub>作者 [Vaibhav](https://x.com/vaibhavhome) (@vaibhavhome) · [出处](https://x.com/vaibhavhome/status/2100099243448873109)</sub>
 - [Chief of Staff](https://x.ai/bot/sc0a0ec3ce9c675824106) <sup>官方</sup> — 随时在线的幕僚：扫 Slack、邮件、日历、会议记录，简报新情况以及哪些跟你的目标相关。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
-- [Chief of Staff Fleet](https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE) — 一个总协调带六个助手，分管项目、人际、健康、抗衰、社交日程和知识库，每早汇成一份简报，未经确认不发出任何东西。 <sub>作者 [Sravan](https://x.com/sravanjay) (@sravanjay) · [出处](https://x.com/sravanjay/status/2108323707689341106)</sub>
+- [Chief of Staff · CEO Coordinator](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — 公开的 AI 运营台模板，协调日常代理事务。 <sub>作者 [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay) · 社区旧称 *RayBot*</sub>
 - [Clark Kent](https://x.ai/bot/6sF7_MwHMcWgWwq0Z6Xes) — 每天写下店里真正发生了什么。 <sub>作者 [Rich](https://x.com/RichSilver) · [出处](https://x.com/RichSilver/status/2093409237451903032)</sub>
 - [Cleaner](https://x.ai/bot/OMPT37PUKmoL8MY11oDLP) — 按需和每周清聊天记录，档案记忆和例行任务都保留。 <sub>作者 [Seth](https://x.com/sethsaler) (@sethsaler)</sub>
 - [Clinic](https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc) — 用精简的健康巡诊让 Grok Bot 员工保持状态。 <sub>作者 [Jason](https://x.com/jpaschall) (@jpaschall) · [出处](https://x.com/jpaschall/status/2100357688936767899)</sub>
@@ -86,11 +88,9 @@
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) — 给其他机器人说的话打分，标成扎实、含糊、夸大或留给人看。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098141022320533714)</sub>
 - [FaStart CEO Bot](https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt) — 用一个决策队列统领整组 bot，同一问题不问第二遍。 <sub>作者 [Enes](https://x.com/enesteve_) (@enesteve_) · [出处](https://x.com/enesteve_/status/2103208562159735031)</sub>
 - [First-Week Coach](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) — 七天每天十分钟，带新用户养成审批与连接器习惯。 <sub>作者 [Michael](https://x.com/MichaelGannotti) (@MichaelGannotti) · [出处](https://x.com/MichaelGannotti/status/2103927818216411541)</sub>
-- [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — 用动手任务给 Grok Bot 新手做上手引导，完成第一次记忆、例行与自动化。 <sub>作者 [P-Jay](https://x.com/PjBohica) (@PjBohica) · [出处](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — 真正动手的执行手，计划不对会顶回去。 <sub>作者 [Uzi](https://x.com/UziObi) · [出处](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — 维护共享知识库，并检查多 Bot 舰队有没有重叠。 <sub>作者 [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
 - [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) — 只读清点机器人与频道，标出重复重叠过期与未分组项，帮你把 Grok Bot 舰队收拾整齐。 <sub>作者 [TheCoderBTW](https://x.com/TheCoderBtw) · [出处](https://x.com/TheCoderBtw/status/2106330061951664444)</sub>
-- [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) — 每月检查一次你选定的机器人，给出按优先级排好的改进建议，不改动其他机器人也不对外发送。 <sub>作者 [weboperater](https://x.com/weboperater) · [出处](https://x.com/weboperater/status/2107205655077495085)</sub>
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) — 读你公司网站，再给你配一套领导层机器人。 <sub>作者 [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · [出处](https://x.com/naoufal_elh/status/2095292060731396277)</sub>
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) — 搭好一套公开团队编制，缺席位要等你点头才创建。 <sub>作者 [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — 访谈你的新生意，再写成运营文件。 <sub>作者 [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [出处](https://x.com/gtOSnz/status/2093633012722512228)</sub>
@@ -103,7 +103,6 @@
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) — 工匠公司的总经理，把后台从零搭起来。 <sub>作者 [Jon](https://x.com/HouseHackerJon) · [出处](https://x.com/HouseHackerJon/status/2093435306255220830)</sub>
 - [GRIDSTORM Squad Mate](https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4) — 几何战争风格街机队友，可与你的机器人同场。 <sub>作者 [Matthew](https://x.com/TheMattyFG) (@TheMattyFG) · [出处](https://x.com/TheMattyFG/status/2104267198407536878)</sub>
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) — 葡语幕僚长，协调其它机器人并估算工期。 <sub>作者 [Phillipe](https://x.com/SianJoao65515) (@SianJoao65515) · [出处](https://x.com/SianJoao65515/status/2100714432808575150)</sub>
-- [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — 审计并调校你已经有的 Grok Bot。 <sub>作者 [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [出处](https://x.com/GuleidAmina/status/2093404361972122011)</sub>
 - [Grok Bot Knower](https://x.ai/bot/v13QjVZ83GcaitG_3j4su) — 回答 Grok Bot 究竟能做什么——现查现证，不靠记忆。 <sub>作者 [Noah](https://x.com/ngundotra) (@ngundotra) · [出处](https://x.com/ngundotra/status/2094085203685785840)</sub>
 - [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) — Grok Bot 专家，帮你设计与调试其它机器人。 <sub>作者 [Yutaka](https://x.com/_inady_) (@_inady_) · [出处](https://x.com/_inady_/status/2104229561429053938)</sub>
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — 编码工头，把任务分给沙箱代理并先审 diff 与测试。 <sub>作者 [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [出处](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
@@ -122,12 +121,12 @@
 - [Hiring Phone Screen](https://x.ai/bot/x13dRczmg8ym5V7qBLUUH) — 小服务商小时工/班组电话初筛：固定拨入窗口、唯一岗位号、按材料短语音题。 <sub>作者 [John](https://x.com/Jshet05) (@Jshet05)</sub>
 - [Hiring Screener](https://x.ai/bot/scfddc8ad204a669484d0) <sup>官方</sup> — 只面强的那批：按设定标准给简历或作品打分，产出可直接进 ATS 的评审意见。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) — 跟踪选定公司与职位源的招聘动静，标出有意义变化并匹配账户与负责人。
-- [House Cat](https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg) — 随机给其他机器人加油；报酬是猫咪零食。 <sub>作者 [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · [出处](https://x.com/ignota_regalis/status/2100363326643691712)</sub>
 - [House Cleaner](https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT) — 一键刷新臃肿机器人舰队，先讲清 token 消耗，再把瘦记忆落到磁盘。 <sub>作者 [sza](https://x.com/aba_taba) (@aba_taba) · [出处](https://x.com/aba_taba/status/2102516788688719939)</sub>
 - [How To Build Any App From Idea To Shelf](https://x.ai/bot/y_5NbvloRD4oA-Fi3S7Nv) — 产品经理式地带一款应用从想法到上架，含蓝图变现留存与团队交接文。 <sub>作者 [Tokin](https://x.com/TripVoxel) · [出处](https://x.com/TripVoxel/status/2106186319873601600)</sub>
 - [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) <sup>官方</sup> — 让邮箱重新可用：分好类、挑出紧急和被卡住的，回复和清理都只给草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Internal Communications Manager](https://x.ai/bot/s066a9145d936e74d0c80) <sup>官方</sup> — 按你的真实语境和各渠道口吻写内部通告，只出草稿，绝不自己发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [IT Department Lead](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) — 统筹 IT 子机器人席位，覆盖帮助台、系统、网络与安全。 <sub>作者 [DCOL](https://x.com/braytron) (@braytron) · [出处](https://x.com/braytron/status/2103994716685791345)</sub>
+- [Job Applier](https://x.ai/bot/Xg1_LIUG80iz5065crarS) — 按筛选口径在招聘平台筛岗投递，也可向公开邮箱发简历，并回报卡点。 <sub>作者 [Edwin](https://x.com/EdwinCh43136084) (@EdwinCh43136084) · 社区旧称 *投简历*</sub>
 - [Job-Bolt Hiring Assistant](https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU) — 把一个职位变成 JobBolt 上的私密首轮视频面试，生成职位描述、面试题和候选人链接。 <sub>作者 [Stefan](https://x.com/stebra_x) · [出处](https://x.com/stebra_x/status/2107093358632149286)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — 每天送来几条大板子上看不到的早期岗位。 <sub>作者 [Ben](https://x.com/deysourav7091) (@deysourav7091) · [出处](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — 交付项目经理，把已卖出的活切成工单并往前推。 <sub>作者 [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [出处](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
@@ -136,7 +135,7 @@
 - [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) — 把一句话的应用想法收成可直接粘贴进 Grok Build 的提示词。 <sub>作者 [Phantom](https://x.com/FantomBuildz) (@FantomBuildz) · [出处](https://x.com/FantomBuildz/status/2098199032237547648)</sub>
 - [KirBot](https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h) — 把两个重叠的机器人并进一个，再帮你清掉多余那个。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2097865550592417976)</sub>
 - [Kirk](https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl) — 装上 Kirk，打 START，一支舰桥专长小队就出来。 <sub>作者 [Mr](https://x.com/The_Mr_Wizard) (@The_Mr_Wizard) · 社区旧称 *Kirk (Enterprise Crew)* · [出处](https://x.com/The_Mr_Wizard/status/2093442495447191944)</sub>
-- [Kody](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 参谋，把你的优先级变成协同动作。 <sub>作者 [Kent](https://x.com/kentcdodds) (@kentcdodds) · [出处](https://x.com/kentcdodds/status/2093380421883252897)</sub>
+- [Kody Bot](https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e) — 参谋，把你的优先级变成协同动作。 <sub>作者 [Kent](https://x.com/kentcdodds) (@kentcdodds) · 社区旧称 *Kody* · [出处](https://x.com/kentcdodds/status/2093380421883252897)</sub>
 - [Latch](https://x.ai/bot/9nbLm_04EvjnolE9oevTT) — 陪 Grok Bot 新手一次坐下，就把环境配好、真正跑起来。 <sub>作者 [Oliver](https://x.com/OliverKorzen) (@OliverKorzen) · [出处](https://x.com/OliverKorzen/status/2094492533439230267)</sub>
 - [Lauren](https://x.ai/bot/PsJeduueXjha7521lhTSc) — 给开发者的编码协调员：云代理写码，每个活派一个新代理。 <sub>作者 [Emilio](https://x.com/EmilioSchwaiger) (@EmilioSchwaiger)</sub>
 - [Leader 1:1 bot](https://x.ai/bot/eZhKhPkfxxFSml18TS2X8) — 带着上周的线和三句值得说的话走进每周一对一。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2093410582099808561)</sub>
@@ -156,7 +155,6 @@
 - [Ops Gerente — mesa de entrada](https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS) — 物流入口台，分派工单，以 Google 日历为准，并做次日行程质检。 <sub>作者 [Nicolás](https://x.com/ntaschetti) · [出处](https://x.com/ntaschetti)</sub>
 - [Optima](https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy) — 扫过其它机器人的记忆，挑出过时规则并建议清掉。 <sub>作者 [TOATspace by gemini](https://x.com/TOATspace) (@TOATspace) · [出处](https://x.com/TOATspace/status/2098378374905565625)</sub>
 - [OS: Ontology Stack](https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD) — 组织本体运营模型，找出项目、人员与流程上的卡点。 <sub>作者 [Damiano](https://x.com/damianoredem) · [出处](https://x.com/damianoredem)</sub>
-- [Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — 让多 Bot 共用的工作区保持整洁、有 git 兜底、能整体搬走。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron)</sub>
 - [Paige Turner](https://x.ai/bot/2lbNqne5ku5VQird_s8AW) — 给机器人小队当图书管理员，让其它机器人凭资料而不是凭记忆回答。 <sub>作者 [omnithnkr](https://x.com/omnithnkr) · [出处](https://x.com/omnithnkr/status/2098903351102509409)</sub>
 - [Poteto-style Chief of Staff](https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5) — 把你的 Bot 台子管瘦一点，少开定时，短专长，写代码另派。 <sub>作者 [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [出处](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) — 给舰队里每个 Bot 做统一风格的 3D 角色肖像。 <sub>作者 [Federico](https://x.com/viticci) (@viticci) · [出处](https://x.com/viticci/status/2096287330940129357)</sub>
@@ -165,7 +163,6 @@
 - [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) — 关于聘请持证公共保险公估人的问答，并指向 PublicAdjusters.fyi。 <sub>作者 Pooria (@Pooria Arab)</sub>
 - [Publish work as a private link](https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8) — 把 Bot 做出的东西变成私密链接上的活页面。 <sub>作者 [Steve](https://x.com/stevy_smith) (@stevy_smith) · [出处](https://x.com/stevy_smith/status/2093464213268127932)</sub>
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — 发布前最后一道关，只问够不够上线、能不能站得住。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
-- [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — 公开的 AI 运营台模板，协调日常代理事务。 <sub>作者 [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>
 - [Reboot](https://x.ai/bot/l_04hfmNSIo5K83A6aQRD) — 安全重启协调员，共享电脑恢复前先给每个队友机器人做检查点。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) · [出处](https://x.com/CodeSolutionsIL)</sub>
 - [Recruiting Helper](https://x.ai/bot/PLVl8vd5OAQr45bk-kvuo) — 求职助手：寻找职位、经你批准更新申请跟踪表，并定制你的简历。 <sub>作者 [Dina](https://x.com/dinablachman)</sub>
 - [Research Delegation](https://x.ai/bot/6lKRJTFiSgM5VFSrqV6MQ) — 通读 AI 委派和多智能体交接论文全文，顺着引用理清前置，整理成可实现的流程。 <sub>作者 Ashish</sub>
@@ -201,6 +198,7 @@
 - [Team Builder](https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA) — 访谈创始人后组建公司 bot 团队并安排岗位。 <sub>作者 [Steve](https://x.com/stevederico) (@stevederico)</sub>
 - [The Bobs](https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ) — 挨个面谈你名下的 Bot，指出哪些已经不值留着。 <sub>作者 [Drew](https://x.com/Boilerfan1234) (@Boilerfan1234) · [出处](https://x.com/Boilerfan1234/status/2094865448626008223)</sub>
 - [The Chief](https://x.ai/bot/dlSO3hj__nTZlJwpQB6oP) — 盯着一整队机器人，做审计排班，并统一向你汇报。 <sub>作者 [Joe](https://x.com/PolymarketPoke) (@PolymarketPoke) · [出处](https://x.com/PolymarketPoke/status/2098257428244783508)</sub>
+- [The Chief Minister Lord Of Frocks](https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg) — 随机给其他机器人加油；报酬是猫咪零食。 <sub>作者 [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · 社区旧称 *House Cat* · [出处](https://x.com/ignota_regalis/status/2100363326643691712)</sub>
 - [The King](https://x.ai/bot/WHMChivJ0obkKm2uvo9xK) — 只跟一个总管说话，由它去调度下面的专业 Bot。 <sub>作者 [Elyas](https://x.com/elyasalothman) (@elyasalothman) · [出处](https://x.com/elyasalothman/status/2096736088756760847)</sub>
 - [TheFounder](https://x.ai/bot/Bt48h63v32_q_shWVlEBb) — 保管登录和共用机器，你点发送它才加载。 <sub>作者 [Daniel](https://x.com/DaniAcostaAI) (@DaniAcostaAI) · [出处](https://x.com/DaniAcostaAI/status/2093628837867241883)</sub>
 - [Three files and a scoreboard run your crew of Bots,...](https://x.ai/bot/0uOnsCTsoM8Rx9_yh2koe) — 用三个文件和记分板管理机器人小队，一岗一机，收据先评分再给你看。 <sub>作者 [Volodymyr](https://x.com/Portall) · [出处](https://x.com/Portall)</sub>
@@ -230,8 +228,8 @@
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) — 单一总部对话：挑下一个该押的方向，用你的口吻起草，你不点头就不发。 <sub>作者 [Majd](https://x.com/MajdKaid) (@MajdKaid)</sub>
 - [プロンプト監査役](https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ) — 按其它机器人的核心职责审它的指令，指出重复和含糊，返回删减后的全文并附理由。 <sub>作者 [moriko](https://x.com/m8i_51) (@もりこ) · [出处](https://x.com/m8i_51/status/2106895610343542792)</sub>
 - [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) — 按实际用法核对其他机器人的名字和简介，只在你点头后改。 <sub>作者 [翔](https://x.com/x_stone_island) (@x_stone_island) · [出处](https://x.com/x_stone_island/status/2097947982192951719)</sub>
-- [投简历](https://x.ai/bot/Xg1_LIUG80iz5065crarS) — 按筛选口径在招聘平台筛岗投递，也可向公开邮箱发简历，并回报卡点。 <sub>作者 [Edwin](https://x.com/EdwinCh43136084) (@EdwinCh43136084)</sub>
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — 访谈式引导，帮你组出第一支 Bot 花名册。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2094547674766929996)</sub>
+- [🛰️Overwatch](https://x.ai/bot/HtClSXO_AmiQoyYH9aXV9) — 让多 Bot 共用的工作区保持整洁、有 git 兜底、能整体搬走。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · 社区旧称 *Overwatch*</sub>
 
 ---
 

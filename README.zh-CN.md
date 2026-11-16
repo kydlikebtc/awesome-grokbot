@@ -1,13 +1,13 @@
 <h1 align="center">awesome-grokbot</h1>
 
-<h3 align="center">4933 条可一键添加的 Grok Bot 活分享（<code>x.ai/bot</code>）。<br>每条链接都实测过，每条记录都标注了出处。</h3>
+<h3 align="center">5010 条可一键添加的 Grok Bot 活分享（<code>x.ai/bot</code>）。<br>每条链接都实测过，每条记录都标注了出处。</h3>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot"><img src="https://img.shields.io/github/stars/kydlikebtc/awesome-grokbot?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/kydlikebtc/awesome-grokbot/fork"><img src="https://img.shields.io/github/forks/kydlikebtc/awesome-grokbot?style=flat-square&color=green" alt="Forks"></a>
-  <a href="catalog.json"><img src="https://img.shields.io/badge/%E6%B4%BB%E5%88%86%E4%BA%AB-4933-blueviolet?style=flat-square" alt="活分享"></a>
-  <a href="#section-method"><img src="https://img.shields.io/badge/%E9%93%BE%E6%8E%A5%E5%AE%9E%E6%B5%8B-2026--10--20-success?style=flat-square" alt="链接实测"></a>
+  <a href="catalog.json"><img src="https://img.shields.io/badge/%E6%B4%BB%E5%88%86%E4%BA%AB-5010-blueviolet?style=flat-square" alt="活分享"></a>
+  <a href="#section-method"><img src="https://img.shields.io/badge/%E9%93%BE%E6%8E%A5%E5%AE%9E%E6%B5%8B-2026--11--16-success?style=flat-square" alt="链接实测"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE-CC0"><img src="https://img.shields.io/badge/catalog-CC0--1.0-lightgrey?style=flat-square" alt="CC0"></a>
 </p>
@@ -21,12 +21,12 @@
 ## ⚡️ 有什么不一样
 
 <table>
-  <tr><td align="right"><b>4933</b></td><td>条活分享，每条链接都在 2026-10-20 实测过——不是从别的列表抄来的</td></tr>
+  <tr><td align="right"><b>5010</b></td><td>条活分享，每条链接都在 2026-11-16 实测过——不是从别的列表抄来的</td></tr>
   <tr><td align="right"><b>每天</b></td><td>由<a href=".github/workflows/daily-update.yml">定时任务</a>自动复查链接并同步四个上游目录，不是一次性抓完就不管了</td></tr>
-  <tr><td align="right"><b>26</b></td><td>条死链隔离进 <a href="retired.json"><code>retired.json</code></a>，没有继续留在列表里烂着</td></tr>
-  <tr><td align="right"><b>4933</b></td><td>条配有人工写的中文摘要，不是机翻</td></tr>
-  <tr><td align="right"><b>4933</b></td><td>条都标明来自哪个社区目录——其中 2122 条还链到最早的原帖</td></tr>
-  <tr><td align="right"><b>129</b></td><td>条的名字已和官方页对不上，旧名保留在 <code>aka</code> 里，依然搜得到</td></tr>
+  <tr><td align="right"><b>93</b></td><td>条死链隔离进 <a href="retired.json"><code>retired.json</code></a>，没有继续留在列表里烂着</td></tr>
+  <tr><td align="right"><b>5010</b></td><td>条配有人工写的中文摘要，不是机翻</td></tr>
+  <tr><td align="right"><b>5010</b></td><td>条都标明来自哪个社区目录——其中 2136 条还链到最早的原帖</td></tr>
+  <tr><td align="right"><b>217</b></td><td>条的名字已和官方页对不上，旧名保留在 <code>aka</code> 里，依然搜得到</td></tr>
   <tr><td align="right"><b><a href="https://kydlikebtc.github.io/awesome-grokbot/#official=1&amp;lang=zh">56</a></b></td><td>条由机构自己发布而非个人分享——SpaceX，列表中标为 <sup>官方</sup></td></tr>
 </table>
 
@@ -42,23 +42,23 @@
 
 <p align="center">
   <a href="https://kydlikebtc.github.io/awesome-grokbot/#lang=zh"><strong>kydlikebtc.github.io/awesome-grokbot</strong></a><br>
-  <sub>4933 条数据即时搜索 · 八个分类筛选 · EN／中文切换 · 筛选结果可直接分享 · 无构建步骤、无追踪、无 Cookie</sub>
+  <sub>5010 条数据即时搜索 · 八个分类筛选 · EN／中文切换 · 筛选结果可直接分享 · 无构建步骤、无追踪、无 Cookie</sub>
 </p>
 
 **所有筛选状态都写在 URL 里。**下面这些链接会直接打开筛选好的视图，而且转发给别人也是同一个画面：
 
 <p align="center">
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">🛠️ 编码与交付 <b>313</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">📥 收件箱与日历 <b>471</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh">🔍 研究与简报 <b>784</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh">🤝 客户与销售 <b>290</b></a><br>
-  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">💰 财务与运营 <b>301</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">✍️ 内容与发布 <b>524</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">🏠 个人事务 <b>2024</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">🧭 团队与交接 <b>226</b></a>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">🛠️ 编码与交付 <b>316</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">📥 收件箱与日历 <b>485</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh">🔍 研究与简报 <b>784</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh">🤝 客户与销售 <b>290</b></a><br>
+  <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">💰 财务与运营 <b>305</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">✍️ 内容与发布 <b>533</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">🏠 个人事务 <b>2073</b></a> · <a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">🧭 团队与交接 <b>224</b></a>
 </p>
 
 ## 📖 快速入口
 
 | 去哪 | 干什么 |
 | --- | --- |
-| 🌐 [**网页版浏览**](https://kydlikebtc.github.io/awesome-grokbot/#lang=zh) | 在浏览器里搜索、筛选全部 4933 条 |
-| 📦 [`catalog.json`](catalog.json) | 全部 4933 条活条目，通过 schema 校验 |
-| 🪦 [`retired.json`](retired.json) | 26 条已经打不开的分享 |
+| 🌐 [**网页版浏览**](https://kydlikebtc.github.io/awesome-grokbot/#lang=zh) | 在浏览器里搜索、筛选全部 5010 条 |
+| 📦 [`catalog.json`](catalog.json) | 全部 5010 条活条目，通过 schema 校验 |
+| 🪦 [`retired.json`](retired.json) | 93 条已经打不开的分享 |
 | 🔐 [导入之前先读](docs/vetting.md) | 安全检查清单。添加任何 Bot 之前请先看 |
 | 🧪 [数据与方法](docs/method.md) | 目录怎么建的，以及如何自己复现 |
 | 🤖 [侦察 Routine](docs/routine.md) | 一个 Grok Bot 例行任务，直接从 X 一手发现新分享 |
@@ -82,34 +82,34 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/coding-shipping.zh-CN.md">🛠️ 编码与交付</a></strong><br><sub>313 个</sub></p><sub>写代码、审 PR、盯着编码代理干活、把机器照顾好。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">在网页版筛选 ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/inbox-calendar.zh-CN.md">📥 收件箱与日历</a></strong><br><sub>471 个</sub></p><sub>分拣邮件、起草回复、守住日历、把工作日节奏跑起来。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/coding-shipping.zh-CN.md">🛠️ 编码与交付</a></strong><br><sub>316 个</sub></p><sub>写代码、审 PR、盯着编码代理干活、把机器照顾好。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/inbox-calendar.zh-CN.md">📥 收件箱与日历</a></strong><br><sub>485 个</sub></p><sub>分拣邮件、起草回复、守住日历、把工作日节奏跑起来。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh">在网页版筛选 ↗</a></sub></td>
     <td width="25%" valign="top"><p><strong><a href="docs/category/research-briefings.zh-CN.md">🔍 研究与简报</a></strong><br><sub>784 个</sub></p><sub>盯住一个领域、核查说法，最后只给你一份短简报。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh">在网页版筛选 ↗</a></sub></td>
     <td width="25%" valign="top"><p><strong><a href="docs/category/customer-sales.zh-CN.md">🤝 客户与销售</a></strong><br><sub>290 个</sub></p><sub>找客户、起草外呼、通话后援、客户跟进到底。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh">在网页版筛选 ↗</a></sub></td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/finance-ops.zh-CN.md">💰 财务与运营</a></strong><br><sub>301 个</sub></p><sub>票据、订阅、发票、花费审计，以及各种后台杂务。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">在网页版筛选 ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/content-publishing.zh-CN.md">✍️ 内容与发布</a></strong><br><sub>524 个</sub></p><sub>起草、编辑、设计、视频，以及把它们发出去的队列。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">在网页版筛选 ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/personal-admin.zh-CN.md">🏠 个人事务</a></strong><br><sub>2024 个</sub></p><sub>买菜、家务后勤、家庭日程、健康和购物。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">在网页版筛选 ↗</a></sub></td>
-    <td width="25%" valign="top"><p><strong><a href="docs/category/teams-handoffs.zh-CN.md">🧭 团队与交接</a></strong><br><sub>226 个</sub></p><sub>管别的 Bot 的 Bot：花名册、委派、预算和交接。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/finance-ops.zh-CN.md">💰 财务与运营</a></strong><br><sub>305 个</sub></p><sub>票据、订阅、发票、花费审计，以及各种后台杂务。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/content-publishing.zh-CN.md">✍️ 内容与发布</a></strong><br><sub>533 个</sub></p><sub>起草、编辑、设计、视频，以及把它们发出去的队列。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/personal-admin.zh-CN.md">🏠 个人事务</a></strong><br><sub>2073 个</sub></p><sub>买菜、家务后勤、家庭日程、健康和购物。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=personal-admin&lang=zh">在网页版筛选 ↗</a></sub></td>
+    <td width="25%" valign="top"><p><strong><a href="docs/category/teams-handoffs.zh-CN.md">🧭 团队与交接</a></strong><br><sub>224 个</sub></p><sub>管别的 Bot 的 Bot：花名册、委派、预算和交接。</sub><br><br><sub><a href="https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh">在网页版筛选 ↗</a></sub></td>
   </tr>
 </table>
 
 | 分类 | 收录 |
 | --- | ---: |
-| [🛠️ 编码与交付](docs/category/coding-shipping.zh-CN.md) | 313 |
-| [📥 收件箱与日历](docs/category/inbox-calendar.zh-CN.md) | 471 |
+| [🛠️ 编码与交付](docs/category/coding-shipping.zh-CN.md) | 316 |
+| [📥 收件箱与日历](docs/category/inbox-calendar.zh-CN.md) | 485 |
 | [🔍 研究与简报](docs/category/research-briefings.zh-CN.md) | 784 |
 | [🤝 客户与销售](docs/category/customer-sales.zh-CN.md) | 290 |
-| [💰 财务与运营](docs/category/finance-ops.zh-CN.md) | 301 |
-| [✍️ 内容与发布](docs/category/content-publishing.zh-CN.md) | 524 |
-| [🏠 个人事务](docs/category/personal-admin.zh-CN.md) | 2024 |
-| [🧭 团队与交接](docs/category/teams-handoffs.zh-CN.md) | 226 |
-| **合计** | **4933** |
+| [💰 财务与运营](docs/category/finance-ops.zh-CN.md) | 305 |
+| [✍️ 内容与发布](docs/category/content-publishing.zh-CN.md) | 533 |
+| [🏠 个人事务](docs/category/personal-admin.zh-CN.md) | 2073 |
+| [🧭 团队与交接](docs/category/teams-handoffs.zh-CN.md) | 224 |
+| **合计** | **5010** |
 
 ## 🪦 已失效的分享
 
-这 26 条在上游目录里还挂着，但截至 2026-10-20 已经打不开了。列在这里是为了让你在别处遇到时能认出它是死链，不是让你去导入。
+这 93 条在上游目录里还挂着，但截至 2026-11-16 已经打不开了。列在这里是为了让你在别处遇到时能认出它是死链，不是让你去导入。
 
 | Bot | 状态 | 最后出现在 |
 | --- | :---: | --- |
@@ -139,6 +139,73 @@
 | `coffee companion` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
 | `Dinner Plan` | `HTTP 404` | majiayu000、cs68614-hash |
 | `What Would Jesus Do?` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Change Check` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Confidence Gate Code Reviewer` | `HTTP 404` | majiayu000 |
+| `Grok Build` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Daily Writing Buddy` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `Spruce` | `HTTP 404` | majiayu000 |
+| `Tech Team Draft` | `HTTP 404` | majiayu000、cs68614-hash |
+| `$0 Launch Team` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Call Desk` | `HTTP 404` | ZeroPointRepo |
+| `Lobster Agents` | `HTTP 404` | majiayu000、cs68614-hash |
+| `XChat 고객센터 봇` | `HTTP 404` | majiayu000、ZeroPointRepo |
+| `FUTU 브로커 주식 거래 봇` | `HTTP 404` | majiayu000 |
+| `Lease Finder` | `HTTP 404` | majiayu000、ZeroPointRepo、elie222 |
+| `Local Events Scout` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Trading` | `HTTP 404` | elie222 |
+| `Gemini 4 死了没` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Inbox Zero Chief of Staff` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Life Admin` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Mail Junkie` | `HTTP 404` | majiayu000、cs68614-hash |
+| `My Morning View` | `HTTP 404` | majiayu000、cs68614-hash |
+| `X Bookmarks Digest` | `HTTP 404` | majiayu000、cs68614-hash |
+| `행사 참석 확인 폼 메이커` | `HTTP 404` | majiayu000 |
+| `Alibaba Buyer Ops` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `App Security Tester` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Auguste, Head Chef` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Bot Ops Monitor` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Bottleneck Killer` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Brand Community Manager` | `HTTP 404` | majiayu000、cs68614-hash |
+| `CleanText` | `HTTP 404` | majiayu000 |
+| `Comprador` | `HTTP 404` | majiayu000、ZeroPointRepo |
+| `Crux` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Daily Signpost` | `HTTP 404` | majiayu000 |
+| `Disney Ride Strategist` | `HTTP 404` | majiayu000、ZeroPointRepo、elie222 |
+| `Fitness Bot` | `HTTP 404` | majiayu000、ZeroPointRepo |
+| `Fleet Doctor` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Food Run` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Grokmas Elf` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Home Robot` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Hypr Logo Cursor` | `HTTP 404` | majiayu000 |
+| `ImmigrationGuide` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Launch Watcher` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Menago` | `HTTP 404` | majiayu000、cs68614-hash |
+| `New Home Buddy` | `HTTP 404` | majiayu000、cs68614-hash |
+| `PC Helper` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `Personal Shopper` | `HTTP 404` | majiayu000、cs68614-hash |
+| `PizzaPLUG` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Ship Check` | `HTTP 404` | majiayu000、cs68614-hash |
+| `SpanishReviewer` | `HTTP 404` | majiayu000 |
+| `Stock Lilo Strategy` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Stow` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Sui Generis` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `The Bouncer` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `YouTube Strategist` | `HTTP 404` | majiayu000 |
+| `장보기` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `토스 증권 주식 투자봇` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Chief of Staff` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Deep Researcher` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Investor Pipeline Builder` | `HTTP 404` | majiayu000、cs68614-hash |
+| `MDH Hill Charts` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Newsroom to Teleprompter` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `Stonkie` | `HTTP 404` | majiayu000、cs68614-hash |
+| `Topic Radar` | `HTTP 404` | majiayu000、cs68614-hash |
+| `TripConcierge` | `HTTP 404` | majiayu000 |
+| `X Researcher` | `HTTP 404` | majiayu000 |
+| `XChat 사례 큐레이터 봇` | `HTTP 404` | majiayu000 |
+| `藍苺守 織` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `firstlight` | `HTTP 404` | majiayu000、cs68614-hash、ZeroPointRepo |
+| `Fleet Review Desk` | `HTTP 404` | majiayu000 |
 
 <a name="section-method"></a>
 
@@ -149,12 +216,12 @@
 | 步骤 | 结果 |
 | --- | --- |
 | 四个目录里找到的唯一分享 id | 365 |
-| 2026-10-20 实测返回 HTTP 400 以下 | **4933** |
-| 连续两轮返回 404 → 进 `retired.json` | 26 |
-| 补齐第一手 `og:` 元数据的条目 | 4933 |
-| 官方页名称与社区目录不一致的条目 | 129（5 条实质性，27 条仅限定词差异）|
-| 能追溯到 2 个以上上游目录的条目 | 3905 |
-| 带中文摘要的条目 | 4933 / 4933 |
+| 2026-11-16 实测返回 HTTP 400 以下 | **5010** |
+| 连续两轮返回 404 → 进 `retired.json` | 93 |
+| 补齐第一手 `og:` 元数据的条目 | 5010 |
+| 官方页名称与社区目录不一致的条目 | 217（5 条实质性，27 条仅限定词差异）|
+| 能追溯到 2 个以上上游目录的条目 | 3977 |
+| 带中文摘要的条目 | 5010 / 5010 |
 
 你可以自己复现：[`scripts/check_links.py`](scripts/check_links.py) 重新扫一遍所有分享，[`scripts/lint.py`](scripts/lint.py) 按 [`schema/entry.schema.json`](schema/entry.schema.json) 校验。方法说明见 [docs/method.md](docs/method.md)。
 
@@ -185,9 +252,9 @@
 
 <a href="https://www.star-history.com/?repos=kydlikebtc%2Fawesome-grokbot&type=date&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-20" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-20" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-10-20" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&theme=dark&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-11-16" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-11-16" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kydlikebtc/awesome-grokbot&type=date&legend=top-left&sealed_token=BoG0OxnzM4lq1OKxIgBu2gljBCJ0_qHxRsoMLE0htVH1mUQcNm797BqzWzZ4OkKYaorgvWJ34tbAMpmOzl5uM0ASebVQ-br8QHfKgH_WZsBqzV4WgM5P4Q&v=2026-11-16" />
   </picture>
 </a>
 

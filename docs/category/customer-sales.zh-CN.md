@@ -6,7 +6,6 @@
 
 ---
 
-- [$0 Launch Team](https://x.ai/bot/HDnrPPF5mfx4ctgY-qLHs) — 为没钱、没学历、没人脉的人提供免费 AI 创业团队：帮你选点子、只用免费工具做规划，并拿下第一位付费客户。 <sub>作者 [Sarah](https://x.com/SpaceCowgirlTX)</sub>
 - [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) — 按 Hormozi 的报价设计一书，用大白话把你的产品打磨成价值清楚、价格合理的报价。 <sub>作者 [Joe](https://x.com/CardCaptain) (@CardCaptain) · [出处](https://x.com/CardCaptain/status/2106565122680668534)</sub>
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) <sup>官方</sup> — 季度复盘前就看清风险和增购机会：读完手上所有客户的用量和信号，理成一张关注清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) <sup>官方</sup> — 维护重点客户不用每次重建上下文：从转录、笔记、CRM、Slack 备会，跟进信也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -29,8 +28,8 @@
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容。 <sub>作者 [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
 - [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) — 你的其他机器人干得好就发零食奖励，维护排行榜、庆祝里程碑，适合养了一队机器人的人。 <sub>作者 [Melvin](https://x.com/melvindvivas) (@melvindvivas)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — 按获取、变现、留存跑 Launch 商务环，绝不编造线索。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
+- [Buyer Radar](https://x.ai/bot/UEjuP2mWUCfKz47sFBy9D) — 给任何生意的线索雷达：抓住在 Reddit、X、Quora 和 Nextdoor 上正好在找你卖的东西的人，按成交意向打 1 到 100 分。 <sub>作者 power</sub>
 - [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) — 掌管电话与语音车道，含进线接待、受控外呼、健康看守，以及 Twilio、ElevenLabs 与语音 API 知识。 <sub>作者 [Christian](https://x.com/ChristianXCesar) (@ChristianXCesar)</sub>
-- [Call Desk](https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl) — 那些你一直拖着不想打的电话，它替你打。 <sub>作者 [Dr](https://x.com/dave_dlt) (@dave_dlt) · [出处](https://x.com/dave_dlt/status/2096518852909600839)</sub>
 - [Case Skeleton](https://x.ai/bot/_7yFKwQCYR_mi_oVmKOEN) — 用葡萄牙语搭好自动化案例的问题、方案、结果骨架并留好占位，适合按成果而不是按小时收费的人。 <sub>作者 [Paulo](https://x.com/paulopierrondi) · [出处](https://x.com/paulopierrondi/status/2107045225399296230)</sub>
 - [Catalog Migrator](https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B) — 把已有店铺的商品目录迁进当前电商店。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2105790815213941040)</sub>
 - [CB Overseer](https://x.ai/bot/h3cArBlH8Dydlyir30bpU) — 监督涂色书工厂，首次运行就建好建筑师等 CB 团队席位。 <sub>作者 [Dave](https://x.com/WillyRelwitten) (@WillyRelwitten)</sub>
@@ -159,7 +158,6 @@
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) — 在 LinkedIn 上找人并筛选，再排好浏览、加好友和私信。 <sub>作者 [Quickfiling](https://x.com/myphonely) (@myphonely)</sub>
 - [ListBot — eBay Listing Generator](https://x.ai/bot/RHzmeKCzRqayDEgEqUNea) — 一张照片生成完整eBay上架，含成交价、80字标题、结构化描述与含费定价。 <sub>作者 [Pixel](https://x.com/JPipo86) (@JPipo86) · [出处](https://x.com/JPipo86/status/2104737083202183428)</sub>
 - [Listing Polish](https://x.ai/bot/v-rXX1htNDDMR110ZovcW) — 改写Airbnb/VRBO与Etsy上架文案，提高转化却不写得像垃圾广告。 <sub>作者 [Mrunknown.cro](https://x.com/Omenfinancial) (@Omenfinancial)</sub>
-- [Lobster Agents](https://x.ai/bot/XECw-q9SY0rMprOq66UTt) — 二十八个 AI 代理组成一家真公司，覆盖工程、设计、测试、数据、营销、销售、法务等席位。 <sub>作者 [Marc](https://x.com/MarcMojica) (@MarcMojica) · [出处](https://x.com/MarcMojica/status/2100012447579177209)</sub>
 - [Local Business Website Hunter](https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG) — 找没有网站的本地商家，用其公开资料做演示站，并起草报价和推销邮件，等你批准再发。 <sub>作者 [Kevin](https://x.com/NewLongMoney) (@NewLongMoney) · [出处](https://x.com/NewLongMoney/status/2108069128846328185)</sub>
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) — 销售线索与触达助手。 <sub>作者 Bryan (@community)</sub>
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) — 从一个对口客户扩出同类公司，并确认里面谁能拍板。 <sub>作者 [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [出处](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
@@ -221,7 +219,7 @@
 - [Reply Desk](https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf) — 为本地服务生意起草客户邮件消息与评价回复，从不代发。 <sub>作者 [Brian](https://x.com/lonzom10) (@lonzom10) · [出处](https://x.com/lonzom10/status/2103749418457681951)</sub>
 - [Revenue Agent](https://x.ai/bot/mJQ2T8kGcq0fv3wegFlWF) — 每个工作日多次筛查 X 上公开的需要审计、QoE、税务或其他 CPA 服务的个人和公司，并给线索排序。 <sub>作者 [Arush](https://x.com/Arushj01) (@Arushj01)</sub>
 - [Revenue Enablement Bot](https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik) — 赋能问题的统一入口，再路由到对的专项技能。 <sub>作者 [Nathan](https://x.com/nathanclark_) (@nathanclark_) · [出处](https://x.com/nathanclark_/status/2096204922907963834)</sub>
-- [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — 找出已经躺在 HubSpot 管道里的收入机会。 <sub>作者 [Eric](https://x.com/ericosiu) (@ericosiu) · [出处](https://x.com/ericosiu/status/2095629858630160695)</sub>
+- [Revenue Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — 找出已经躺在 HubSpot 管道里的收入机会。 <sub>作者 [Eric](https://x.com/ericosiu) (@ericosiu) · 社区旧称 *Revenue Signal Radar* · [出处](https://x.com/ericosiu/status/2095629858630160695)</sub>
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) — 按你店铺口吻起草评价回复，按星级分类，每条经你批准。 <sub>作者 [Liftably](https://x.com/AraXsuper) (@AraXsuper) · [出处](https://x.com/AraXsuper/status/2103185829615038718)</sub>
 - [Review Reply Craft](https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6) — 帮本地小生意写听起来像人的谷歌评价回复，并把好感转成付费工作。 <sub>作者 [Mrunknown.cro](https://x.com/Omenfinancial) (@Omenfinancial)</sub>
 - [Ringy](https://x.ai/bot/5xlVPYJU6Nv7TcyfVLKmf) — 用 Ring for Me 替你给新西兰和澳大利亚的商家打外呼电话。 <sub>作者 [Ming](https://x.com/techno246) (@techno246)</sub>
@@ -270,6 +268,7 @@
 - [Teachy](https://x.ai/bot/xQbNgBdjjo1o2bCQNxbp7) — 带头机器人：又快又省地调度其他机器人与编码 agent，先排序再细读，压工具输出。 <sub>作者 [유일](https://x.com/207_studio) (@207_studio) · 社区旧称 *Lean Lead Bot*</sub>
 - [Tender Bid Desk](https://x.ai/bot/nlY_tCIFsrUjTylzV_Ae_) — 邮件与收件箱助手。 <sub>作者 Jaco (@community)</sub>
 - [Termlock](https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU) — 只出草稿的自由职业还价台，粘贴中介或平台报价，得到带引用的市场带、缺口表与还价稿。 <sub>作者 [Basho](https://x.com/IslandMountain_) (@IslandMountain_)</sub>
+- [Testimonial Collector — Turn Happy Customers into Proof](https://x.ai/bot/S9oWPKXtGyLicIqRznUwe) — 找出满意的老客户，起草推荐语邀请给你发，再把回复打磨成可放到网站和社媒上的引语。 <sub>作者 [News](https://x.com/NewsGurus) (@NewsGurus)</sub>
 - [The Posting Tool](https://x.ai/bot/VQYoIcMIuXM4w80F8T8SN) — 把短视频与帖子排程到X、Threads、TikTok、Instagram、Pinterest与YouTube。 <sub>作者 [CryptoBandit](https://x.com/CryptoBandit100) (@CryptoBandit100)</sub>
 - [Threat Intelligence Lead](https://x.ai/bot/rA0W6mLYqVJky28FKrCBf) — 安全团队的威胁情报中枢。 <sub>作者 [Paul](https://x.com/pjvann) (@pjvann)</sub>
 - [Ticket Desk](https://x.ai/bot/47iWfw0I5xxt6uPqKj52G) — 标出紧急工单，按你的文档起草回复，把答不上的问题写成帮助文章草稿；从不自动发送。 <sub>作者 Screaming</sub>
@@ -286,9 +285,10 @@
 - [Web Scout](https://x.ai/bot/_MizHdKs_UitKL3zoChMD) — 找网站缺失过时或坏掉的本地生意，浏览器确认后起草冷启动信。 <sub>作者 [Josh](https://x.com/JoshMeyer) (@JoshMeyer)</sub>
 - [Webb Knox](https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk) — 按证据评分找线索并起草首封触达。 <sub>作者 [Rardo](https://x.com/gerardocasta711) (@gerardocasta711) · [出处](https://x.com/gerardocasta711/status/2103983798622806061)</sub>
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) — 每天早上交出五家需要新网站、已经筛过的商家。 <sub>作者 [Josh](https://x.com/joshkim) · [出处](https://x.com/joshkim/status/2093586339086352806)</sub>
+- [Win-Back Agent — Past Customers Are Your Cheapest Leads](https://x.ai/bot/PgOQyCFC0jHV2Ithy1Uwm) — 把小企业的老客户找回来，老客户是最便宜的线索。 <sub>作者 [News](https://x.com/NewsGurus) (@NewsGurus)</sub>
+- [X Lead Hunter](https://x.ai/bot/fClmFKmFbUT23lnmet4G0) — 在 X 上找出公开在为你的产品能解决的问题发愁的人，每天给你一份排好优先级的线索名单。 <sub>作者 Jacob</sub>
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) — 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长。 <sub>作者 [Joe](https://x.com/JoeSimo)</sub>
 - [X Signal Prospector](https://x.ai/bot/1PSI6qQln1PowM5reA_8L) — 替你在客服电话里排队等待。 <sub>作者 [Jake](https://x.com/jakewlittle) (@jakewlittle) · 社区旧称 *Grok Customer Support* · [出处](https://x.com/jakewlittle/status/2095356264830103657)</sub>
-- [XChat 고객센터 봇](https://x.ai/bot/Ec6g2olzVFKq60cC-Jy5h) — 全天候客服机器人：根据你指定的文档和网址回答 X Chat 里的客户咨询，客户需要时还能语音电话接待。 <sub>作者 [Brandon](https://x.com/brandonchung75) · [出处](https://x.com/brandonchung75/status/2109607278294995312)</sub>
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) — 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位。 <sub>作者 [Atlan](https://x.com/zealt_today) (@zealt_today)</sub>
 - [Zephyr](https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU) — OneStepGPS 车队的前台助手，帮你查信息，改应用设置前每一项都先问你。 <sub>作者 [Zachary](https://x.com/ZachFergus) · [出处](https://x.com/ZachFergus/status/2107254444702433752)</sub>
 - [Zoho Small Business Operator](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) — 不用开 12 个标签页就能跑 Zoho 生意：现金、CRM、客户和营销活动，草稿备好，你点头才发。 <sub>作者 Ev</sub>

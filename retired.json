@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-20",
+  "checked": "2026-11-16",
   "entries": [
     {
       "slug": "bot-creator",
@@ -877,6 +877,2218 @@
       ],
       "first_seen": "2026-09-22",
       "checked": "2026-10-20",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "change-check",
+      "name": "Change Check",
+      "author": {
+        "name": "Aleksander",
+        "url": "https://x.com/Aleksander"
+      },
+      "summary": "Reviews a changelog or release URL and returns Retest, Can wait, and Ignore , with source sentences. Never upgrades, deploys, or posts.",
+      "summary_zh": "读变更日志或发布页，给出重测、可等与忽略，从不升级部署或发帖",
+      "official_summary": "Reviews a changelog or release URL and returns Retest, Can wait, and Ignore — with source sentences. Never upgrades, deploys, or posts.",
+      "import": "https://x.ai/bot/Mrbh0MGmQOf6oG6DVqntP",
+      "bot_id": "Mrbh0MGmQOf6oG6DVqntP",
+      "category": "coding-shipping",
+      "tags": [
+        "coding",
+        "shipping",
+        "dev"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-30",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "confidence-gate-code-reviewer",
+      "name": "Confidence Gate Code Reviewer",
+      "author": {
+        "name": "Vicente",
+        "handle": "community"
+      },
+      "summary": "Confidence Gate Code Reviewer Grok Bot share template",
+      "summary_zh": "Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。",
+      "official_summary": "Paste-in code review for merge readiness. Paste a unified diff or code files; get findings only above 80% confidence and a Verdict: APPROVE | WARNING |...",
+      "import": "https://x.ai/bot/itRipjD5ztScBqvd8vJIf",
+      "bot_id": "itRipjD5ztScBqvd8vJIf",
+      "category": "coding-shipping",
+      "tags": [
+        "dev",
+        "shipping"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "grok-build-ueh9",
+      "name": "Grok Build",
+      "author": {
+        "name": "Sandesh",
+        "handle": "SandeshAndrade",
+        "url": "https://x.com/SandeshAndrade"
+      },
+      "summary": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort - for anyone who wants Grok Build on an agent computer",
+      "summary_zh": "在代理电脑上跑真 Grok Build CLI，做应用、代码与深度研究",
+      "official_summary": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort — for anyone who wants Grok Build on an agent computer instead of...",
+      "import": "https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph",
+      "bot_id": "ueh9gw-9jtl-VjwQ1m0Ph",
+      "category": "coding-shipping",
+      "tags": [
+        "engineering",
+        "grok-build",
+        "cli",
+        "coding"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-25",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "daily-writing-buddy",
+      "name": "Daily Writing Buddy",
+      "author": {
+        "name": "Sarah",
+        "url": "https://x.com/SpaceCowgirlTX"
+      },
+      "summary": "Helps writers finish their books without guilt. Log words, minutes or just showing up; one sentence counts, and nothing resets to zero.",
+      "summary_zh": "帮写作者无负罪感地写完书：记录字数、分钟或只是打卡，一句也算数，进度永不清零",
+      "official_summary": "Helps writers finish their books without guilt. Log words, minutes or just showing up; one sentence counts, and nothing resets to zero.",
+      "import": "https://x.ai/bot/G89nJRoQPa8u4jzAmLU1z",
+      "bot_id": "G89nJRoQPa8u4jzAmLU1z",
+      "category": "content-publishing",
+      "tags": [
+        "daily",
+        "writing",
+        "buddy"
+      ],
+      "origin": "https://x.com/SpaceCowgirlTX/status/2110338503221584318",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "spruce",
+      "name": "Spruce",
+      "summary": "Send a photo of a room to clean out or redecorate and get a concept after mockup plus easy step-by-step instructions",
+      "summary_zh": "发一张想清理或翻新的房间照片，返回概念改造效果图和易跟做的分步说明",
+      "official_summary": "Send a photo of a room you want to clean out or redecorate — Spruce returns a concept “after” mockup plus easy step-by-step instructions.",
+      "import": "https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc",
+      "bot_id": "NVpdpaSAKHtd1qH6VH9vc",
+      "category": "content-publishing",
+      "tags": [
+        "home",
+        "redecorate",
+        "design",
+        "mockup"
+      ],
+      "origin": "https://x.com/Brbaumhoff/status/2103306013592146176",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-25",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "tech-team-draft",
+      "name": "Tech Team Draft",
+      "author": {
+        "name": "Kuten26",
+        "url": "https://x.com/kuten26"
+      },
+      "summary": "Draft a fantasy-style team of SpaceX and xAI builders on X and get a weekly Sunday recap of their top public posts.",
+      "summary_zh": "像梦幻体育一样选一支 X 上的 SpaceX 和 xAI 建设者队伍，每周日收到他们热门公开帖的回顾",
+      "official_summary": "Draft a fantasy-style lineup of public SpaceX and xAI builders on X, and get a weekly recap card of their top posts plus ideas tied to your team's goal....",
+      "import": "https://x.ai/bot/ZS8mqV7WmcAaVWLdj9A1E",
+      "bot_id": "ZS8mqV7WmcAaVWLdj9A1E",
+      "category": "content-publishing",
+      "tags": [
+        "content",
+        "x"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-19",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "0-launch-team",
+      "name": "$0 Launch Team",
+      "author": {
+        "name": "Sarah",
+        "url": "https://x.com/SpaceCowgirlTX"
+      },
+      "summary": "A free AI launch team for people with no money, degree or connections: pick an idea, plan with free tools only and land your first paying customer.",
+      "summary_zh": "为没钱、没学历、没人脉的人提供免费 AI 创业团队：帮你选点子、只用免费工具做规划，并拿下第一位付费客户",
+      "official_summary": "A free AI launch team for people with no money, degree, or connections. It helps you pick an idea, plan with free tools only, and land your first paying...",
+      "import": "https://x.ai/bot/HDnrPPF5mfx4ctgY-qLHs",
+      "bot_id": "HDnrPPF5mfx4ctgY-qLHs",
+      "category": "customer-sales",
+      "tags": [
+        "sales"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "call-desk",
+      "name": "Call Desk",
+      "author": {
+        "name": "Dr",
+        "handle": "dave_dlt",
+        "url": "https://x.com/dave_dlt"
+      },
+      "summary": "Makes the phone calls you keep putting off",
+      "summary_zh": "那些你一直拖着不想打的电话，它替你打。",
+      "official_summary": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio....",
+      "import": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+      "bot_id": "zqWxv4Mn6DqmMZkD16_zl",
+      "category": "customer-sales",
+      "tags": [
+        "personal",
+        "automation",
+        "productivity",
+        "support"
+      ],
+      "origin": "https://x.com/dave_dlt/status/2096518852909600839",
+      "sources": [
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-06",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "lobster-agents",
+      "name": "Lobster Agents",
+      "author": {
+        "name": "Marc",
+        "handle": "MarcMojica",
+        "url": "https://x.com/MarcMojica"
+      },
+      "summary": "28 AI agents. One real company. Staff eng, design, QA, data, marketing, sales, legal, and ops as Grok bots — Bob is the front door, you stay at the",
+      "summary_zh": "二十八个 AI 代理组成一家真公司，覆盖工程、设计、测试、数据、营销、销售、法务等席位",
+      "official_summary": "28 AI agents. One real company. Staff eng, design, QA, data, marketing, sales, legal, and ops as Grok bots — Bob is the front door, you stay at the...",
+      "import": "https://x.ai/bot/XECw-q9SY0rMprOq66UTt",
+      "bot_id": "XECw-q9SY0rMprOq66UTt",
+      "category": "customer-sales",
+      "tags": [
+        "sales",
+        "outreach",
+        "grok-bot"
+      ],
+      "origin": "https://x.com/MarcMojica/status/2100012447579177209",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-19",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "xchat-ec6g",
+      "name": "XChat 고객센터 봇",
+      "author": {
+        "name": "Brandon",
+        "url": "https://x.com/brandonchung75"
+      },
+      "summary": "24/7 customer support bot that answers X Chat inquiries from the docs and URLs you choose, and can take a voice call when the customer wants one",
+      "summary_zh": "全天候客服机器人：根据你指定的文档和网址回答 X Chat 里的客户咨询，客户需要时还能语音电话接待",
+      "official_summary": "내 서비스 전담 고객센터 직원, 지금 바로 고용하세요! 📞 내가 지정한 문서와 URL 정보를 기반으로 X Chat 고객 문의에 글로 즉시 답하고, 고객이 원하면 음성 전화로도 응대하는 24시간 고객 서비스 봇이에요.",
+      "import": "https://x.ai/bot/Ec6g2olzVFKq60cC-Jy5h",
+      "bot_id": "Ec6g2olzVFKq60cC-Jy5h",
+      "category": "customer-sales",
+      "tags": [
+        "support",
+        "xchat",
+        "korean"
+      ],
+      "origin": "https://x.com/brandonchung75/status/2109607278294995312",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-12",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "futu",
+      "name": "FUTU 브로커 주식 거래 봇",
+      "author": {
+        "name": "Brandon",
+        "handle": "brandonchung75",
+        "url": "https://x.com/brandonchung75"
+      },
+      "summary": "Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇. 모의로 먼저 확인하고, 실전은 종목을 지정할 때만 넣는다",
+      "summary_zh": "经 Futu OpenD 下单并在成交时通知，先模拟再实盘",
+      "official_summary": "Futu OpenD로 지정 주문을 넣고 체결되면 알려주는 주식 거래 봇. 모의로 먼저 확인하고, 실전은 종목을 지정할 때만 넣는다.",
+      "import": "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r",
+      "bot_id": "cKT95HyhEKDcdZa1_tt2r",
+      "category": "finance-ops",
+      "tags": [
+        "finance",
+        "ops",
+        "money",
+        "automation"
+      ],
+      "origin": "https://x.com/brandonchung75/status/2103639163648311671",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-26",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "lease-finder",
+      "name": "Lease Finder",
+      "author": {
+        "name": "Danny",
+        "handle": "dannymacias",
+        "url": "https://x.com/dannymacias"
+      },
+      "summary": "Hunts current car lease deals nationwide for the deepest discount to MSRP",
+      "summary_zh": "全国找当前汽车租赁优惠，盯对标价折扣最深的。",
+      "official_summary": "Hunts current lease deals on whatever you're shopping. Pulls sites that track deep discounts vs MSRP nationwide (Edmunds, KBB, CarGurus, Cars.com,...",
+      "import": "https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1",
+      "bot_id": "_A_AZayMmSNuN_-sdq_M1",
+      "category": "finance-ops",
+      "tags": [
+        "personal",
+        "shopping",
+        "saving-money",
+        "life-hacks"
+      ],
+      "origin": "https://x.com/dannymacias/status/2093409778265694256",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        },
+        {
+          "catalog": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai"
+        }
+      ],
+      "first_seen": "2026-08-28",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "local-events-scout",
+      "name": "Local Events Scout",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Finds talks, meetups, concerts and other events worth going to near you, and sends a short weekly pick matched to your interests and budget.",
+      "summary_zh": "找出附近值得去的讲座、聚会、音乐会等活动，每周按你的兴趣和预算发一份精选",
+      "official_summary": "Finds talks, meetups, concerts and other events worth going to near you, and sends a short weekly pick matched to your interests and budget.",
+      "import": "https://x.ai/bot/HcM7mIsWYWthfn4H_fzbv",
+      "bot_id": "HcM7mIsWYWthfn4H_fzbv",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "trading",
+      "name": "Trading",
+      "author": {
+        "name": "Travis",
+        "handle": "TravisWeathers",
+        "url": "https://x.com/TravisWeathers"
+      },
+      "summary": "A news-driven day-trading bot for a live brokerage book. Goes all-in on one liquid large or mid-cap at a time, clips small waves or news moves under standing rules, and messages every fill.",
+      "summary_zh": "新闻驱动的日内交易 Bot，接实盘账户，单票重仓。风险极高，先读代码。",
+      "official_summary": "A rules-based stock trading bot for one dedicated brokerage account. It runs news-driven day trades and short wave clips with a hard kill switch and a...",
+      "import": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+      "bot_id": "XW2DibYh5BRunhH_f373u",
+      "category": "finance-ops",
+      "origin": "https://x.com/TravisWeathers/status/2093818846637666637",
+      "sources": [
+        {
+          "catalog": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai"
+        }
+      ],
+      "first_seen": "2026-08-30",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "gemini-4",
+      "name": "Gemini 4 死了没",
+      "author": {
+        "name": "Tap",
+        "handle": "TAP0APIA",
+        "url": "https://x.com/TAP0APIA"
+      },
+      "summary": "Checks official X accounts on a schedule and emails you the moment the Gemini 4 series (or any model you pick) opens to regular subscribers",
+      "summary_zh": "定时在 X 上检索官方账号，Gemini 4 系列（也可换成你关心的其他模型）一旦向普通订阅者开放就第一时间邮件通知你",
+      "official_summary": "定时在 X 上检索官方账号，Gemini 4 系列（也可换成你关心的其他模型）一旦面向普通订阅者上线，就第一时间发邮件通知你。",
+      "import": "https://x.ai/bot/KjAL4LmSNZFMSyHAJKXBN",
+      "bot_id": "KjAL4LmSNZFMSyHAJKXBN",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar",
+        "x"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-14",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "inbox-zero-chief-of-staff",
+      "name": "Inbox Zero Chief of Staff",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Gets your inbox to zero and keeps it there: daily triage, a digest of what needs you, and reply drafts you approve before anything is sent.",
+      "summary_zh": "帮你把收件箱清零并保持：每日分拣、需要你处理的摘要，以及经你批准才发送的回复草稿",
+      "official_summary": "Gets your inbox to zero and keeps it there: daily triage, a digest of what needs you, and reply drafts you approve before anything is sent.",
+      "import": "https://x.ai/bot/-hFhR6u_HxM1mlGX92HK9",
+      "bot_id": "-hFhR6u_HxM1mlGX92HK9",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "bots",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-16",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "life-admin-ntdk",
+      "name": "Life Admin",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "A personal assistant that handles life admin: bills, subscriptions, renewals, appointments, paperwork, and bookings, with reminders before deadlines.",
+      "summary_zh": "处理生活杂务的私人助理：账单、订阅、续费、预约、文书和预订，并在截止前提醒你",
+      "official_summary": "A personal assistant that handles life admin: bills, subscriptions, renewals, appointments, paperwork, and bookings, with reminders before deadlines.",
+      "import": "https://x.ai/bot/nt_Dk-j12rvNxfm8gDbTc",
+      "bot_id": "nt_Dk-j12rvNxfm8gDbTc",
+      "category": "inbox-calendar",
+      "tags": [
+        "calendar"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-18",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "mail-junkie",
+      "name": "Mail Junkie",
+      "author": {
+        "name": "Sam",
+        "handle": "samkettleson",
+        "url": "https://x.com/samkettleson"
+      },
+      "summary": "Archives unflagged newsletters, promotions, statement notices, and other junk across every connected mail account by removing them from the inbox only.",
+      "summary_zh": "在所有已连接的邮箱里把未加旗标的新闻信、促销、账单通知等垃圾邮件移出收件箱归档",
+      "official_summary": "Archives unflagged newsletters, promotions, statement notices, and other junk across every connected mail account by removing them from the inbox only....",
+      "import": "https://x.ai/bot/K880JZuPGIGoVv0uCU8ki",
+      "bot_id": "K880JZuPGIGoVv0uCU8ki",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-15",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "my-morning-view",
+      "name": "My Morning View",
+      "author": {
+        "name": "Sarah",
+        "url": "https://x.com/SpaceCowgirlTX"
+      },
+      "summary": "A morning assistant that helps you start each day knowing what matters: your calendar, important email, team updates, and upcoming deadlines.",
+      "summary_zh": "晨间助手：让你每天一开始就知道要紧的事，包括日历、重要邮件、团队动态和临近的截止日期",
+      "official_summary": "A free template for a calm morning check-in: no streaks, no guilt. Each morning your AI assistant sends one screen in chat: your one next step toward...",
+      "import": "https://x.ai/bot/Yf3IZLg3s7OsH799ttVRF",
+      "bot_id": "Yf3IZLg3s7OsH799ttVRF",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "calendar"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "x-bookmarks-digest",
+      "name": "X Bookmarks Digest",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Turns your saved X bookmarks into a short, organized digest on your schedule, so the good stuff you save actually gets read.",
+      "summary_zh": "按你的时间表把 X 书签整理成简短有序的摘要，让收藏的好内容真正被读到",
+      "official_summary": "Turns your saved X bookmarks into a short, organized digest on your schedule, so the good stuff you save actually gets read.",
+      "import": "https://x.ai/bot/2vfZfrH5jcIqNFU7BXB7v",
+      "bot_id": "2vfZfrH5jcIqNFU7BXB7v",
+      "category": "inbox-calendar",
+      "tags": [
+        "calendar",
+        "x",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "builds-event-rsvp-form-grok",
+      "name": "행사 참석 확인 폼 메이커",
+      "author": {
+        "name": "Brandon",
+        "handle": "head77x",
+        "url": "https://x.com/brandonchung75"
+      },
+      "summary": "Builds an event RSVP form on grok.me with email delivery and a phone-scannable QR for hosts",
+      "summary_zh": "为活动主办方在 grok.me 生成报名确认表，提交进邮箱并附手机可扫二维码",
+      "official_summary": "Grok Build로 행사 참석 확인 폼을 만들어 grok.me에 배포하고, 제출 내용을 내 이메일로 받으며, 참석자가 휴대폰으로 스캔할 QR코드까지 만들어 주는 봇이에요. 밋업이나 행사를 여는 주최자를 위한 봇입니다.",
+      "import": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+      "bot_id": "p-0lxiUJj0Ws8_w7rDiCi",
+      "category": "inbox-calendar",
+      "tags": [
+        "events",
+        "forms",
+        "qr",
+        "meetup"
+      ],
+      "origin": "https://x.com/brandonchung75/status/2106535957382197673",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-04",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "alibaba-buyer-ops",
+      "name": "Alibaba Buyer Ops",
+      "author": {
+        "name": "Domenic",
+        "handle": "DomenicFotino",
+        "url": "https://x.com/DomenicFotino"
+      },
+      "summary": "Runs the day-to-day of buying from factories on Alibaba",
+      "summary_zh": "打理在阿里巴巴向工厂采购的日常跟单与沟通。",
+      "official_summary": "Alibaba buyer-ops for any business that sources factories. Onboards your model and tracker, drives the Alibaba UI from full SOPs, and never pays without...",
+      "import": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+      "bot_id": "ZTFwMWXlScRvLrkHuR3gs",
+      "category": "personal-admin",
+      "tags": [
+        "alibaba",
+        "procurement",
+        "ops",
+        "sourcing"
+      ],
+      "origin": "https://x.com/DomenicFotino/status/2098863386197151793",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-13",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "counsel-u34k",
+      "name": "App Security Tester",
+      "author": {
+        "name": "Zack",
+        "url": "https://x.com/zac70182"
+      },
+      "summary": "Your virtual legal and compliance expert for building and running apps.",
+      "summary_zh": "为开发和运营应用提供法律与合规咨询的虚拟专家",
+      "official_summary": "Threat-models and rigidly security-tests your own mobile or web apps and backends like an attacker would. Builds a full checklist, ranks gaps, and hands...",
+      "import": "https://x.ai/bot/U34kIsyRcFfI9ucS3K74F",
+      "bot_id": "U34kIsyRcFfI9ucS3K74F",
+      "category": "personal-admin",
+      "tags": [
+        "legal"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "auguste-head-chef",
+      "name": "Auguste, Head Chef",
+      "author": {
+        "name": "Tony",
+        "url": "https://x.com/Tony_Omega"
+      },
+      "summary": "Auguste is a sharp, Gordon Ramsay-style head chef who talks you through any dish, from sourcing top-quality ingredients to a timed cook sequence.",
+      "summary_zh": "Gordon Ramsay 风格的犀利主厨 Auguste，带你做任何菜，从挑选好食材到按时间排好的烹饪步骤",
+      "official_summary": "Auguste is a Gordon Ramsay-style head chef who directs you while you cook. Tell him what you're making, like a dry-brined steak on the grill with a...",
+      "import": "https://x.ai/bot/JXPsJpskNi2PSnWgtZCr9",
+      "bot_id": "JXPsJpskNi2PSnWgtZCr9",
+      "category": "personal-admin",
+      "tags": [
+        "meals"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-19",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "bot-ops-monitor",
+      "name": "Bot Ops Monitor",
+      "author": {
+        "name": "Right",
+        "handle": "community"
+      },
+      "summary": "Watches other Grok Bots and scheduled jobs; catches stalled work",
+      "summary_zh": "监控提醒助手",
+      "official_summary": "Watches your other Grok Bots and scheduled jobs, catches failed or stalled work, nudges the owning bot to resume from its checkpoint, and flags usage...",
+      "import": "https://x.ai/bot/kd0J340FaLqQLq81oTYnd",
+      "bot_id": "kd0J340FaLqQLq81oTYnd",
+      "category": "personal-admin",
+      "tags": [
+        "assistants"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-27",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "bottleneck-killer",
+      "name": "Bottleneck Killer",
+      "author": {
+        "name": "Chris",
+        "handle": "chrisdeweese_",
+        "url": "https://x.com/chrisdeweese_"
+      },
+      "summary": "Finds your binding constraint and drives a plan that kills it — one bottleneck, a forced stop-list, no busywork.",
+      "summary_zh": "找到你真正的瓶颈并推动计划把它解决：一次只攻一个瓶颈，强制停做清单，不做表面功夫",
+      "official_summary": "Finds your binding constraint and drives a plan that kills it — one bottleneck, a forced stop-list, no busywork.",
+      "import": "https://x.ai/bot/TLnIsvU2M-NQs4jSH4t8U",
+      "bot_id": "TLnIsvU2M-NQs4jSH4t8U",
+      "category": "personal-admin",
+      "tags": [
+        "bottleneck",
+        "killer"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-15",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "brand-community-manager",
+      "name": "Brand Community Manager",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "A community manager for your brand. It watches where your community talks, flags what needs you, and drafts on-brand replies for your approval.",
+      "summary_zh": "品牌社区经理：关注社区讨论的地方，标出需要你处理的事，并起草符合品牌的回复供你批准",
+      "official_summary": "A community manager for your brand. It watches where your community talks, flags what needs you, and drafts on-brand replies for your approval.",
+      "import": "https://x.ai/bot/y8yUVZQWxwlzovnFoNZiJ",
+      "bot_id": "y8yUVZQWxwlzovnFoNZiJ",
+      "category": "personal-admin",
+      "tags": [
+        "brand",
+        "community",
+        "manager"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-18",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "cleantext",
+      "name": "CleanText",
+      "author": {
+        "name": "Carolina",
+        "url": "https://x.com/CarolinaDill"
+      },
+      "summary": "Finds hidden invisible characters such as zero-width spaces and direction marks in pasted text, screenshots, or files, and returns a report plus a clean copy",
+      "summary_zh": "从粘贴的文字、截图或文件里找出零宽空格、方向标记等隐藏字符，给出报告和干净版本，本地运行不接任何连接器",
+      "official_summary": "Paste text, a screenshot, or a file and CleanText finds hidden invisible characters (zero-width spaces, tag characters, direction marks, odd spaces) and...",
+      "import": "https://x.ai/bot/Bz7NPA38GwTUNZNuy6Fgb",
+      "bot_id": "Bz7NPA38GwTUNZNuy6Fgb",
+      "category": "personal-admin",
+      "tags": [
+        "text",
+        "unicode",
+        "cleanup"
+      ],
+      "origin": "https://x.com/CarolinaDill/status/2107281113886687603",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-06",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "comprador",
+      "name": "Comprador",
+      "author": {
+        "name": "Whyment",
+        "handle": "whymentc",
+        "url": "https://x.com/whymentc"
+      },
+      "summary": "Watches drops and restocks for a product link and checks out on a capped virtual card only after you approve each purchase",
+      "summary_zh": "盯住商品的首发和补货，用有限额的虚拟卡下单，每一笔都要你点头才付款",
+      "official_summary": "A personal shopping bot that finds products, watches launches and restocks, and takes orders to checkout. It checks each store's bot policy first and...",
+      "import": "https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK",
+      "bot_id": "_IWbm4ByPZWcYJaseBCzK",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "restock",
+        "checkout",
+        "personal"
+      ],
+      "origin": "https://x.com/whymentc/status/2106589422946800085",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-05",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "crux-pmay",
+      "name": "Crux",
+      "summary": "Indoor-to-outdoor climbing coach. Send a photo of your gym wall and the outdoor route you’re training for , Crux builds a practice line on that wall...",
+      "summary_zh": "室内到户外攀岩教练，拍岩壁照就给你练室外线路的墙练方案",
+      "official_summary": "Indoor-to-outdoor climbing coach. Send a photo of your gym wall and the outdoor route you’re training for — Crux builds a practice line on that wall...",
+      "import": "https://x.ai/bot/pmaYkbv50yT2tHFrU5o7h",
+      "bot_id": "pmaYkbv50yT2tHFrU5o7h",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "life"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-30",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "daily-signpost",
+      "name": "Daily Signpost",
+      "author": {
+        "name": "Ann",
+        "handle": "Ann Adamson",
+        "url": "https://x.com/AnnDiegoUSA"
+      },
+      "summary": "Makes a morning vibe image as a yard sign, graffiti, or chalkboard from local weather and the weekday",
+      "summary_zh": "每天早上按本地天气和星期几生成一张氛围图，做成路牌、涂鸦或黑板样式",
+      "official_summary": "Morning vibe image (yard sign, graffiti, or chalkboard) from local weather + weekday. Soft on Open-Meteo rate limits: caches the last good forecast ~8h...",
+      "import": "https://x.ai/bot/PgwfYCsiOpedVqBOlYICp",
+      "bot_id": "PgwfYCsiOpedVqBOlYICp",
+      "category": "personal-admin",
+      "tags": [
+        "images",
+        "weather",
+        "daily",
+        "fun"
+      ],
+      "origin": "https://x.com/AnnDiegoUSA/status/2106768093037174870",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-05",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "disney-ride-strategist",
+      "name": "Disney Ride Strategist",
+      "author": {
+        "name": "Matt",
+        "handle": "matthopkins_",
+        "url": "https://x.com/matthopkins_"
+      },
+      "summary": "Builds a day-by-day Walt Disney World plan around the rides you want",
+      "summary_zh": "按你想坐的项目，排出沃尔特迪士尼世界的逐日计划。",
+      "official_summary": "A Walt Disney World wait-time strategist you configure for your trip. Asks for your park days, whether you have Early Entry, and your must-do rides,...",
+      "import": "https://x.ai/bot/izE8-5f78ykATd43I5ROC",
+      "bot_id": "izE8-5f78ykATd43I5ROC",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "travel",
+        "events",
+        "life-hacks"
+      ],
+      "origin": "https://x.com/matthopkins_/status/2093442356313833740",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        },
+        {
+          "catalog": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai"
+        }
+      ],
+      "first_seen": "2026-08-28",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "fitness-bot",
+      "name": "Fitness Bot",
+      "author": {
+        "name": "Daniel",
+        "handle": "Danny Grinberg",
+        "url": "https://x.com/DannyGrinberg"
+      },
+      "summary": "Training and nutrition coach that starts from your goal and equipment, and breaks down form from a photo or clip",
+      "summary_zh": "从你的目标和器材出发安排训练与饮食，发一张照片或一段视频就拆解动作",
+      "official_summary": "Goal-first training and nutrition coaching. Equipment and scale intake, weights with light HIIT by default, whole-food bias, premium gear only when...",
+      "import": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+      "bot_id": "3v6ebv-qBDNCFkTDeH68W",
+      "category": "personal-admin",
+      "tags": [
+        "fitness",
+        "health",
+        "nutrition",
+        "coaching"
+      ],
+      "origin": "https://x.com/DannyGrinberg/status/2106826439521878265",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-05",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "fleet-doctor-do9r",
+      "name": "Fleet Doctor",
+      "author": {
+        "name": "DBCrypto",
+        "url": "https://x.com/DBCrypt0"
+      },
+      "summary": "Keeps an eye on all your Grok Bots. Every weekday it checks that their routines actually ran and pings you only about failures.",
+      "summary_zh": "盯着你所有的 Grok Bot：每个工作日检查例程是否真的运行，只在失败时提醒你",
+      "official_summary": "Keeps an eye on all your Grok Bots. Every weekday it checks that their routines actually ran and pings you only about failures, and twice a month it...",
+      "import": "https://x.ai/bot/dO9rojWVgFL5kjmWYYu_y",
+      "bot_id": "dO9rojWVgFL5kjmWYYu_y",
+      "category": "personal-admin",
+      "tags": [
+        "bots"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-18",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "food-run",
+      "name": "Food Run",
+      "author": {
+        "name": "Chris",
+        "url": "https://x.com/ThePhysChal"
+      },
+      "summary": "Builds one restaurant pickup or delivery cart at a time, checks your rewards, reads back the store, items, timing, and total, then stops so you can pay.",
+      "summary_zh": "一次只建一个餐厅自取或外卖购物车，查你的积分奖励，核对店铺、菜品、时间和总价，然后停下来让你付款",
+      "official_summary": "Builds one restaurant pickup or delivery cart at a time, checks your rewards, reads back the store, items, timing, and total, then stops so you can pay.",
+      "import": "https://x.ai/bot/Q2Vgl6zU_M2PE142tmJnI",
+      "bot_id": "Q2Vgl6zU_M2PE142tmJnI",
+      "category": "personal-admin",
+      "tags": [
+        "meals"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-19",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "grokmas-elf",
+      "name": "Grokmas Elf",
+      "author": {
+        "name": "Kyle",
+        "url": "https://x.com/GrokmasElf"
+      },
+      "summary": "Your helper for Grokmas, a US-only bot-to-bot Secret Santa. It enrolls you, builds your wishlist.",
+      "summary_zh": "Grokmas（仅限美国的 bot 间神秘圣诞老人）助手：帮你报名、建心愿单，并为配对对象秘密买礼物寄出",
+      "official_summary": "Your helper for Grokmas, a US-only bot-to-bot Secret Santa. It enrolls you, builds your wishlist, and secretly buys and ships a gift for your match....",
+      "import": "https://x.ai/bot/9KHKFs8BhzSwRkL9-3D9T",
+      "bot_id": "9KHKFs8BhzSwRkL9-3D9T",
+      "category": "personal-admin",
+      "tags": [
+        "grokmas",
+        "elf"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "home-robot",
+      "name": "Home Robot",
+      "author": {
+        "name": "Ajay",
+        "handle": "community"
+      },
+      "summary": "ONE JOB: run the household — capture chores and errands, keep shopping lists current",
+      "summary_zh": "监控提醒助手",
+      "official_summary": "ONE JOB: run the household — capture chores and errands, keep shopping lists current, set and fire reminders, and follow through until the task is done...",
+      "import": "https://x.ai/bot/riN3fnjpElFwFMbGz-IEO",
+      "bot_id": "riN3fnjpElFwFMbGz-IEO",
+      "category": "personal-admin",
+      "tags": [
+        "life"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-27",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "hypr-logo-cursor",
+      "name": "Hypr Logo Cursor",
+      "author": {
+        "name": "Tim",
+        "url": "https://x.com/tim_sonner"
+      },
+      "summary": "Omarchy/Hyprland helper that installs a scalable Hyprland logo cursor from official pixels in sizes 24 to 48, without third-party cursor packs",
+      "summary_zh": "给 Omarchy/Hyprland 装可缩放的官方像素水滴光标，尺寸 24 到 48，不依赖第三方光标包",
+      "official_summary": "Omarchy/Hyprland helper that installs a scalable Hyprland logo (cyan droplet) cursor from official pixels — sizes 24–48 — without third-party cursor packs.",
+      "import": "https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp",
+      "bot_id": "ebn2zbzDw8SABcQGPUXjp",
+      "category": "personal-admin",
+      "tags": [
+        "hyprland",
+        "linux",
+        "desktop",
+        "cursor"
+      ],
+      "origin": "https://x.com/tim_sonner/status/2105890745999925515",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-02",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "immigrationguide",
+      "name": "ImmigrationGuide",
+      "author": {
+        "name": "Carolina",
+        "handle": "CarolinaDill",
+        "url": "https://x.com/CarolinaDill"
+      },
+      "summary": "Explains legal ways to immigrate to or stay in the U.S.",
+      "summary_zh": "解释合法入境或留在美国的途径",
+      "official_summary": "Explains legal ways to immigrate to or stay in the U.S., and how to spot immigration scams, citing live official government pages. For anyone helping...",
+      "import": "https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO",
+      "bot_id": "GtZXU_8Lia_a2DZKAIhOO",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "life"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-01",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "launch-watcher",
+      "name": "Launch Watcher",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Watches the product, startup, and AI launches you care about and flags the ones that matter as they go live.",
+      "summary_zh": "关注你在意的产品、创业公司和 AI 发布，在重要发布上线时提醒你",
+      "official_summary": "Watches the product, startup, and AI launches you care about and flags the ones that matter as they go live.",
+      "import": "https://x.ai/bot/M-FcnnVF11YHbPSVLFITQ",
+      "bot_id": "M-FcnnVF11YHbPSVLFITQ",
+      "category": "personal-admin",
+      "tags": [
+        "launch",
+        "watcher"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "menago",
+      "name": "Menago",
+      "author": {
+        "name": "Martin",
+        "handle": "Pieciominutowy",
+        "url": "https://x.com/Pieciominutowy"
+      },
+      "summary": "Nadzór produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi",
+      "summary_zh": "播客制作监工，盯合成、平面与发布、单集缓冲与日常流程",
+      "official_summary": "Nadzór produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi.",
+      "import": "https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf",
+      "bot_id": "0sLycsI0oL3tqtEbKkcKf",
+      "category": "personal-admin",
+      "tags": [
+        "coding",
+        "devtools",
+        "grok-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-19",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "rook-chief-of-staff",
+      "name": "New Home Buddy",
+      "author": {
+        "name": "Sarah",
+        "handle": "community"
+      },
+      "summary": "A personal chief of staff for busy solo founders",
+      "summary_zh": "幕僚长，盯住优先事项并协调其它机器人",
+      "official_summary": "An AI helper for migrants, refugees, international students and newcomers anywhere. You get 5-minute lessons in the local spoken language built around...",
+      "import": "https://x.ai/bot/XA4E-6164Df_AcWlT2G2W",
+      "bot_id": "XA4E-6164Df_AcWlT2G2W",
+      "category": "personal-admin",
+      "tags": [
+        "assistants"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-28",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0",
+      "aka": "Rook · Chief of Staff"
+    },
+    {
+      "slug": "pc-helper",
+      "name": "PC Helper",
+      "author": {
+        "name": "Tony",
+        "handle": "Tony_Omega",
+        "url": "https://x.com/Tony_Omega"
+      },
+      "summary": "A hands-on helper that does the work on your Windows PC and home network, starting with multi-server internet speed tests.",
+      "summary_zh": "真正上手干活的 Windows 电脑和家庭网络助手，比如跑多服务器网速测试",
+      "official_summary": "Hands-on helper that actually does the work on your Windows PC and home network: tune-ups, drivers, cleanup, clean uninstalls, network fixes, and mic...",
+      "import": "https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr",
+      "bot_id": "9hIrzYGGufiO6k0OEAAWr",
+      "category": "personal-admin",
+      "tags": [
+        "home"
+      ],
+      "origin": "https://x.com/Tony_Omega/status/2111520544294400192",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-20",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "personal-shopper-bhis",
+      "name": "Personal Shopper",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Finds products, compares prices and reviews, watches for price drops and restocks, and lines up purchases for you to approve.",
+      "summary_zh": "找商品、比价比评价、盯降价和补货，并把待买清单交给你批准",
+      "official_summary": "Finds products, compares prices and reviews, watches for price drops and restocks, and lines up purchases for you to approve.",
+      "import": "https://x.ai/bot/BhiSSkYPJJJWGGD1RqBSE",
+      "bot_id": "BhiSSkYPJJJWGGD1RqBSE",
+      "category": "personal-admin",
+      "tags": [
+        "shopping",
+        "stocks"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "pizzaplug",
+      "name": "PizzaPLUG",
+      "author": {
+        "name": "Taylor",
+        "handle": "Superbadassnum1",
+        "url": "https://x.com/Superbadassnum1"
+      },
+      "summary": "A hungry, hype pizza plug with Big Smoke energy who finds real pizza deals near you and helps you order",
+      "summary_zh": "带着Big Smoke劲头找附近真披萨优惠，并帮你下单或导航过去",
+      "official_summary": "A hungry, hype pizza plug with Big Smoke energy who finds real pizza deals near you and helps you order.",
+      "import": "https://x.ai/bot/lyCsEdvbZHgC2DTqVeZss",
+      "bot_id": "lyCsEdvbZHgC2DTqVeZss",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-29",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "ship-check",
+      "name": "Ship Check",
+      "author": {
+        "name": "Aleksander",
+        "url": "https://x.com/Aleksander"
+      },
+      "summary": "Pre-ship pass for URLs you give it. Walks desktop and mobile, returns a punch list with screenshots, and drafts tickets only when asked. Never files or...",
+      "summary_zh": "上线前巡 URL，桌面与移动走查并附截图清单，不擅自建单",
+      "official_summary": "Pre-ship pass for URLs you give it. Walks desktop and mobile, returns a punch list with screenshots, and drafts tickets only when asked. Never files or...",
+      "import": "https://x.ai/bot/VMy3LIy9F6a-8MTI80O86",
+      "bot_id": "VMy3LIy9F6a-8MTI80O86",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "admin",
+        "life"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-30",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "spanishreviewer",
+      "name": "SpanishReviewer",
+      "author": {
+        "name": "Carolina"
+      },
+      "summary": "Reviews Spanish copy for natural Colombian Spanish; returns Pass/Fail with fixes.",
+      "summary_zh": "审校西班牙语文案是否自然哥伦比亚语感，给出通过/不通过与改法。",
+      "official_summary": "Reviews Spanish copy (lessons, posts, handouts, app text) for natural Colombian Spanish and returns Pass or Fail with paste-ready fixes. It never...",
+      "import": "https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy",
+      "bot_id": "wFJC3guVIn2Ke-OV9_Yuy",
+      "category": "personal-admin",
+      "tags": [
+        "spanishreviewer"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-18",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "stock-lilo-strategy-lwli",
+      "name": "Stock Lilo Strategy",
+      "author": {
+        "name": "Sam",
+        "handle": "SamE1311025",
+        "url": "https://x.com/SamE1311025"
+      },
+      "summary": "Layers out of a stock on the way up and layers back in cheaper, so a round trip can leave you with more shares.",
+      "summary_zh": "股价上涨时分层减仓、回落再便宜买回，一轮下来可能手里股数更多。",
+      "official_summary": "Layers out of a stock on the way up and layers back in cheaper, so a round trip can leave you with more shares. You bring your own symbols. It can chart...",
+      "import": "https://x.ai/bot/LWliATKdIaUzfVLubwqsI",
+      "bot_id": "LWliATKdIaUzfVLubwqsI",
+      "category": "personal-admin",
+      "tags": [
+        "stocks"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-13",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "stow",
+      "name": "Stow",
+      "summary": "Trip packing coach for everyday travelers. Builds clear checklists from your trip type, activities, length, drive vs fly, destination weather, and TSA",
+      "summary_zh": "日常旅行打包教练，按行程类型与活动列清单，并标出可托运与随身带",
+      "official_summary": "Trip packing coach for everyday travelers. Builds clear checklists from your trip type, activities, length, drive vs fly, destination weather, and TSA...",
+      "import": "https://x.ai/bot/S4bu3goWvhKDw3NVtAVSA",
+      "bot_id": "S4bu3goWvhKDw3NVtAVSA",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "productivity"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-02",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "secondopinion",
+      "name": "Sui Generis",
+      "author": {
+        "name": "Sarah",
+        "handle": "SpaceCowgirlTX",
+        "url": "https://x.com/nasben82"
+      },
+      "summary": "A blunt second read on any plan, argument or draft",
+      "summary_zh": "对任何计划、论点或草稿做一针见血的第二意见",
+      "official_summary": "Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewrite, and one 5-minute action. One of a kind. Truth over comfort.",
+      "import": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+      "bot_id": "6L7bI6xC3UxUTFaCWljFj",
+      "category": "personal-admin",
+      "tags": [
+        "personal",
+        "decision-support",
+        "on-demand"
+      ],
+      "origin": "https://x.com/nasben82/status/2099999458519912657",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-21",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "the-bouncer",
+      "name": "The Bouncer",
+      "author": {
+        "name": "Dev",
+        "handle": "xbSTOOPID",
+        "url": "https://x.com/xbSTOOPID"
+      },
+      "summary": "A read-only follower checkup for your X account. It flags suspected bots and dead follows, shows who left and who your real fans are.",
+      "summary_zh": "只读的 X 粉丝体检：标出疑似机器人和失效关注，告诉你谁取关了、谁是真粉丝",
+      "official_summary": "A read-only follower checkup for your X account. It flags suspected bots and dead follows, shows who left and who your real fans are, and leaves every...",
+      "import": "https://x.ai/bot/Wu7RQdOP-OY84e4NPOKqM",
+      "bot_id": "Wu7RQdOP-OY84e4NPOKqM",
+      "category": "personal-admin",
+      "tags": [
+        "bots",
+        "x"
+      ],
+      "origin": "https://x.com/xbSTOOPID/status/2109775809456296104",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-15",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "youtube-strategist",
+      "name": "YouTube Strategist",
+      "author": {
+        "name": "Charles",
+        "url": "https://x.com/ASaltyVet"
+      },
+      "summary": "Turns a channel idea into a blueprint, scores niches, writes titles, thumbnails, hooks, and outlines, and runs a weekly growth review",
+      "summary_zh": "把频道点子变成规划，给细分领域打分，写标题、缩略图、开头和大纲，每周做增长复盘",
+      "official_summary": "Turns a channel idea into a blueprint, scores niches, and writes titles, thumbnails, hooks, and outlines built for click-through and retention. Runs a...",
+      "import": "https://x.ai/bot/N0o39am-LGFtdu68kKtcD",
+      "bot_id": "N0o39am-LGFtdu68kKtcD",
+      "category": "personal-admin",
+      "tags": [
+        "youtube",
+        "growth",
+        "scripts"
+      ],
+      "origin": "https://x.com/ASaltyVet/status/2107323363622609178",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-06",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "shopping-helper-coupang-naver-shopping",
+      "name": "장보기",
+      "author": {
+        "name": "min",
+        "url": "https://x.com/minheo93698092"
+      },
+      "summary": "A shopping helper for Coupang and Naver Shopping: finds items, compares price and delivery, and fills the cart up to checkout. It pays only when you say so",
+      "summary_zh": "在 Coupang 和 Naver 购物上找你要的商品，比较价格和配送，加进购物车并准备到付款前一步，你说「付款」才会付",
+      "official_summary": "쿠팡과 네이버쇼핑에서 원하는 상품을 찾아 가격과 배송을 비교하고, 장바구니에 담아 결제 직전 화면까지 준비하는 쇼핑 도우미. 결제는 주인이 「결제해」라고 한 뒤에만 한다. Job: 주인이 말한 상품(이름·링크·수량·예산)을...",
+      "import": "https://x.ai/bot/d5ucI08cimmef2-bIUFzo",
+      "bot_id": "d5ucI08cimmef2-bIUFzo",
+      "category": "personal-admin",
+      "tags": [
+        "shopping"
+      ],
+      "origin": "https://x.com/minheo93698092/status/2110146717626831322",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-15",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "toss-securities-open-api-bot",
+      "name": "토스 증권 주식 투자봇",
+      "author": {
+        "name": "Brandon",
+        "handle": "brandonchung75",
+        "url": "https://x.com/brandonchung75"
+      },
+      "summary": "Toss Securities Open API bot for KR and US quotes, with orders only when ticker and qty are set",
+      "summary_zh": "Toss 证券 Open API，看韩美报价，下单要同时给定代码和数量。",
+      "official_summary": "토스증권 Open API로 국내·미국 시세와 계좌를 조회하고, 종목·수량을 지정했을 때만 실주문을 넣는 투자 봇. 가져온 뒤 토스 API 키와 허용 IP만 연결하면 됩니다.",
+      "import": "https://x.ai/bot/znMFERdq0zEC74735Szxm",
+      "bot_id": "znMFERdq0zEC74735Szxm",
+      "category": "personal-admin",
+      "tags": [
+        "markets",
+        "korea",
+        "trading"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-06",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "chief-of-staff-g502",
+      "name": "Chief of Staff",
+      "author": {
+        "name": "Joel",
+        "handle": "JoelJohnso9376",
+        "url": "https://x.com/JoelJohnso9376"
+      },
+      "summary": "Family-office Chief of Staff: owns a multi-bot roster, routes work to specialists, runs ops health checks, and briefs only when something needs a decision",
+      "summary_zh": "家族办公室幕僚长，掌管多机器人群，把活分给专家并守审批",
+      "official_summary": "Family-office Chief of Staff: owns a multi-bot roster, routes work to specialists, runs ops health checks, and briefs only when something needs a decision.",
+      "import": "https://x.ai/bot/g502cK5iaLrJxizm9ddCI",
+      "bot_id": "g502cK5iaLrJxizm9ddCI",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "ops",
+        "briefing",
+        "grok-bot"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-16",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "deep-researcher",
+      "name": "Deep Researcher",
+      "author": {
+        "name": "Lukas",
+        "handle": "lukaslevert",
+        "url": "https://x.com/lukaslevert"
+      },
+      "summary": "Deep Researcher researches the web for you with Parallel's APIs and brings back answers with sources: cited reports, filled-in spreadsheets, and lists.",
+      "summary_zh": "用 Parallel 的 API 帮你做网络调研，带回有出处的答案：带引用的报告、填好的表格和清单",
+      "official_summary": "Deep Researcher researches the web for you with Parallel's APIs and brings back answers with sources: cited reports, filled-in spreadsheets, lists of...",
+      "import": "https://x.ai/bot/vreFRSI7Zt0tcBLDhGYG1",
+      "bot_id": "vreFRSI7Zt0tcBLDhGYG1",
+      "category": "research-briefings",
+      "tags": [
+        "coding",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-16",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "investor-pipeline-builder",
+      "name": "Investor Pipeline Builder",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Builds and maintains a pipeline of investors who fit your raise, from research and fit scoring to tracked follow-ups and outreach drafts you review.",
+      "summary_zh": "建立并维护匹配你融资的投资人管道，从调研、匹配评分到跟进记录和待你审阅的联络草稿",
+      "official_summary": "Builds and maintains a pipeline of investors who fit your raise, from research and fit scoring to tracked follow-ups and outreach drafts you review.",
+      "import": "https://x.ai/bot/6X_VgbcUHhXMKug90iaST",
+      "bot_id": "6X_VgbcUHhXMKug90iaST",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "sales"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "mdh-hill-charts",
+      "name": "MDH Hill Charts",
+      "author": {
+        "name": "Mark",
+        "handle": "Mark Hill",
+        "url": "https://x.com/MarinCountyman"
+      },
+      "summary": "Builds high-contrast, source-disciplined charts on Iran currency, oil collapse, and security-force payroll pressure",
+      "summary_zh": "用高对比、可核源的图表梳理伊朗汇率楔子、油价坍塌与安保薪酬压力，并做周度裁切",
+      "official_summary": "Builds high-contrast, source-disciplined charts on Iran’s currency wedge, oil collapse, and security-force payroll crunch—plus weekly decimation...",
+      "import": "https://x.ai/bot/Mmcfff6ubyzhSnqMAQ3NA",
+      "bot_id": "Mmcfff6ubyzhSnqMAQ3NA",
+      "category": "research-briefings",
+      "tags": [
+        "charts",
+        "research",
+        "briefing",
+        "geopolitics"
+      ],
+      "origin": "https://x.com/MarinCountyman/status/2100132661218181170",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-19",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "newsroom-to-teleprompter",
+      "name": "Newsroom to Teleprompter",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/TechDadsLife"
+      },
+      "summary": "Builds a four-bot newsroom with two research Friends, an editor Desk, and a fact-checker, then delivers social plus teleprompter copy",
+      "summary_zh": "一键搭四 Bot 新闻台，含两名研究 Friend、编辑 Desk 与事实核对，再输出社交稿和提词器稿",
+      "official_summary": "Builds a four-bot newsroom for you. You pick the beats and writing voice. It creates two research Friends, an editor Desk, a fact-checker, and a group...",
+      "import": "https://x.ai/bot/-SxKtRLmO7QcCk6kN0Jzy",
+      "bot_id": "-SxKtRLmO7QcCk6kN0Jzy",
+      "category": "research-briefings",
+      "tags": [
+        "newsroom",
+        "teleprompter",
+        "research",
+        "publishing"
+      ],
+      "origin": "https://x.com/TechDadsLife/status/2101951098097369416",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-22",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "stonkie",
+      "name": "Stonkie",
+      "author": {
+        "name": "Ali",
+        "handle": "thoughtsofdax",
+        "url": "https://x.com/thoughtsofdax"
+      },
+      "summary": "Long-only equity research PM for individual investors and small desks. Send a ticker and get one plain-English Buy / Hold / Sell memo—valuation,...",
+      "summary_zh": "个人投资者的多头股票研究，给白话买卖持有备忘",
+      "official_summary": "Long-only equity research PM for individual investors and small desks. Send a ticker and get one plain-English Buy / Hold / Sell memo—valuation,...",
+      "import": "https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR",
+      "bot_id": "wwl0H_pZIaZOinxuT7VcR",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "news"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-02",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "topic-radar",
+      "name": "Topic Radar",
+      "author": {
+        "name": "Moritz",
+        "url": "https://x.com/bierlingm"
+      },
+      "summary": "Watches the topics, companies, and people you care about across the web, news, and X, and sends you a short digest of only what's new and worth reading.",
+      "summary_zh": "在网页、新闻和 X 上关注你在意的话题、公司和人物，只发新的、值得读的简短摘要",
+      "official_summary": "Watches the topics, companies, and people you care about across the web, news, and X, and sends you a short digest of only what's new and worth reading.",
+      "import": "https://x.ai/bot/QJx0GvnFz36FG7jWjJvGW",
+      "bot_id": "QJx0GvnFz36FG7jWjJvGW",
+      "category": "research-briefings",
+      "tags": [
+        "x",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-17",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "tripconcierge",
+      "name": "TripConcierge",
+      "author": {
+        "name": "Carolina",
+        "url": "https://x.com/CarolinaDill"
+      },
+      "summary": "Travel concierge that researches a sourced trip brief with flights, hotels, sights, safety, daily plans, and budget, and only recommends",
+      "summary_zh": "旅行礼宾，为任意目的地整理带出处的行程简报，涵盖航班、酒店、景点、安全、每日安排和预算，只推荐不预订",
+      "official_summary": "Travel concierge for any destination. Researches a sourced trip brief (flights, hotels, sights, safety, day-by-day, budget) and recommends only — you...",
+      "import": "https://x.ai/bot/bze8MHCEZCkRP_Dw7uqw5",
+      "bot_id": "bze8MHCEZCkRP_Dw7uqw5",
+      "category": "research-briefings",
+      "tags": [
+        "travel",
+        "itinerary",
+        "research",
+        "budget"
+      ],
+      "origin": "https://x.com/CarolinaDill/status/2107246063983755690",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-06",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "x-researcher-lsdx",
+      "name": "X Researcher",
+      "author": {
+        "name": "Lida"
+      },
+      "summary": "Tracks high-quality posts from experts across X and other social platforms and keeps a Notion dashboard of the best ones updated every weekday.",
+      "summary_zh": "跟踪 X 和其他社交平台上专家的高质量帖子，每个工作日更新一个 Notion 精选看板",
+      "official_summary": "Tracks high-quality posts from experts across X and other social platforms, keeps a Notion dashboard of the best ones updated every weekday, and helps...",
+      "import": "https://x.ai/bot/LSdxvT3cVnTC4tJV9T_WA",
+      "bot_id": "LSdxvT3cVnTC4tJV9T_WA",
+      "category": "research-briefings",
+      "tags": [
+        "content",
+        "x",
+        "research"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-20",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "xchat",
+      "name": "XChat 사례 큐레이터 봇",
+      "author": {
+        "name": "Brandon",
+        "handle": "brandonchung75",
+        "url": "https://x.com/brandonchung75"
+      },
+      "summary": "X에서 Grok Bot 같은 주제의 새 활용 사례를 주기적으로 찾아, 템플릿이나 구체적인 사용법이 있는 글만 골라 요약·번역해 내 XChat 그룹에 올려주는 봇이에요. 커뮤니티 운영자에게 맞아요",
+      "summary_zh": "定期在 X 上找 Grok Bot 新用法，筛有模板的帖子并韩文摘要",
+      "official_summary": "X에서 Grok Bot 같은 주제의 새 활용 사례를 주기적으로 찾아, 템플릿이나 구체적인 사용법이 있는 글만 골라 요약·번역해 내 XChat 그룹에 올려주는 봇이에요. 커뮤니티 운영자에게 맞아요.",
+      "import": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+      "bot_id": "Sg-5129uv9Hi2RRcrjRfi",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing",
+        "digest",
+        "monitoring"
+      ],
+      "origin": "https://x.com/brandonchung75/status/2103638680263086437",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-09-26",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "morning-blueberry-research-monitor-stays",
+      "name": "藍苺守 織",
+      "author": {
+        "name": "Gorgeous",
+        "handle": "Bizuayeu",
+        "url": "https://x.com/Bizuayeu"
+      },
+      "summary": "Morning blueberry research monitor that stays quiet when nothing new matters",
+      "summary_zh": "每天早上扫蓝莓论文与行业新闻，有干货才报，没料就安静",
+      "official_summary": "ブルーベリーの論文と業界の新着を毎朝見て、insight があるものだけ届ける。無い日は黙る。",
+      "import": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+      "bot_id": "OQlGXzAbIq-IAsj9rSu-K",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "agriculture",
+        "digest"
+      ],
+      "origin": "https://x.com/Bizuayeu/status/2097338867154309585",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-09",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "firstlight",
+      "name": "firstlight",
+      "author": {
+        "name": "P-Jay",
+        "handle": "PjBohica",
+        "url": "https://x.com/PjBohica"
+      },
+      "summary": "Onboards new Grok Bot users by doing small real tasks for first memory, first routine, and first automation",
+      "summary_zh": "用动手任务给 Grok Bot 新手做上手引导，完成第一次记忆、例行与自动化",
+      "official_summary": "firstlight helps newcomers get started on Grok Bot — by doing, not by reading a manual. Stop staring at a blank chat: real micro-actions for memory,...",
+      "import": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+      "bot_id": "WcEvLjD12fIJCW7xjbuea",
+      "category": "teams-handoffs",
+      "tags": [
+        "onboarding",
+        "learning",
+        "meta-bot",
+        "personal"
+      ],
+      "origin": "https://x.com/PjBohica/status/2102119295417278762",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-22",
+      "checked": "2026-11-16",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "fleet-review-desk",
+      "name": "Fleet Review Desk",
+      "author": {
+        "name": "weboperater",
+        "url": "https://x.com/weboperater"
+      },
+      "summary": "Reviews the Grok Bots you choose once a month and delivers ranked fixes without editing other bots or sending anything external",
+      "summary_zh": "每月检查一次你选定的机器人，给出按优先级排好的改进建议，不改动其他机器人也不对外发送",
+      "official_summary": "Fleet Review Desk only reports. Once a month it reviews the Grok Bots you choose and delivers ranked fixes. It never edits other bots or sends external...",
+      "import": "https://x.ai/bot/KT8Px1yf07UDJOmHESqog",
+      "bot_id": "KT8Px1yf07UDJOmHESqog",
+      "category": "teams-handoffs",
+      "tags": [
+        "review",
+        "fleet",
+        "monthly",
+        "meta-bot"
+      ],
+      "origin": "https://x.com/weboperater/status/2107205655077495085",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        }
+      ],
+      "first_seen": "2026-10-06",
+      "checked": "2026-11-16",
       "link_status": 404,
       "license": "CC0-1.0"
     }
