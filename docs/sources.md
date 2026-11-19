@@ -48,5 +48,6 @@ Not merged into this catalog, because they are a different shape — but genuine
 | [0xNyk/awesome-grok-bot](https://github.com/0xNyk/awesome-grok-bot)                           | Independent directory of skills, plugins, MCP and setup guides, with maturity labels.                |
 | [rdmgator12/awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) | A snapshot of the in-app plugin marketplace listings.                                                |
 | [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot)               | Ready-to-use bot prompts across productivity, sales, marketing and ops.                              |
+| [grokbotsmarket/awesome-grok-bots](https://github.com/grokbotsmarket/awesome-grok-bots)        | Share links shown with screenshots and recordings of real runs from X, by task; site at [grokbotsmarket.com](https://grokbotsmarket.com). |
 
 Official documentation: [docs.x.ai/grok-bot](https://docs.x.ai/grok-bot/overview).
